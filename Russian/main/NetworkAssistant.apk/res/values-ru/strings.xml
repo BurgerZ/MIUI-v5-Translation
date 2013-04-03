@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="about">О программе</string>
 	<string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>
@@ -95,10 +94,10 @@
 	<string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети, когда приложение работает в фоновом режиме</string>
 	<string name="pref_connect_settings_exceed_limit">Отключить передачу данных</string>
 	<string name="pref_connect_settings_exceed_limit_hint">Предупреждать меня при превышении ежемесячного лимита трафика</string>
-	<string name="pref_connect_settings_notify_in_statusbar">Показывать в статусной строке</string>
+	<string name="pref_connect_settings_notify_in_statusbar">Показывать в статусбаре</string>
 	<string name="pref_connect_settings_title">Настройки монитора</string>
 	<string name="pref_network_speed_internal_title">Интервал опроса</string>
-	<string name="pref_network_speed_settings">Показывать скорость сети в панели уведомлений</string>
+	<string name="pref_network_speed_settings">Скорость сети в панели уведомлений</string>
 	<string name="pref_network_status_bar">Панель уведомлений</string>
 	<string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек</string>
 	<string name="pref_traffic_adjust_title">Регулировка трафика</string>
