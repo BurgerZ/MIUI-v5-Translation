@@ -1069,7 +1069,7 @@
 	<string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, Вы можете пересканировать сети или добавить сеть вручную</string>
 	<string name="no_running_services">Ничего не запущено</string>
 	<string name="no_services">Неактивен</string>
-	<string name="normal_date_format">По умолчанию (%s)</string>
+	<string name="normal_date_format">%s (по умолчанию)</string>
 	<string name="notification_pulse_title">Индикация</string>
 	<string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
 	<string name="notification_sound_title">Уведомление</string>
