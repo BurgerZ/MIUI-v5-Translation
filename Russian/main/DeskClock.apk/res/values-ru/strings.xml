@@ -89,7 +89,7 @@
 	<string name="hour_unit">ч</string>
 	<string name="hours">%s ч.</string>
 	<string name="keep_screen_on">Держать экран включенным</string>
-	<string name="label">Описание</string>
+	<string name="label">Название</string>
 	<string name="lap">Круг</string>
 	<string name="lap_num">Круг</string>
 	<string name="legal_workday">Рабочие дни</string>
