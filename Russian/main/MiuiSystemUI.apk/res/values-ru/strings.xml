@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="accessibility_airplane_mode">Режим полета</string>
 	<string name="accessibility_back">Назад</string>
@@ -174,7 +173,7 @@
 	<string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния при заблокированном экране (если отсуствует пароль для разблокировки экрана)</string>
 	<string name="settings_expanded_view">Настройки раскрытия</string>
 	<string name="settings_notification_icon">Уведомления в строке состояния</string>
-	<string name="settings_screenshot_notification_disabled">Не уведомлять при скриншоте</string>
+	<string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
 	<string name="settings_show_flow_info">Отображать трафик</string>
 	<string name="settings_show_network_speed">Отображать скорость сети</string>
 	<string name="settings_toggle">Переключатели</string>

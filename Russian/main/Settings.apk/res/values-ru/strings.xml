@@ -626,7 +626,7 @@
 	<string name="disabled">Отключено</string>
 	<string name="disconnect">отключить</string>
 	<string name="display_font_size_label">Размер шрифта:</string>
-	<string name="display_label">Параметры экрана</string>
+	<string name="display_label">Экран</string>
 	<string name="display_order_text">Упорядочить по:</string>
 	<string name="display_preview_label">Предварительный просмотр:</string>
 	<string name="display_settings">Параметры экрана</string>
@@ -1599,7 +1599,7 @@
 	<string name="sound_category_sound_title">Общие</string>
 	<string name="sound_category_system_title">Система</string>
 	<string name="sound_effects_enable_title">Звук нажатия на экран</string>
-	<string name="sound_settings">Параметры звука</string>
+	<string name="sound_settings">Звук</string>
 	<string name="spellchecker_language">Язык</string>
 	<string name="spellchecker_quick_settings">Настройки</string>
 	<string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
