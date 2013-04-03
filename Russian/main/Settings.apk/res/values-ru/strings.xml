@@ -1943,7 +1943,7 @@
 	<string name="wait_for_debugger">Ожидание отладчика</string>
 	<string name="wait_for_debugger_summary">Приложение ожидает соединения с отладчиком перед запуском</string>
 	<string name="wallpaper_settings_fragment_title">Установка обоев</string>
-	<string name="wallpaper_settings_title">Настройки обоев</string>
+	<string name="wallpaper_settings_title">Обои</string>
 	<string name="wfd_available_devices">Доступные устройства</string>
 	<string name="wfd_disconnect_diag_msg">Если вы выключите Дисплей Wi-Fi, ваше подключение с %1$s завершится</string>
 	<string name="wfd_disconnect_diag_title">Завершить подключение?</string>
