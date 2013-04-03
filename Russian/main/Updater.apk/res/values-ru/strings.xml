@@ -20,7 +20,7 @@
 	<string name="applying_rom_message">Применение обновления</string>
 	<string name="applying_update">Применение обновления...%s</string>
 	<string name="best_update">2. Лучшее обновление</string>
-	<string name="boot_recovery">В режим восстановления</string>
+	<string name="boot_recovery">Перезагрузка в Recovery</string>
 	<string name="cancel_download_buton_text">Отмена</string>
 	<string name="check_update">Проверить обновление</string>
 	<string name="check_update_policy">Параметры обновления</string>
@@ -50,7 +50,7 @@
 	<string name="install_email">Пожалуйста, установите программное обеспечение для электронной почты</string>
 	<string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>
 	<string name="install_qq">Установить Tencent weibo</string>
-	<string name="install_rom_from_sd">Выбрать файл прошивки</string>
+	<string name="install_rom_from_sd">Выбрать прошивку с SD-карты</string>
 	<string name="install_sina">Установить Sina weibo</string>
 	<string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>
 	<string name="internal_build">внутренняя сборка</string>
