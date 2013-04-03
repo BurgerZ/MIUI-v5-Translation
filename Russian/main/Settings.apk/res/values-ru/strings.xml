@@ -863,9 +863,9 @@
 	<string name="keyboard_layout_picker_title">Раскладка клавиатуры</string>
 	<string name="keyboard_settings_category">Клавиатура и способы ввода</string>
 	<string name="keyboard_settings_title">Клавиатура Android</string>
-	<string name="language_keyboard_settings_title">Язык телефона и ввода</string>
+	<string name="language_keyboard_settings_title">Языки и ввод</string>
 	<string name="language_picker_title">Язык</string>
-	<string name="language_settings">Язык телефона и ввода</string>
+	<string name="language_settings">Языки и ввод</string>
 	<string name="language_settings_category">Языковые настройки</string>
 	<string name="large_font">Большой</string>
 	<string name="last_synced">Последняя синхронизация %1$s</string>
