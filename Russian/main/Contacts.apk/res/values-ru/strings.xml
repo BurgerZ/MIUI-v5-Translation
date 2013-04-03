@@ -417,6 +417,7 @@
 	<string name="listTotalAllContactsZeroGroup">Нет контактов в %s</string>
 	<string name="listTotalAllContactsZeroStarred">Нет контактов</string>
 	<string name="listTotalPhoneContactsZero">Нет контактов с номерами телефонов</string>
+	<string name="listAllContactsInAccount">Контакты в %s</string> 
 	<string name="list_filter_all_accounts">Все контакты</string>
 	<string name="list_filter_all_starred">Помеченные</string>
 	<string name="list_filter_custom">Пользовательские</string>
