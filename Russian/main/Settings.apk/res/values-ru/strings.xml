@@ -629,7 +629,7 @@
 	<string name="display_label">Экран</string>
 	<string name="display_order_text">Упорядочить по:</string>
 	<string name="display_preview_label">Предварительный просмотр:</string>
-	<string name="display_settings">Параметры экрана</string>
+	<string name="display_settings">Экран</string>
 	<string name="display_settings_title">Экран</string>
 	<string name="dlg_cancel">Отмена</string>
 	<string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
