@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="activity_not_found">Приложение не найдено</string>
 	<string name="application_name">Рабочий стол</string>
@@ -63,7 +62,7 @@
 	<string name="gadget_weather_loading">Нет данных о погоде</string>
 	<string name="gadget_weather_low_temp">Мин.</string>
 	<string name="gadget_weather_theme_type">Тип виджета</string>
-	<string name="gadget_weather_time_format">EEE, d.MM</string>
+	<string name="gadget_weather_time_format">EEE, d MMM</string>
 	<string name="gadget_weather_title_14">Погода 1X4</string>
 	<string name="gadget_weather_title_24">Погода 2X4</string>
 	<string name="global_search_hint">Нажмите для поиска</string>
@@ -79,12 +78,12 @@
 	<string name="menu_edit">Режим редактирования</string>
 	<string name="menu_exit_scene">Выход из MiSpace</string>
 	<string name="menu_item_add_item">Добавить на основной экран</string>
-	<string name="menu_launcher_setting">Параметры рабочего стола</string>
+	<string name="menu_launcher_setting">Рабочий стол</string>
 	<string name="menu_reset_scene">Сбросить на стандарт</string>
 	<string name="menu_search">Поиск</string>
 	<string name="menu_settings">Настройки</string>
 	<string name="menu_sort">Сортировка</string>
-	<string name="menu_wallpaper">Настройки обоев</string>
+	<string name="menu_wallpaper">Обои</string>
 	<string name="menu_workspace_preview">Просмотр</string>
 	<string name="out_of_space">На этом экране нет свободного места</string>
 	<string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>
