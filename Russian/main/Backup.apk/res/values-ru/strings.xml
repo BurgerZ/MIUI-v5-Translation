@@ -182,4 +182,8 @@
 	<string name="unit_piece">" записей"</string>
 	<string name="unknown_hint">Неизвестно</string>
 	<string name="wifi_title">Настройки Wi-Fi</string>
+	<string name="task_running_backup_hint">Service is running in the background, please try again to backup!</string>
+	<string name="task_running_restore_hint">Service is running in the background, please try again to restore!</string>
+	<string name="task_running_backup_dialog">Background backup is in progress, press OK to view.</string>
+	<string name="task_running_restore_dialog">Background Restore is in progress, press OK to view.</string>
 </resources>
