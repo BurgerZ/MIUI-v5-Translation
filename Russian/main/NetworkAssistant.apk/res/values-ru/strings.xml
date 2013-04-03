@@ -130,8 +130,8 @@
 	<string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
 	<string name="traffic_suffix">Трафик</string>
 	<string name="traffic_suffix_with_uint">Трафик (МБ)</string>
-	<string name="traffic_total">всего</string>
-	<string name="traffic_used_status">использовано</string>
+	<string name="traffic_total">"%s Всего"</string>
+	<string name="traffic_used_status">"%s Использовано"</string>
 	<string name="unknown">Нет данных</string>
 	<string name="unknown_free_traffic_hint">Если вы не знаете разрешенного предела вашего трафика, пожалуйста, позвоните вашему оператору для выяснения подробностей</string>
 	<string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
