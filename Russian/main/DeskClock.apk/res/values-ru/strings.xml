@@ -188,7 +188,7 @@
 	<string name="timezone_search_hint">Поиск города</string>
 	<string name="update_legal_workday_toast">Обновите Китайские праздники в настройках</string>
 	<string name="volume_button_dialog_title">Клавиши громкости</string>
-	<string name="volume_button_setting_summary">Настройка функции клавиш громкости во время срабатывания будильника</string>
+	<string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
 	<string name="volume_button_setting_title">Клавиши громкости</string>
 	<string name="wait_when_operating_data_message">Обработка...</string>
 	<string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
