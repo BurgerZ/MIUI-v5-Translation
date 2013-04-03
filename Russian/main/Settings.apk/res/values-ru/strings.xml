@@ -620,7 +620,7 @@
 	<string name="dialog_title_font_size">Размер шрифта</string>
 	<string name="dirac_control">Управление Dirac</string>
 	<string name="disableNetwork">Отключить Сеть</string>
-	<string name="disable_overlays">Отключить HW оверлеи</string>
+	<string name="disable_overlays">Отключить наложения</string>
 	<string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
 	<string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
 	<string name="disable_text">Отключить</string>
