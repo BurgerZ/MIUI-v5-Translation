@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="BaMmi">Запрет вызовов</string>
   <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
   <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
@@ -526,7 +524,7 @@
   <string name="month">%-B</string>
   <string formatted="false" name="month_day">%-e %B</string>
   <string formatted="false" name="month_day_year">%-e %B %Y г.</string>
-  <string name="month_long_april">Апрель</string>
+  <string name="month_long_april">Апреля</string>
   <string name="month_long_august">Августа</string>
   <string name="month_long_december">Декабря</string>
   <string name="month_long_february">Февраля</string>
