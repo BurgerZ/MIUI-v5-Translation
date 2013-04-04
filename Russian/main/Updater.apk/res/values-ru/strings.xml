@@ -91,7 +91,7 @@
 	<string name="reboot_now">Сейчас</string>
 	<string name="reboot_to_new_system">Перезагрузка в новую систему</string>
 	<string name="recommend">Рекомендую</string>
-	<string name="recommend_comment_hint">Причина (необязательно)</string>
+	<string name="recommend_comment_hint">Причина</string>
 	<string name="recommend_vote_title">Опрос MIUI Beta Team</string>
 	<string name="refuse_recommend_reason">Пожалуйста, введите причину</string>
 	<string name="sdcard_has_no_space_dialog_body">Нет места на SD-карте, пожалуйста очистите</string>

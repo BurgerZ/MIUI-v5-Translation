@@ -32,7 +32,7 @@
 	<string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
 	<string name="accessibility_service_disable_warning_title">Отключить %1$s?</string>
 	<string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
-	<string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
+	<string name="accessibility_service_no_apps_title">Установить TalkBack?</string>
 	<string name="accessibility_service_security_warning_summary">Служба %1$s может сохранять любой вводимый текст, кроме паролей. В частности, сохраняются личные сведения, например номера кредитных карт. Кроме того, могут собираться данные об использовании телефона</string>
 	<string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
 	<string name="accessibility_service_state_off">Отключено</string>
@@ -708,7 +708,7 @@
 	<string name="enableNetwork">Включить Сеть</string>
 	<string name="enable_adb">Отладка по USB</string>
 	<string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
-	<string name="enable_assist_key_long_press">Вызов голосового помощника</string>
+	<string name="enable_assist_key_long_press">Голосовой помощник</string>
 	<string name="enable_back_long_press">Закрывать при удержании</string>
 	<string name="enable_compatibility">Масштабировать приложения</string>
 	<string name="enable_drive_mode">Включить режим управления</string>
@@ -1011,7 +1011,7 @@
 	<string name="memory_size">Всего места</string>
 	<string name="menu_cancel">Отменить</string>
 	<string name="menu_delete">Удалить</string>
-	<string name="menu_key">Клавиша Меню</string>
+	<string name="menu_key">Клавиша \"Меню\"</string>
 	<string name="menu_new">Новая точка доступа</string>
 	<string name="menu_restore">Настройки по умолчанию</string>
 	<string name="menu_save">Сохранить</string>
