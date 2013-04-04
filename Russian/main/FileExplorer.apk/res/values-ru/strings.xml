@@ -152,7 +152,7 @@
 	<string name="operation_deleting">Удаление...</string>
 	<string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
 	<string name="operation_download_link">Создание ссылки для скачивания</string>
-	<string name="operation_favorite">Добавить в Избранное</string>
+	<string name="operation_favorite">Добавить в избранное</string>
 	<string name="operation_hide_sys">Скрыть системные</string>
 	<string name="operation_info">Сведения</string>
 	<string name="operation_move">Переместить</string>
@@ -169,7 +169,7 @@
 	<string name="operation_resume_all">Начать все</string>
 	<string name="operation_send">Отправить</string>
 	<string name="operation_show_sys">Показать системные</string>
-	<string name="operation_unfavorite">Удалить из Избранного</string>
+	<string name="operation_unfavorite">Удалить из избранного</string>
 	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="paused">Пауза</string>
 	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
