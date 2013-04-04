@@ -41,7 +41,7 @@
 	<string name="open_file_explorer">Открыть Файлы</string>
 	<string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать его?</string>
 	<string name="preference_led_indicator">Индикатор записи</string>
-	<string name="preference_led_indicator_prompt">Индикация светодиодом при записи и заблокированном экране</string>
+	<string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме</string>
 	<string name="record_list">Список записей</string>
 	<string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>
 	<string name="record_name_hour">.</string>
@@ -57,7 +57,7 @@
 	<string name="second">%d секунд</string>
 	<string name="send_to">Отправить в</string>
 	<string name="sound_recorder_settings">Настройки</string>
-	<string name="status_bar_anti_disturb">Звук был отключен, включите звук для продолжения.</string>
+	<string name="status_bar_anti_disturb">Сторонние звуки отключены</string>
 	<string name="status_bar_back">Нажмите, чтобы вернуться к записи</string>
 	<string name="status_bar_recording">Запись...</string>
 	<string name="status_bar_recording_pause">"Запись остановлена. "</string>
