@@ -106,8 +106,8 @@
 	<string name="no_network">Нет сетевого соединения Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
 	<string name="note_title">Заметки</string>
 	<string name="nothing_searched">Ничего не найдено</string>
-	<string name="progress_backup_hint">Создание резервной копии...</string>
-	<string name="progress_restore_hint">Восстановление данных...</string>
+	<string name="progress_backup_hint">Резервное копирование</string>
+	<string name="progress_restore_hint">Восстановление данных</string>
 	<string name="prompt_reading">Чтение...</string>
 	<string name="prompt_sending">Отправка...</string>
 	<string name="prompt_writing">Запись...</string>
