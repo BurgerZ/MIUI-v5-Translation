@@ -971,7 +971,7 @@
 	<string name="manually_add_network">Добавить сеть</string>
 	<string name="master_clear_accounts">\n\nВ настоящее время вы выполнили вход в следующие аккаунты:\n</string>
 	<string name="master_clear_all">Вы уверены, что хотите удалить все данные до заводских настроек? \nОперация не может быть отменена.</string>
-	<string name="master_clear_button_text">Сбросить настройки телефона</string>
+	<string name="master_clear_button_text">Сброс настроек</string>
 	<string name="master_clear_confirm_title">Выполнить сброс?</string>
 	<string name="master_clear_desc">Будут удалены все данные из внутренней памяти устройства, в том числе:\n\nВаш аккаунт Google\nНастройки/данные системы и приложений\nЗагруженные приложения</string>
 	<string name="master_clear_desc_also_erases_external">Музыка\nФото\nДругие данные</string>
