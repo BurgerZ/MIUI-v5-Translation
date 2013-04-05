@@ -30,9 +30,9 @@
 	<string name="checking_account">Проверка аккаунта...</string>
 	<string name="completed">Завершено</string>
 	<string name="confirm">Подтвердить</string>
-	<string name="data_keep_in_phone">Оставить на Мое устройство</string>
+	<string name="data_keep_in_phone">Оставить в телефоне</string>
 	<string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации сообщений, контактов и других данных</string>
-	<string name="data_wipe_from_phone">Удалить из Мое устройство</string>
+	<string name="data_wipe_from_phone">Удалить из телефона</string>
 	<string name="disable_find_device_error">%1$s, ошибка выключения поиска</string>
 	<string name="email_already_be_used">Этот адрес почты уже используется</string>
 	<string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
