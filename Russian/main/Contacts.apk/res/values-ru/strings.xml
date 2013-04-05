@@ -163,7 +163,7 @@
 	<string name="contact_read_only">Здесь доступно только для чтения</string>
 	<string name="contact_status_update_attribution">с помощью %1$s</string>
 	<string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
-	<string name="contact_unfavorite_toast">Контакт удален из избранного</string>
+	<string name="contact_unfavorite_toast">Контакт удален из избранных</string>
 	<string name="contactsAllLabel">Все</string>
 	<string name="contactsFavoritesLabel">Избранные</string>
 	<string name="contactsGroupsLabel">Группы</string>
@@ -470,7 +470,7 @@
 	<string name="menu_joinAggregate">Объединить</string>
 	<string name="menu_newContact">Новый контакт</string>
 	<string name="menu_new_contact_action_bar">Добавить</string>
-	<string name="menu_new_favorite_action_bar">Добавить</string>
+	<string name="menu_new_favorite_action_bar">Добавить в избранные</string>
 	<string name="menu_new_group_action_bar">Новая группа</string>
 	<string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
 	<string name="menu_redirect_calls_to_vm">Только голосовая почта</string>
@@ -552,7 +552,7 @@
 	<string name="option_delete_group">Удалить группу</string>
 	<string name="option_edit_contact">Изменить</string>
 	<string name="option_not_in_group">Удалить контакт из группы</string>
-	<string name="option_not_star">Убрать из избранного</string>
+	<string name="option_not_star">Убрать из избранных</string>
 	<string name="option_rename_group">Переименовать</string>
 	<string name="option_send_to_desktop">Отправить на рабочий стол</string>
 	<string name="option_send_to_others">Отправить...</string>
@@ -801,7 +801,7 @@
 	<string name="splitConfirmation">Вы хотите разделить контакт?</string>
 	<string name="splitConfirmation_title">Разделение контакта</string>
 	<string name="starredList">Помеченные</string>
-	<string name="starred_contacts">Избранное</string>
+	<string name="starred_contacts">Избранные</string>
 	<string name="status_available">На месте</string>
 	<string name="status_away">Отсутствует</string>
 	<string name="status_busy">Не беспокоить</string>
