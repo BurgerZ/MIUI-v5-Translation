@@ -32,7 +32,7 @@
 	<string name="max_length_reached">Достигнута максимальная длина</string>
 	<string name="menu_settings">Настройки</string>
 	<string name="menu_view_record_list">Список записей</string>
-	<string name="minute">%d минут</string>
+	<string name="minute">%d мин.</string>
 	<string name="no_file">Нет записей</string>
 	<string name="notification_playback">Воспроизведение...</string>
 	<string name="notification_recording">Запись...</string>
@@ -55,12 +55,12 @@
 	<string name="rename_illegal">Неверное имя записи. Пожалуйста, переименуйте:</string>
 	<string name="sd_card_not_available">SD-карта не доступна</string>
 	<string name="second">%d секунд</string>
-	<string name="send_to">Отправить в</string>
+	<string name="send_to">Отправить</string>
 	<string name="sound_recorder_settings">Настройки</string>
 	<string name="status_bar_anti_disturb">Сторонние звуки отключены</string>
 	<string name="status_bar_back">Нажмите, чтобы вернуться к записи</string>
 	<string name="status_bar_recording">Запись...</string>
-	<string name="status_bar_recording_pause">"Запись остановлена. "</string>
+	<string name="status_bar_recording_pause">Пауза</string>
 	<string name="storage_is_full">Память заполнена</string>
 	<string name="unknown_caller">Неизвестный вызов</string>
 </resources>

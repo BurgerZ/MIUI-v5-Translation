@@ -125,6 +125,8 @@
 	<string name="applications_settings">Приложения</string>
 	<string name="applications_settings_header">Настройки приложения</string>
 	<string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
+	<string name="floating_window_switch_label">Всплывающие окна</string>
+	<string name="app_floating_window_dlg">Разрешить \"%1$s\" показывать всплывающие окна?</string>
 	<string name="ask_compatibility">Спрашивать при запуске</string>
 	<string name="assisted_gps">Использовать A-GPS</string>
 	<string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
