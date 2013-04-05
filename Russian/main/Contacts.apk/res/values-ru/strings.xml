@@ -80,7 +80,7 @@
 	<string name="call_work_pager">Рабочий пейджер</string>
 	<string name="calllog_menu_blacklist">Добавить в черный список</string>
 	<string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
-	<string name="calllog_menu_send_sms">Послать SMS</string>
+	<string name="calllog_menu_send_sms">Отправить SMS</string>
 	<string name="callrecordview_item_newcontact">Новый контакт</string>
 	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
 	<string name="callrecordview_item_op_time_missed">Не подключен</string>
@@ -164,7 +164,7 @@
 	<string name="contact_status_update_attribution">с помощью %1$s</string>
 	<string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
 	<string name="contact_unfavorite_toast">Контакт удален из избранных</string>
-	<string name="contactsAllLabel">Все</string>
+	<string name="contactsAllLabel">Контакты</string>
 	<string name="contactsFavoritesLabel">Избранные</string>
 	<string name="contactsGroupsLabel">Группы</string>
 	<string name="contactsJoinedMessage">Контакты объединены</string>
@@ -260,7 +260,7 @@
 	<string name="device_version_header_no_bluetooth">Импорт контактов с SIM-карты</string>
 	<string name="device_version_title">Выберите версию мобильного телефона</string>
 	<string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>
-	<string name="dialerIconLabel">Недавние</string>
+	<string name="dialerIconLabel">Вызовы</string>
 	<string name="dialerKeyboardHintText">Для набора используйте клавиатуру</string>
 	<string name="dialer_addAnotherCall">Добавить вызов</string>
 	<string name="dialer_empty_text_loading">Загрузка...</string>
