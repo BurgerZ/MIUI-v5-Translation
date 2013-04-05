@@ -299,12 +299,12 @@
 	<string name="edit_contact">Изменить контакт</string>
 	<string name="edit_contact_card_title">Редактировать контакт</string>
 	<string name="email">Эл. почта</string>
-	<string name="emailLabelsGroup">Адрес электронной почты</string>
-	<string name="email_custom">Эл. почта (%s)</string>
-	<string name="email_home">Личная эл. почта</string>
-	<string name="email_mobile">Моб. эл. почта</string>
+	<string name="emailLabelsGroup">Почта</string>
+	<string name="email_custom">Почта (%s)</string>
+	<string name="email_home">Личная почта</string>
+	<string name="email_mobile">Мобильная почта</string>
 	<string name="email_other">Написать письмо</string>
-	<string name="email_work">Рабочая эл.почта</string>
+	<string name="email_work">Рабочая почта</string>
 	<string name="emptyGroup">Нет людей в этой группе</string>
 	<string name="empty_divider_title">Вы можете</string>
 	<string name="enter_contact_name">Имя контакта</string>
