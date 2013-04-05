@@ -93,7 +93,7 @@
 	<string name="callrecordview_menu_delete_accepted">Очистить журнал входящих вызовов</string>
 	<string name="callrecordview_menu_delete_all">Очистить журнал</string>
 	<string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
-	<string name="callrecordview_menu_delete_confirm">Вы действительно хотите очистить журнал вызовов?</string>
+	<string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
 	<string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
 	<string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
 	<string name="callrecordview_menu_delete_stranger">Открыть непринятые вызовы</string>
@@ -190,7 +190,7 @@
 	<string name="delete_contact_calllog_title">Запись(и) журнала вызовов была(и) удалена(ы)</string>
 	<string name="delete_duplicate">Объединить</string>
 	<string name="delete_duplicate_message">Объединение контактов...</string>
-	<string name="delete_group_dialog_message">Действительно удалить группу \"%1$s\"? (контакты не будут удалены)</string>
+	<string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты не будут удалены)</string>
 	<string name="delete_group_dialog_title">Удаление группы</string>
 	<string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
 	<string name="description_add_contact">Добавить контакт</string>
@@ -649,7 +649,7 @@
 	<string name="profile_display_name">Настроить профиль</string>
 	<string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
 	<string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
-	<string name="quit_dialog_confirm_title">Вы действительно хотите выйти из объединения контактов?</string>
+	<string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
 	<string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
 	<string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
 	<string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
@@ -681,8 +681,8 @@
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
 	<string name="resource_default">Стандарт</string>
 	<string name="resource_default_name">Ресурс</string>
-	<string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
-	<string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
+	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
+	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
 	<string name="resource_detail">Подробно</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>
