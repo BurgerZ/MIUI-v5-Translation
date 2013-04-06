@@ -81,7 +81,7 @@
 	<string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных.</string>
 	<string name="exchange_account">Сменить аккаунт</string>
 	<string name="fail">Ошибка</string>
-	<string name="findlost_contact">Найти удаленый контакт(ы)</string>
+	<string name="findlost_contact">Найти удаленые контакты</string>
 	<string name="findlost_contact_online">Онлайн восстановление контактов</string>
 	<string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
 	<string name="guarded_mode_dialog_title">Режим защиты</string>
