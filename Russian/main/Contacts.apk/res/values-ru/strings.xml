@@ -80,7 +80,7 @@
 	<string name="call_work_pager">Рабочий пейджер</string>
 	<string name="calllog_menu_blacklist">Добавить в черный список</string>
 	<string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
-	<string name="calllog_menu_send_sms">Отправить SMS</string>
+	<string name="calllog_menu_send_sms">Отправить сообщение</string>
 	<string name="callrecordview_item_newcontact">Новый контакт</string>
 	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
 	<string name="callrecordview_item_op_time_missed">Не подключен</string>
@@ -478,7 +478,7 @@
 	<string name="menu_search">Поиск</string>
 	<string name="menu_select_all">Выбрать все</string>
 	<string name="menu_select_none">Отменить все</string>
-	<string name="menu_sendSMS">Отправить SMS/MMS</string>
+	<string name="menu_sendSMS">Отправить сообщение</string>
 	<string name="menu_sendTextMessage">Отправить сообщение</string>
 	<string name="menu_set_ring_tone">Мелодия контакта</string>
 	<string name="menu_settings">Настройки</string>

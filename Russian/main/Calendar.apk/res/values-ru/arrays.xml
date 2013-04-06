@@ -7,7 +7,7 @@
         <item>Будильник</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>сейчас</item>
+        <item>по факту</item>
         <item>за 1 мин</item>
         <item>за 5 мин</item>
         <item>за 10 мин</item>
@@ -26,7 +26,7 @@
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>не напоминать</item>
-        <item>сейчас</item>
+        <item>по факту</item>
         <item>за 1 мин</item>
         <item>за 5 мин</item>
         <item>за 10 мин</item>
@@ -179,7 +179,7 @@
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
-        <item>Только в режиме \"без звука\"</item>
+        <item>В режиме \"Без звука\"</item>
         <item>Никогда</item>
     </string-array>
     <string-array name="quick_response_defaults">

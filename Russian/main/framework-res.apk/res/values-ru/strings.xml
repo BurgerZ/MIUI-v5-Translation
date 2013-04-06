@@ -280,7 +280,7 @@
   <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_off_status">Включить</string>
   <string name="global_action_silent_mode_on_status">Выключить</string>
-  <string name="global_action_toggle_silent_mode">Беззвучный режим</string>
+  <string name="global_action_toggle_silent_mode">Режим \"Без звука\"</string>
   <string name="global_actions">Параметры телефона</string>
   <string name="global_actions_airplane_mode_off_status">Включить</string>
   <string name="global_actions_airplane_mode_on_status">Выключить</string>
@@ -1082,7 +1082,7 @@
   <string name="shutdown_confirm">Телефон будет выключен</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
   <string name="shutdown_progress">Выключение...</string>
-  <string name="silent_mode">Беззвучный режим</string>
+  <string name="silent_mode">Режим \"Без звука\"</string>
   <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство</string>
   <string name="sim_added_title">SIM-карта добавлена</string>
   <string name="sim_done_button">Готово</string>
@@ -1182,7 +1182,7 @@
   <string name="volume_icon_description_ringer">Громкость рингтона</string>
   <string name="volume_music">Громкость мультимедиа</string>
   <string name="volume_music_hint_playing_through_bluetooth">Воспроизведение по каналу Bluetooth</string>
-  <string name="volume_music_hint_silent_ringtone_selected">Выбран беззвучный режим</string>
+  <string name="volume_music_hint_silent_ringtone_selected">Выбран режим \"Без звука\"</string>
   <string name="volume_notification">Громкость уведомления</string>
   <string name="volume_ringtone">Громкость звонка</string>
   <string name="volume_unknown">Громкость</string>

@@ -146,7 +146,7 @@
 	<string name="HIPS_Perm_SendSMS_SMSC">SMS-центр:</string>
 	<string name="HIPS_Perm_SendSMS_SMSC_Default">SMS-центр по умолчанию</string>
 	<string name="HIPS_Perm_SendSMS_Text">Отправить SMS на %1$s</string>
-	<string name="HIPS_Perm_SilenceRinger">Беззвучный звонок</string>
+	<string name="HIPS_Perm_SilenceRinger">Звонок без звука</string>
 	<string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Desc">Доступ в Интернет по Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложения имеющие доступ в Интернет</string>

@@ -34,7 +34,7 @@
 	<string name="accessibility_recent">Недавние приложения</string>
 	<string name="accessibility_recents_item_dismissed">Приложение \"%s\" удалено из списка</string>
 	<string name="accessibility_remove_notification">Удалить уведомление</string>
-	<string name="accessibility_ringer_silent">Беззвучный режим</string>
+	<string name="accessibility_ringer_silent">Режим \"Без звука\"</string>
 	<string name="accessibility_ringer_vibrate">Вибровызов</string>
 	<string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически.</string>
 	<string name="accessibility_settings_button">Настройки</string>

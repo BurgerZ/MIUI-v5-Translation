@@ -62,7 +62,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Всегда</item>
-        <item>Беззвучный режим</item>
+        <item>Режим \"Без звука\"</item>
         <item>Никогда</item>
     </string-array>
     <string-array name="entries_date_type">
