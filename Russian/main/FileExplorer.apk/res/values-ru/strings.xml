@@ -182,7 +182,7 @@
 	<string name="sd_full">SD-карта полна</string>
 	<string name="search_hint">Введите часть или все имя файла</string>
 	<string name="search_title">Поиск документов</string>
-	<string name="send_to_midrive">Отправить в KuaiPan</string>
+	<string name="send_to_midrive">KuaiPan</string>
 	<string name="send_to_midrive_failed_message">Не удалось отправить в KuaiPan. Неверный формат файла.</string>
 	<string name="server_control_advanced_settings">Расширенные настройки</string>
 	<string name="server_control_charset">Кодирование передачи</string>

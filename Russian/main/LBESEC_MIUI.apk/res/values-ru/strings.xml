@@ -23,9 +23,9 @@
 	<string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
 	<string name="Dashboard_Perm_SU_Disabled">Права суперпользователя отключены</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable">Права суперпользователя недоступны</string>
-	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав администратора может привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. \n  \n  Пожалуйста, переключитесь на версию для разработчиков"</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования. \n  \n  Пожалуйста, переключитесь на версию для разработчиков"</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
-	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/development.html/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
 	<string name="Dashboard_Su_Enable_Content">Включение позволит приложениям запрашивать доступ от суперпользователя. Примечание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены, что хотите сделать это?</string>
 	<string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
