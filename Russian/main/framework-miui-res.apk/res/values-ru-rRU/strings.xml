@@ -314,7 +314,7 @@
 	<string name="lockscreen_forgot_pattern_button_text">Забыть шаблон?</string>
 	<string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
 	<string name="lockscreen_pattern_wrong">Попробовать снова</string>
-	<string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d секунд</string>
+	<string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
 	<string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
 	<string name="lockscreen_transport_play_description">Кнопка Играть</string>
 	<string name="lockscreen_transport_prev_description">Previous track button</string>

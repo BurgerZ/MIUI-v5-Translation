@@ -54,7 +54,7 @@
 	<string name="rename_duplicate">Дубликат имени записи. Пожалуйста, переименуйте:</string>
 	<string name="rename_illegal">Неверное имя записи. Пожалуйста, переименуйте:</string>
 	<string name="sd_card_not_available">SD-карта не доступна</string>
-	<string name="second">%d секунд</string>
+	<string name="second">%d сек.</string>
 	<string name="send_to">Отправить</string>
 	<string name="sound_recorder_settings">Настройки</string>
 	<string name="status_bar_anti_disturb">Сторонние звуки отключены</string>

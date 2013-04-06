@@ -82,10 +82,10 @@
 	<string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
 	<string name="calllog_menu_send_sms">Отправить сообщение</string>
 	<string name="callrecordview_item_newcontact">Новый контакт</string>
-	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
+	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин. %d сек.</string>
 	<string name="callrecordview_item_op_time_missed">Не подключен</string>
-	<string name="callrecordview_item_op_time_only_minutes">%d минут</string>
-	<string name="callrecordview_item_op_time_only_seconds">%d секунд</string>
+	<string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
+	<string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
 	<string name="callrecordview_item_op_time_rejected">Отклонен</string>
 	<string name="callrecordview_item_op_time_short_incoming">" | "</string>
 	<string name="callrecordview_item_op_time_short_outgoing">" | "</string>
@@ -614,8 +614,8 @@
 	<string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
 	<string name="preference_dial_pad_touch_tone_human">Голос человека</string>
 	<string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
-	<string name="preference_dial_pad_touch_tone_switch">Тон набора</string>
-	<string name="preference_dial_pad_touch_tone_title">Тон набора номера</string>
+	<string name="preference_dial_pad_touch_tone_switch">Звук клавиш</string>
+	<string name="preference_dial_pad_touch_tone_title">Номеронабиратель</string>
 	<string name="preference_display">Настройки отображения</string>
 	<string name="preference_displayOptions">Варианты отображения</string>
 	<string name="preference_export">Экспорт контактов</string>
@@ -640,7 +640,7 @@
 	<string name="preference_telocation_summary_teloc_off">Скрывать местоположение</string>
 	<string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
 	<string name="preference_telocation_title">Местоположение</string>
-	<string name="preference_tone_title">Тон</string>
+	<string name="preference_tone_title">Выбрать звук</string>
 	<string name="prepare_import">подготовка импорта</string>
 	<string name="preview_contact_card_title">Импортировать</string>
 	<string name="previous">назад</string>

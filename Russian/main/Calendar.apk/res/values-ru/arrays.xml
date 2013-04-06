@@ -8,38 +8,38 @@
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>по факту</item>
-        <item>за 1 мин</item>
-        <item>за 5 мин</item>
-        <item>за 10 мин</item>
-        <item>за 15 мин</item>
-        <item>за 20 мин</item>
-        <item>за 25 мин</item>
-        <item>за 30 мин</item>
-        <item>за 45 мин</item>
-        <item>за 1 ч</item>
-        <item>за 2 ч</item>
-        <item>за 3 ч</item>
-        <item>за 12 ч</item>
-        <item>за 24 ч</item>
+        <item>за 1 мин.</item>
+        <item>за 5 мин.</item>
+        <item>за 10 мин.</item>
+        <item>за 15 мин.</item>
+        <item>за 20 мин.</item>
+        <item>за 25 мин.</item>
+        <item>за 30 мин.</item>
+        <item>за 45 мин.</item>
+        <item>за 1 ч.</item>
+        <item>за 2 ч.</item>
+        <item>за 3 ч.</item>
+        <item>за 12 ч.</item>
+        <item>за 24 ч.</item>
         <item>за 2 дня</item>
         <item>за 1 неделю</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>не напоминать</item>
         <item>по факту</item>
-        <item>за 1 мин</item>
-        <item>за 5 мин</item>
-        <item>за 10 мин</item>
-        <item>за 15 мин</item>
-        <item>за 20 мин</item>
-        <item>за 25 мин</item>
-        <item>за 30 мин</item>
-        <item>за 45 мин</item>
-        <item>за 1 ч</item>
-        <item>за 2 ч</item>
-        <item>за 3 ч</item>
-        <item>за 12 ч</item>
-        <item>за 24 ч</item>
+        <item>за 1 мин.</item>
+        <item>за 5 мин.</item>
+        <item>за 10 мин.</item>
+        <item>за 15 мин.</item>
+        <item>за 20 мин.</item>
+        <item>за 25 мин.</item>
+        <item>за 30 мин.</item>
+        <item>за 45 мин.</item>
+        <item>за 1 ч.</item>
+        <item>за 2 ч.</item>
+        <item>за 3 ч.</item>
+        <item>за 12 ч.</item>
+        <item>за 24 ч.</item>
         <item>за 2 дня</item>
         <item>за 1 неделю</item>
     </string-array>
@@ -183,9 +183,9 @@
         <item>Никогда</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Опоздаю на несколько минут</item>
-        <item>Буду там через 10 минут</item>
-        <item>Начинайте без меня</item>
-        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание"</item>
+        <item>Опоздаю на несколько минут.</item>
+        <item>Буду там через 10 минут.</item>
+        <item>Начинайте без меня.</item>
+        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
     </string-array>
 </resources>
