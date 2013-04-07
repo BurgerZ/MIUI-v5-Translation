@@ -472,8 +472,8 @@
 	<string name="menu_new_contact_action_bar">Добавить</string>
 	<string name="menu_new_favorite_action_bar">Добавить в избранные</string>
 	<string name="menu_new_group_action_bar">Новая группа</string>
-	<string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
-	<string name="menu_redirect_calls_to_vm">Только голосовая почта</string>
+	<string name="menu_not_redirect_calls_to_vm">Включить голосовую почту</string>
+	<string name="menu_redirect_calls_to_vm">Отключить голосовую почту</string>
 	<string name="menu_removeStar">Удал. из избранных</string>
 	<string name="menu_search">Поиск</string>
 	<string name="menu_select_all">Выбрать все</string>
