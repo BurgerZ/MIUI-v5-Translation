@@ -21,7 +21,7 @@
     <string name="fmradio_found_format">%sMHz...</string>
     <string name="fmradio_found_station">Найдено %d станций</string>
     <string name="fmradio_in_calling_at_begin">Запуск радио невозможен при разговоре</string>
-    <string name="fmradio_no_headset_at_begin">Пожалуйста, подключите наушники, они используются в качестве антенны.</string>
+    <string name="fmradio_no_headset_at_begin">Подключите наушники</string>
     <string name="fmradio_no_headset_in_listen">Наушники отключены, радио автоматически выключено.</string>
     <string name="fmradio_on_airplane_mode_in_listen">Активирован режим полета, радио автоматически выключено.</string>
     <string name="fmradio_scan_begin_msg">Сканирование радиостанций</string>
