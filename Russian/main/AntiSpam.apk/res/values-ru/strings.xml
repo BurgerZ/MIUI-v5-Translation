@@ -121,7 +121,7 @@
 	<string name="opt_reject_blacklist_stranger_summary">Не принимать звонки и сообщения с неизвестных номеров и от контактов из черного списка</string>
 	<string name="remove">Удалить</string>
 	<string name="remove_all_keywords">Вы уверены, что хотите удалить все шаблоны?</string>
-	<string name="remove_call_log">Удалить все вызововы?</string>
+	<string name="remove_call_log">Удалить все вызовы?</string>
 	<string name="remove_contact">Удалить выбранный контакт?</string>
 	<string name="remove_delete">Удалить</string>
 	<string name="remove_inf">Удалить выбранную информацию?</string>
