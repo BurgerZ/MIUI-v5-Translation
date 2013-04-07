@@ -53,7 +53,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-        <item>Всегда</item>
+        <item>Выкл.</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Один раз</item>

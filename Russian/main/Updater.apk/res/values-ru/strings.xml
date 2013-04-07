@@ -14,7 +14,7 @@
 	<string name="apply_update_dialog_cancel_button">Отмена</string>
 	<string name="apply_update_dialog_update_button">Обновление</string>
 	<string name="apply_update_fail">Ошибка обновления</string>
-	<string name="apply_update_timer">Обновление завершено，устройство перезагрузится через %d сек.</string>
+	<string name="apply_update_timer">Обновление завершено, устройство перезагрузится через %d сек.</string>
 	<string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
 	<string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
 	<string name="applying_rom_message">Применение обновления</string>
@@ -135,7 +135,7 @@
 	<string name="update_happy">Счастливый</string>
 	<string name="update_monthly_build_only">Только ежемесячные обновления</string>
 	<string name="update_sad">Грустный</string>
-	<string name="update_success">Поздравляем с успешным обновлением</string>
+	<string name="update_success">Обновление успешно завершено!</string>
 	<string name="update_success_body">Поздравляем, система успешно обновлена</string>
 	<string name="update_success_title">Обновление</string>
 	<string name="upgrade_close">Закрыть</string>

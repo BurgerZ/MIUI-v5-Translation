@@ -15,8 +15,8 @@
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по-умолчанию?</string>
     <string name="confirm_change_mode_title">Переключить режим</string>
-    <string name="confirm_change_to_expert_mode_message">Переключить камеру в расширенный режим?</string>
-    <string name="confirm_change_to_simple_mode_message">Переключить камеру в простой режим?</string>
+    <string name="confirm_change_to_expert_mode_message">Переключить камеру в профессиональный режим?</string>
+    <string name="confirm_change_to_simple_mode_message">Переключить камеру в обычный режим?</string>
     <string name="confirm_location_message">Телефон Xiaomi может сохранять ваше местоположение, включить данную опцию?</string>
     <string name="open">Включить</string>
     <string name="skip">Пропустить</string>
@@ -175,7 +175,7 @@
     <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
     <string name="pref_camera_sharpness_entry_level0">Уровень 0</string>
     <string name="pref_camera_sharpness_entry_level1">Уровень 1</string>
-    <string name="pref_camera_sharpness_entry_level2">Уровень 2(Стандартно)</string>
+    <string name="pref_camera_sharpness_entry_level2">Уровень 2 (по умолчанию)</string>
     <string name="pref_camera_sharpness_entry_level3">Уровень 3</string>
     <string name="pref_camera_sharpness_entry_level4">Уровень 4</string>
     <string name="pref_camera_sharpness_entry_level5">Уровень 5</string>
@@ -185,7 +185,7 @@
     <string name="pref_camera_contrast_entry_level2">Уровень 2</string>
     <string name="pref_camera_contrast_entry_level3">Уровень 3</string>
     <string name="pref_camera_contrast_entry_level4">Уровень 4</string>
-    <string name="pref_camera_contrast_entry_level5">Уровень 5(Стандартно)</string>
+    <string name="pref_camera_contrast_entry_level5">Уровень 5 (по умолчанию)</string>
     <string name="pref_camera_contrast_entry_level6">Уровень 6</string>
     <string name="pref_camera_contrast_entry_level7">Уровень 7</string>
     <string name="pref_camera_contrast_entry_level8">Уровень 8</string>
@@ -202,7 +202,7 @@
     <string name="pref_camera_saturation_entry_level8">Уровень 8</string>
     <string name="pref_camera_saturation_entry_level9">Уровень 9</string>
     <string name="pref_camera_saturation_entry_level10">Уровень 10</string>
-    <string name="pref_camera_default_suffix">(Стандартно)</string>
+    <string name="pref_camera_default_suffix">" (по умолчанию)"</string>
     <string name="pref_camera_sharpness_default">2</string>
     <string name="pref_camera_sharpness_title">Чёткость</string>
     <string name="pref_camera_contrast_default">5</string>
@@ -577,7 +577,7 @@
     <string name="simple_mode_button_text_slow_video">Отключить замедленный режим</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Эффекты</string>
     <string name="pref_video_slow_speed_title_simple_mode">Замедленный режим съёмки</string>
-    <string name="enter_expert_mode_title">Расширенный режим</string>
+    <string name="enter_expert_mode_title">Профессиональный режим</string>
     <string name="pref_settings_mode">Режим камеры</string>
     <string name="pref_camera_picturesize_title_simple_mode">Разрешение</string>
 </resources>

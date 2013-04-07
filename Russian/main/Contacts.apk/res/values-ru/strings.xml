@@ -136,8 +136,8 @@
 	<string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
 	<string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
 	<string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-	<string name="confirm_delete_contact_all_call_logs">Вы действительно хотите удалить все журналы вызовов контакта \"%s\"?</string>
-	<string name="confirm_delete_selected_all_call_logs">Вы действительно хотите удалить все журналы вызовов контактов?</string>
+	<string name="confirm_delete_contact_all_call_logs">Удалить все вызовы контакта \"%s\"?</string>
+	<string name="confirm_delete_selected_all_call_logs">Удалить все вызовы?</string>
 	<string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
 	<string name="confirm_export_title">Экспорт контактов</string>
 	<string name="connections">Связи</string>
@@ -743,7 +743,7 @@
 	<string name="separatorJoinAggregateAll">Все контакты</string>
 	<string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
 	<string name="service_provider">Поставщик услуг</string>
-	<string name="set_default">Установить по умолчанию</string>
+	<string name="set_default">Установить как основной</string>
 	<string name="share_error">Не удалось передать данные</string>
 	<string name="share_via">Отправить</string>
 	<string name="share_visible_contacts">Передать все контакты</string>

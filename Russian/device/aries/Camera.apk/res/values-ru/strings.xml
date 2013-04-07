@@ -144,14 +144,14 @@
 	<string name="pref_camera_contrast_entry_level2">Уровень 2</string>
 	<string name="pref_camera_contrast_entry_level3">Уровень 3</string>
 	<string name="pref_camera_contrast_entry_level4">Уровень 4</string>
-	<string name="pref_camera_contrast_entry_level5">Уровень 5(По умолчанию)</string>
+	<string name="pref_camera_contrast_entry_level5">Уровень 5 (по умолчанию)</string>
 	<string name="pref_camera_contrast_entry_level6">Уровень 6</string>
 	<string name="pref_camera_contrast_entry_level7">Уровень 7</string>
 	<string name="pref_camera_contrast_entry_level8">Уровень 8</string>
 	<string name="pref_camera_contrast_entry_level9">Уровень 9</string>
 	<string name="pref_camera_contrast_title">Контраст</string>
 	<string name="pref_camera_current_k_value">Текущее значение</string>
-	<string name="pref_camera_default_suffix">(По умолчанию)</string>
+	<string name="pref_camera_default_suffix">" (по умолчанию)"</string>
 	<string name="pref_camera_denoise_title">Устранение шумов</string>
 	<string name="pref_camera_facedetection_entry_off">Выкл</string>
 	<string name="pref_camera_facedetection_entry_on">Вкл</string>
@@ -251,7 +251,7 @@
 	<string name="pref_camera_settings_title">Настройки</string>
 	<string name="pref_camera_sharpness_entry_level0">Уровень 0</string>
 	<string name="pref_camera_sharpness_entry_level1">Уровень 1</string>
-	<string name="pref_camera_sharpness_entry_level2">Уровень 2(По умолчанию)</string>
+	<string name="pref_camera_sharpness_entry_level2">Уровень 2 (по умолчанию)</string>
 	<string name="pref_camera_sharpness_entry_level3">Уровень 3</string>
 	<string name="pref_camera_sharpness_entry_level4">Уровень 4</string>
 	<string name="pref_camera_sharpness_entry_level5">Уровень 5</string>

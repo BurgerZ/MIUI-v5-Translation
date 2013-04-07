@@ -29,7 +29,7 @@
 	<string name="attach_subject">Тема</string>
 	<string name="attach_take_photo">Сделать фото</string>
 	<string name="attach_video">Видео</string>
-	<string name="batch_delete_confirm_dialog_message">Удалить %1$s сообщения(ий)?</string>
+	<string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения (%1$s)?</string>
 	<string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
 	<string name="batch_deleting_progress_message">Удаление...</string>
 	<string name="bcc_label">"Скрытая копия: "</string>
