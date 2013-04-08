@@ -40,7 +40,7 @@
   <string name="cit_display_check_summary">Тест будет изменять цвет экрана. Если вы хотите использовать свои изображения, положите их в корень SD-карты с расширением *.bmp</string>
   <string name="cit_display_check_title">Экран</string>
   <string name="cit_display_continue">Коснитесь экрана</string>
-  <string name="cit_exit_test_summary">Выход сбросит все тесты, вы хотите выйти?</string>
+  <string name="cit_exit_test_summary">Все тесты будут сброшены, продолжить?</string>
   <string name="cit_exit_test_title">Выход</string>
   <string name="cit_fail">Отмена</string>
   <string name="cit_fm_audio_path">Звуковой тракт</string>
@@ -227,4 +227,8 @@
   <string name="cit_wifi_ap_scanning">Сканирование AP...</string>
   <string name="cit_wifi_fail_to_scan">Не удается выполнить сканирование сети</string>
   <string name="cit_wifi_state_refresh">обновление</string>
+  <string name="cit_OTG_plugin_check_title">Подключение OTG</string>
+    <string name="cit_OTG_plugout_check_title">Отключение OTG</string>
+	<string name="cit_OTG_plugin_check_summary">Проверка подключения OTG</string>
+    <string name="cit_OTG_plugout_check_summary">Проверка отключения OTG</string>
 </resources>
