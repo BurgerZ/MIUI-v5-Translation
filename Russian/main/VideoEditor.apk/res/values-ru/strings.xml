@@ -103,7 +103,7 @@
   <string name="full_app_name">Киностудия Android</string>
   <string name="hour_and_minutes">1 ч. %d мин.</string>
   <string formatted="false" name="hours_and_minutes">%d ч. %d мин.</string>
-  <string name="minute_and_seconds">1 мин. %d с</string>
+  <string name="minute_and_seconds">1 мин. %d сек.</string>
   <string name="minutes">%d мин.</string>
   <string name="no">Нет</string>
   <string name="overlay_change_title_template_button_text">Изменить шаблон</string>

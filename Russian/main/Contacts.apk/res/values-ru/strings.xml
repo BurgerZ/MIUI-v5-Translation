@@ -182,7 +182,7 @@
 	<string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
 	<string name="date_time_set">Настроить</string>
 	<string name="date_year_toggle">Указать год</string>
-	<string name="default_ringtone">По умолчанию</string>
+	<string name="default_ringtone">Мелодия по умолчанию</string>
 	<string name="deleteConfirmation">Этот контакт будет удален</string>
 	<string name="deleteConfirmationDetail">\"%s\" будет удален</string>
 	<string name="deleteConfirmation_title">Удаление контакта</string>

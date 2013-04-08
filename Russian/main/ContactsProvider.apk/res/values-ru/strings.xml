@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="app_label">Хранилище контактов</string>
 	<string name="call_log_provider_label">Журнал вызовов</string>
@@ -7,7 +6,7 @@
 	<string name="default_directory">Контакты</string>
 	<string name="edit_contact">Добавить к контакту</string>
 	<string name="local_invisible_directory">Прочее</string>
-	<string name="pound_search_tip">Поиск номера на SIM-карте. Введите номер контакта после \"#\"</string>
+	<string name="pound_search_tip">Введите номер для поиска на SIM-карте</string>
 	<string name="provider_label">Контакты</string>
 	<string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
 	<string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
@@ -17,5 +16,5 @@
 	<string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
 	<string name="upgrade_out_of_memory_notification_ticker">Для обновления контакта требуется больше памяти</string>
 	<string name="upgrade_out_of_memory_notification_title">Обновление хранилища контактов</string>
-	<string name="voicemail_from_column">"Голосовое сообщение от абонента "</string>
+	<string name="voicemail_from_column">"Голосовое сообщение от контакта "</string>
 </resources>
