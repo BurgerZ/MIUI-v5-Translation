@@ -47,7 +47,7 @@
 	<string name="days">%s д.</string>
 	<string name="default_alarm_alert">Мелодия и тема</string>
 	<string name="default_alarm_screen">Мелодия и тема</string>
-	<string name="default_alarm_title">Стандартная мелодия</string>
+	<string name="default_alarm_title">Мелодия по умолчанию</string>
 	<string name="default_label">Будильник</string>
 	<string name="default_ringtone_setting_title">Мелодия и тема</string>
 	<string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс?</string>
@@ -72,7 +72,7 @@
 	<string name="elapsed_hour">%d ч.</string>
 	<string name="elapsed_time_format">(+%s)</string>
 	<string name="enable_alarm">Включить будильник</string>
-	<string name="every_day">каждый день</string>
+	<string name="every_day">Ежедневно</string>
 	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
 	<string name="gallery_button_description">Галерея</string>
 	<string name="hide_clock">Спрятать часы</string>
@@ -92,9 +92,9 @@
 	<string name="label">Описание</string>
 	<string name="lap">Круг</string>
 	<string name="lap_num">Круг</string>
-	<string name="legal_workday">Рабочие дни</string>
-	<string name="legal_workday_invalidate">Данные просрочены (Сейчас будильник звонит с пон. по пят.)</string>
-	<string name="legal_workday_invalidate_message">(данные просрочены. Обновите в разделе Настройки)</string>
+	<string name="legal_workday">"Рабочие дни "</string>
+	<string name="legal_workday_invalidate">Рабочие дни (будильник звонит пн-пт)</string>
+	<string name="legal_workday_invalidate_message">(обновите базу рабочих дней)</string>
 	<string name="legal_workday_message">(отключен во время праздников)</string>
 	<string name="loading">Загрузка...</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>

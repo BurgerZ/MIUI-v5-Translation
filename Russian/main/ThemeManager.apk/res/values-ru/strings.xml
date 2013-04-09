@@ -74,7 +74,7 @@
 	<string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
 	<string name="resource_comment_upload_success">Комментарий отправлен!</string>
 	<string name="resource_comment_version_name">(Версия: %1$s)</string>
-	<string name="resource_default">Стандартная мелодия</string>
+	<string name="resource_default">Мелодия по умолчанию</string>
 	<string name="resource_default_name">Ресурс</string>
 	<string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
 	<string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>

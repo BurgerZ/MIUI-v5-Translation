@@ -53,7 +53,7 @@
 	<string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
 	<string name="confirm_delete_all_SIM_messages">Вы уверены, что хотите удалить все сообщения с SIM-карты?</string>
 	<string name="confirm_delete_all_conversations">Вы уверены, что хотите удалить все переписки?</string>
-	<string name="confirm_delete_conversation">Вы уверены, что хотите удалить данную переписку?</string>
+	<string name="confirm_delete_conversation">Вы уверены, что хотите удалить выбранную переписку?</string>
 	<string name="confirm_delete_group_message">Вы уверены, что хотите удалить выбранные сообщения?</string>
 	<string name="confirm_delete_locked_message">Вы уверены, что хотите удалить это заблокированное сообщение?</string>
 	<string name="confirm_delete_message">Вы уверены, что хотите удалить выбранное сообщение?</string>

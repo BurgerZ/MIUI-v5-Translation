@@ -1895,13 +1895,13 @@
 	<string name="volume_alarm_mute">Отключить будильники</string>
 	<string name="volume_bluetooth_description">Bluetooth</string>
 	<string name="volume_category_title">Громкость</string>
-	<string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
+	<string name="volume_media_description">Мультимедиа</string>
 	<string name="volume_media_mute">Отключить музыку и медиа</string>
 	<string name="volume_notification_description">Оповещения</string>
 	<string name="volume_notification_mute">Отключить уведомления</string>
-	<string name="volume_restore">Настройки по умолчанию</string>
-	<string name="volume_restore_alert">Все настройки будут сброшеные, Вы уверены?</string>
-	<string name="volume_ring_description">Мелодия и уведомления</string>
+	<string name="volume_restore">Восстановить по умолчанию</string>
+	<string name="volume_restore_alert">Восстановить настройки громкости по умолчанию?</string>
+	<string name="volume_ring_description">Рингтон и уведомления</string>
 	<string name="volume_ring_mute">Отключить звонок и уведомления</string>
 	<string name="volume_system_description">Громкость системы, затвор камеры, локскрин и другие системные уведомления</string>
 	<string name="volume_voice_description">Разговор</string>

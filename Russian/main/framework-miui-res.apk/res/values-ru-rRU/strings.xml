@@ -459,7 +459,7 @@
 	<string name="vernal_equinox" />
 	<string name="volume_alarm">Будильник</string>
 	<string name="volume_icon_description_bluetooth">Bluetooth</string>
-	<string name="volume_icon_description_incall">Вызов</string>
+	<string name="volume_icon_description_incall">Разговор</string>
 	<string name="volume_icon_description_media">Медиа</string>
 	<string name="volume_icon_description_notification">Уведомления</string>
 	<string name="volume_icon_description_ringer">Рингтон</string>
