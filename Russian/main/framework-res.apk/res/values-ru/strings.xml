@@ -1284,4 +1284,6 @@
   <string name="lockscreen_ruim_pin_blocked">PIN-код 1 заблокирован! Введите PUK-код 1, чтобы разблокировать PIN-код 1.</string>
   <string name="permdesc_startAnyActivity">Приложение сможет начать любую деятельность, независимо от разрешения защиты или экспортированного состояния</string>
   <string name="candidates_style">кандидаты</string>
+  <string name="config_networkLocationProvider2">com.android.location.service.NetworkLocationProvider</string>
+  <string name="config_geocodeProvider">com.android.location.service.GeocodeProvider</string>
 </resources>
