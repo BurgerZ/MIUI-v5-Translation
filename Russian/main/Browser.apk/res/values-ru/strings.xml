@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="MIUI_startpage">Стартовая страница</string>
 	<string name="accessibility_button_addbookmark">Добавить страницу в закладки</string>
@@ -434,7 +433,7 @@
 	<string name="ua_switcher_desktop">Полная версия</string>
 	<string name="uploads_disabled">Добавление файлов отключено</string>
 	<string name="url_copy_done">URL скопирован</string>
-	<string name="url_hint">Введите условия поиска или URL</string>
+	<string name="url_hint">Введите URL</string>
 	<string name="username">Имя</string>
 	<string name="view_certificate">Просмотреть сертификат</string>
 	<string name="warning">Внимание</string>
@@ -451,4 +450,7 @@
 	<string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
 	<string name="pref_video_preload_title">Загрузка видео</string>
 	<string name="pref_video_preload_dialogtitle">Загрузка видео</string>
+	<string name="in_incognito">В режиме \"Инкогнито\" история не сохраняется</string>
+	<string name="notif_install_successful">Загрузка завершена</string>
+	<string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
 </resources>
