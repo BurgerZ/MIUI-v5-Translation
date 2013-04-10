@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="account_abnormal_state">Неверная информация об учетной записи, попробуйте войти снова или повторите попытку позже!</string>
 	<string name="add_alarm">Добавить будильник</string>
@@ -26,7 +25,7 @@
 	<string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
 	<string name="alarm_notify_text">Отложить/выключить будильник</string>
 	<string name="alarm_repeat">Дни недели</string>
-	<string name="alarm_screen">Тема будильника</string>
+	<string name="alarm_screen">Тема</string>
 	<string name="alarm_settings">Дополнительные</string>
 	<string name="alarm_vibrate">Вибрация</string>
 	<string name="alarm_volume_summary">Настройка громкости будильника</string>
