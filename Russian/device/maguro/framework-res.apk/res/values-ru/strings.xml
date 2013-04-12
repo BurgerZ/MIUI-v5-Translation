@@ -1143,6 +1143,7 @@
   <string name="togglebutton_not_pressed">не нажато</string>
   <string name="togglebutton_pressed">нажато</string>
   <string name="tomorrow">Завтра</string>
+  <string name="device_xiaomi">Xiaomi Phone</string>
   <string name="turn_off_radio">Отключить беспроводное соединение</string>
   <string name="turn_on_radio">Включить беспроводную связь</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
@@ -1284,4 +1285,6 @@
   <string name="lockscreen_ruim_pin_blocked">PIN-код 1 заблокирован! Введите PUK-код 1, чтобы разблокировать PIN-код 1.</string>
   <string name="permdesc_startAnyActivity">Приложение сможет начать любую деятельность, независимо от разрешения защиты или экспортированного состояния</string>
   <string name="candidates_style">кандидаты</string>
+  <string name="config_networkLocationProvider2">com.android.location.service.NetworkLocationProvider</string>
+  <string name="config_geocodeProvider">com.android.location.service.GeocodeProvider</string>
 </resources>
