@@ -359,7 +359,6 @@
 	<string name="bluetooth_profile_details">Настройки профиля</string>
 	<string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
 	<string name="bluetooth_profile_hid">Профиль HID</string>
-	<string name="bluetooth_profile_name">MIUI Phone</string>
 	<string name="bluetooth_profile_opp">Профиль OPP</string>
 	<string name="bluetooth_profile_pan">Интернет-доступ</string>
 	<string name="bluetooth_profile_pan_nap">Профиль PAN</string>
@@ -601,7 +600,6 @@
 	<string name="device_cpu">Процессор:</string>
 	<string name="device_cpu2_info">"Два ядра "</string>
 	<string name="device_cpu4_info">"Четыре ядра "</string>
-	<string name="device_default_name">MIUI Phone</string>
 	<string name="device_edit_title">Смена имени устройства</string>
 	<string name="device_info_default">Неизвестно</string>
 	<string name="device_info_label">Сведения об устройстве</string>
@@ -1024,8 +1022,8 @@
 	<string name="misc_files">Разное</string>
 	<string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
 	<string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
-	<string name="miui_device_default_name">MIUI Phone</string>
 	<string name="mms_vibrate_abbreviation">Сообщения</string>
+	<string name="cancel_alert">Отменить изменения?</string>
 	<string name="model_number">Модель:</string>
 	<string name="move_app">Переместить</string>
 	<string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
@@ -1530,6 +1528,7 @@
 	<string name="settings_backup">Создать резервную копию настроек</string>
 	<string name="settings_backup_summary">Резервная копия настроек</string>
 	<string name="settings_button">Настройки</string>
+	<string name="android_beam_witch_label">Включить Android Beam</string>
 	<string name="settings_label">Настройки</string>
 	<string name="settings_label_launcher">Настройки</string>
 	<string name="settings_license_activity_loading">Идет загрузка…</string>

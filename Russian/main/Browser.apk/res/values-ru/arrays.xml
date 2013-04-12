@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded with KDG BigBlackBox-->
 <resources>
+	<string-array name="search_engines">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+    </string-array>
+	<string-array name="search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>
@@ -24,7 +33,7 @@
         <item>Крупный</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Латинская (ISO-8859-1)</item>
         <item>Юникод (UTF-8)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
@@ -51,12 +60,12 @@
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
-        <item>Прошивки</item>
+        <item>ROMZ.bz</item>
         <item>http://romz.bz/</item>
         <item>Yahoo!</item>
         <item>http://www.yahoo.com/</item>
-        <item>MSN</item>
-        <item>http://www.msn.com/</item>
+        <item>4PDA</item>
+        <item>http://www.4pda.ru/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>

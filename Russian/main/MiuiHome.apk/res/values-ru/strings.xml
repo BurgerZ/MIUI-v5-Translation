@@ -53,6 +53,9 @@
 	<string name="gadget_photo_22_label">Фоторамка</string>
 	<string name="gadget_photo_24_label">Фоторамка</string>
 	<string name="gadget_photo_44_label">Фоторамка</string>
+	<string name="gadget_google_search_label">Поиск Google</string>
+	<string name="guide_install_app_msg">Это приложение не установлено на вашем телефоне. Найти это приложение в Google Play?</string>
+	<string name="guide_install_app_title">Установить</string>
 	<string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
 	<string name="gadget_weather_aqi_title">Качество воздуха</string>
 	<string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Пожалуйста, выберите снова после завершения скачивания</string>

@@ -668,6 +668,7 @@
 	<string name="recentCalls_trashVoicemail">Удалить голосовое сообщение</string>
 	<string name="recent_contacts_label">Недавние</string>
 	<string name="recent_number">Недавний</string>
+	<string name="cloud_antispam_mark">Отметить</string>
 	<string name="recent_updates">Недавние обновления</string>
 	<string name="relationLabelsGroup">Отношения</string>
 	<string name="remind_btn_ignore">Позже</string>

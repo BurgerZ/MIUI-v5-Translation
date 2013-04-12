@@ -148,7 +148,7 @@
 	<string name="operation_decompressing">Распаковка...</string>
 	<string name="operation_delete">Удалить</string>
 	<string name="operation_delete_confirm_message">Подтверждение удаления</string>
-	<string name="operation_delete_confirm_message_folder">Удаление папки приведет к удалению всех файлов внутри нее.</string>
+	<string name="operation_delete_confirm_message_folder">Удаление папки приведет к удалению всех файлов внутри нее.\n</string>
 	<string name="operation_deleting">Удаление...</string>
 	<string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
 	<string name="operation_download_link">Создание ссылки для скачивания</string>

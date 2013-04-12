@@ -1143,6 +1143,7 @@
   <string name="togglebutton_not_pressed">не нажато</string>
   <string name="togglebutton_pressed">нажато</string>
   <string name="tomorrow">Завтра</string>
+  <string name="device_xiaomi">Xiaomi Phone</string>
   <string name="turn_off_radio">Отключить беспроводное соединение</string>
   <string name="turn_on_radio">Включить беспроводную связь</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>

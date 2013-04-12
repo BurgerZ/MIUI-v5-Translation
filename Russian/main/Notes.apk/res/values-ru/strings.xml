@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
 	<string name="alert_edit_action_delete">Удалить</string>
@@ -74,4 +73,6 @@
 	<string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
 	<string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
+	<string name="menu_stick">Закрепить</string>
+    <string name="menu_unstick">Открепить</string>
 </resources>
