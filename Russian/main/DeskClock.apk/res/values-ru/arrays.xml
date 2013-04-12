@@ -20,7 +20,8 @@
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Отключено</item>
-        <item>5 минут</item>
+        <item>1 минута</item>
+		<item>5 минут</item>
         <item>10 минут</item>
         <item>15 минут</item>
         <item>20 минут</item>
