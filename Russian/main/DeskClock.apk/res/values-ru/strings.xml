@@ -132,7 +132,7 @@
 	<string name="worldclock_empty_text">Нет часовых поясов</string>
 	<string name="worldclock_title">Часы</string>
 	<string name="shutdown_alarm_disable_summary">Не включать телефон, если настроен будильник</string>
-	<string name="auto_silence_never">Выкл.</string>
+	<string name="auto_silence_never">Выключено</string>
 	<string name="auto_silence_summary">Автоматическое выключение будильника через %d мин.</string>
 	<string name="auto_silence_title">Автовыключение</string>
 	<string name="snooze_duration_title">Отложить на</string>

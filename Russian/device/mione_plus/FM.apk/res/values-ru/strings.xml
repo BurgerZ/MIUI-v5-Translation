@@ -19,7 +19,7 @@
     <string name="fmradio_airplane_mode_enable_at_begin">Запуск радио невозможен в режиме полета</string>
     <string name="fmradio_clear_confirm_msg">Сохраненные радиостанции будут удалены, продолжить сканирование?</string>
     <string name="fmradio_found_format">%sMHz...</string>
-    <string name="fmradio_found_station">Найдено %d станций</string>
+    <string name="fmradio_found_station">Найдено станций: %d</string>
     <string name="fmradio_in_calling_at_begin">Запуск радио невозможен при разговоре</string>
     <string name="fmradio_no_headset_at_begin">Подключите наушники</string>
     <string name="fmradio_no_headset_in_listen">Наушники отключены, радио автоматически выключено.</string>
