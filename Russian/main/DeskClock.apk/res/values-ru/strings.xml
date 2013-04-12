@@ -24,7 +24,7 @@
 	<string name="alarm_volume_summary">Настройка громкости будильника</string>
 	<string name="alarm_volume_title">Громкость</string>
 	<string name="alarmclock_empty_text">Нет будильников</string>
-	<string name="alert">Мелодия</string>
+	<string name="alert">Мелодия и тема</string>
 	<string name="analog_gadget">Часы</string>
 	<string name="app_label">Часы</string>
 	<string name="cancel">Стоп</string>
@@ -133,7 +133,7 @@
 	<string name="worldclock_title">Часы</string>
 	<string name="shutdown_alarm_disable_summary">Не включать телефон, если настроен будильник</string>
 	<string name="auto_silence_never">Выкл.</string>
-	<string name="auto_silence_summary">Будильник автоматически отключается через %d мин.</string>
+	<string name="auto_silence_summary">Автоматическое выключение будильника через %d мин.</string>
 	<string name="auto_silence_title">Автовыключение</string>
 	<string name="snooze_duration_title">Отложить на</string>
 </resources>

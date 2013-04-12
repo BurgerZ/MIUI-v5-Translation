@@ -123,6 +123,7 @@
 	<string name="notif_title_update">Доступно обновление для %1$s!</string>
 	<string name="menu_install_all">Установить все</string>
 	<string name="install_google_base_title">Установить сервисы Google</string>
+	<string name="install_google_base_message">“%1$s” для запуска требует сервисы Google</string>
 	<string name="install_google_base_button">Установить сейчас</string>
 	<string name="paused">Пауза</string>
 	<string name="pending">Ожидание...</string>
