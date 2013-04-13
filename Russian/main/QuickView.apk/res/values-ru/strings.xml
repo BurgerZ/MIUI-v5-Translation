@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -54,7 +54,7 @@ Dest."</string>
   <string name="no_sdcard">SD карта не обнаружена</string>
   <string name="no_way_to_share_image">Нет подходящего приложения</string>
   <string name="no_way_to_share_video">Нет подходящего приложения</string>
-  <string name="preparing_sd">Подготовка SD карты…</string>
+  <string name="preparing_sd">Подготовка SD карты...</string>
   <string name="remove_dialog">Вы уверены, что хотите удалить?</string>
   <string name="remove_dialog_canceled">Отменено</string>
   <string name="remove_dialog_removed">Удалено</string>

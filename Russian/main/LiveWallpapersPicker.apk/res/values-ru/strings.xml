@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="application_name">Каталог живых обоев</string>
-	<string name="configure_wallpaper">Настройки…</string>
+	<string name="configure_wallpaper">Настройки...</string>
 	<string name="live_wallpaper_empty">Живые обои отсутствуют.</string>
-	<string name="live_wallpaper_loading">Загрузка живых обоев…</string>
+	<string name="live_wallpaper_loading">Загрузка живых обоев...</string>
 	<string name="live_wallpaper_picker_label">Живые обои</string>
 	<string name="live_wallpaper_picker_title">Выберите Живые обои</string>
 	<string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>

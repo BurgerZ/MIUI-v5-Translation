@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="FMRecording_reach_storage_threshold">Запись остановлена. На карте памяти мало места.</string>
 	<string name="access_sd_fail">"Нет доступа к карте памяти."</string>

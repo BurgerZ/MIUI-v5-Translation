@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="activity_not_found">Приложение не найдено</string>
 	<string name="application_name">Рабочий стол</string>
@@ -43,7 +43,7 @@
 	<string name="free_style_edit_tab_widget">Виджеты</string>
 	<string name="free_style_enter_tip">Сдвиньте двумя пальцами вниз, чтобы перейти к свободному рабочему столу</string>
 	<string name="free_style_exit_tip">Сдвиньте двумя пальцами вверх, чтобы выйти из свободного рабочего стола</string>
-	<string name="free_style_londing_text">Загрузка, подождите…</string>
+	<string name="free_style_londing_text">Загрузка, подождите...</string>
 	<string name="gadget_clear_button_label">Память</string>
 	<string name="gadget_clock_12_label">Часы</string>
 	<string name="gadget_clock_22_label">Часы</string>
@@ -103,11 +103,11 @@
 	<string name="photo_confirm">Готово</string>
 	<string name="photo_load_failed">Не удалось загрузить фото!</string>
 	<string name="pref_cell_layout_size">Сетка рабочего стола</string>
-	<string name="pref_enable_drawing_cache_summary">Отключите, чтобы освободить больше памяти. Возможно притормаживание системы.</string>
+	<string name="pref_enable_drawing_cache_summary">Выключите, чтобы освободить больше памяти. Возможно притормаживание системы.</string>
 	<string name="pref_enable_drawing_cache_title">Кэш графики</string>
-	<string name="pref_icon_shadow_summary">Добавление эффекта тени для значков на рабочем столе</string>
+	<string name="pref_icon_shadow_summary">Добавление эффекта тени для значков на рабочем столе.</string>
 	<string name="pref_icon_shadow_title">Тень от значков</string>
-	<string name="pref_keep_in_memory_summary">Держать в памяти. Приложение не будет закрываться.</string>
+	<string name="pref_keep_in_memory_summary">Выключение выгрузки данного приложения из оперативной памяти.</string>
 	<string name="pref_keep_in_memory_title">Держать в памяти</string>
 	<string name="pref_keep_layout_summary">Переключение сетки рабочего стола может нарушить положение иконок. Включите для сохранения положения иконок.</string>
 	<string name="pref_keep_layout_title">Сохранять расстановку</string>

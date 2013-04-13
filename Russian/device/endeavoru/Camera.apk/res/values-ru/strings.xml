@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -338,7 +338,7 @@
   <string name="usc_online_album">Альбом в сети</string>
   <string name="video_quality">Качество видео</string>
   <string name="video_stabilization">Стабилизация видео</string>
-  <string name="wait">Подождите, пожалуйста…</string>
+  <string name="wait">Подождите, пожалуйста...</string>
   <string name="wb_cloudy">Облачно</string>
   <string name="wb_daylight">Дневной свет</string>
   <string name="wb_fluorescent">Лампа дневного света</string>

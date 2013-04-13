@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="Import">Импорт</string>
 	<string name="access_sd_fail">Нет доступа к USB хранилищу</string>
@@ -77,8 +76,8 @@
 	<string name="import_complete">Импорт завершен</string>
 	<string name="import_fail">Импорт не удался</string>
 	<string name="iso">ISO</string>
-	<string name="loading">Загрузка…</string>
-	<string name="loading_video">Загрузка видео…</string>
+	<string name="loading">Загрузка...</string>
+	<string name="loading_video">Загрузка видео...</string>
 	<string name="location">Местоположение</string>
 	<string name="locations">Места</string>
 	<string name="maker">Автор</string>
@@ -93,14 +92,14 @@
 	<string name="open">Да</string>
 	<string name="orientation">Ориентация</string>
 	<string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>
-	<string name="pano_dialog_prepare_preview">Обработка…</string>
+	<string name="pano_dialog_prepare_preview">Обработка...</string>
 	<string name="pano_dialog_title">Панорама</string>
 	<string name="pano_dialog_waiting_previous">Ожидание обработки предыдущей панораммы</string>
 	<string name="pano_file_name_format">"'PANO'_yyyy-MM-dd_HH-mm-ss"</string>
 	<string name="pano_how_to_use_prompt">Нажмите кнопку затвора для начала съёмки панорамного фото</string>
 	<string name="pano_how_to_use_prompt_go_on_moving">Продолжайте перемещать устройство</string>
 	<string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
-	<string name="pano_review_saving_indication_str">Сохранение…</string>
+	<string name="pano_review_saving_indication_str">Сохранение...</string>
 	<string name="pano_too_fast_prompt">Слишком быстро</string>
 	<string name="path">Путь</string>
 	<string name="people">Люди</string>
@@ -313,7 +312,7 @@
 	<string name="pref_video_time_lapse_frame_interval_entry_4">4 раза</string>
 	<string name="pref_video_time_lapse_frame_interval_entry_50">50 раз</string>
 	<string name="pref_video_time_lapse_frame_interval_title">Замедление</string>
-	<string name="preparing_sd">Подготовка внутреннего хранилища…</string>
+	<string name="preparing_sd">Подготовка внутреннего хранилища...</string>
 	<string name="record_back_pressed_hint">Нажмите снова, чтобы остановить запись</string>
 	<string name="resume_playing_message">Возобновить воспроизведение с %s ?</string>
 	<string name="resume_playing_restart">Начать сначала</string>

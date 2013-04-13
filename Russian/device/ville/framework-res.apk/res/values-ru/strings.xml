@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -283,7 +283,7 @@
   <string name="editTextMenuTitle">Операции с текстом</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-  <string name="ellipsis">…</string>
+  <string name="ellipsis">...</string>
   <string name="ellipsis_two_dots">...</string>
   <string name="emailTypeCustom">Создать свой ярлык</string>
   <string name="emailTypeHome">Личный</string>
@@ -332,7 +332,7 @@
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">\u0020Гб</string>
   <string name="global_action_lock">Блокировка экрана</string>
-  <string name="global_action_power_off">Отключить питание</string>
+  <string name="global_action_power_off">Выключение</string>
   <string name="global_action_silent_mode_off_status">Включить</string>
   <string name="global_action_silent_mode_on_status">Выключить</string>
   <string name="global_action_toggle_silent_mode">Режим без звука</string>
@@ -483,7 +483,7 @@
   <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
   <string name="lockscreen_sim_puk_locked_instructions">См. руководство пользователя или свяжитесь со службой поддержки.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты...</string>
   <string name="lockscreen_sound_off_label">Откл. звук</string>
   <string name="lockscreen_sound_on_label">Вкл. звук</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
@@ -1097,7 +1097,7 @@
   <string name="select_character">Введите символ</string>
   <string name="select_input_method">Выберите способ ввода</string>
   <string name="sendText">Выберите действие для текста</string>
-  <string name="sending">Отправка…</string>
+  <string name="sending">Отправка...</string>
   <string name="serial_number">Серийный номер:</string>
   <string name="serviceClassData">Данные</string>
   <string name="serviceClassDataAsync">Асинхр.</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -96,8 +96,8 @@
   <string name="airplane_error_title">Airplane mode</string>
   <string name="airplane_mode">Режим полета</string>
   <string name="airplane_mode_summary">Disable all wireless connections</string>
-  <string name="airplane_mode_turning_off">Enabling wireless connections…</string>
-  <string name="airplane_mode_turning_on">Disabling wireless connections…</string>
+  <string name="airplane_mode_turning_off">Enabling wireless connections...</string>
+  <string name="airplane_mode_turning_on">Disabling wireless connections...</string>
   <string name="alarm">Alarm</string>
   <string name="alarm_notification_summary">Read out alarm information when alarms sound</string>
   <string name="alarm_volume_title">Alarm</string>
@@ -310,7 +310,7 @@
   <string name="bluetooth_class_of_device_title">Class of device</string>
   <string name="bluetooth_confirm_just_works_passkey_msg">Confirm password to pair with \"%1$s\"</string>
   <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;на нем должен отображаться этот код доступа:&lt;br&gt;&lt;b&gt;%2$s</string>
-  <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
+  <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
   <string name="bluetooth_connected">Подключено</string>
   <string name="bluetooth_connected_no_a2dp">Подключено (кроме A2DP)</string>
   <string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
@@ -525,7 +525,7 @@
   <string name="clock_weather_position">Clock and weather position</string>
   <string name="collect_diagnostics_summary">Собирать данные для устранения неполадок</string>
   <string name="collect_diagnostics_title">Сбор данных</string>
-  <string name="computing_size">Computing…</string>
+  <string name="computing_size">Computing...</string>
   <string name="configure_input_method">Set up input methods</string>
   <string name="confirm_new_backup_pw_prompt">Enter new full backup password again</string>
   <string name="connect_button_text">Connect</string>
@@ -1330,7 +1330,7 @@
   <string name="recognizer_settings_summary">Settings for %s</string>
   <string name="recognizer_settings_title">Voice Search</string>
   <string name="recognizer_title">Voice recognition</string>
-  <string name="recompute_size">Recomputing size…</string>
+  <string name="recompute_size">Recomputing size...</string>
   <string name="register_google">Register Google account first</string>
   <string name="remote_controls">Remote functions</string>
   <string name="remote_controls_mbody">Remote controls</string>

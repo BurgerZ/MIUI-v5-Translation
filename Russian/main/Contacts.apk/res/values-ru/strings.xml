@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="account_abnormal_state">Неверная информация об учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
 	<string name="account_container_title">Из аккаунта</string>
@@ -128,7 +127,7 @@
 	<string name="clearCallLogProgress_title">Очистка списка вызовов...</string>
 	<string name="clearFrequentsConfirmation">Вы очистите все часто используемые контакты в приложениях Контакты и Телефон. Почтовые приложения будут собирать информацию с нуля.</string>
 	<string name="clearFrequentsConfirmation_title">Очистить частые контакты?</string>
-	<string name="clearFrequentsProgress_title">Очистка контактов…</string>
+	<string name="clearFrequentsProgress_title">Очистка контактов...</string>
 	<string name="clear_default">Удалить настройки по умолчанию</string>
 	<string name="click_close">Коснитесь экрана, чтобы закрыть</string>
 	<string name="cloud_antispam_summary">Определение спам-номеров из базы Xiaomi</string>
@@ -158,7 +157,7 @@
 	<string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
 	<string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s</string>
 	<string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
-	<string name="contact_list_loading">Загрузка…</string>
+	<string name="contact_list_loading">Загрузка...</string>
 	<string name="contact_pick_photo">Изображение</string>
 	<string name="contact_read_only">Здесь доступно только для чтения</string>
 	<string name="contact_status_update_attribution">с помощью %1$s</string>
@@ -244,9 +243,9 @@
 	<string name="device_import_failed_message">Ошибка импорта!</string>
 	<string name="device_import_local_account">Локальный аккаунт</string>
 	<string name="device_import_message">Импорт</string>
-	<string name="device_import_progress_begin_message">Подготовка к импорту…</string>
+	<string name="device_import_progress_begin_message">Подготовка к импорту...</string>
 	<string name="device_import_progress_end_message">Импорт завершен!</string>
-	<string name="device_import_progress_message">Импортирование…</string>
+	<string name="device_import_progress_message">Импортирование...</string>
 	<string name="device_import_progress_toast">%1$d контактов импортировано</string>
 	<string name="device_import_title">импортирование</string>
 	<string name="device_list_title">выберите телефон для сопряжения</string>
@@ -269,7 +268,7 @@
 	<string name="dialer_returnToInCallScreen">Вернуться к вызову</string>
 	<string name="dialer_useDtmfDialpad">Использовать тональную клавиатуру</string>
 	<string name="dialog_import">Импорт контактов</string>
-	<string name="dialog_import_export">Импорт/экспорт контактов</string>
+	<string name="dialog_import_export">Импорт и экспорт контактов</string>
 	<string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
 	<string name="dialog_new_group_account">Создание группы в аккаунте</string>
 	<string name="dialog_phone_call_prohibited_message">Вызов не послан</string>
@@ -392,10 +391,10 @@
 	<string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
 	<string name="import_vcard_description">Импортировать контакты с SD-карты</string>
 	<string name="import_weibo_dialog_title">Импорт контактов sina weibo</string>
-	<string name="import_weibo_fetch_followers">Получение пользователей weibo…</string>
+	<string name="import_weibo_fetch_followers">Получение пользователей weibo...</string>
 	<string name="import_weibo_notification_title">Импортирование контактов sina weibo...</string>
 	<string name="import_weibo_notification_title_done">Импортирование контактов sina weibo завершено</string>
-	<string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
+	<string name="import_weibo_progress_name">Совпадение \"%1$s\"...</string>
 	<string name="importing_vcard_canceled_title">Импорт файла \"%s\" отменен</string>
 	<string name="importing_vcard_description">Импорт: %s</string>
 	<string name="importing_vcard_finished_title">Импорт файла vCard %s завершен</string>
@@ -466,7 +465,7 @@
 	<string name="menu_editContact">Изменить</string>
 	<string name="menu_editGroup">Изменить</string>
 	<string name="menu_help">Помощь</string>
-	<string name="menu_import_export">Импорт/экспорт</string>
+	<string name="menu_import_export">Импорт и экспорт</string>
 	<string name="menu_joinAggregate">Объединить</string>
 	<string name="menu_newContact">Новый контакт</string>
 	<string name="menu_new_contact_action_bar">Добавить</string>
@@ -517,12 +516,12 @@
 	<string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
 	<string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в аккаунте Xiaomi и MiTalk</string>
 	<string name="noContacts">Нет контактов</string>
-	<string name="noContactsHelpText">Нет контактов для показа.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n \nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SIM- или SD-карты.\n</string>
+	<string name="noContactsHelpText">Нет контактов для показа.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n \nНовый контакт: добавление контакта.\n \nИмпорт и экспорт: импорт контактов с SIM- или SD-карты.\n</string>
 	<string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
-	<string name="noContactsHelpTextWithSync">Нет контактов для показа. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SIM- или SD-карты.\n</string>
+	<string name="noContactsHelpTextWithSync">Нет контактов для показа. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт и экспорт: импорт контактов с SIM- или SD-карты.\n</string>
 	<string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
-	<string name="noContactsNoSimHelpText">Нет контактов для показа.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n \nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n \nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SD-карты.\n</string>
-	<string name="noContactsNoSimHelpTextWithSync">Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SD-карты.\n</string>
+	<string name="noContactsNoSimHelpText">Нет контактов для показа.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n \nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n \nНовый контакт: добавление контакта.\n \nИмпорт и экспорт: импорт контактов с SD-карты.\n</string>
+	<string name="noContactsNoSimHelpTextWithSync">Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт и экспорт: импорт контактов с SD-карты.\n</string>
 	<string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
 	<string name="noFavoritesHelpText">"У вас нет избранных контактов.\n\nЧтобы сделать контакт избранным,\n\n        нажмите вкладку Контакты;\n \nнажмите контакт, который нужно сделать избранным;\n \nнажмите звездочку возле имени контакта.\n"</string>
 	<string name="noGroups">Нет групп</string>
@@ -597,10 +596,10 @@
 	<string name="postal_region">Регион</string>
 	<string name="postal_street">Улица</string>
 	<string name="pref_key_photo">Изображение</string>
-	<string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без них</string>
+	<string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без них.</string>
 	<string name="pref_key_photo_word_title">Фото для контакта</string>
-	<string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
-	<string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
+	<string name="pref_key_rebuild_t9_index_message">Обновление индекса контактов для поиска с помощью T9.</string>
+	<string name="pref_key_rebuild_t9_index_title">Обновить индекс</string>
 	<string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
 	<string name="pref_title_account_import">Импорт из аккаунта</string>
 	<string name="pref_title_import_from_account">Импорт в аккаунт Xiaomi</string>
@@ -610,7 +609,7 @@
 	<string name="preference_contacts">Настройки контактов</string>
 	<string name="preference_contacts_display">Отображение контактов</string>
 	<string name="preference_contacts_filter">Контакты для отображения</string>
-	<string name="preference_contacts_more">Другие настройки</string>
+	<string name="preference_contacts_more">Дополнительно</string>
 	<string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
 	<string name="preference_dial_pad_touch_tone_human">Голос человека</string>
 	<string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
@@ -624,9 +623,9 @@
 	<string name="preference_import_export_title">Импорт и экспорт</string>
 	<string name="preference_others">Другое</string>
 	<string name="preference_phone">Настройки телефона</string>
-	<string name="preference_phone_more_title">Другие настройки</string>
+	<string name="preference_phone_more_title">Дополнительно</string>
 	<string name="preference_remove_duplicate">Слияние дубликатов</string>
-	<string name="preference_simple_mode_description">Не отображать аватары, атрибуции, компании и т.д.</string>
+	<string name="preference_simple_mode_description">Выключение отображения фото, атрибутов и других данных.</string>
 	<string name="preference_simple_mode_title">Простой режим</string>
 	<string name="preference_smart_group_company_summary">Группировка контактов по информации о компании</string>
 	<string name="preference_smart_group_company_title">По компаниям</string>
@@ -635,8 +634,8 @@
 	<string name="preference_smart_group_location_summary">Группировка контактов по коду оператора</string>
 	<string name="preference_smart_group_location_title">По месторасположению</string>
 	<string name="preference_smart_group_title">Умная группировка</string>
-	<string name="preference_telocation_summary_countrycode_off">не добавлять автоматически код страны</string>
-	<string name="preference_telocation_summary_countrycode_on">Автоматически добавлять код страны</string>
+	<string name="preference_telocation_summary_countrycode_off">не добавлять автоматически код страны.</string>
+	<string name="preference_telocation_summary_countrycode_on">автоматически добавлять код страны.</string>
 	<string name="preference_telocation_summary_teloc_off">Скрывать местоположение</string>
 	<string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
 	<string name="preference_telocation_title">Местоположение</string>
@@ -753,7 +752,7 @@
 	<string name="shortcutDialContact">Быстрый звонок</string>
 	<string name="shortcutMessageContact">Быстрое SMS</string>
 	<string name="showAllContactsJoinItem">Показать все контакты</string>
-	<string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
+	<string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты...</string>
 	<string name="simContacts_title">Контакты на SIM-карте</string>
 	<string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
 	<string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
@@ -770,7 +769,7 @@
 	<string name="smart_group_frequency_3">В течение 6 месяцев</string>
 	<string name="smart_group_frequency_4">Не было контакта в течение более 6 месяцев</string>
 	<string name="smart_group_frequency_label">По последним вызовам</string>
-	<string name="smart_group_label">Смарт-группировка</string>
+	<string name="smart_group_label">Умная группировка</string>
 	<string name="smart_group_loading">Загрузка групп...</string>
 	<string name="smart_group_location_label">По месторасположению</string>
 	<string name="smart_group_location_unavailable">Нет информации о адресе</string>
@@ -798,7 +797,7 @@
 	<string name="sms_work_mobile">SMS: рабочий моб.</string>
 	<string name="sms_work_pager">SMS: рабоч. пейдж.</string>
 	<string name="social_widget_label">Контакт</string>
-	<string name="social_widget_loading">Загрузка…</string>
+	<string name="social_widget_loading">Загрузка...</string>
 	<string name="splitConfirmation">Вы хотите разделить контакт?</string>
 	<string name="splitConfirmation_title">Разделение контакта</string>
 	<string name="starredList">Помеченные</string>

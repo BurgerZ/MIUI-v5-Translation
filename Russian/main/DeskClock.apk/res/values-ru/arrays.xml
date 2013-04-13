@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
         <item>Будильник зазвонит менее чем через минуту</item>
@@ -21,7 +21,7 @@
     <string-array name="auto_silence_entries">
         <item>Выключено</item>
         <item>1 минута</item>
-		<item>5 минут</item>
+        <item>5 минут</item>
         <item>10 минут</item>
         <item>15 минут</item>
         <item>20 минут</item>
@@ -31,7 +31,7 @@
     <string-array name="volume_button_setting_entries">
         <item>Нет</item>
         <item>Отложить</item>
-        <item>Отключить</item>
+        <item>Выключить</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Будильник зазвонит менее чем через минуту</item>

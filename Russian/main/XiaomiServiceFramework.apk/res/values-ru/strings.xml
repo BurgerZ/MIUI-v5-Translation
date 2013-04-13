@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="access_denied">доступ запрещен</string>
 	<string name="account">Аккаунт</string>
@@ -154,19 +153,19 @@
 	<string name="prev">Назад</string>
 	<string name="progress_connecting">Подключение...</string>
 	<string name="progress_creating">Проверка покупки...</string>
-	<string name="progress_downloading">Загрузка…</string>
+	<string name="progress_downloading">Загрузка...</string>
 	<string name="progress_error_title">Ошибка пополнения</string>
 	<string name="progress_loading">Обработка. Пожалуйста, подождите...</string>
 	<string name="progress_paytool_creating">Создание покупки %1$s...</string>
 	<string name="progress_paytool_installing">Установка мобильного плагина безопасности %1$s...</string>
 	<string name="progress_prepaid_creating">Обработка запроса на пополнение...</string>
-	<string name="progress_querying">Обработка платежного запроса…</string>
+	<string name="progress_querying">Обработка платежного запроса...</string>
 	<string name="progress_submit_hint">Пополнение будет отражено в течение 3х минут</string>
 	<string name="progress_submit_summary">Пополнение: %1$s RMB</string>
 	<string name="progress_submit_title">Запрос на пополнение подтвержден</string>
 	<string name="progress_success_summary">Баланс: %1$s кредитов Mi</string>
 	<string name="progress_success_title">Пополнено на %1$s кредитов Mi</string>
-	<string name="progress_voucher_creating">Пополнение карты Mi Credit…</string>
+	<string name="progress_voucher_creating">Пополнение карты Mi Credit...</string>
 	<string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
 	<string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
 	<string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите ваш пароль.</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -62,7 +62,7 @@
   <string name="capture">Снимок</string>
   <string name="captureModeTitle">Режимы записи</string>
   <string name="capture_failed">Ошибка записи</string>
-  <string name="capture_processing">Обработка…</string>
+  <string name="capture_processing">Обработка...</string>
   <string name="continuous">Непрерывная фокус</string>
   <string name="decode_fail">Отображение недоступно; Вернитесь к видоискателю</string>
   <string name="delete">Удалить</string>
@@ -331,7 +331,7 @@
   <string name="vstab">Стабилизация видео</string>
   <string name="vstab_demo">Стабилизация видео демо</string>
   <string name="vstab_summary">Уменьшает движения камеры при съемке видео</string>
-  <string name="wait">Пожалуйста, подождите…</string>
+  <string name="wait">Пожалуйста, подождите...</string>
   <string name="warnning">Оповещение</string>
   <string name="wdr">WDR</string>
   <string name="web_add_addrs_title">Добавить адрес</string>

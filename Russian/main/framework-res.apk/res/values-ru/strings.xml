@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="BaMmi">Запрет вызовов</string>
   <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
@@ -222,7 +222,7 @@
   <string name="editTextMenuTitle">Операции с текстом</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-  <string name="ellipsis">…</string>
+  <string name="ellipsis">...</string>
   <string name="ellipsis_two_dots">..</string>
   <string name="emailTypeCustom">Создать свой ярлык</string>
   <string name="emailTypeHome">Личный</string>
@@ -276,7 +276,7 @@
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
-  <string name="global_action_power_off">Отключить питание</string>
+  <string name="global_action_power_off">Выключение</string>
   <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_off_status">Включить</string>
   <string name="global_action_silent_mode_on_status">Выключить</string>
@@ -426,7 +426,7 @@
   <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
   <string name="lockscreen_sim_puk_locked_instructions">См. руководство пользователя или свяжитесь со службой поддержки</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты...</string>
   <string name="lockscreen_sound_off_label">Отключить звук</string>
   <string name="lockscreen_sound_on_label">Включить звук</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
@@ -1055,7 +1055,7 @@
   <string name="select_keyboard_layout_notification_message">Коснитесь для выбора раскладки клавиатуры.</string>
   <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
   <string name="sendText">Выберите действие для текста</string>
-  <string name="sending">Отправка…</string>
+  <string name="sending">Отправка...</string>
   <string name="serial_number">Серийный номер:</string>
   <string name="serviceClassData">Данные</string>
   <string name="serviceClassDataAsync">Асинхр.</string>
@@ -1079,7 +1079,7 @@
   <string name="shareactionprovider_share_with">Открыть доступ:</string>
   <string name="shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
   <string name="short_format_month">%b</string>
-  <string name="shutdown_confirm">Телефон будет выключен</string>
+  <string name="shutdown_confirm">Телефон будет выключен.</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
   <string name="shutdown_progress">Выключение...</string>
   <string name="silent_mode">Режим \"Без звука\"</string>
@@ -1237,7 +1237,7 @@
   <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
   <string name="perms_show_all">Показать все</string>
   <string name="permlab_setScreenCompatibility">установить совместимость экрана</string>
-  <string name="progress_unmounting_internal">Отключение внутреннего хранилища…</string>
+  <string name="progress_unmounting_internal">Отключение внутреннего хранилища...</string>
   <string name="permdesc_setKeyboardLayout">Приложение сможет изменить раскладку клавиатуры. Не потребуется для обычных приложений.</string>
   <string name="permdesc_sdcardRead">Приложение сможет проверить разрешение на хранение USB, который будет доступен на будущих устройствах.</string>
   <string name="keyguard_password_wrong_puk_code">Неверный PUK-код!</string>
@@ -1254,7 +1254,7 @@
   <string name="stkCcUssdToUssd">USSD запрос изменен на новый USSD запрос</string>
   <string name="permlab_updateLock">препятствовать автоматическому обновлению устройств</string>
   <string name="permlab_startAnyActivity">начать любую активность</string>
-  <string name="progress_erasing_internal">Стирание внутреннего хранилища…</string>
+  <string name="progress_erasing_internal">Стирание внутреннего хранилища...</string>
   <string name="stkCcUssdToDial">USSD запрос изменен на запрос набора</string>
   <string name="permdesc_updateLock">Позволяет владельцу предоставлять системную информацию о том, когда будет хорошее время для не интерактивных перезагрузок для обновления устройства.</string>
   <string name="lockscreen_sim_error_message">SIM-карта недействительна</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="accessibility_airplane_mode">Режим полета</string>
 	<string name="accessibility_back">Назад</string>
@@ -108,7 +108,7 @@
 	<string name="lockscreen_carrier_default">(нет сети)</string>
 	<string name="mdb_entering">Вход</string>
 	<string name="mdb_restore_cancel">Отмена</string>
-	<string name="mdb_restore_info1">"Восстановит все Ваши данные на телефоне"</string>
+	<string name="mdb_restore_info1">"Восстановит все ваши данные на телефоне"</string>
 	<string name="mdb_restore_info2">"Пожалуйста, не нарушайте USB-подключение"</string>
 	<string name="mdb_restore_label">Mdb Восстановление</string>
 	<string name="mdb_restore_mode">Режим восстновления</string>
@@ -129,7 +129,7 @@
 	<string name="notification_icon_filter_settings">Уведомления</string>
 	<string name="notification_icon_filter_settings_loading">Загрузка...</string>
 	<string name="notification_icon_filter_show">Список разрешенных приложений</string>
-	<string name="notification_icon_filter_summary">Отключение этого параметра сделает активным уведомления от всех приложений в верхнем левом углу строки состояния</string>
+	<string name="notification_icon_filter_summary">Отключение этого параметра сделает активным уведомления от всех приложений в верхнем левом углу строки состояния.</string>
 	<string name="notification_icon_filter_title">Скрыть уведомления</string>
 	<string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
 	<string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
@@ -168,9 +168,9 @@
 	<string name="screenshot_saving_ticker">"Скриншот сохраняется "</string>
 	<string name="screenshot_saving_title">"Скриншот сохраняется "</string>
 	<string name="settings_expandable_under_fullscreen">Полноэкранные приложения</string>
-	<string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями</string>
+	<string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями.</string>
 	<string name="settings_expandable_under_keyguard">Заблокированный экран</string>
-	<string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния при заблокированном экране (если отсуствует пароль для разблокировки экрана)</string>
+	<string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния при заблокированном экране (если отсуствует пароль для разблокировки экрана).</string>
 	<string name="settings_expanded_view">Настройки раскрытия</string>
 	<string name="settings_notification_icon">Уведомления в строке состояния</string>
 	<string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
@@ -180,7 +180,7 @@
 	<string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
 	<string name="settings_toggle_layout_style">Стиль панели</string>
 	<string name="settings_toggle_layout_style_applying">Изменение стиля переключателей...</string>
-	<string name="settings_toggle_layout_style_compact">Компакт</string>
+	<string name="settings_toggle_layout_style_compact">Строка</string>
 	<string name="settings_toggle_layout_style_single_page">Сетка</string>
 	<string name="settings_toggle_position">Расположение переключателей</string>
 	<string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
@@ -277,7 +277,7 @@
 	<string name="usb_storage_stop_notification_title">Отключение USB накопителя</string>
 	<string name="usb_storage_stop_title">USB накопитель используется</string>
 	<string name="usb_storage_title">Подключение USB</string>
-	<string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
-	<string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
-	<string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
+	<string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений.</string>
+	<string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали.</string>
+	<string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей.</string>
 </resources>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="account_tag">Я</string>
 	<string name="alipay_rechare_title_hint">Выберите сумму пополнения:</string>
@@ -27,7 +26,7 @@
 	<string name="category_info_invalid">Неверная информация о категории</string>
 	<string name="category_tag">Категории</string>
 	<string name="check_sd_card">Пожалуйста, проверьте свой телефон или вставьте SD-карту</string>
-	<string name="check_update">Проверка обновления…</string>
+	<string name="check_update">Проверка обновления...</string>
 	<string name="clear_search_history_success">История поиска очищена</string>
 	<string name="click_again_exit_app">Нажмите еще раз для выхода</string>
 	<string name="client_download_start">Загрузка</string>
@@ -90,7 +89,7 @@
 	<string name="installed">Установлено</string>
 	<string name="installing">установка</string>
 	<string name="kilobytes_unit">%1$s КБ</string>
-	<string name="loading">Загрузка HD картинки…</string>
+	<string name="loading">Загрузка HD картинки...</string>
 	<string name="local_game_head">Игр: %d</string>
 	<string name="locations_anhui">Anhui</string>
 	<string name="locations_beijing">Beijing</string>
@@ -129,7 +128,7 @@
 	<string name="locations_zhejiang">Zhejiang</string>
 	<string name="login_fail">Не удалось войти</string>
 	<string name="login_with_xiaomi_account">Войти через XiaoMi</string>
-	<string name="logining">Вход в систему…</string>
+	<string name="logining">Вход в систему...</string>
 	<string name="main_search_hint">введите ключевые слова</string>
 	<string name="management_tag">Мои игры</string>
 	<string name="megabytes_unit">%1$s МБ</string>
@@ -167,7 +166,7 @@
 	<string name="none" />
 	<string name="notif_install_failed">Ошибка установки %1$s</string>
 	<string name="notif_install_successful">%1$s успешно установлено</string>
-	<string name="notif_installing">Установка “%1$s”…</string>
+	<string name="notif_installing">Установка “%1$s”...</string>
 	<string name="notif_title_update">Доступно %1$s обновление！</string>
 	<string name="password_hint">Пароль</string>
 	<string name="password_invalid">Пароль недействительный. Пожалуйста, введите 8-16 комбинацию из цифр и/или букв.</string>
@@ -216,7 +215,7 @@
 	<string name="recharge_fee_title">Платежная карта</string>
 	<string name="recharge_success">Успешно пополнено!</string>
 	<string name="recharge_uint">rmb</string>
-	<string name="recharging">Ожидание обработки…</string>
+	<string name="recharging">Ожидание обработки...</string>
 	<string name="remove_package_timeout_fail">%1$s установка не выполнена. Пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
 	<string name="save_photo_fail">Ошибка сохранения фото</string>
 	<string name="save_photo_success">Фото успешно сохранено</string>

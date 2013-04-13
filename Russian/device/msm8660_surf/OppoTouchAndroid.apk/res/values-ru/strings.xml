@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -48,7 +48,7 @@
   <string name="hour">1 час</string>
   <string name="hours">%s часов</string>
   <string name="label">Описание</string>
-  <string name="loading_ringtone">Загрузка мелодии…</string>
+  <string name="loading_ringtone">Загрузка мелодии...</string>
   <string name="menu_desk_clock">Настольные часы</string>
   <string name="menu_edit_alarm">Изменить настройки будильника</string>
   <string name="menu_item_dock_settings">Настройки док-станции</string>

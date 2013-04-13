@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -299,8 +299,8 @@
   <string name="weekpicker_set">Done</string>
   <string name="weekpicker_title">Set time</string>
   <string name="whole_track_text">Entire track</string>
-  <string name="working_albums">Albums…</string>
-  <string name="working_artists">Artists…</string>
-  <string name="working_playlists">Playlists…</string>
-  <string name="working_songs">Songs…</string>
+  <string name="working_albums">Albums...</string>
+  <string name="working_artists">Artists...</string>
+  <string name="working_playlists">Playlists...</string>
+  <string name="working_songs">Songs...</string>
 </resources>

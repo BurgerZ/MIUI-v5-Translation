@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="activity_not_found">Не удается открыть вложение</string>
 	<string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
@@ -48,7 +47,7 @@
 	<string name="chenghu_disable_mms">Недопустимый адрес MMS</string>
 	<string name="class_0_message_activity">Сообщение класса 0</string>
 	<string name="close">Закрыть</string>
-	<string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
+	<string name="compressing">Картинка слишком большая. Выполняется сжатие...</string>
 	<string name="confirm">Подтвердить</string>
 	<string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
 	<string name="confirm_delete_all_SIM_messages">Вы уверены, что хотите удалить все сообщения с SIM-карты?</string>
@@ -87,7 +86,7 @@
 	<string name="delete_message">Удалить</string>
 	<string name="delete_phrase">Удалить шаблон</string>
 	<string name="delete_unlocked">Удалить закрепленные сообщения</string>
-	<string name="delivery_report_activity">Отчет о доставке</string>
+	<string name="delivery_report_activity">Отчёт о доставке</string>
 	<string name="delivery_toast_body">%s: сообщение доставлено</string>
 	<string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
 	<string name="discard">Отменить</string>
@@ -152,7 +151,7 @@
 	<string name="layout_selector_title">"Макет слайд-шоу "</string>
 	<string name="loading_all_messages">Загрузка сообщений...</string>
 	<string name="loading_conversations">Загрузка переписок...</string>
-	<string name="loading_mms">Загрузка MMS…</string>
+	<string name="loading_mms">Загрузка MMS...</string>
 	<string name="me">Я</string>
 	<string name="menu_compose_new">Новое сообщение</string>
 	<string name="menu_delete_messages">Удалить сообщения</string>
@@ -176,7 +175,7 @@
 	<string name="message_rejected">Отклонено</string>
 	<string name="message_saved_as_draft">Черновик сообщения сохранен</string>
 	<string name="message_send_failed_title">Сообщение не отправлено</string>
-	<string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
+	<string name="message_send_read_report">Будет отправлен отчёт о прочтении</string>
 	<string name="message_size_label">"Размер сообщения: "</string>
 	<string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
 	<string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
@@ -198,16 +197,16 @@
 	<string name="mx_activate_hint_server">Сервер отклонил запрос активации. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
 	<string name="mx_activate_hint_sim_change">SIM карта изменилась. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
 	<string name="mx_auto_resend_mms">Отправить как MMS</string>
-	<string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны</string>
+	<string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны.</string>
 	<string name="mx_auto_resend_sms">Отправить как SMS</string>
-	<string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны</string>
+	<string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны.</string>
 	<string name="mx_btn_enable">Включить</string>
-	<string name="mx_count_dspt">Облачных сообщений отправлено: \nSMS (%1$d), MMS (%2$s)</string>
+	<string name="mx_count_dspt">Облачных сообщений отправлено: \nSMS (%1$d), MMS (%2$s).</string>
 	<string name="mx_current_status">Статус: в сети</string>
 	<string name="mx_dspt">Обмениваться облачными сообщениями могут только пользователи MIUI. При отсутствии интернет соединения сообщения будут отправлены с помощью мобильного оператора.</string>
 	<string name="mx_enable">Облачные сообщения</string>
-	<string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется обычная SMS для активации. Активировать сейчас?</string>
-	<string name="mx_msg">Облачное сообщение</string>
+	<string name="mx_enable_popup_msg">Облачные сообщения позволят вам обмениваться сообщениями с другими пользователями MIUI. Требуется обычная SMS для активации. Активировать сейчас?</string>
+	<string name="mx_msg">Облачные сообщения</string>
 	<string name="mx_offline">Не в сети</string>
 	<string name="mx_online">В сети</string>
 	<string name="mx_reactivate">Повторная активация</string>
@@ -245,23 +244,23 @@
 	<string name="pref_notification_settings_title">Уведомления</string>
 	<string name="pref_other_title">Другие</string>
 	<string name="pref_sms_theme_title">Настройки темы</string>
-	<string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
+	<string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL).</string>
 	<string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
-	<string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений</string>
-	<string name="pref_summary_hide_festival">Скрыть вкладку \"Фразы\" для языков, отличных от китайского</string>
-	<string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
-	<string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
-	<string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
-	<string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-	<string name="pref_summary_new_message_popup">Отображение всплывающих окон, при получении нового сообщения</string>
+	<string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений.</string>
+	<string name="pref_summary_hide_festival">Скрыть вкладку \"Фразы\" для языков, отличных от китайского.</string>
+	<string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте.</string>
+	<string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения.</string>
+	<string name="pref_summary_mms_read_reports">Запрашивать отчёт о прочтении для всех отправляемых сообщений.</string>
+	<string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге.</string>
+	<string name="pref_summary_new_message_popup">Отображение всплывающих окон, при получении новых сообщений.</string>
 	<string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
-	<string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
-	<string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
-	<string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
-	<string name="pref_summary_wake_up_screen">Включение экрана, при получении нового сообщения</string>
+	<string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми.</string>
+	<string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым.</string>
+	<string name="pref_summary_show_recent_contacts">Показывать список недавних контактов при создании новых сообщений.</string>
+	<string name="pref_summary_wake_up_screen">Включение экрана, при получении новых сообщений.</string>
 	<string name="pref_system_title">Системные</string>
-	<string name="pref_time_auto_group_summary">Группировка сообщений по времени</string>
-	<string name="pref_time_auto_group_title">Группировать</string>
+	<string name="pref_time_auto_group_summary">Группировка сообщений по времени.</string>
+	<string name="pref_time_auto_group_title">Группировка</string>
 	<string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
 	<string name="pref_title_delivery_reports">Отчёт о доставке</string>
 	<string name="pref_title_hide_festival">Скрыть вкладку \"Фразы\"</string>

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_error_title">Ошибка камеры</string>
     <string name="cannot_connect_camera">Не удаётся подключиться к камере</string>
     <string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
     <string name="camera_label">Камера</string>
     <string name="video_camera_label">Видеокамера</string>
-    <string name="wait">Пожалуйста подождите…</string>
+    <string name="wait">Пожалуйста подождите...</string>
     <string name="no_storage">Вставте SD-карту перед использованием камеры</string>
     <string name="not_enough_space">Не хватает свободного места</string>
-    <string name="preparing_sd">Подготовка SD-карты…</string>
+    <string name="preparing_sd">Подготовка SD-карты...</string>
     <string name="access_sd_fail">"Нет доступа к карте памяти"</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по-умолчанию?</string>
@@ -241,7 +241,7 @@
     <string name="pano_dialog_panorama_failed">Невозможно сохранить панораму</string>
     <string name="pano_dialog_title">Панорама</string>
     <string name="pref_camera_panoramamode_title">Панорама</string>
-    <string name="pano_review_saving_indication_str">Сохранение…</string>
+    <string name="pano_review_saving_indication_str">Сохранение...</string>
     <string name="tap_to_focus">Нажмите для фокусировки</string>
     <string name="pref_video_effect_default">none</string>
     <string name="effect_none">Нет</string>
@@ -402,7 +402,7 @@
     <string name="cancel">Отмена</string>
     <string name="set_as">Задать как</string>
     <string name="no_thumbnail">Нет миниатюры</string>
-    <string name="loading">Загрузка…</string>
+    <string name="loading">Загрузка...</string>
     <string name="crop_saved">Обрезаное изображение сохранено как \"%s\"</string>
     <string name="video_err">Невозможно воспроизвести видео</string>
     <string name="iso">ISO</string>
@@ -415,7 +415,7 @@
     <string name="duration">Длительность</string>
     <string name="file_size">Размер файла</string>
     <string name="height">Высота</string>
-    <string name="loading_video">Загрузка видео…</string>
+    <string name="loading_video">Загрузка видео...</string>
     <string name="location">Местоположение</string>
     <string name="maker">Производитель</string>
     <string name="mimetype">MIME-тип</string>

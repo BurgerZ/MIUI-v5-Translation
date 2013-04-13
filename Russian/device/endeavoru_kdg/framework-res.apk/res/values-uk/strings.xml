@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -208,7 +208,7 @@
   <string name="editTextMenuTitle">Змінити текст</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-  <string name="ellipsis">…</string>
+  <string name="ellipsis">...</string>
   <string name="ellipsis_two_dots">...</string>
   <string name="emailTypeCustom">Власна</string>
   <string name="emailTypeHome">Домашня</string>
@@ -409,7 +409,7 @@
   <string name="lockscreen_sim_locked_message">SIM-карту заблоковано.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Див. \"Посібник користувача\" або зверніться до служби підтримки.</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-карта захищена PUK-кодом.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Розблокування SIM-карти…</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Розблокування SIM-карти...</string>
   <string name="lockscreen_sound_off_label">Звук вимкнуто</string>
   <string name="lockscreen_sound_on_label">Звук увімкнуто</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Спробуйте ще раз через %d секунд.</string>
@@ -1041,7 +1041,7 @@
   <string name="shareactionprovider_share_with_application">Відкрити доступ програмі \"%s\"</string>
   <string name="short_format_month">%b</string>
   <string name="shutdown_confirm">Ваш телефон вимкнеться.</string>
-  <string name="shutdown_progress">Вимкнення…</string>
+  <string name="shutdown_progress">Вимкнення...</string>
   <string name="silent_mode">Без звуку</string>
   <string name="sim_added_message">Для доступу до мобильної мережі необхідно перезавантажити пристрій.</string>
   <string name="sim_added_title">SIM-карта додана</string>

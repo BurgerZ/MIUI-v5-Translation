@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="absent_num">НОМЕР ОТСУТСТВУЕТ</string>
 	<string name="accessibility_call_muted">Звук выключен</string>
@@ -31,7 +30,7 @@
 	<string name="answer_and_hangup_miui">Окончание вызова и ответ</string>
 	<string name="answer_features_setting_category_miui">Настройки ответа</string>
 	<string name="answer_miui">Ответ</string>
-	<string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
+	<string name="answer_state_setting_summary">Настройки датчика приближения и положения телефона в пространстве.</string>
 	<string name="answer_state_setting_title">Входящие вызовы</string>
 	<string name="answer_state_setting_title_miui">Входящие вызовы</string>
 	<string name="answer_widget_dialog_title_miui">Жест ответа</string>
@@ -67,7 +66,7 @@
 	<string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
 	<string name="auto_answer_summary_not_enabled">Не включено</string>
 	<string name="auto_country_code_miui">Добавлять код страны</string>
-	<string name="auto_country_code_sum_miui">Автоматически добавлять код страны перед номером телефона</string>
+	<string name="auto_country_code_sum_miui">Автоматическое добавление кода страны перед номером телефона.</string>
 	<string name="auto_ip_add_exception_numbers_miui">Добавить номер</string>
 	<string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
 	<string name="auto_ip_exception_summary_miui">%d всего</string>
@@ -239,7 +238,7 @@
 	<string name="crystaltalk_summary_miui">Оптимизация аудио-профиля при разговоре</string>
 	<string name="crystaltalk_title_miui">Настройка \"CrystalTalk\"</string>
 	<string name="current_areacode_miui">Код страны</string>
-	<string name="current_areacode_sum_miui">Код Вашей страны, или код страны, в которой Вы находитесь (если Вы в роуминге). Например: 010</string>
+	<string name="current_areacode_sum_miui">Код вашей страны, или код страны, в которой вы находитесь (если вы в роуминге). Например: 010</string>
 	<string name="current_areacode_sum_set_miui">Код вашей страны: %s</string>
 	<string name="custom_location_location_hint_miui">Имя</string>
 	<string name="custom_location_location_no_item_miui">"Нажмите 'Добавить' снизу для добавления приставок"</string>
@@ -249,7 +248,7 @@
 	<string name="data_enabled">Передача данных</string>
 	<string name="default_contacts_countrycode_hint_miui">Например: 7</string>
 	<string name="default_contacts_countrycode_miui">Стандартный код города</string>
-	<string name="default_contacts_countrycode_sum_miui">Задайте стандартный код города: %s</string>
+	<string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода города: %s.</string>
 	<string name="default_preference_summary">&lt;Не настроено></string>
 	<string name="default_transport">UDP</string>
 	<string name="delete_all_sim_contacts_miui">Удалить все контакты с SIM-карты</string>
@@ -258,7 +257,7 @@
 	<string name="delete_sim_contact_confirm_title_miui">Удалить контакты с SIM</string>
 	<string name="delete_sim_entries_finish">Удаление контактов с SIM успешно</string>
 	<string name="delete_sim_entry_miui">Удалить</string>
-	<string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
+	<string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора...</string>
 	<string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
 	<string name="description_call_recording_miui">Запись текущего разговора.</string>
 	<string name="description_delete_button">возврат</string>
@@ -323,7 +322,7 @@
 	<string name="emergency_broadcast_enable">Оповещения о чрезвычайных ситуациях включены</string>
 	<string name="emergency_call_area_code_edit_dialog_button_miui">вызов</string>
 	<string name="emergency_call_area_code_edit_dialog_hint_miui">Например: 112</string>
-	<string name="emergency_enable_radio_dialog_message">Включение радио…</string>
+	<string name="emergency_enable_radio_dialog_message">Включение радио...</string>
 	<string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение...</string>
 	<string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
 	<string name="empty_alert">Поле \"%s\" не может быть пустым</string>
@@ -477,7 +476,7 @@
 	<string name="list_language_dtitle">Языки</string>
 	<string name="list_language_summary">Выбрать язык для новостей</string>
 	<string name="list_language_title">Язык</string>
-	<string name="load_networks_progress">Поиск…</string>
+	<string name="load_networks_progress">Поиск...</string>
 	<string name="local_disable">Местные новости отключены</string>
 	<string name="local_enable">Местные новости включены</string>
 	<string name="local_weather_disable">Местный прогноз погоды отключен</string>
@@ -658,8 +657,8 @@
 	<string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
 	<string name="port">Порт</string>
 	<string name="port_title">Номер порта</string>
-	<string name="pref_custom_location_summary_miui">Настройка региональных приставок и количество приставок</string>
-	<string name="pref_custom_location_title_miui">Настройка приставок</string>
+	<string name="pref_custom_location_summary_miui">Редактирование региональных приставок.</string>
+	<string name="pref_custom_location_title_miui">Региональные приставки</string>
 	<string name="prefer_2g">Только 2G</string>
 	<string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
 	<string name="preference_category_ringtone">Рингтон</string>
@@ -697,13 +696,13 @@
 	<string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
 	<string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
 	<string name="readingSimContacts">SIM card information is being read. This operation may take a minute, please be patient.</string>
-	<string name="reading_settings">Чтение настроек…</string>
+	<string name="reading_settings">Чтение настроек...</string>
 	<string name="regional_disable">Региональные новости отключены</string>
 	<string name="regional_enable">Региональные новости включены</string>
 	<string name="register_automatically">Автоматическая регистрация...</string>
 	<string name="register_network_failed_message_miui">Невозможно зарегистрироваться в выбранной сети, вы хотите выбирать предпочитаемую сеть автоматически?</string>
 	<string name="register_network_failed_title_miui">Служба недоступна</string>
-	<string name="register_on_network">Регистрация в сети %s…</string>
+	<string name="register_on_network">Регистрация в сети %s...</string>
 	<string name="registration_done">Регистрация в сети завершена</string>
 	<string name="registration_status_checking_status">Проверка состояния...</string>
 	<string name="registration_status_done">Вызовы принимаются</string>
@@ -750,7 +749,7 @@
 	<string name="restaurants_enable">Рестораны включены</string>
 	<string name="retail_directory_disable">Торговый каталог отключен</string>
 	<string name="retail_directory_enable">Торговый каталог включен</string>
-	<string name="reverting_settings">Возврат к предыдущим настройкам…</string>
+	<string name="reverting_settings">Возврат к предыдущим настройкам...</string>
 	<string name="rhrpd_unlock_failed">RUIM Hrpd unlock request unsuccessful</string>
 	<string name="ringtone_title">Мелодия телефона</string>
 	<string name="rnw1_unlock_failed">RUIM Network1 unlock request unsuccessful</string>
@@ -780,7 +779,7 @@
 	<string name="settings_label">Настройки сети</string>
 	<string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета</string>
 	<string name="simContacts_empty">На SIM-карте нет контактов</string>
-	<string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
+	<string name="simContacts_emptyLoading">Считывание с SIM-карты...</string>
 	<string name="simContacts_title">Выберите контакты для импорта</string>
 	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
 	<string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
@@ -843,7 +842,7 @@
 	<string name="sum_fdn_manage_list">Управление списком разрешенных номеров</string>
 	<string name="sum_gsm_call_settings">Дополнительные настройки только для вызовов GSM</string>
 	<string name="sum_hide_caller_id">Количество скрытых в исходящих звонках</string>
-	<string name="sum_loading_settings">Загрузка настроек…</string>
+	<string name="sum_loading_settings">Загрузка настроек...</string>
 	<string name="sum_search_networks">Поиск всех доступных сетей</string>
 	<string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
 	<string name="sum_select_automatically_option_miui">Автовыбор предпочтительной сети, %s</string>
@@ -895,11 +894,11 @@
 	<string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
 	<string name="unlock_success">Разблокировка сети успешно завершена</string>
 	<string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
-	<string name="updating_settings">Обновление настроек…</string>
+	<string name="updating_settings">Обновление настроек...</string>
 	<string name="updating_title">Настройки вызовов</string>
 	<string name="username">UserName</string>
 	<string name="username_title">Имя пользователя</string>
-	<string name="ussdRunning">Выполняется запрос USSD…</string>
+	<string name="ussdRunning">Выполняется запрос USSD...</string>
 	<string name="vibrate_on_ring_title">Вибрация при звонке</string>
 	<string name="vm_change_failed">Не удалось изменить номер голосовой почты.\nЕсли проблема не будет решена, свяжитесь со своим оператором</string>
 	<string name="vm_changed">Номер голосовой почты изменен</string>

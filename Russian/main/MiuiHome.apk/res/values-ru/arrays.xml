@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
         <item>Стандартный</item>
@@ -8,7 +8,7 @@
         <item>Листание</item>
         <item>Каскад</item>
         <item>Вращение</item>
-        <item>3D Куб</item>
+        <item>Объемный куб</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Включена</item>

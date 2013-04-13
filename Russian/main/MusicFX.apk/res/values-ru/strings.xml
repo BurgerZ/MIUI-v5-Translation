@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">MusicFX</string>
-	<string name="bass_boost_strength">Усиление нижних частот</string>
+	<string name="bass_boost_strength">Усиление низких частот</string>
 	<string name="ci_extreme">Усилитель FX</string>
 	<string name="eq_dialog_title">Эквалайзер</string>
 	<string name="headset_plug">Подключите наушники для этих эффектов</string>

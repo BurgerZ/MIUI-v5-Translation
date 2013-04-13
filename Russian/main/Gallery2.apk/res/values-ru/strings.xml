@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -73,11 +73,11 @@
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
   <string name="iso">ISO</string>
-  <string name="loading">Идет загрузка…</string>
+  <string name="loading">Идет загрузка...</string>
   <string name="loading_account">Загрузка аккаунта...</string>
   <string name="loading_failure">Не удалось загрузить фото</string>
   <string name="loading_image">Загрузка изображения...</string>
-  <string name="loading_video">Загрузка видео…</string>
+  <string name="loading_video">Загрузка видео...</string>
   <string name="location">Местоположение</string>
   <string name="locations">Места</string>
   <string name="lomoish">Ломо</string>

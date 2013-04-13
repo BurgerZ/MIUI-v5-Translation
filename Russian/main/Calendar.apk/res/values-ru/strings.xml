@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="accessibility_add_attendee">Добавить участника</string>
 	<string name="accessibility_add_reminder">Добавить напоминание</string>
@@ -44,7 +43,7 @@
 	<string name="create_an_account_desc">Подключите Календарь к аккаунту Google, чтобы: \n\n• Всегда иметь под рукой обновленные данные – на любом устройстве.\n• Синхронизировать все мероприятия – вы никогда не потеряете их.</string>
 	<string name="creating_event">Мероприятие создано</string>
 	<string name="creating_event_with_guest">Приглашение отправлено</string>
-	<string name="custom">Особое… (настраивается только на сайте)</string>
+	<string name="custom">Особое... (настраивается только на сайте)</string>
 	<string name="daily">Ежедневно</string>
 	<string name="day_view">День</string>
 	<string name="day_view_new_event_hint">Создать мероприятие</string>
@@ -52,7 +51,7 @@
 	<string name="delete_recurring_event_title">Удалить %s?</string>
 	<string name="delete_this_event_title">Удалить мероприятие?</string>
 	<string name="description_label">Описание</string>
-	<string name="directory_searching_fmt">Поиск в %s…</string>
+	<string name="directory_searching_fmt">Поиск в %s...</string>
 	<string name="discard_label">Отмена</string>
 	<string name="dismiss_all_label">Удалить все</string>
 	<string name="do_not_check">Не проверять -></string>
@@ -88,7 +87,7 @@
 	<string name="hint_where">Место мероприятия</string>
 	<string name="jump_date">Перейти</string>
 	<string name="jump_date_full">Перейти к дате</string>
-	<string name="loading">Загрузка…</string>
+	<string name="loading">Загрузка...</string>
 	<string name="local_calendar_display_name">Локальный календарь</string>
 	<string name="local_owner_account_name">Локальный аккаунт</string>
 	<string name="menu_about_preferences">О календаре</string>
@@ -119,7 +118,7 @@
 	<string name="preferences_build_version">Версия сборки</string>
 	<string name="preferences_category_account_title">Аккаунт</string>
 	<string name="preferences_category_general_title">Общие</string>
-	<string name="preferences_clear_search_history_summary">Удалить информацию обо всех выполненных поисковых запросах</string>
+	<string name="preferences_clear_search_history_summary">Удалить информацию обо всех выполненных поисковых запросах.</string>
 	<string name="preferences_clear_search_history_title">Очистить историю поиска</string>
 	<string name="preferences_default_reminder_dialog">Время напоминания</string>
 	<string name="preferences_default_reminder_title">Время напоминания</string>
@@ -129,7 +128,7 @@
 	<string name="preferences_reminder_title">Настройки напоминаний</string>
 	<string name="preferences_show_week_num_title">Показать номер недели</string>
 	<string name="preferences_title">Настройки</string>
-	<string name="preferences_use_home_tz_descrip">Всегда показывать в календаре время в заданном часовом поясе</string>
+	<string name="preferences_use_home_tz_descrip">Всегда показывать в календаре время в заданном часовом поясе.</string>
 	<string name="preferences_use_home_tz_title">Фиксировать часовой пояс</string>
 	<string name="preferences_week_start_day_dialog">Первый день недели</string>
 	<string name="preferences_week_start_day_title">Первый день недели</string>
@@ -140,7 +139,7 @@
 	<string name="quick_response_email_failed">Программа почты не найдена</string>
 	<string name="quick_response_settings">Быстрые ответы</string>
 	<string name="quick_response_settings_edit_title">Быстрый ответ</string>
-	<string name="quick_response_settings_summary">Редактирование сообщений быстрого ответа</string>
+	<string name="quick_response_settings_summary">Редактирование сообщений быстрого ответа.</string>
 	<string name="quick_response_settings_title">Изменить быстрый ответ</string>
 	<string name="reminders_label">Добавить напоминание</string>
 	<string name="repeats_label">Повтор</string>

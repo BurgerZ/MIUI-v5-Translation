@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="account">Аккаунт</string>
 	<string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален из почты</string>
@@ -218,14 +217,14 @@
 	<string name="contextmenu_add_contact">Добавить контакт</string>
 	<string name="contextmenu_copy">Копировать</string>
 	<string name="contextmenu_copylink">Скопируйте URL-адрес</string>
-	<string name="contextmenu_dial_dot">Набрать…</string>
+	<string name="contextmenu_dial_dot">Набрать...</string>
 	<string name="contextmenu_feedback">Отправить отзыв</string>
 	<string name="contextmenu_help">Справка</string>
 	<string name="contextmenu_map">Карты</string>
 	<string name="contextmenu_openlink">Открыть в браузере</string>
 	<string name="contextmenu_send_mail">Отправить письмо</string>
 	<string name="contextmenu_sharelink">Отправить ссылку</string>
-	<string name="contextmenu_sms_dot">Сообщение…</string>
+	<string name="contextmenu_sms_dot">Сообщение...</string>
 	<string name="copy_email">Скопировать адрес эл. почты</string>
 	<string name="copy_number">Скопировать номер телефона</string>
 	<string name="create_action">Создать</string>
@@ -251,7 +250,7 @@
 	<string name="dialog_sync_all_preparing">Подготовка %1$d фото и %2$d видео к загрузке...</string>
 	<string name="dialog_sync_all_scanning">Поиск файлов...</string>
 	<string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже</string>
-	<string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование Вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами</string>
+	<string name="disable_admin_warning">Внимание! Отключение прав на администрирование вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами.</string>
 	<string name="discard_action">Отменить</string>
 	<string name="done">Назад</string>
 	<string name="done_action">Готово</string>
@@ -269,7 +268,7 @@
 	<string name="forward_action">Переслать</string>
 	<string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
 	<string name="forward_download_failed_title">Не удалось переслать вложение</string>
-	<string name="gal_searching_fmt">Поиск %s…</string>
+	<string name="gal_searching_fmt">Поиск %s...</string>
 	<string name="general_preference_auto_advance_dialog_title">Переходить к</string>
 	<string name="general_preference_auto_advance_label">Автопереход</string>
 	<string name="general_preference_auto_advance_message_list">Списку сообщений</string>
@@ -386,7 +385,7 @@
 	<string name="message_view_message_details_dialog_title">Детали</string>
 	<string name="message_view_move_to_newer">Следующее сообщение</string>
 	<string name="message_view_move_to_older">Предыдущее сообщение</string>
-	<string name="message_view_parse_message_toast">Сообщение открывается…</string>
+	<string name="message_view_parse_message_toast">Сообщение открывается...</string>
 	<string name="message_view_show_details">Показать сведения</string>
 	<string name="message_view_show_invite_action">Пригласить</string>
 	<string name="message_view_show_message_action">Сообщение</string>

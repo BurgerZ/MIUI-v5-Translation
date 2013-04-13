@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="cit_OTG_plugin_check_summary">Этот тест определит состояние подключения OTG устройства</string>
 	<string name="cit_OTG_plugin_check_title">Тест подключения OTG</string>

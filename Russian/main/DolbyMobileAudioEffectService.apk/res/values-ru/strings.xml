@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_label">Аудиоэффекты Dolby Mobile</string>
 	<string name="dm_audio_effect_controller">Управление Dolby Mobile</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="account_abnormal_state">Неверная информация об учетной записи, попробуйте войти снова или повторите попытку позже!</string>
 	<string name="all_resources">Все</string>
@@ -160,7 +160,7 @@
 	<string name="theme_import_oper_stop_request_content">Эти темы нуждаются в обновлении для использования, остановить?</string>
 	<string name="theme_import_preparing">Поиск тем</string>
 	<string name="theme_import_stoping">Остановка...</string>
-	<string name="theme_importing">Импортирование темы…</string>
+	<string name="theme_importing">Импортирование темы...</string>
 	<string name="theme_is_imported">Тема импортирована</string>
 	<string name="theme_sdcard_importing">Импортирование</string>
 	<string name="theme_select_others">Прочее</string>

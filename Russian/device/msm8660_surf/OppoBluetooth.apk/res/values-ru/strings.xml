@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -55,14 +55,14 @@
   <string name="download_line2">File: %1$s</string>
   <string name="download_line3">File size: %1$s</string>
   <string name="download_line4" />
-  <string name="download_line5">Receiving file…</string>
+  <string name="download_line5">Receiving file...</string>
   <string name="download_ok">Hide</string>
   <string name="download_succ_line5">File received</string>
   <string name="download_succ_ok">Open</string>
   <string name="download_success">%1$s Received complete.</string>
   <string name="download_title">File transfer</string>
-  <string name="enabling_progress_content">Turning on bluetooth…</string>
-  <string name="enabling_progress_title">Please wait…</string>
+  <string name="enabling_progress_content">Turning on bluetooth...</string>
+  <string name="enabling_progress_title">Please wait...</string>
   <string name="file_encrypted">The folder has been encrypted.</string>
   <string name="file_incoming_in_statistic">%1$s files save in dir: %2$s</string>
   <string name="file_incoming_in_statistic_lookup_button">Look up file</string>
@@ -151,7 +151,7 @@
   <string name="upload_fail_ok">Try again</string>
   <string name="upload_line1">To: \"%1$s\"</string>
   <string name="upload_line3">File Type: %1$s (%2$s)</string>
-  <string name="upload_line5">Sending file…</string>
+  <string name="upload_line5">Sending file...</string>
   <string name="upload_succ_line5">File sent</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Sent complete.</string>

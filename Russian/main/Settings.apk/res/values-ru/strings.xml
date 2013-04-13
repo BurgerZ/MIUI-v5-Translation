@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="about_settings">О телефоне</string>
 	<string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
@@ -255,10 +255,10 @@
 	<string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
 	<string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
 	<string name="bluetooth_advanced_titlebar">Расш. настройки Bluetooth</string>
-	<string name="bluetooth_ask_discovery">Одному из приложений нужно, чтобы Ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
+	<string name="bluetooth_ask_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
 	<string name="bluetooth_ask_enablement">Приложение запрашивает разрешение включить Bluetooth. Разрешить?</string>
-	<string name="bluetooth_ask_enablement_and_discovery">Одному из приложений нужно, чтобы Ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
-	<string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений нужно, чтобы Ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
+	<string name="bluetooth_ask_enablement_and_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
+	<string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
 	<string name="bluetooth_ask_lasting_discovery">Одному из приложений нужно, чтобы Ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
 	<string name="bluetooth_auto_connect">Автоматическое подключение</string>
 	<string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
@@ -506,7 +506,7 @@
 	<string name="data_usage_auto_sync_off_dialog_title">Выключить автосинхронизацию?</string>
 	<string name="data_usage_auto_sync_on_dialog">Любые изменения аккаунта в сети автоматически будут скопированы в телефон.\n+Некоторые аккаунты также могут автоматически копировать изменения с телефона в сеть. Аккаунт Google работает именно так.\n \u0009 \u0009\n+Для выбора данных для синхронизации перейдите в Настройки > Аккаунты</string>
 	<string name="data_usage_auto_sync_on_dialog_title">Включить автосинхронизацию?</string>
-	<string name="data_usage_change_cycle">Изменить…</string>
+	<string name="data_usage_change_cycle">Изменить...</string>
 	<string name="data_usage_cycle">Период статистики</string>
 	<string name="data_usage_cycle_editor_positive">Сохранить</string>
 	<string name="data_usage_cycle_editor_subtitle">День месяца:</string>
@@ -892,7 +892,7 @@
 	<string name="location_title">Мое местоположение</string>
 	<string name="lock_after_timeout">Автоблокировка</string>
 	<string name="lock_after_timeout_summary">После %1$s спящего режима</string>
-	<string name="lock_intro_message">Чтобы никто, кроме Вас, не мог воспользоваться Вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. Чтобы начать, нажмите \"Далее\"</string>
+	<string name="lock_intro_message">Чтобы никто, кроме вас, не мог воспользоваться вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. Чтобы начать, нажмите \"Далее\"</string>
 	<string name="lock_screen_unlock_show">Показывать окно ввода пароля напрямую</string>
 	<string name="lock_screen_unlock_show_summary">Не показывать другие экраны блокировки, кроме экрана ввода пароля</string>
 	<string name="lock_settings_picker_settings">Блокировка экрана</string>
@@ -1065,7 +1065,7 @@
 	<string name="no_applications">Нет приложений</string>
 	<string name="no_device_admins">Нет доступных администраторов устройства</string>
 	<string name="no_media_button_receiver">Нет</string>
-	<string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, Вы можете пересканировать сети или добавить сеть вручную</string>
+	<string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, вы можете пересканировать сети или добавить сеть вручную</string>
 	<string name="no_running_services">Ничего не запущено</string>
 	<string name="no_services">Неактивен</string>
 	<string name="normal_date_format">%s (по умолчанию)</string>
@@ -1278,7 +1278,7 @@
 	<string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
 	<string name="pref_volume_wake_title">Пробуждать устройство</string>
 	<string name="preference_change_password_title">Изменить пароль</string>
-	<string name="preferred_launcher_title">Рабочий стол</string>
+	<string name="preferred_launcher_title">Выбор рабочего стола</string>
 	<string name="preferred_launcher_warning_message">После смены системного рабочего стола, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать рабочий стол по умолчанию.</string>
 	<string name="preferred_launcher_warning_replace">Применить</string>
 	<string name="preferred_launcher_warning_title">Замена рабочего стола</string>
@@ -1531,10 +1531,10 @@
 	<string name="android_beam_witch_label">Включить Android Beam</string>
 	<string name="settings_label">Настройки</string>
 	<string name="settings_label_launcher">Настройки</string>
-	<string name="settings_license_activity_loading">Идет загрузка…</string>
+	<string name="settings_license_activity_loading">Идет загрузка...</string>
 	<string name="settings_license_activity_title">Лицензии открытого ПО</string>
 	<string name="settings_license_activity_unavailable">При загрузке лицензий возникла неполадка</string>
-	<string name="settings_safetylegal_activity_loading">Идет загрузка…</string>
+	<string name="settings_safetylegal_activity_loading">Идет загрузка...</string>
 	<string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
 	<string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
 	<string name="settings_safetylegal_title">Сведения о безопасности</string>
@@ -1587,7 +1587,7 @@
 	<string name="skip_step">Пропустить шаг</string>
 	<string name="small_font">Маленький</string>
 	<string name="sms_delivered_sound_dialog_title">Выберите звук для уведомления о доставке сообщения</string>
-	<string name="sms_delivered_sound_title">Доставлено</string>
+	<string name="sms_delivered_sound_title">Доставка</string>
 	<string name="sms_over_ims_off">Отключить SMS через IMS</string>
 	<string name="sms_over_ims_on">Включить SMS через IMS</string>
 	<string name="sms_received_sound_dialog_title">Выбор звука при получении сообщения</string>
@@ -1653,7 +1653,7 @@
 	<string name="sync_error">Ошибка синхронизации</string>
 	<string name="sync_failed">Ошибка синхронизации</string>
 	<string name="sync_gmail">Gmail</string>
-	<string name="sync_in_progress">Синхронизация…</string>
+	<string name="sync_in_progress">Синхронизация...</string>
 	<string name="sync_is_failing">Проблемы с синхронизацией. Скоро все заработает</string>
 	<string name="sync_item_title">%s</string>
 	<string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
@@ -1831,7 +1831,7 @@
 	<string name="user_dict_settings_context_menu_edit_title">Изменить</string>
 	<string name="user_dict_settings_edit_dialog_title">Изменение слова</string>
 	<string name="user_dict_settings_empty_text">В пользовательском словаре пока ничего нет. Добавлять слова можно с помощью кнопки \"Добавить ( + )\"</string>
-	<string name="user_dict_settings_more_languages">Больше языков…</string>
+	<string name="user_dict_settings_more_languages">Больше языков...</string>
 	<string name="user_dict_settings_summary" />
 	<string name="user_dict_settings_titlebar">Словарь пользователя</string>
 	<string name="user_dict_single_settings_title">Пользовательский словарь</string>
@@ -1898,7 +1898,7 @@
 	<string name="volume_media_mute">Отключить музыку и медиа</string>
 	<string name="volume_notification_description">Оповещения</string>
 	<string name="volume_notification_mute">Отключить уведомления</string>
-	<string name="volume_restore">Восстановить по умолчанию</string>
+	<string name="volume_restore">Настройки по умолчанию</string>
 	<string name="volume_restore_alert">Восстановить настройки громкости по умолчанию?</string>
 	<string name="volume_ring_description">Рингтон и уведомления</string>
 	<string name="volume_ring_mute">Отключить звонок и уведомления</string>
@@ -1985,7 +1985,7 @@
 	<string name="wifi_eap_method">Метод EAP</string>
 	<string name="wifi_eap_user_cert">Сертификат пользователя</string>
 	<string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети\nвключите Wi-Fi</string>
-	<string name="wifi_empty_list_wifi_on">Поиск Wi-Fi сетей…</string>
+	<string name="wifi_empty_list_wifi_on">Поиск Wi-Fi сетей...</string>
 	<string name="wifi_enable">Включить Wi-Fi</string>
 	<string name="wifi_enable_watchdog_service_summary">Не использовать сети Wi-Fi с плохим интернет-соединением</string>
 	<string name="wifi_error">Ошибка</string>
@@ -2022,7 +2022,7 @@
 	<string name="wifi_notify_open_networks">Уведомлять о сетях</string>
 	<string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
 	<string name="wifi_on_time">Время работы Wi-Fi</string>
-	<string name="wifi_other_network">Другая сеть…</string>
+	<string name="wifi_other_network">Другая сеть...</string>
 	<string name="wifi_p2p_cancel_connect_message">Вы хотите отменить приглашение к соединению с %1$s?</string>
 	<string name="wifi_p2p_cancel_connect_title">Отменить приглашение?</string>
 	<string name="wifi_p2p_device_info">Информация об устройстве</string>
@@ -2148,7 +2148,7 @@
 	<string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
 	<string name="wifi_wps_available_first_item">Доступна защищенная сеть</string>
 	<string name="wifi_wps_available_second_item">" (доступна защищенная сеть)"</string>
-	<string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
+	<string name="wifi_wps_complete">WPS успешно. Соединение с сетью...</string>
 	<string name="wifi_wps_connected">Соединено с сетью Wi-Fi %s</string>
 	<string name="wifi_wps_failed_auth">Ошибка авторизации. Попробуйте позже</string>
 	<string name="wifi_wps_failed_generic">WPS ошибка. Повторите попытку через несколько минут</string>

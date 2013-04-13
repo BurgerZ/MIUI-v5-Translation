@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
@@ -94,7 +94,7 @@
   <string name="duplicate_dlg_msg">"'%1$s' содержит %2$s, имеющийся на данном телефоне. Выберите %2$s для сохранения."</string>
   <string name="duplicate_dlg_title">%1$s уже существует</string>
   <string name="duplicate_list_title">Дублировать %1$s в %2$s</string>
-  <string name="enabling_progress_content">Включение Bluetooth…</string>
+  <string name="enabling_progress_content">Включение Bluetooth...</string>
   <string name="enabling_progress_title">Подождите...</string>
   <string name="error_canceled">Передача была отменена.</string>
   <string name="error_content_create_to_send">Не удается создать файл для отправки.</string>
