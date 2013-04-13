@@ -11,12 +11,12 @@
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
+        <item>на 5 минут</item>
+        <item>на 10 минут</item>
+        <item>на 15 минут</item>
+        <item>на 20 минут</item>
+        <item>на 25 минут</item>
+        <item>на 30 минут</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Выключено</item>

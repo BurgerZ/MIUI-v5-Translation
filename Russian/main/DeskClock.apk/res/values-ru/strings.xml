@@ -135,5 +135,5 @@
 	<string name="auto_silence_never">Выключено</string>
 	<string name="auto_silence_summary">Автоматическое выключение будильника через %d мин.</string>
 	<string name="auto_silence_title">Автовыключение</string>
-	<string name="snooze_duration_title">Отложить на</string>
+	<string name="snooze_duration_title">Отложить</string>
 </resources>
