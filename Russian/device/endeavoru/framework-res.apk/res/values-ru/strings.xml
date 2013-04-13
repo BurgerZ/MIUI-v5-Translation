@@ -43,7 +43,7 @@
   <string name="accessibility_binding_label">Специальные возможности</string>
   <string name="action_bar_home_description">Перейти на главную</string>
   <string name="action_bar_up_description">Перейти вверх</string>
-  <string name="action_menu_overflow_description">Ещё</string>
+  <string name="action_menu_overflow_description">Ещe</string>
   <string name="action_mode_done">Готово</string>
   <string name="activity_chooser_view_dialog_title_default">Выбор действия</string>
   <string name="activity_chooser_view_see_all">Просмотреть все</string>
@@ -511,7 +511,7 @@
   <string name="month_shortest_october">О</string>
   <string name="month_shortest_september">С</string>
   <string formatted="false" name="month_year">%B %Y</string>
-  <string name="more_item_label">Ещё</string>
+  <string name="more_item_label">Ещe</string>
   <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK</string>
   <string name="needPuk2">Для разблокировки SIM-карты введите PUK2</string>
   <string name="new_app_action">Запустить приложение %1$s</string>

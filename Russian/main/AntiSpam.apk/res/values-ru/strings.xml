@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="act_action_accept_accept">Принимать всё</string>
+	<string name="act_action_accept_accept">Принимать всe</string>
 	<string name="act_action_accept_mute">Сообщения без звука</string>
 	<string name="act_action_accept_reject">Блокировать сообщения</string>
 	<string name="act_action_mute_accept">Вызов без звука</string>

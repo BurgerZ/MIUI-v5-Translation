@@ -148,7 +148,7 @@
 	<string name="exit_browser_warning">Выйти из браузера?</string>
 	<string name="export_bookmark">Экспорт закладок</string>
 	<string name="export_bookmark_failure">Не удалось экспортировать закладки на SD-карту!</string>
-	<string name="export_bookmark_sucess">Экспорт закладок на SD-карту завершён!</string>
+	<string name="export_bookmark_sucess">Экспорт закладок на SD-карту завершeн!</string>
 	<string name="exported_bookmark_file_name">Избранное</string>
 	<string name="file_picker_new_folder">Новая папка</string>
 	<string name="file_picker_sdcard_not_found">SD-карта не обнаружена, пожалуйста проверьте устройство</string>

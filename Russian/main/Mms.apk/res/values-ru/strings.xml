@@ -43,7 +43,7 @@
 	<string name="cannot_send_message">Не удалось отправить сообщение</string>
 	<string name="cannot_send_message_reason">Не указано ни одного реального получателя</string>
 	<string name="change_duration_activity">Изменить продолжительность</string>
-	<string name="check_all">Всё</string>
+	<string name="check_all">Всe</string>
 	<string name="chenghu_disable_mms">Недопустимый адрес MMS</string>
 	<string name="class_0_message_activity">Сообщение класса 0</string>
 	<string name="close">Закрыть</string>
@@ -86,7 +86,7 @@
 	<string name="delete_message">Удалить</string>
 	<string name="delete_phrase">Удалить шаблон</string>
 	<string name="delete_unlocked">Удалить закрепленные сообщения</string>
-	<string name="delivery_report_activity">Отчёт о доставке</string>
+	<string name="delivery_report_activity">Отчeт о доставке</string>
 	<string name="delivery_toast_body">%s: сообщение доставлено</string>
 	<string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
 	<string name="discard">Отменить</string>
@@ -175,7 +175,7 @@
 	<string name="message_rejected">Отклонено</string>
 	<string name="message_saved_as_draft">Черновик сообщения сохранен</string>
 	<string name="message_send_failed_title">Сообщение не отправлено</string>
-	<string name="message_send_read_report">Будет отправлен отчёт о прочтении</string>
+	<string name="message_send_read_report">Будет отправлен отчeт о прочтении</string>
 	<string name="message_size_label">"Размер сообщения: "</string>
 	<string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
 	<string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
@@ -246,11 +246,11 @@
 	<string name="pref_sms_theme_title">Тема</string>
 	<string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL).</string>
 	<string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
-	<string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений.</string>
+	<string name="pref_summary_delivery_reports">Запрашивать отчeт о доставке для всех отправляемых сообщений.</string>
 	<string name="pref_summary_hide_festival">Скрыть вкладку \"Фразы\" для языков, отличных от китайского.</string>
 	<string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте.</string>
 	<string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения.</string>
-	<string name="pref_summary_mms_read_reports">Запрашивать отчёт о прочтении для всех отправляемых сообщений.</string>
+	<string name="pref_summary_mms_read_reports">Запрашивать отчeт о прочтении для всех отправляемых сообщений.</string>
 	<string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге.</string>
 	<string name="pref_summary_new_message_popup">Отображение всплывающих окон, при получении новых сообщений.</string>
 	<string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
@@ -262,12 +262,12 @@
 	<string name="pref_time_auto_group_summary">Группировка сообщений по времени.</string>
 	<string name="pref_time_auto_group_title">Группировать</string>
 	<string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
-	<string name="pref_title_delivery_reports">Отчёт о доставке</string>
+	<string name="pref_title_delivery_reports">Отчeт о доставке</string>
 	<string name="pref_title_hide_festival">Скрыть вкладку \"Фразы\"</string>
 	<string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
 	<string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
 	<string name="pref_title_mms_delete">Максимальное количество MMS</string>
-	<string name="pref_title_mms_read_reports">Отчёт о прочтении</string>
+	<string name="pref_title_mms_read_reports">Отчeт о прочтении</string>
 	<string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
 	<string name="pref_title_new_message_popup">Всплывающие окна</string>
 	<string name="pref_title_ringtone_repeat">Количество напоминаний</string>

@@ -1295,7 +1295,7 @@
   <string name="radioInfo_service_out">Вне зоны обслуживания</string>
   <string name="radioInfo_unknown">неизвестно</string>
   <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полета, мобильные сети и VPN</string>
-  <string name="radio_controls_title">Ещё...</string>
+  <string name="radio_controls_title">Ещe...</string>
   <string name="radio_info_band_mode_label">Выбрать радиостанцию</string>
   <string name="radio_info_call_redirect_label">Перенаправление вызовов:</string>
   <string name="radio_info_call_status_label">Состояние вызова:</string>

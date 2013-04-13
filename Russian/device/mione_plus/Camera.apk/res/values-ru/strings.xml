@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_error_title">Ошибка камеры</string>
-    <string name="cannot_connect_camera">Не удаётся подключиться к камере</string>
+    <string name="cannot_connect_camera">Не удаeтся подключиться к камере</string>
     <string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
     <string name="camera_label">Камера</string>
     <string name="video_camera_label">Видеокамера</string>
@@ -44,7 +44,7 @@
     <string name="pref_video_quality_entry_wvga">WVGA</string>
     <string name="pref_video_quality_entry_vga">VGA</string>
     <string name="pref_video_quality_entry_wqvga">WQVGA</string>
-    <string name="pref_video_time_lapse_frame_interval_title">Съёмка через промежуток времени</string>
+    <string name="pref_video_time_lapse_frame_interval_title">Съeмка через промежуток времени</string>
     <string name="pref_video_time_lapse_frame_interval_default">160</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2 times</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4 times</string>
@@ -151,7 +151,7 @@
     <string name="pref_camera_saturation_entry_level10">Уровень 10</string>
     <string name="pref_camera_default_suffix">" (по умолчанию)"</string>
     <string name="pref_camera_sharpness_default">2</string>
-    <string name="pref_camera_sharpness_title">Чёткость</string>
+    <string name="pref_camera_sharpness_title">Чeткость</string>
     <string name="pref_camera_contrast_default">5</string>
     <string name="pref_camera_contrast_title">Контрастность</string>
     <string name="pref_camera_saturation_default">5</string>
@@ -224,7 +224,7 @@
     <string name="pref_camera_hfr_value_2x">60</string>
     <string name="pref_camera_hfr_value_3x">90</string>
     <string name="pref_camera_hfr_value_4x">120</string>
-    <string name="pref_video_speed_title">Скорость видеосъёмки</string>
+    <string name="pref_video_speed_title">Скорость видеосъeмки</string>
     <string name="pref_video_speed_default">normal</string>
     <string name="pref_video_speed_entry_normal">Нормальная</string>
     <string name="pref_video_speed_entry_fast">Быстрая</string>
@@ -346,7 +346,7 @@
     <string name="pref_camera_volumekey_function_entry_zooming">Зум</string>
     <string name="pref_camera_volumekey_function_title">Клавиши громкости</string>
     <string name="pref_camera_volumekey_function_default">zoom</string>
-    <string name="pref_camera_long_pressing_burst_shooting_title">Серийная сьёмка</string>
+    <string name="pref_camera_long_pressing_burst_shooting_title">Серийная сьeмка</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_off">Выкл.</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_on">Вкл.</string>
     <string name="pref_camera_long_pressing_burst_shooting_default">on</string>
@@ -355,10 +355,10 @@
     <string name="toast_start_audio_capture">Голосовое управление затвором</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
     <string name="can_not_play_video">Разблокировка экрана для воспроизведения</string>
-    <string name="toast_burst_snap_finished_start">Серийная съёмка завершена</string>
+    <string name="toast_burst_snap_finished_start">Серийная съeмка завершена</string>
     <string name="toast_burst_snap_finished_end">Готово</string>
-    <string name="toast_burst_snap_forbidden_when_hdr_open">Не поддерживается серийная съёмка когда включён HDR режим</string>
-    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Не поддерживается серийная съёмка когда включёно управление голосом</string>
+    <string name="toast_burst_snap_forbidden_when_hdr_open">Не поддерживается серийная съeмка когда включeн HDR режим</string>
+    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Не поддерживается серийная съeмка когда включeно управление голосом</string>
     <string name="time_lapse_error">Неверный размер видео для покадровой записи</string>
     <string name="pref_camera_movie_solid_default">on</string>
     <string name="pref_camera_movie_solid_title">Сплошной ролик</string>
@@ -383,7 +383,7 @@
     <string name="select_item">Выбрать элемент</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-    <string name="import_complete">Импорт завершён</string>
+    <string name="import_complete">Импорт завершeн</string>
     <string name="import_fail">Ошибка импорта</string>
     <string name="auto">Авто</string>
     <string name="flash_on">Сработала вспышка</string>
@@ -409,7 +409,7 @@
     <string name="exposure_time">Выдержка</string>
     <string name="white_balance">Баланс белого</string>
     <string name="focal_length">Расстояние фокуса</string>
-    <string name="aperture">Проём</string>
+    <string name="aperture">Проeм</string>
     <string name="flash">Вспышка</string>
     <string name="description">Описание</string>
     <string name="duration">Длительность</string>
@@ -452,7 +452,7 @@
     <string name="simple_mode_button_text_audio_capture">Отключить голосовое управление</string>
     <string name="simple_mode_button_text_slow_video">Отключить замедленный режим</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Эффекты</string>
-    <string name="pref_video_slow_speed_title_simple_mode">Замедленный режим съёмки</string>
+    <string name="pref_video_slow_speed_title_simple_mode">Замедленный режим съeмки</string>
     <string name="enter_expert_mode_title">Профессиональный режим</string>
     <string name="pref_settings_mode">Режим камеры</string>
     <string name="pref_camera_picturesize_title_simple_mode">Разрешение</string>

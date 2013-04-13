@@ -26,7 +26,7 @@
   <string name="continuous_burst">Непрерывная серия</string>
   <string name="demo_btn_label">Демонстрация</string>
   <string name="done_btn_label">Готово</string>
-  <string name="doubleshot_hint_arrow_land">Чтобы сделать снимок, нажмите кнопку съёмки</string>
+  <string name="doubleshot_hint_arrow_land">Чтобы сделать снимок, нажмите кнопку съeмки</string>
   <string name="doubleshot_hint_arrow_port">Чтобы сделать снимок, нажмите центральную кнопку</string>
   <string name="doubleshot_hint_blink">Кто-то подмигивает</string>
   <string name="doubleshot_hint_handshake">Держите камеру устойчиво</string>
@@ -54,7 +54,7 @@
   <string name="effect">Эффект</string>
   <string name="encode_tyoe">Тип шифрования</string>
   <string name="face_detection">Распознавание лиц</string>
-  <string name="fast_frame_recording">Замедленная сьёмка (2X)</string>
+  <string name="fast_frame_recording">Замедленная сьeмка (2X)</string>
   <string name="file_format">Формат файла</string>
   <string name="file_format_3gpp">3gpp</string>
   <string name="file_format_mp4">mp4</string>
@@ -77,8 +77,8 @@
   <string name="hint_auto_capture_two_face">Авт. срабатывание при определении двух лиц в кадре.</string>
   <string name="hint_drag_effect_bar">Чтобы настроить эффект, проведите по строке.</string>
   <string name="how_to_start_group_portrait">Используйте сюжет «Группа», чтобы получать снимок с улыбающимися, не моргающими лицами.</string>
-  <string name="how_to_start_panorama">Нажмите кнопку съёмки, чтобы снять панораму</string>
-  <string name="how_to_start_panorama_ds">Чтобы начать съёмку панорамы нажмите кнопку затвора</string>
+  <string name="how_to_start_panorama">Нажмите кнопку съeмки, чтобы снять панораму</string>
+  <string name="how_to_start_panorama_ds">Чтобы начать съeмку панорамы нажмите кнопку затвора</string>
   <string name="image_adjustment">Настройки изображения</string>
   <string name="image_queue_is_full">Сохраняется фотография, подождите.</string>
   <string name="image_ratio">Широкоэкранное</string>
@@ -124,7 +124,7 @@
   <string name="panorama_hold">Удерживать</string>
   <string name="panorama_start_panning_left_right">Для продолжения медленно потяните экран влево или вправо</string>
   <string name="panorama_start_panning_up_down">Для продолжения медленно потяните экран вверх или вниз</string>
-  <string name="panorama_stitching_error_images">Повторите ещё раз, перемещая камеру более плавно. Склеивание текущих снимков...</string>
+  <string name="panorama_stitching_error_images">Повторите ещe раз, перемещая камеру более плавно. Склеивание текущих снимков...</string>
   <string name="panorama_stitching_images">Склеивание снимков...</string>
   <string name="post_processing">Автоулучшение</string>
   <string name="power_warning_msg">3D-камера недоступна из-за низкого заряда аккумулятора. Зарядите телефон или переключитесь на 2D-камеру.</string>
@@ -176,7 +176,7 @@
   <string name="resolution_video_vga_description_2">Высокое (640 x 480)</string>
   <string name="resolution_video_vga_description_3">On-line (высокое, 10 минут)</string>
   <string name="resolution_video_wvga_description_2">Широкоэкранное (800 x 480)</string>
-  <string name="review_btn_capture">Съёмка</string>
+  <string name="review_btn_capture">Съeмка</string>
   <string name="review_duration">Просмотр после съемки</string>
   <string name="saving_photos">Сохранение фотографий...</string>
   <string name="scene">Сюжеты</string>
@@ -207,7 +207,7 @@
   <string name="scene_sunset">Закат</string>
   <string name="scene_type_action">Действие</string>
   <string name="scene_type_auto">Авто</string>
-  <string name="scene_type_burst">Серийная съёмка</string>
+  <string name="scene_type_burst">Серийная съeмка</string>
   <string name="scene_type_hdr">Снимок HDR</string>
   <string name="scene_type_lowlight">Слабое освещение</string>
   <string name="scene_type_macro">Макро</string>
@@ -258,7 +258,7 @@
   <string name="settings_review_duration">Просмотр после съемки</string>
   <string name="settings_self_timer">Автоспуск</string>
   <string name="settings_shutter_sound">Звук затвора</string>
-  <string name="settings_slow_motion">Замедленная съёмка (4X)</string>
+  <string name="settings_slow_motion">Замедленная съeмка (4X)</string>
   <string name="settings_smile_capture">Автоопределение улыбки</string>
   <string name="settings_stereo_recording">Запись в режиме «Стерео»</string>
   <string name="settings_video_resolution">Качество видео</string>
@@ -293,7 +293,7 @@
   <string name="switch_main">Главная</string>
   <string name="switch_secondary">Фронтальная</string>
   <string name="tap_capture">Снимок касанием</string>
-  <string name="text_message_location_disable">Приложение запрашивает доступ к информации о местоположении. Для получения текущего местоположения включите беспроводную сеть или GPS приёмник в разделе Настройка.</string>
+  <string name="text_message_location_disable">Приложение запрашивает доступ к информации о местоположении. Для получения текущего местоположения включите беспроводную сеть или GPS приeмник в разделе Настройка.</string>
   <string name="text_title_location_disable">Источники координатных данных отключены</string>
   <string name="time_10_seconds">10 сек.</string>
   <string name="time_2_seconds">2 сек.</string>

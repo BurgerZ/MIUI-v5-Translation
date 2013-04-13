@@ -10,7 +10,7 @@
 	<string name="download_unknown_title">&lt;без названия></string>
 	<string name="notification_download_complete">Загрузка завершена</string>
 	<string name="notification_download_failed">Не удалось загрузить файл</string>
-	<string name="notification_filename_extras">" и ещё %d"</string>
+	<string name="notification_filename_extras">" и ещe %d"</string>
 	<string name="notification_filename_separator">", "</string>
 	<string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
 	<string name="notification_paused_in_background">Загрузка приостановлена</string>

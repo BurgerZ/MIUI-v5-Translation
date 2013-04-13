@@ -268,7 +268,7 @@
   <string name="switchStorageLocation">Укажите место хранения</string>
   <string name="tagEditor_hint">Выбрать для добавления меток(тэгов)</string>
   <string name="tagssetting_title">Тэги</string>
-  <string name="timelapse">Замедленная съёмка</string>
+  <string name="timelapse">Замедленная съeмка</string>
   <string name="toast_BlurFailed">Сервис не установлен!</string>
   <string name="toast_EffectsNotAllowed">Нельзя менять Эффекты в этом режиме захвата</string>
   <string name="toast_LaunchGalleryFailed">Галерея не установленаd</string>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Decoded with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="num_seconds_ago">
         <item quantity="other">%d с. назад</item>

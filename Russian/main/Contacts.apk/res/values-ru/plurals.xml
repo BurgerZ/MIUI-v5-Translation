@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Decoded with KDG BigBlackBox-->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Контакты с номерами телефонов: %d</item>

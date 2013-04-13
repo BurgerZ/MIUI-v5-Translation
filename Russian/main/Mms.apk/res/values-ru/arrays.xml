@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_smiley_names">
         <item>Счастливый</item>
         <item>Грустный</item>
         <item>Подмигивающий</item>
         <item>Высунутый язык</item>
-        <item>Удивлённый</item>
+        <item>Удивлeнный</item>
         <item>Поцелуй</item>
         <item>Вопящий</item>
         <item>Отлично</item>

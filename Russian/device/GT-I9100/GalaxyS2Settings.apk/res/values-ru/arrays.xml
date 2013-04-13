@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mdnie_scenario_entries">
         <item>Камера (по умолчанию)</item>
         <item>Видео</item>
-        <item>Видео (тёпло)</item>
+        <item>Видео (тeпло)</item>
         <item>Видео (холодно)</item>
         <item>Интерфейс</item>
         <item>Навигация</item>

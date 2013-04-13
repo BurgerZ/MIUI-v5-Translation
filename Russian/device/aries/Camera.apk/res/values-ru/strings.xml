@@ -51,8 +51,8 @@
 	<string name="enter_expert_mode_title">Профессиональный режим</string>
 	<string name="error_app_unsupported">Данный вид кодировки не поддерживает это разрешение</string>
 	<string name="error_app_unsupported_hfr_720p">720р поддерживает до 90 FPS</string>
-	<string name="error_app_unsupported_hfr_codec">При включённой ВЧК поддерживается только H264 кодировка</string>
-	<string name="error_app_unsupported_raw_wavelet">Устранение шумов не работает при съёмке в формате RAW</string>
+	<string name="error_app_unsupported_hfr_codec">При включeнной ВЧК поддерживается только H264 кодировка</string>
+	<string name="error_app_unsupported_raw_wavelet">Устранение шумов не работает при съeмке в формате RAW</string>
 	<string name="error_fail_to_start_audio_capture">Невозможно записать звук: Микрофон может быть занят другим приложением.</string>
 	<string name="exposure_time">Время экспозиции</string>
 	<string name="file_size">Размер файла</string>
@@ -87,7 +87,7 @@
 	<string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
 	<string name="no_thumbnail">Нет миниатюр</string>
 	<string name="not_enough_space">Ваша SD-карта заполнена.</string>
-	<string name="not_selectable_in_scene_mode">Недоступно в режиме съёмки.</string>
+	<string name="not_selectable_in_scene_mode">Недоступно в режиме съeмки.</string>
 	<string name="ok">OK</string>
 	<string name="open">Да</string>
 	<string name="orientation">Ориентация</string>
@@ -96,7 +96,7 @@
 	<string name="pano_dialog_title">Панорама</string>
 	<string name="pano_dialog_waiting_previous">Ожидание обработки предыдущей панораммы</string>
 	<string name="pano_file_name_format">"'PANO'_yyyy-MM-dd_HH-mm-ss"</string>
-	<string name="pano_how_to_use_prompt">Нажмите кнопку затвора для начала съёмки панорамного фото</string>
+	<string name="pano_how_to_use_prompt">Нажмите кнопку затвора для начала съeмки панорамного фото</string>
 	<string name="pano_how_to_use_prompt_go_on_moving">Продолжайте перемещать устройство</string>
 	<string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
 	<string name="pano_review_saving_indication_str">Сохранение...</string>
@@ -166,7 +166,7 @@
 	<string name="pref_camera_focusmode_entry_normal">Нормально</string>
 	<string name="pref_camera_focusmode_title">Режим фокусировки</string>
 	<string name="pref_camera_hfr_entry_off">Выкл</string>
-	<string name="pref_camera_hfr_title">Частота кадров видео (Замедленная съёмка)</string>
+	<string name="pref_camera_hfr_title">Частота кадров видео (Замедленная съeмка)</string>
 	<string name="pref_camera_histogram_entry_disable">Выкл</string>
 	<string name="pref_camera_histogram_entry_enable">Вкл</string>
 	<string name="pref_camera_histogram_title">Гистограмма</string>
@@ -245,7 +245,7 @@
 	<string name="pref_camera_scenemode_entry_snow">Снег</string>
 	<string name="pref_camera_scenemode_entry_sports">Спорт</string>
 	<string name="pref_camera_scenemode_entry_sunset">Закат</string>
-	<string name="pref_camera_scenemode_title">Режим съёмки</string>
+	<string name="pref_camera_scenemode_title">Режим съeмки</string>
 	<string name="pref_camera_settings_category">Настройки камеры</string>
 	<string name="pref_camera_settings_title">Настройки</string>
 	<string name="pref_camera_sharpness_entry_level0">Уровень 0</string>
@@ -255,7 +255,7 @@
 	<string name="pref_camera_sharpness_entry_level4">Уровень 4</string>
 	<string name="pref_camera_sharpness_entry_level5">Уровень 5</string>
 	<string name="pref_camera_sharpness_entry_level6">Уровень 6</string>
-	<string name="pref_camera_sharpness_title">Чёткость</string>
+	<string name="pref_camera_sharpness_title">Чeткость</string>
 	<string name="pref_camera_skinToneEnhancement_entry_auto">Авто</string>
 	<string name="pref_camera_skinToneEnhancement_entry_disable">Выкл</string>
 	<string name="pref_camera_skinToneEnhancement_entry_enable">Вкл</string>
@@ -291,7 +291,7 @@
 	<string name="pref_camera_zsl_entry_on">Вкл</string>
 	<string name="pref_exposure_title">Экспозиция</string>
 	<string name="pref_grp_advanced_settings">Расширенные настройки</string>
-	<string name="pref_grp_capture_settings">Настройки съёмки</string>
+	<string name="pref_grp_capture_settings">Настройки съeмки</string>
 	<string name="pref_grp_picture_settings">Настройки фотографий</string>
 	<string name="pref_grp_restore_settings">Сброс настроек</string>
 	<string name="pref_settings_mode">Режим камеры</string>
@@ -354,9 +354,9 @@
 	<string name="times">Время</string>
 	<string name="title">Название</string>
 	<string name="toast_burst_snap_finished_end">Фотографии сделаны.</string>
-	<string name="toast_burst_snap_finished_start">Серийная съёмка завершена.</string>
-	<string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съёмка невозможна при включённой записи звука.</string>
-	<string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съёмка невозможна при включённом HDR.</string>
+	<string name="toast_burst_snap_finished_start">Серийная съeмка завершена.</string>
+	<string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съeмка невозможна при включeнной записи звука.</string>
+	<string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съeмка невозможна при включeнном HDR.</string>
 	<string name="toast_burst_snap_forbidden_when_iso_not_auto">"Серийная съемка не поддерживается при ISO: 'auto'."</string>
 	<string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
 	<string name="undo">НАЗАД</string>
@@ -365,7 +365,7 @@
 	<string name="video_err">Невозможно воспроизвести видео</string>
 	<string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
 	<string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
-	<string name="video_snapshot_hint">Чтобы сделать снимок при видеосъёмке, нажмите на экран просмотра.</string>
+	<string name="video_snapshot_hint">Чтобы сделать снимок при видеосъeмке, нажмите на экран просмотра.</string>
 	<string name="videocamera_settings_label">Настройки видеокамеры</string>
 	<string name="wait">Пожалуйста, ждите...</string>
 	<string name="white_balance">Баланс белого</string>
