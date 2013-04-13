@@ -243,7 +243,7 @@
 	<string name="pref_mms_settings_title">MMS</string>
 	<string name="pref_notification_settings_title">Уведомления</string>
 	<string name="pref_other_title">Другие</string>
-	<string name="pref_sms_theme_title">Тема</string>
+	<string name="pref_sms_theme_title">Отображение</string>
 	<string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL).</string>
 	<string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
 	<string name="pref_summary_delivery_reports">Запрашивать отчeт о доставке для всех отправляемых сообщений.</string>
@@ -271,7 +271,7 @@
 	<string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
 	<string name="pref_title_new_message_popup">Всплывающие окна</string>
 	<string name="pref_title_ringtone_repeat">Количество напоминаний</string>
-	<string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
+	<string name="pref_title_show_recent_contacts">Недавние контакты</string>
 	<string name="pref_title_sms_delete">Максимальное количество SMS</string>
 	<string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
 	<string name="pref_title_wake_up_screen">Включать экран</string>
