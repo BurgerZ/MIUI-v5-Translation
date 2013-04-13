@@ -148,7 +148,7 @@
 	<string name="call_waiting_tone_title_miui">Мелодия входящего вызова</string>
 	<string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизводить 2 раза с вибрацией</string>
 	<string name="call_waiting_tone_twice_only_miui">Воспроизводить 2 раза</string>
-	<string name="caller_id_sum_miui">Скрытие номера для исходящих вызовов (если поддерживается сетью).</string>
+	<string name="caller_id_sum_miui">Скрытие номера для исходящих вызовов, если поддерживается сетью.</string>
 	<string name="caller_id_title_miui">Антиопределитель номера</string>
 	<string name="caller_manage_header">Конференц-вызов: %s</string>
 	<string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
@@ -359,7 +359,7 @@
 	<string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
 	<string name="enable_sim_pin_miui">Включить запрос PIN SIM-карты</string>
 	<string name="enable_telocation_title_miui">Показать свойства номера</string>
-	<string name="enforce_proximity_summary_miui">Блокирование экрана при входящем вызове если телефон в кармане.</string>
+	<string name="enforce_proximity_summary_miui">Блокирование экрана при входящем вызове, если телефон в кармане.</string>
 	<string name="enforce_proximity_title_miui">Предотвращение ошибок</string>
 	<string name="enter_pin2_text">PIN2</string>
 	<string name="enter_pin2_text_miui">PIN2</string>
@@ -431,7 +431,7 @@
 	<string name="incall_error_supp_service_switch">Не удается переключить вызовы</string>
 	<string name="incall_error_supp_service_transfer">Не удалось перевести вызов</string>
 	<string name="incall_error_supp_service_unknown">Услуга не поддерживается</string>
-	<string name="incall_screen_background_summary_miui">Использовать обои экрана блокировки при отсутствии фото контакта.</string>
+	<string name="incall_screen_background_summary_miui">Использование обоев экрана блокировки при отсутствии фото контакта.</string>
 	<string name="incall_screen_background_title_miui">Изображение вызова</string>
 	<string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
 	<string name="international_disable">Международные новости отключены</string>
