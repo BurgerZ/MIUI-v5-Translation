@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="lt18i_settings">Настройки Sony</string>
   <string name="lt18i_settings_summary">Настройки Sony</string>
   <string name="swiqi_strings_swiqi_desc_txt">Повышение качества видео и фото</string>

@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_name">Камера</string>
   <string name="auto">Авто</string>
   <string name="background_call_recording">Чтобы открыть запись видео, пожалуйста, сначала отключите запись вызова</string>

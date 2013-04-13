@@ -240,10 +240,10 @@
 	<string name="pref_advanced_settings_title">Дополнительно</string>
 	<string name="pref_edit_smsc_address">Номер SMS-центра</string>
 	<string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>
-	<string name="pref_mms_settings_title">Настройки MMS</string>
+	<string name="pref_mms_settings_title">MMS</string>
 	<string name="pref_notification_settings_title">Уведомления</string>
 	<string name="pref_other_title">Другие</string>
-	<string name="pref_sms_theme_title">Настройки темы</string>
+	<string name="pref_sms_theme_title">Тема</string>
 	<string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL).</string>
 	<string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
 	<string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений.</string>
@@ -260,7 +260,7 @@
 	<string name="pref_summary_wake_up_screen">Включение экрана, при получении новых сообщений.</string>
 	<string name="pref_system_title">Системные</string>
 	<string name="pref_time_auto_group_summary">Группировка сообщений по времени.</string>
-	<string name="pref_time_auto_group_title">Группировка</string>
+	<string name="pref_time_auto_group_title">Группировать</string>
 	<string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
 	<string name="pref_title_delivery_reports">Отчёт о доставке</string>
 	<string name="pref_title_hide_festival">Скрыть вкладку \"Фразы\"</string>

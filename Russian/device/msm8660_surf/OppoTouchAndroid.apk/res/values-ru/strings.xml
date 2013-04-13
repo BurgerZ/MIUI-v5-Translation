@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="add_alarm">Добавить будильник</string>
   <string name="alarm_alert_alert_silenced">Будильник звонил %d мин. назад</string>
   <string name="alarm_alert_dismiss_text">Выключить</string>

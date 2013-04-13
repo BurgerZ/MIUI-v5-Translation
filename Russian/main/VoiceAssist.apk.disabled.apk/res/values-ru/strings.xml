@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about">О программе</string>
   <string name="act_find_city_hint">Поиск из 2400 городов (Chinese/Pinyin)</string>
   <string name="act_find_city_hot_title">Популярные города</string>

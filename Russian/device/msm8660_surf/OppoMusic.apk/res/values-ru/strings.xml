@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="add_all_tracks">All music</string>
   <string name="add_to_playlist">Add to list</string>
   <string name="add_tracks">Add music</string>

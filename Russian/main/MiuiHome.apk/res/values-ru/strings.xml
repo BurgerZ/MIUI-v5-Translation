@@ -166,7 +166,7 @@
 	<string name="transformation_type_classic">Стандартный</string>
 	<string name="transformation_type_classic_no_overshoot">Стандартный (без эффектов)</string>
 	<string name="transformation_type_crossfade">Угасание</string>
-	<string name="transformation_type_cube">Объемный куб</string>
+	<string name="transformation_type_cube">3D куб</string>
 	<string name="transformation_type_falldown">Поворот</string>
 	<string name="transformation_type_leftpage">Перелистывание</string>
 	<string name="transformation_type_rotate">Вращение</string>

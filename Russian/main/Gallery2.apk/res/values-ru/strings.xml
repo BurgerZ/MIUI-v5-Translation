@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Import">Импорт</string>
   <string name="activity_not_found">Действие не поддерживается ни в одном приложении</string>
   <string name="add_account">Добавить аккаунт</string>

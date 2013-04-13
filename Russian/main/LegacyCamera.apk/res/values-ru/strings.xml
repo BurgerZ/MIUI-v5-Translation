@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="access_sd_fail">Карта памяти недоступна</string>
   <string name="accessibility_back_to_first_level">Закрыть</string>
   <string name="accessibility_camera_picker">Переключение на переднюю или заднюю камеру</string>

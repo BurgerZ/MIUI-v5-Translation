@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="at_home">" , домашний"</string>
   <string name="at_other">" , другой номер"</string>
   <string name="at_work">" , работа"</string>

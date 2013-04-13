@@ -7,7 +7,7 @@
 	<string name="apply_font_btn_exclude">Без шрифта</string>
 	<string name="apply_font_btn_reboot">Применить</string>
 	<string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
-	<string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
+	<string name="apply_lockscreen_paper_tips">Установлен пользовательский экран блокировки, новые обои на нем могут не смениться.</string>
 	<string name="apply_theme_no_select_message">Пожалуйста, выберите компоненты</string>
 	<string name="backup_preference_title">Резервное копирование</string>
 	<string name="backup_theme_dialog_message">Тема будет сохранена в \n%1$s</string>

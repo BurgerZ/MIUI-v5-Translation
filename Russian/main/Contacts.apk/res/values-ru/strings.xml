@@ -7,7 +7,7 @@
 	<string name="account_sim">SIM-карта</string>
 	<string name="account_type_format">Контакт %1$s</string>
 	<string name="actionIncomingCall">Входящие вызовы</string>
-	<string name="action_menu_overflow_description">Дополнительные опции</string>
+	<string name="action_menu_overflow_description">Дополнительные параметры</string>
 	<string name="activity_title_confirm_add_detail">Добавление данных</string>
 	<string name="activity_title_contacts_filter">Фильтр контактов</string>
 	<string name="activity_title_settings">Настройки</string>
@@ -625,7 +625,7 @@
 	<string name="preference_phone">Настройки телефона</string>
 	<string name="preference_phone_more_title">Дополнительно</string>
 	<string name="preference_remove_duplicate">Слияние дубликатов</string>
-	<string name="preference_simple_mode_description">Выключение отображения фото, атрибутов и других данных.</string>
+	<string name="preference_simple_mode_description">Не отображать фото, продолжительность разговора и другие данные в журнале вызовов и списке контактов.</string>
 	<string name="preference_simple_mode_title">Простой режим</string>
 	<string name="preference_smart_group_company_summary">Группировка контактов по информации о компании</string>
 	<string name="preference_smart_group_company_title">По компаниям</string>

@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="ErrorTooManyRequests">Too many requests are being processed. Try again later.</string>
   <string name="ack_record">Ack record</string>
   <string name="airplane_error_msg">"You can't use Bluetooth when the phone is in airplane mode."</string>

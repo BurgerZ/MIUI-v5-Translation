@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="action_screen_confirm_delete_message">Вы действительно хотите удалить %s?</string>
   <string name="action_screen_confirm_delete_message_burst">Удалить снятые фотографии?</string>
   <string name="action_screen_share_image">Отправить этот снимок в</string>
