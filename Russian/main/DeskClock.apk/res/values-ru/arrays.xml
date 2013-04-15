@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>на 1 минуту</item>
-		<item>на 5 минут</item>
+	<item>на 5 минут</item>
         <item>на 10 минут</item>
         <item>на 15 минут</item>
         <item>на 20 минут</item>
