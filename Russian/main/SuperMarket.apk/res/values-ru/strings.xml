@@ -31,6 +31,7 @@
 	<string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
 	<string name="comment_upload_success">Комментарий отправлен!</string>
 	<string name="comment_version_name">(версия %1$s)</string>
+	<string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
 	<string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
 	<string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
 	<string name="connecting">Подключение...</string>
