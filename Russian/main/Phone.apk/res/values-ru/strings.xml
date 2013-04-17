@@ -550,7 +550,7 @@
 	<string name="notification_incoming_call">Входящий вызов</string>
 	<string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
 	<string name="notification_missedCallTitle">Пропущенный вызов</string>
-	<string name="notification_missedCall_call_back">Вызвов</string>
+	<string name="notification_missedCall_call_back">Вызов</string>
 	<string name="notification_missedCall_message">SMS</string>
 	<string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
 	<string name="notification_missedCallsTitle">Пропущенные вызовы</string>
