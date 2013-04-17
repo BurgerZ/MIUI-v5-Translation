@@ -960,7 +960,7 @@
   <string name="radiobutton_selected">выбрано</string>
   <string name="reboot_bootloader">Загрузчик</string>
   <string name="reboot_bootmenu">Загрузочное меню</string>
-  <string name="reboot_confirm">Ваш телефон будет перезагружен.</string>
+  <string name="reboot_confirm">Телефон будет перезагружен.</string>
   <string name="reboot_download">Download</string>
   <string name="reboot_fastboot">Fastboot</string>
   <string name="reboot_hot">Быстрая</string>
