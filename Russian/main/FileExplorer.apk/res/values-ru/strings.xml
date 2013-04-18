@@ -74,6 +74,7 @@
 	<string name="file_info_modified">Изменен:</string>
 	<string name="file_info_size">Размер:</string>
 	<string name="file_loading">Загрузка...</string>
+	<string name="give_up_cleaning">Отмена</string>
 	<string name="file_too_large">"Этот файл слишком большой для загрузки на сервер"</string>
 	<string name="finished">Завершено</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
@@ -178,7 +179,7 @@
 	<string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
 	<string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
 	<string name="space_usage">Использование хранилища</string>
-	<string name="start_cleanup">Очистка</string>
+	<string name="start_cleanup">Очистить</string>
 	<string name="start_server">Запустить</string>
 	<string name="start_use_xiaomi_account">Вход</string>
 	<string name="stay_awake_summary">Не переводить устройство в режим сна при использовании FTP</string>
@@ -240,9 +241,7 @@
 	<string name="directory_no_item">пусто</string>
 	<string name="empty_dir_cleanup_indication">%s пустые папки</string>
 	<string name="empty_dir_title">Пустые папки</string>
-	<string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
-	<string name="garbage_item_path_format" formatted="false">%s %s</string>
-	<string name="garbage_size_metric">%s\nМусор</string>
+	<string name="garbage_size_metric">"%s \nМусор"</string>
 	<string name="item_name">Без имени</string>
 	<string name="no_app_cache_indication">Нет кэша приложений</string>
 	<string name="no_app_garbage_indication">Нет мусора от приложений</string>
@@ -251,7 +250,7 @@
 	<string name="no_thumbnail_indication">Нет эскизов изображений</string>
 	<string name="open_changed_file_message">Файл, который вы пытаетесь открыть был изменен, вы можете:\n1. Скачать (обновить локальный файл)\n2. Загрузить (обновить файл в облаке)</string>
 	<string name="open_changed_file_title">Файл изменен</string>
-	<string name="restart_cleaning">Снова</string>
+	<string name="restart_cleaning">Повтор</string>
 	<string name="scanning_on_going">Сканирование...</string>
 	<string name="sd_size_label">Хранилище пользователя</string>
 	<string name="sys_size">Всего: %1$s</string>
@@ -265,7 +264,7 @@
 	<string name="waiting_for_cleaning">Ожидание очистки</string>
 	<string name="waiting_for_scanning">Ожидание сканирования</string>
 	<string name="header_text_scanning">Сканирование...</string>
-	<string name="header_text_scanned">Найдено</string>
+	<string name="header_text_scanned">Найдено мусора</string>
     <string name="header_text_cleaning">Очистка...</string>
     <string name="header_text_cleaned">Мусор очищен</string>
 </resources>
