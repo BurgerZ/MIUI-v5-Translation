@@ -51,7 +51,7 @@
 	<string name="note_link_other">Посмотреть на карте</string>
 	<string name="note_link_select">Выделить текст</string>
 	<string name="note_link_tel">Позвонить</string>
-	<string name="note_link_web">Открыть браузер</string>
+	<string name="note_link_web">Открыть в браузере</string>
 	<string name="notealert_enter">Посмотреть</string>
 	<string name="notealert_ok">Готово</string>
 	<string name="notelist_menu_new">Новая заметка</string>

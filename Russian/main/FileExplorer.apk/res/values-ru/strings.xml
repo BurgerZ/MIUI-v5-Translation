@@ -9,10 +9,7 @@
 	<string name="bind_account_summary">Если у вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
 	<string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
 	<string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
-	<string name="binded_accout_warning">Предупреждение: эта операция не обратима</string>
-	<string name="binding_accout_title">привязка к существующей учетной записи kuaipan</string>
 	<string name="cancel">Отмена</string>
-	<string name="cancel_cleanup">Отменить очистку</string>
 	<string name="category_all">Все</string>
 	<string name="category_apk">Программы</string>
 	<string name="category_bluetooth">Bluetooth</string>
@@ -27,14 +24,9 @@
 	<string name="category_zip">Архивы</string>
 	<string name="choose_send_type">Выбор метода отправки</string>
 	<string name="choose_upload_location">Выберите место загрузки</string>
-	<string name="clean_complete">Очистка завершена</string>
 	<string name="clean_message">Удаление %1$s</string>
 	<string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
 	<string name="clean_trash_box">Очистить корзину</string>
-	<string name="clean_trash_box_failed">Ошибка удаления файлов из корзины</string>
-	<string name="cleanup_help">Очистка мусорных файлов в системе\nОсвободите место на диске</string>
-	<string name="cleanup_tab_app">Очистка приложений</string>
-	<string name="cleanup_tab_garbage">Очистка от мусора</string>
 	<string name="clear_cache">Очистить кэш</string>
 	<string name="close">Закрыть</string>
 	<string name="compress_message">Имя архива:</string>
@@ -67,7 +59,6 @@
 	<string name="dialog_type_video">Видео</string>
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
-	<string name="download_successful">Успешно загружено</string>
 	<string name="downloading">Загрузка</string>
 	<string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
 	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -99,7 +90,6 @@
 	<string name="gbk_title">GBK</string>
 	<string name="instruction">Адрес синхронизации:</string>
 	<string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
-	<string name="kingsoft_account">аккаунт kingsoft kuaipan</string>
 	<string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
 	<string name="kuaipan_prompt">KuaiPan</string>
 	<string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
@@ -125,7 +115,6 @@
 	<string name="name_illegal">Имя не может быть пустым</string>
 	<string name="net_lose_connected">Сеть недоступна, не может получить размер</string>
 	<string name="networkView_notConnected">Нет доступных сетей</string>
-	<string name="networkView_offline">Офлайн режим, обновление директорий приостановлено</string>
 	<string name="new_folder_name">Новая папка</string>
 	<string name="no">Нет</string>
 	<string name="no_file">Нет файлов</string>
@@ -172,7 +161,6 @@
 	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="paused">Пауза</string>
 	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите...</string>
-	<string name="remote_management">Обмен файлами Wi-Fi</string>
 	<string name="rename_description">Переименовывается···</string>
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
 	<string name="scanning">Сканирование...</string>
@@ -213,14 +201,14 @@
 	<string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
 	<string name="ui_bar_txt_download_progress">Загрузка...</string>
 	<string name="ui_bar_txt_upload_progress">Отправка...</string>
-	<string name="ui_filechange_btn_download">Загрузка файла</string>
+	<string name="ui_filechange_btn_download">Скачать файлы</string>
+	<string name="ui_filechange_btn_upload">Загрузить файлы</string>
 	<string name="ui_main_menu_option_task_manage">Обмен файлами</string>
 	<string name="ui_main_progress_txt_open_file">Загрузка...</string>
 	<string name="ui_main_toast_favorite_removed">Избранное удалено</string>
 	<string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>
 	<string name="upload_failed">Ошибка загрузки</string>
 	<string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами.</string>
-	<string name="upload_successful">Успешно выгружено</string>
 	<string name="uploading">Загрузка</string>
 	<string name="used">Занято:</string>
 	<string name="user_guide">Руководство пользователя</string>
@@ -238,4 +226,42 @@
 	<string name="wifi_state">Статус Wi-Fi</string>
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>
 	<string name="yes">Да</string>
+	<string name="app_cache_cleanup_indication">%s кеш</string>
+	<string name="app_cache_title">Кеш приложения</string>
+	<string name="app_garbage_cleanup_indication">%s мусор</string>
+	<string name="app_garbage_path">Путь:</string>
+	<string name="app_garbage_title">Мусор от приложения</string>
+	<string name="application_size_label">Приложение</string>
+	<string name="cancel_app_garbage_cleanup">Не очищать</string>
+	<string name="clean_app_garbage">Удалить мусор (%d)</string>
+	<string name="cleanup_complete">Готово</string>
+	<string name="data_size_label">Данные</string>
+	<string name="directory_info_divider">"  |  "</string>
+	<string name="directory_no_item">Пустая папка</string>
+	<string name="empty_dir_cleanup_indication">%s файлы мусора</string>
+	<string name="empty_dir_title">Пустые папки</string>
+	<string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+	<string name="garbage_item_path_format" formatted="false">%s %s</string>
+	<string name="garbage_size_metric">%s\nМусор</string>
+	<string name="item_name">Без имени</string>
+	<string name="no_app_cache_indication">Нет кэша приложений</string>
+	<string name="no_app_garbage_indication">Нет мусора от приложений</string>
+	<string name="no_empty_dir_indication">Нет пустых папок</string>
+	<string name="no_temp_file_indication">Нет временных файлов</string>
+	<string name="no_thumbnail_indication">Нет эскизов изображений</string>
+	<string name="open_changed_file_message">Файл, который вы пытаетесь открыть был изменен, вы можете:\n1. Скачать (обновить локальный файл)\n2. Загрузить (обновить файл в облаке)</string>
+	<string name="open_changed_file_title">Файл изменен</string>
+	<string name="restart_cleaning">Снова</string>
+	<string name="scanning_on_going">Сканирование...</string>
+	<string name="sd_size_label">Хранилище пользователя</string>
+	<string name="sys_size">Всего: %1$s</string>
+	<string name="sys_size_title">Полный объем</string>
+	<string name="temp_file_cleanup_indication">%s временные файлы</string>
+	<string name="temp_file_title">Временные файлы</string>
+	<string name="thumbnail_cleanup_indication">%s эскизы</string>
+	<string name="thumbnail_title">Эскизы изображений</string>
+	<string name="uninstall_app_data">Удалить приложение и все данные</string>
+	<string name="version_text">Версия %1$s</string>
+	<string name="waiting_for_cleaning">Ожидание очистки</string>
+	<string name="waiting_for_scanning">Ожидание сканирования</string>
 </resources>

@@ -15,7 +15,7 @@
 	<string name="act_hangup_call">Сразу сбросить</string>
 	<string name="act_hangup_call_summary">Отклоненные номера не будут отображаться в журнале вызовов</string>
 	<string name="act_ignore_call">Не перехватывать звонки</string>
-	<string name="act_ignore_ms">Игнорировать уведомления</string>
+	<string name="act_ignore_ms">Не перехватывать сообщения</string>
 	<string name="act_ms">Сообщения</string>
 	<string name="act_mute_call">Звонки без звука</string>
 	<string name="act_mute_call_summary">Уведомления о звонках будут отключены (звонки будут сохранены в журнале вызовов)</string>
