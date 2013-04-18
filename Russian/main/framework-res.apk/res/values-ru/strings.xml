@@ -52,7 +52,7 @@
   <string name="activity_resolver_use_always">Всегда</string>
   <string name="activity_resolver_use_once">Один раз</string>
   <string name="activitychooserview_choose_application">Выберите приложение</string>
-  <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB</string>
+  <string name="adb_active_notification_message">Нажмите, чтобы отключить</string>
   <string name="adb_active_notification_title">Отладка по USB разрешена</string>
   <string name="addToDictionary">добавить в словарь</string>
   <string name="add_account_button_label">Добавить аккаунт</string>

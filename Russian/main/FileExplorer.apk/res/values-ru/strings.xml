@@ -97,11 +97,11 @@
 	<string name="load_err">Ошибка загрузки</string>
 	<string name="loading">Загрузка</string>
 	<string name="local_cache">Локальный кэш</string>
-	<string name="local_cache_size">Размер локального кэш: %s</string>
+	<string name="local_cache_size">Размер локального кэша: %s</string>
 	<string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
 	<string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
-	<string name="menu_item_cleanup">Очистка файлов</string>
-	<string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
+	<string name="menu_item_cleanup">Очистка</string>
+	<string name="menu_item_ftp">FTP</string>
 	<string name="menu_item_search">Поиск</string>
 	<string name="menu_item_sort">Сортировка</string>
 	<string name="menu_item_sort_date">По дате</string>
@@ -226,19 +226,19 @@
 	<string name="wifi_state">Статус Wi-Fi</string>
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>
 	<string name="yes">Да</string>
-	<string name="app_cache_cleanup_indication">%s кеш</string>
-	<string name="app_cache_title">Кеш приложения</string>
+	<string name="app_cache_cleanup_indication">%s кэш</string>
+	<string name="app_cache_title">Кэш приложений</string>
 	<string name="app_garbage_cleanup_indication">%s мусор</string>
 	<string name="app_garbage_path">Путь:</string>
-	<string name="app_garbage_title">Мусор от приложения</string>
+	<string name="app_garbage_title">Мусор от приложений</string>
 	<string name="application_size_label">Приложение</string>
 	<string name="cancel_app_garbage_cleanup">Не очищать</string>
-	<string name="clean_app_garbage">Удалить мусор (%d)</string>
+	<string name="clean_app_garbage">Очистить мусор (%d)</string>
 	<string name="cleanup_complete">Готово</string>
 	<string name="data_size_label">Данные</string>
 	<string name="directory_info_divider">"  |  "</string>
-	<string name="directory_no_item">Пустая папка</string>
-	<string name="empty_dir_cleanup_indication">%s файлы мусора</string>
+	<string name="directory_no_item">пусто</string>
+	<string name="empty_dir_cleanup_indication">%s пустые папки</string>
 	<string name="empty_dir_title">Пустые папки</string>
 	<string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
 	<string name="garbage_item_path_format" formatted="false">%s %s</string>
@@ -264,4 +264,8 @@
 	<string name="version_text">Версия %1$s</string>
 	<string name="waiting_for_cleaning">Ожидание очистки</string>
 	<string name="waiting_for_scanning">Ожидание сканирования</string>
+	<string name="header_text_scanning">Сканирование...</string>
+	<string name="header_text_scanned">Найдено</string>
+    <string name="header_text_cleaning">Очистка...</string>
+    <string name="header_text_cleaned">Мусор очищен</string>
 </resources>
