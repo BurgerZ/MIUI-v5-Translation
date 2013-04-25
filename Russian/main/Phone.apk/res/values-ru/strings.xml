@@ -73,7 +73,7 @@
 	<string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
 	<string name="auto_ip_no_exceptions_miui">Пожалуйста, добавьте номера, которым не нужен префикс</string>
 	<string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номер(а/ов)?</string>
-	<string name="auto_ip_setting_miui">Интел. набор</string>
+	<string name="auto_ip_setting_miui">Умный набор</string>
 	<string name="auto_ip_summary_not_enabled">Не включено</string>
 	<string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
 	<string name="auto_record_call_summary_miui">Начинать запись при совершении вызова и сохранять ее на SD-карту.</string>
@@ -91,7 +91,7 @@
 	<string name="auto_retry_mode_summary_miui">Включить режим автодозвона</string>
 	<string name="auto_retry_mode_title">Автодозвон</string>
 	<string name="auto_retry_mode_title_miui">Автодозвон</string>
-	<string name="autoip_miui">Интел. набор</string>
+	<string name="autoip_miui">Умный набор</string>
 	<string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код страны ниже</string>
 	<string name="back_miui">Назад</string>
 	<string name="badPin">Введен неверный прежний PIN. Повторите попытку</string>
@@ -888,7 +888,7 @@
 	<string name="turn_off_miui">отключено</string>
 	<string name="turnover_mute_summary_miui">Переверните телефон при входящем вызове для выключения мелодии (работает если телефон в горизонтальном положении).</string>
 	<string name="turnover_mute_title_miui">Переворот - \"Без звука\"</string>
-	<string name="undefined_miui">Не незначено</string>
+	<string name="undefined_miui">Неназначено</string>
 	<string name="unknown">Неизвестный абонент</string>
 	<string name="unknown_num">Неизвестный номер</string>
 	<string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
@@ -917,13 +917,13 @@
 	<string name="voicemail_notification_ringtone_title">Звонок</string>
 	<string name="voicemail_notification_vibarte_when_dialog_title">Вибрация</string>
 	<string name="voicemail_notification_vibrate_when_default">never</string>
-	<string name="voicemail_notification_vibrate_when_title">Вибрация при голосовой почте</string>
+	<string name="voicemail_notification_vibrate_when_title">Вибрация</string>
 	<string name="voicemail_number_not_set">&lt;не задано></string>
 	<string name="voicemail_provider">Служба голосовой почты</string>
 	<string name="voicemail_provider_miui">Сервис голосовой почты</string>
 	<string name="voicemail_provider_sum_miui">Сервис голосовой почты</string>
 	<string name="voicemail_settings">Настройки голосовой почты</string>
-	<string name="voicemail_settings_for">Настройки для %s</string>
+	<string name="voicemail_settings_for">Настройки: %s</string>
 	<string name="voicemail_settings_miui">Голосовая почта</string>
 	<string name="voicemail_settings_number_hint_miui">Введите номер голосовой почты</string>
 	<string name="voicemail_settings_number_label">Номер голосовой почты</string>

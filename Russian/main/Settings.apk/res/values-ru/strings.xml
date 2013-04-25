@@ -462,7 +462,7 @@
 	<string name="credentials_install_summary">Установить сертификаты с карты памяти</string>
 	<string name="credentials_not_erased">Не удалось очистить хранилище</string>
 	<string name="credentials_old_password">Текущий пароль:</string>
-	<string name="credentials_password_too_short">В пароле должно быть не менее 8 символов</string>
+	<string name="credentials_password_too_short">Не менее 8 символов</string>
 	<string name="credentials_reset">Очистить учетные данные</string>
 	<string name="credentials_reset_hint">Удалить все содержимое?</string>
 	<string name="credentials_reset_summary">Удалить все сертификаты</string>
@@ -929,8 +929,8 @@
 	<string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру</string>
 	<string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ</string>
 	<string name="lockpassword_password_set_toast">Пароль был установлен</string>
-	<string name="lockpassword_password_too_long">В пароле должно быть не более %d симв.</string>
-	<string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
+	<string name="lockpassword_password_too_long">Не более %d символов</string>
+	<string name="lockpassword_password_too_short">Не менее %d символов</string>
 	<string name="lockpassword_pattern_set_toast">Ключ был установлен</string>
 	<string name="lockpassword_pin_contains_non_digits">ПИН-код должен состоять только из цифр от 0 до 9</string>
 	<string name="lockpassword_pin_recently_used">Администратор устройства запрещает использование последнего PIN-кода</string>
