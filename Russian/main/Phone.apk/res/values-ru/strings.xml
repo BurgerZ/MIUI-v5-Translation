@@ -888,7 +888,7 @@
 	<string name="turn_off_miui">отключено</string>
 	<string name="turnover_mute_summary_miui">Переверните телефон при входящем вызове для выключения мелодии (работает если телефон в горизонтальном положении).</string>
 	<string name="turnover_mute_title_miui">Переворот - \"Без звука\"</string>
-	<string name="undefined_miui">Неназначено</string>
+	<string name="undefined_miui">Не назначено</string>
 	<string name="unknown">Неизвестный абонент</string>
 	<string name="unknown_num">Неизвестный номер</string>
 	<string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
