@@ -619,10 +619,13 @@
 	<string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
 	<string name="dialog_title_font_size">Размер шрифта</string>
 	<string name="dirac_control">Технология \"MI Sound\"</string>
+	<string name="dirac_mode_off">Отключено</string>
+    <string name="dirac_mode_earbuds">Гарнитура</string>
+    <string name="dirac_mode_earphones">Наушники</string>
 	<string name="disableNetwork">Отключить Сеть</string>
 	<string name="disable_overlays">Отключить наложения</string>
 	<string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
-	<string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
+	<string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>
 	<string name="disable_text">Отключить</string>
 	<string name="disabled">Отключено</string>
 	<string name="disconnect">отключить</string>
@@ -856,6 +859,12 @@
 	<string name="kernel_version">Ядро:</string>
 	<string name="key_settings">Клавиши</string>
 	<string name="key_settings_title">Клавиши</string>
+	<string name="screen_key_long_press">Длительное нажатие</string>
+    <string name="screen_key_long_press_action">Функция нажатия</string>
+    <string name="home_key">Клавиша \"Домой\"</string>
+    <string name="back_key">Клавиша \"Назад\"</string>
+    <string name="screen_key_long_press_timeout">Длительность нажатия</string>
+    <string name="under_keyguard">Функции на экране блокировки</string>
 	<string name="keyboard_layout_default_label">По умолчанию</string>
 	<string name="keyboard_layout_dialog_setup_button">Настройка раскладок клавиатуры</string>
 	<string name="keyboard_layout_dialog_switch_hint">Для переключения нажмите Control-Пробел</string>
