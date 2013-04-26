@@ -72,7 +72,7 @@
     <string name="history_receive">История приема</string>
     <string name="history_send">История отправки</string>
     <string name="history_all">Вся история</string>
-    <string name="history">Имтория</string>
+    <string name="history">История</string>
     <string name="no_content">Нет содержимого</string>
     <string name="editmode_menu_share">Поделиться</string>
     <string name="editmode_menu_delete">Удалить</string>
@@ -80,7 +80,7 @@
     <string name="operation_delete">Удалить</string>
     <string name="operation_info">Сведения</string>
     <string name="operation_goto_folder">Открыть папку с файлом</string>
-    <string name="settings_label">Настройки обмена</string>
+    <string name="settings_label">Настройки</string>
     <string name="settings_photo">Аватар</string>
     <string name="settings_photo_remove">Удалить аватар</string>
     <string name="settings_photo_camera">Снять фото</string>
