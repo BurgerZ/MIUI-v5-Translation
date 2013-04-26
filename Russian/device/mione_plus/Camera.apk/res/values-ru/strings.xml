@@ -11,7 +11,7 @@
     <string name="preparing_sd">Подготовка SD-карты...</string>
     <string name="access_sd_fail">"Нет доступа к карте памяти"</string>
     <string name="confirm_restore_title">Сброс настроек</string>
-    <string name="confirm_restore_message">Восстановить настройки по-умолчанию?</string>
+    <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_change_mode_title">Переключить режим</string>
     <string name="confirm_change_to_expert_mode_message">Переключить камеру в профессиональный режим?</string>
     <string name="confirm_change_to_simple_mode_message">Переключить камеру в обычный режим?</string>
