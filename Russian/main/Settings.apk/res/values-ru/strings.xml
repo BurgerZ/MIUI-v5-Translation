@@ -1209,7 +1209,7 @@
 	<string name="perm_privacy_app_launch">Открыть</string>
 	<string name="perm_privacy_app_log">Журналы</string>
 	<string name="perm_privacy_app_manage">Подробнее</string>
-	<string name="perm_privacy_app_trust">Доверие приложению</string>
+	<string name="perm_privacy_app_trust">Доверять приложению</string>
 	<string name="perm_privacy_app_trust_dialog_content">Система не будет спрашивать Вашего подтверждения на получение доступа к любым операциям, связанных с этим приложением</string>
 	<string name="perm_privacy_app_trust_dialog_title">Доверять этому приложению</string>
 	<string name="perm_privacy_app_trust_summary">доверенное</string>
