@@ -1247,8 +1247,8 @@
 	<string name="perm_user_app">Загруженные приложения (%d)</string>
 	<string name="perm_version">версия: %1$s</string>
 	<string name="permission_detail_info">Разрешения</string>
-	<string name="permission_detail_info_summary">безопасные: %1$d, приватные %2$d, прочие %3$d</string>
-	<string name="permission_manage">Управление правами</string>
+	<string name="permission_detail_info_summary">безопасные: %1$d, приватные: %2$d, другие: %3$d.</string>
+	<string name="permission_manage">Управление разрешениями</string>
 	<string name="permission_manage_summary">Автоматический запуск, конфиденциальность, безопасное управление правами</string>
 	<string name="permission_manage_title">Разрешения %s</string>
 	<string name="permissions_label">Информация о разрешениях</string>
@@ -1297,7 +1297,7 @@
 	<string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую личную информацию</string>
 	<string name="privacy_mode_enable_title">Режим гостя</string>
 	<string name="privacy_protect_title">Защита</string>
-	<string name="privacy_relative">Безопасность</string>
+	<string name="privacy_relative">Приватные разрешения</string>
 	<string name="privacy_settings">Восстановление и сброс</string>
 	<string name="privacy_settings_title">Восстановление и сброс</string>
 	<string name="private_sms_need_to_unlock">Введите графический ключ</string>
@@ -1517,7 +1517,7 @@
 	<string name="search_wifi">WiFi</string>
 	<string name="security_passwords_title">Пароли</string>
 	<string name="security_privacy_settings_title">Конфиденциальность</string>
-	<string name="security_relative">Вопросы безопасности</string>
+	<string name="security_relative">Безопасные разрешения</string>
 	<string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
 	<string name="security_settings_desc_multi">Для увеличения быстродействия и уменьшения потребления памяти некоторые из разрешиний доступны %1$s, т.к. он запущен одним процессом с %2$s:</string>
 	<string name="security_settings_summary">Настройка функции \"Местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
