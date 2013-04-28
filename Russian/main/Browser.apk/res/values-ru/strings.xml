@@ -166,7 +166,7 @@
 	<string name="geolocation_settings_page_dialog_ok_button">ОК</string>
 	<string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к Вашему местоположению</string>
 	<string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о Вашем местоположении</string>
-	<string name="geolocation_settings_page_title">Закрыть геоданные</string>
+	<string name="geolocation_settings_page_title">Очистить геоданные</string>
 	<string name="go_home">Домашняя страница</string>
 	<string name="google_bookmarks">"Google: "</string>
 	<string name="goto_dot">Поиск</string>
@@ -326,8 +326,8 @@
 	<string name="pref_privacy_clear_form_data">Очистить данные формы</string>
 	<string name="pref_privacy_clear_form_data_dlg">Удалить все сохраненные данные форм?</string>
 	<string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
-	<string name="pref_privacy_clear_geolocation_access">Закрыть геоданные</string>
-	<string name="pref_privacy_clear_geolocation_access_dlg">Закрыть геоданные?</string>
+	<string name="pref_privacy_clear_geolocation_access">Очистить геоданные</string>
+	<string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
 	<string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о Вашем местоположении</string>
 	<string name="pref_privacy_clear_history">Очистить историю</string>
 	<string name="pref_privacy_clear_history_dlg">Удалить историю браузера?</string>
