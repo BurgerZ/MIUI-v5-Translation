@@ -86,7 +86,7 @@
 	<string name="login">Войти</string>
 	<string name="login_failed">Неверное имя пользователя или пароль</string>
 	<string name="login_notice">Авторизация, пожалуйста, подождите...</string>
-	<string name="mibi_license_message">Вы будете использовать сервис Xiaomi Mi-Кредит. Нажимая кнопку ОК, Вы соглашаетесь соблюдать %1$s.</string>
+	<string name="mibi_license_message">Вы будете использовать сервис Xiaomi Mi-Кредит. Нажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s.</string>
 	<string name="mibi_license_message_span">Пользовательское соглашение Mi-Кредит</string>
 	<string name="mibi_license_title">Пользовательское соглашение</string>
 	<string name="micloud_account">Аккаунт</string>
@@ -115,7 +115,7 @@
 	<string name="micloud_val_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
 	<string name="micloud_via_int_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
 	<string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
-	<string name="mili_center">Центр Mi-Кредит</string>
+	<string name="mili_center">Mi-Кредит</string>
 	<string name="next">Далее</string>
 	<string name="order_price">Mi-Кредит: %1$s</string>
 	<string name="other_settings">Дополнительные параметры</string>

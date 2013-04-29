@@ -484,7 +484,7 @@
 	<string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
 	<string name="read_action">Прочитано</string>
 	<string name="refresh_action">Обновление</string>
-	<string name="remove_star_action">Снять пометку</string>
+	<string name="remove_star_action">Из избранных</string>
 	<string name="reply_action">Ответить</string>
 	<string name="reply_all_action">Ответить всем</string>
 	<string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге</string>
@@ -503,7 +503,7 @@
 	<string name="security_notification_content_title">Обновите систему безопасности</string>
 	<string name="security_notification_ticker_fmt">Аккаунт \"%s\" требует обновления настроек безопасности</string>
 	<string name="send_action">Отправить</string>
-	<string name="set_star_action">Пометить</string>
+	<string name="set_star_action">В избранные</string>
 	<string name="settings_action">Настройки</string>
 	<string name="settings_activity_title">Настройки</string>
 	<string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>

@@ -1700,7 +1700,7 @@
 	<string name="trackball_settings">Трекбол</string>
 	<string name="trackball_wake_title">Пробуждать</string>
 	<string name="transition_animation_scale_title">Переход: масштаб</string>
-	<string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
+	<string name="trust_switch_dialog_msg">Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.\nДоверять этому приложению?</string>
 	<string name="trusted_credentials">Надежные учетные данные</string>
 	<string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
 	<string name="trusted_credentials_disable_label">Отключить</string>
