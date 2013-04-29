@@ -48,9 +48,9 @@
 	<string name="delete_failed">Ошибка удаления</string>
 	<string name="delete_file">Удалить выбранный файл?</string>
 	<string name="delete_files">Удалить выбранные файлы? \n\nФайлов: %1$d</string>
-	<string name="delete_files_and_folders">Удалить выбранные папки с файлами? \n\nФайлов: %1$d \nПапок: %2$d</string>
-	<string name="delete_folder">Удалить выбранную пустую папку?</string>
-	<string name="delete_folders">Удалить выбранные пустые папки? \n\nПапок: %1$d</string>
+	<string name="delete_files_and_folders">Удалить выбранные папки и файлы? \n\nФайлов: %1$d \nПапок: %2$d</string>
+	<string name="delete_folder">Удалить выбранную папку?</string>
+	<string name="delete_folders">Удалить выбранные папки? \n\nПапок: %1$d</string>
 	<string name="des_running_trans">Эти файлы ожидают отправки: %1$d</string>
 	<string name="dialog_select_type">Выбрать тип файла</string>
 	<string name="dialog_type_audio">Аудио</string>
