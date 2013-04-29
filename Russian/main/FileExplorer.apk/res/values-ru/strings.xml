@@ -46,12 +46,12 @@
 	<string name="decompress_to">Распаковать в...</string>
 	<string name="decompress_to_here">Распаковать в текущую папку</string>
 	<string name="delete_failed">Ошибка удаления</string>
-	<string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
-	<string name="delete_files">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
-	<string name="delete_files_and_folders">Вы уверены, что хотите удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
-	<string name="delete_folder">Вы уверены, что хотите удалить?</string>
-	<string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
-	<string name="des_running_trans">Эти %1$d файлы ожидают отправки</string>
+	<string name="delete_file">Удалить выбранный файл?</string>
+	<string name="delete_files">Удалить выбранные файлы? \n\nФайлов: %1$d</string>
+	<string name="delete_files_and_folders">Удалить выбранные папки с файлами? \n\nФайлов: %1$d \nПапок: %2$d</string>
+	<string name="delete_folder">Удалить выбранную пустую папку?</string>
+	<string name="delete_folders">Удалить выбранные пустые папки? \n\nПапок: %1$d</string>
+	<string name="des_running_trans">Эти файлы ожидают отправки: %1$d</string>
 	<string name="dialog_select_type">Выбрать тип файла</string>
 	<string name="dialog_type_audio">Аудио</string>
 	<string name="dialog_type_image">Изображения</string>
@@ -194,7 +194,7 @@
 	<string name="tab_phone">Телефон</string>
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
 	<string name="trans_task">Передача</string>
-	<string name="trans_task_delete_confirm_message">Вы уверены, что хотите удалить задачи (%1$d)?</string>
+	<string name="trans_task_delete_confirm_message">Удалить выбранные задачи? \n\nЗадач:%1$d</string>
 	<string name="transing">Отправка</string>
 	<string name="trash_box_capacity">Объем корзины: %1$s</string>
 	<string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
