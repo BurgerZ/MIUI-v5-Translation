@@ -27,7 +27,7 @@
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/development.html/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
-	<string name="Dashboard_Su_Enable_Content">Включение позволит приложениям запрашивать доступ от суперпользователя. Примечание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены, что хотите сделать это?</string>
+	<string name="Dashboard_Su_Enable_Content">Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя. \nВнимание: приложения с разрешениями могут вызвать нестабильность системы, потерю личных данных, повреждение системы или аппаратной части. \nВы уверены, что хотите включить режим суперпользователя?</string>
 	<string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
 	<string name="Generic_Canceling">Отмена...</string>
 	<string name="Generic_Check">Проверка</string>
@@ -156,8 +156,8 @@
 	<string name="HIPS_SecurityPrompt_Next">Далее</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить %1$s получать права суперпользователя?</string>
-	<string name="HIPS_SecurityPrompt_ROOT_Step2">Права суперпользователя могут привести к нестабильной работе системы</string>
-	<string name="HIPS_SecurityPrompt_ROOT_Step3">Ваши личные данные (аккаунты, пароли и сообщения) могут стать общедоступны</string>
+	<string name="HIPS_SecurityPrompt_ROOT_Step2">Права суперпользователя могут привести к нестабильной работе системы.</string>
+	<string name="HIPS_SecurityPrompt_ROOT_Step3">Ваши личные данные (аккаунты, пароли и сообщения) могут стать общедоступны.</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step4">Возможно повреждение оборудования.</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>

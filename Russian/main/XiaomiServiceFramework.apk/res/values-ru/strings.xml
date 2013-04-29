@@ -7,7 +7,7 @@
 	<string name="account_name">Аккаунт: %1$s</string>
 	<string name="activating">Активация...</string>
 	<string name="alert_title_remove_account">Удалить аккаунт</string>
-	<string name="app_name">Менеджер аккаунтов Xiaomi</string>
+	<string name="app_name">Аккаунты Xiaomi</string>
 	<string name="bad_authentication">Неверный пароль или имя пользователя</string>
 	<string name="int_phone_user_notice">При авторизации в Xiaomi аккаунте с помощью мобильного номера, указывайте код страны. Например: +7</string>
 	<string name="balance">Баланс Mi-Кредит: %1$s</string>
@@ -86,8 +86,8 @@
 	<string name="login">Войти</string>
 	<string name="login_failed">Неверное имя пользователя или пароль</string>
 	<string name="login_notice">Авторизация, пожалуйста, подождите...</string>
-	<string name="mibi_license_message">Вы будете использовать сервис Xiaomi Mi-Кредит. Нажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s.</string>
-	<string name="mibi_license_message_span">Пользовательское соглашение Mi-Кредит</string>
+	<string name="mibi_license_message">Использовать сервис Xiaomi Mi-Кредит? \nНажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s</string>
+	<string name="mibi_license_message_span">пользовательское соглашение Mi-Кредит.</string>
 	<string name="mibi_license_title">Пользовательское соглашение</string>
 	<string name="micloud_account">Аккаунт</string>
 	<string name="micloud_account_label">Аккаунт: %1$s</string>
@@ -232,15 +232,15 @@
 	<string name="voucher_exchange_success">%1$s обмен Mi-Кредитов завершен</string>
 	<string name="voucher_expire">%1$s-%2$s-%3$s истек срок действия</string>
 	<string name="voucher_input">Ввод</string>
-	<string name="sina_weibo">Sina WeiBo</string>
-	<string name="bind_sina_weibo">Bind Sina WeiBo</string>
-	<string name="bind_weibo_description">Найти информацию контакта: телефон, аватар и т.д.</string>
+	<string name="sina_weibo">Сервис Sina WeiBo</string>
+	<string name="bind_sina_weibo">Привязка к сервису Sina WeiBo</string>
+	<string name="bind_weibo_description">Sina WeiBo — китайский сервис микроблогов, с помощью которого вы сможете найти информацию о контактах.</string>
 	<string name="add_weibo_account">Добавить аккаунт</string>
-	<string name="binded">Binded</string>
-	<string name="nobind">Nobind</string>
-	<string name="unbind">Unbind</string>
-	<string name="update_contacts">Обновление адресной книги</string>
-	<string name="update_contacts_description">Sina micro Fair обновит информацию контактов.</string>
+	<string name="binded">Привязан</string>
+	<string name="nobind">Не привязан</string>
+	<string name="unbind">Отвязать</string>
+	<string name="update_contacts">Обновление контактов</string>
+	<string name="update_contacts_description">Сервис Sina micro обновит информацию контактов.</string>
 	<string name="updated_contacts">Обновлено контактов: %s</string>
 	<string name="process_result">Результат процесса:</string>
 </resources>
