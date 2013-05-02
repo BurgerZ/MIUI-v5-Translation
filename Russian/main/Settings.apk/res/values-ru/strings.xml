@@ -1445,7 +1445,7 @@
 	<string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
 	<string name="screen_saturation_adjust">Насыщенность</string>
 	<string name="screen_timeout">Выключение экрана</string>
-	<string name="screen_timeout_summary">После %1$s бездействия</string>
+	<string name="screen_timeout_summary">После %1$s бездействия.</string>
 	<string name="screen_timeout_title">Выключение экрана</string>
 	<string name="screensaver_activate_on_dock_title">Также запустить при подключении док-станции</string>
 	<string name="screensaver_component_title">Выбранная заставка</string>
