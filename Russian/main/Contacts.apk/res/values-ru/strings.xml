@@ -560,6 +560,7 @@
 	<string name="organizationLabelsGroup">Организация</string>
 	<string name="organization_company_and_title">%2$s, %1$s</string>
 	<string name="other_contacts">Другие</string>
+	<string name="set_photo_failed_msg">Ошибка установки фото</string>
 	<string name="other_phone">другие телефоны</string>
 	<string name="payphone">Телефон-автомат</string>
 	<string name="people">Контакты</string>

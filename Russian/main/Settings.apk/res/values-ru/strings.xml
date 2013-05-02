@@ -1572,7 +1572,10 @@
 	<string name="sim_bad_pin">Неверный PIN-код</string>
 	<string name="sim_change_failed">Не удается изменить PIN.\nВозможно, код введен неверно</string>
 	<string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN.\n Включите блокировку SIM.</string>
+	<string name="mx_activate_int_hint_sim_change">SIM-карта изменена. Для активации облачных сообщений требуется повторно отправить SMS. \nОтправить сейчас?</string>
 	<string name="sim_change_pin">PIN-код SIM-карты</string>
+	<string name="mx_activate_int_hint_malformed_info">Ваши личные данные повреждены. Для активации облачных сообщений требуется повторно отправить SMS. \nОтправить сейчас?</string>
+	<string name="mx_activate_int_hint_server">Сервер отклонил запрос активации. Для активации требуется повторно отправить SMS. \nОтправить сейчас?</string>
 	<string name="sim_change_succeeded">PIN-код SIM-карты успешно изменен</string>
 	<string name="sim_disable_sim_lock">Разблокировать SIM-карту</string>
 	<string name="sim_enable_sim_lock">Блокировка SIM-карты</string>
