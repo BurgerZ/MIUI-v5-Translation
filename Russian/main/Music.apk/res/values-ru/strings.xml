@@ -168,7 +168,7 @@
 	<string name="playlist_deleted_message">Плейлист удален</string>
 	<string name="playlist_favorite">Избранное</string>
 	<string name="playlist_frequently_played">Часто проигранные</string>
-	<string name="playlist_new">Создать новый плейлист</string>
+	<string name="playlist_new">Новый плейлист</string>
 	<string name="playlist_recently_added">Недавно добавленные</string>
 	<string name="playlist_recently_played">Недавно проигранные</string>
 	<string name="playlist_renamed_message">Плейлист переименован</string>
