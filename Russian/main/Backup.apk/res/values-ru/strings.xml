@@ -28,7 +28,7 @@
 	<string name="backup_error">Ошибка</string>
 	<string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
 	<string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
-	<string name="backup_finished">Создание резервой копии успешно завершено</string>
+	<string name="backup_finished">Копирование завершено</string>
 	<string name="backup_hint">Не выключайте телефон!</string>
 	<string name="backup_items_app_tailer">" - данные приложений "</string>
 	<string name="backup_items_sysdata_tailer">" - системные данные, "</string>
@@ -119,7 +119,7 @@
 	<string name="restore_counts">Восстановление:</string>
 	<string name="restore_data">Восстановить</string>
 	<string name="restore_failed">Ошибка восстановления</string>
-	<string name="restore_finished">Восстановление выполнено</string>
+	<string name="restore_finished">Восстановление завершено</string>
 	<string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
 	<string name="restore_progress">Идет восстановление данных...</string>
 	<string name="restore_report">Журнал восстановления</string>
@@ -150,7 +150,7 @@
 	<string name="system_backup">Бэкап</string>
 	<string name="system_backup_info">Настройки всех системных приложений</string>
 	<string name="task_backup_cancel_progress">Остановка процесса...</string>
-	<string name="task_backup_finished_local">Резервное копирование выполнено успешно!</string>
+	<string name="task_backup_finished_local">Резервное копирование завершено!</string>
 	<string name="task_canceled">Отменено</string>
 	<string name="task_canceled_all_local">Все задачи отменены</string>
 	<string name="task_canceled_local">Задач отменено: %1$s</string>

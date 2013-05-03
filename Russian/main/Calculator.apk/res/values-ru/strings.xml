@@ -15,11 +15,4 @@
 	<string name="scientific">Научный</string>
 	<string name="sqrtDesc">Квадратный корень</string>
 	<string name="text_copied_toast">Текст скопирован</string>
-	<string name="del">DEL</string>
-    <string name="clear">C</string>
-    <string name="div">/</string>
-    <string name="mul">*</string>
-    <string name="plus">+</string>
-    <string name="minus">−</string>
-    <string name="dot">.</string>
 </resources>
