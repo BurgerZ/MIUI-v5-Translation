@@ -4,7 +4,7 @@
 	<string name="activate_fail_notification_title">Пожалуйста, активируйте повторно услугу Xiaomi синхронизации</string>
 	<string name="activating">Активация...</string>
 	<string name="alarm_message_12_hour_formate">h:mm aa</string>
-	<string name="alwaysUsePrompt">Исполь. по умолчанию</string>
+	<string name="alwaysUsePrompt">По умолчанию</string>
 	<string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
 	<string name="arbor_day">"День древонасаждения"</string>
 	<string name="autumn_begins">"Начало осени"</string>
