@@ -477,4 +477,5 @@
 	<string name="hand_night_exit_button_text">Выключить ночной режим</string>
 	<string name="simple_mode_button_text_hand_night">Закрыть ночной режим</string>
 	<string name="simple_mode_title">Обычный режим</string>
+	<string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается, если ISO не установлено в режим \"Авто\".</string>
 </resources>
