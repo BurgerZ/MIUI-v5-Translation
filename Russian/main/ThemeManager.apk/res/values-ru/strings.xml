@@ -144,11 +144,11 @@
 	<string name="theme_import_data">Импорт информации</string>
 	<string name="theme_import_fail">Ошибка импорта %1$s</string>
 	<string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
-	<string name="theme_import_importing">Обновление.. осталось %1$d</string>
+	<string name="theme_import_importing">Обновление... осталось: %1$d</string>
 	<string name="theme_import_item_delete_request_button">Удалить</string>
 	<string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
 	<string name="theme_import_item_delete_request_title">Тема не обновлена</string>
-	<string name="theme_import_item_importing">Обновление</string>
+	<string name="theme_import_item_importing">Обновление...</string>
 	<string name="theme_import_item_not_upgraded">Не обновлено</string>
 	<string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите...</string>
 	<string name="theme_import_item_waiting">Ожидание</string>
