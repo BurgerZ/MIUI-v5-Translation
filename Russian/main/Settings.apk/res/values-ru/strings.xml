@@ -1595,9 +1595,11 @@
 	<string name="sim_pin_toggle">Блокировка SIM-карты</string>
 	<string name="sim_pins_dont_match">PIN-коды не совпадают</string>
 	<string name="sim_reenter_new">Введите новый PIN повторно</string>
+	<string name="sim_status_title">Статус SIM</string>
 	<string name="skip_button_label">Отмена</string>
 	<string name="skip_label">Далее</string>
 	<string name="skip_step">Пропустить шаг</string>
+	<string name="slot_status_title">Информация о IMEI</string>
 	<string name="small_font">Маленький</string>
 	<string name="sms_delivered_sound_dialog_title">Выберите звук для уведомления о доставке сообщения</string>
 	<string name="sms_delivered_sound_title">Доставка</string>
