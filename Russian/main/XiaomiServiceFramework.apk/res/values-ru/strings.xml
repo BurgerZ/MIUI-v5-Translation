@@ -178,7 +178,7 @@
 	<string name="recharge_alipay_summary">Пополнение через Alipay.</string>
 	<string name="recharge_alipay_title">Alipay</string>
 	<string name="recharge_denomination">%1$s RMB</string>
-	<string name="recharge_hint">1 MiCredit равняется 5 RMB</string>
+	<string name="recharge_hint">"1 Mi-Кредит = 5 юаней ~ 25 рублей"</string>
 	<string name="recharge_notification">Пополнение на %1$s кредитов Mi</string>
 	<string name="recharge_other">Выберите другой способ оплаты</string>
 	<string name="recharge_prepaid_summary">Пополение через China Mobile, China Unicom и China Telecom.</string>
@@ -186,6 +186,11 @@
 	<string name="recharge_record">История пополнений</string>
 	<string name="recharge_record_empty">Нет истории пополнения</string>
 	<string name="recharge_tenpay_summary">Пополнение через Tenpay.</string>
+	<string name="recharge_pcpay_title">Пополнение через компьютер </string>
+	<string name="recharge_pcpay_summary">Поддерживает больше способов пополнения.</string>
+	<string name="btn_recharge_success">Пополнение завершено</string>
+	<string name="btn_recharge_success_quick">Пополнение завершено</string>
+	<string name="account_detail">Аккаунт Xiaomi: %1$s</string>
 	<string name="recharge_tenpay_title">Tenpay</string>
 	<string name="recharge_voucher_summary">Пополнение через карту Mi-Кредит.</string>
 	<string name="recharge_voucher_title">Карты Mi-Кредит</string>
