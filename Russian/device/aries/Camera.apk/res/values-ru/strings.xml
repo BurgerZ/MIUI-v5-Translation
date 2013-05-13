@@ -343,7 +343,7 @@
 	<string name="simple_mode_button_text_hdr">Выключить HDR режим</string>
 	<string name="simple_mode_button_text_hand_night">Выключить ночной режим</string>
 	<string name="simple_mode_button_text_panorama">Выключить панораму</string>
-	<string name="simple_mode_button_text_slow_video">Выключить замедленную съемку</string>
+	<string name="simple_mode_button_text_slow_video">Выключить режим замедления</string>
 	<string name="skip">Нет</string>
 	<string name="slideshow">Слайдшоу</string>
 	<string name="snapshot_lower_than_video">Размер снимка меньше, чем размер видео. Пожалуйста, выберите разрешение выше или равное текущему размеру видео.</string>
@@ -353,7 +353,7 @@
 	<string name="tags">Тэги</string>
 	<string name="tap_to_focus">Нажмите для фокусировки.</string>
 	<string name="time">Время</string>
-	<string name="time_lapse_error">Невозможно снять замедленное видео при данном разрешении.</string>
+	<string name="time_lapse_error">Невозможно снять видео в режиме замедления при данном разрешении.</string>
 	<string name="times">Время</string>
 	<string name="title">Название</string>
 	<string name="toast_burst_snap_finished_end">Фотографии сделаны.</string>
