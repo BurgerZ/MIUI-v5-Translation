@@ -54,7 +54,7 @@
 	<string name="safe_relative">Безопасные разрешения</string>
 	<string name="security_settings_desc">Разрешить этому приложению:</string>
 	<string name="settings">Настройки</string>
-	<string name="trust_switch_dialog_msg">Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.\nДоверять этому приложению?</string>
+	<string name="trust_switch_dialog_msg">Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.\n\nДоверять этому приложению?</string>
 	<string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
 	<string name="uninstall_application_text">Приложение будет удалено</string>
 	<string name="uninstall_application_title">Удаление приложения</string>

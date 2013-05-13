@@ -20,11 +20,11 @@
 	<string name="account_security_waiting_policy_key_message">%s необходима информация настройки безопасности с сервера. Пожалуйста, ждите...</string>
 	<string name="account_settings_action">Настройки аккаунта</string>
 	<string name="account_settings_background_attachments_label">Автозагрузка файлов</string>
-	<string name="account_settings_background_attachments_summary">Автоматически загружать прикрепленные файлы при подключении по Wi-Fi</string>
+	<string name="account_settings_background_attachments_summary">Автоматически загружать прикрепленные файлы при активном Wi-Fi соединении.</string>
 	<string name="account_settings_category_delete_account">Удалить аккаунт</string>
 	<string name="account_settings_data_usage">Использование данных</string>
 	<string name="account_settings_default_label">Аккаунт по умолчанию</string>
-	<string name="account_settings_default_summary">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
+	<string name="account_settings_default_summary">Сделать аккаунтом по умолчанию для отправки сообщений</string>
 	<string name="account_settings_delete_account_label">Удалить аккаунт</string>
 	<string name="account_settings_description_label">Название аккаунта</string>
 	<string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
@@ -68,7 +68,7 @@
 	<string name="account_setup_basic_description_label">Имя акаунта (опционально)</string>
 	<string name="account_setup_basic_label">Пожалуйста, заполните информацию для %s почтового ящика :</string>
 	<string name="account_setup_basic_name_label">Ваше имя (опционально)</string>
-	<string name="account_setup_basics_default_label">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
+	<string name="account_setup_basics_default_label">Сделать аккаунтом по умолчанию для отправки сообщений</string>
 	<string name="account_setup_basics_email_label">Адрес электронной почты</string>
 	<string name="account_setup_basics_exchange_title">Добавление аккаунта Exchange</string>
 	<string name="account_setup_basics_exchange_title_alternate">Добавление аккаунта Exchange ActiveSync</string>
@@ -135,8 +135,8 @@
 	<string name="account_setup_names_title">Настройки аккаунта</string>
 	<string name="account_setup_names_user_name_empty_error">Это поле должно быть заполнено</string>
 	<string name="account_setup_names_user_name_label">Имя отправителя (используется в исходящих сообщениях)</string>
-	<string name="account_setup_options_background_attachments_label">Загружать прикрепленные файлы при подключении по Wi-Fi</string>
-	<string name="account_setup_options_default_label">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
+	<string name="account_setup_options_background_attachments_label">Загружать прикрепленные файлы при активном Wi-Fi соединении</string>
+	<string name="account_setup_options_default_label">Сделать аккаунтом по умолчанию для отправки сообщений</string>
 	<string name="account_setup_options_headline">Параметры аккаунта</string>
 	<string name="account_setup_options_mail_check_frequency_10min">Каждые 10 минут</string>
 	<string name="account_setup_options_mail_check_frequency_15min">Каждые 15 минут</string>
@@ -155,7 +155,7 @@
 	<string name="account_setup_options_mail_window_auto">Автоматически</string>
 	<string name="account_setup_options_mail_window_default">Параметры по умолчанию</string>
 	<string name="account_setup_options_mail_window_label">Период синхронизации</string>
-	<string name="account_setup_options_notify_label">Уведомлять при получении сообщения по электронной почте</string>
+	<string name="account_setup_options_notify_label">Уведомлять при получении новых сообщений</string>
 	<string name="account_setup_options_sync_calendar_label">Синхронизировать календарь из этого аккаунта</string>
 	<string name="account_setup_options_sync_contacts_label">Синхронизировать контакты из этого аккаунта</string>
 	<string name="account_setup_options_sync_email_label">Синхронизировать почту из этого аккаунта</string>

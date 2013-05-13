@@ -30,7 +30,7 @@
 	<string name="camera_setas_wallpaper">Обои</string>
 	<string name="camera_view_none_message">Фотографии будут отображаться здесь</string>
 	<string name="cancel">Отмена</string>
-	<string name="cant_delete_system_album">%s это системный альбом, его не возможно удалить!</string>
+	<string name="cant_delete_system_album">%s - это системный альбом, его удалить нельзя!</string>
 	<string name="cleaning_cache">Очистка кэша...</string>
 	<string name="clear_thumbnail_cache">Очистить кэш</string>
 	<string name="clear_thumbnail_cache_confirm">Кеш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>
@@ -51,23 +51,23 @@
 	<string name="cloud_tab_locations">Местоположение</string>
 	<string name="cloudfolder_already_exists">Альбом уже существует</string>
 	<string name="confirm_delete">Удалить выбранное?</string>
-	<string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы с фото? \n\nАльбомов:%s \nФото: %s</string>
-	<string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
+	<string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы с изображениями? \n\nАльбомов: %s \nИзображений: %s</string>
+	<string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить выбранные альбомы и изображения? \n\nИзображений:%s \nАльбомов: %s</string>
 	<string name="confirm_delete_folders_and_pictures">Вы уверены, что хотите удалить %s?</string>
-	<string name="confirm_delete_folders_including" formatted="false">%s альбомов, включая %s фото</string>
-	<string name="confirm_delete_including_null">0 штук</string>
-	<string name="confirm_delete_items">%s штук</string>
-	<string name="confirm_delete_pictures">%s фотографий</string>
-	<string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить?</string>
+	<string name="confirm_delete_folders_including" formatted="false">\nАльбомов: %s \nИзображений: %s</string>
+	<string name="confirm_delete_including_null">Выбрано: 0</string>
+	<string name="confirm_delete_items">Выбрано: %s</string>
+	<string name="confirm_delete_pictures">Изображений: %s</string>
+	<string name="confirm_delete_system_album">%s - это системный альбом. \nВы уверены, что хотите удалить?</string>
 	<string name="confirm_delete_videos">%s видео</string>
 	<string name="contact_photo">Фото контакта</string>
 	<string name="contrast">Контраст</string>
 	<string name="create_new_cloud_folder">Создать новый облачный альбом</string>
 	<string name="crop">Кадрировать</string>
 	<string name="crop_fail_to_load_image">Ошибка загрузки изображения для обрезки</string>
-	<string name="crop_label">Обрезать фотографию</string>
+	<string name="crop_label">Обрезать изображение</string>
 	<string name="crop_save_text">Сохранить</string>
-	<string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
+	<string name="crop_tooltip">Чтобы кадрировать изображение, перетащите маркеры.</string>
 	<string name="crossprocess">Кросс-обработка</string>
 	<string name="cut">Обрезать</string>
 	<string name="damaged_file">Файл поврежден</string>
@@ -82,14 +82,14 @@
 	<string name="documentary">Документальные</string>
 	<string name="done">Готово</string>
 	<string name="doodle">Подмалевок</string>
-	<string name="doodle_tooltip">Рисуйте на фото пальцем</string>
+	<string name="doodle_tooltip">Рисуйте пальцем на изображении</string>
 	<string name="duotone">Двойной тон</string>
 	<string name="duration">Длительность</string>
 	<string name="edit">Изменить</string>
 	<string name="edited_photo_bucket_name">Измененные</string>
-	<string name="empty_album">Нет фото/видео</string>
-	<string name="error_should_not_select_image">Внимание: пожалуйста, не выбирайте файл изображения</string>
-	<string name="error_should_not_select_video">Внимание: пожалуйста, не выбирайте видео файл</string>
+	<string name="empty_album">Нет изображений и видео</string>
+	<string name="error_should_not_select_image">Внимание: пожалуйста, не выбирайте файл изображения.</string>
+	<string name="error_should_not_select_video">Внимание: пожалуйста, не выбирайте видео файл.</string>
 	<string name="exposure_time">Выдержка</string>
 	<string name="external_sd_card">SD-карта</string>
 	<string name="external_usb_device">USB-устройство</string>
@@ -103,7 +103,7 @@
 	<string name="flash_off">Без вспышки</string>
 	<string name="flash_on">Со вспышкой</string>
 	<string name="flip">Отразить</string>
-	<string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
+	<string name="flip_tooltip">Чтобы отразить изображение, перетащите его за край.</string>
 	<string name="focal_length">Фокус. расст.</string>
 	<string name="frame_black">Черный</string>
 	<string name="frame_button">Рамка</string>
@@ -123,21 +123,21 @@
 	<string name="group_by_time">По времени создания</string>
 	<string name="height">Высота</string>
 	<string name="highlight">Блики</string>
-	<string name="home_my_captured_items">фотографии</string>
+	<string name="home_my_captured_items">фото</string>
 	<string name="how_many_pics">Фотографий: %d</string>
 	<string name="how_many_sub_folders">Папок: %d</string>
 	<string name="how_many_videos">Видео: %d</string>
 	<string name="import_complete">Импорт завершен</string>
 	<string name="import_fail">Сбой импорта</string>
 	<string name="initial_cloud_button_text">Начать использование</string>
-	<string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
+	<string name="initial_cloud_text">Создавайте облачные альбомы и синхронизируйте изображения.</string>
 	<string name="input_cloudfolder_name">Название облачного альбома</string>
 	<string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
 	<string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
 	<string name="internal_sd_card">Внутренняя SD-карта</string>
 	<string name="iso">ISO</string>
 	<string name="loading">Идет загрузка...</string>
-	<string name="loading_failure">Не удалось загрузить фото</string>
+	<string name="loading_failure">Не удалось загрузить изображение</string>
 	<string name="loading_thumbnail">Загрузка эскизов</string>
 	<string name="local_albums">Локальные альбомы</string>
 	<string name="location">Место съемки</string>
@@ -173,10 +173,10 @@
 	<string name="no_location">Место не указано</string>
 	<string name="no_map_app">Нет приложений с картами</string>
 	<string name="no_network_connected">Нет подключения к сети</string>
-	<string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
+	<string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно.</string>
 	<string name="no_such_item">Элемент не найден</string>
 	<string name="no_thumbnail">Нет уменьшенного изображения</string>
-	<string name="none_picture">Нет фотографий в Галерее</string>
+	<string name="none_picture">Нет изображений</string>
 	<string name="not_auto_create_recent_album">Не создавать автоматически последние альбомы</string>
 	<string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
 	<string name="open">Открыть</string>
@@ -190,7 +190,7 @@
 	<string name="people">Люди</string>
 	<string name="photo_page_save_image">Сохранить</string>
 	<string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
-	<string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
+	<string name="photo_page_save_uri_image_ok">Фотография сохранена в директорию камеры</string>
 	<string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
 	<string name="photoeditor_name">Фотостудия</string>
 	<string name="photos">фото</string>
@@ -211,7 +211,7 @@
 	<string name="saving_failure">Не удалось сохранить фото</string>
 	<string name="saving_image">Сохранение картинки...</string>
 	<string name="sd_not_available">SD-карта размонтирована или недоступна</string>
-	<string name="seconds">секунд</string>
+	<string name="seconds">сек.</string>
 	<string name="select_album">Выбрать альбомы</string>
 	<string name="select_all">Выбрать все</string>
 	<string name="select_image">Выбрать фото</string>
@@ -232,7 +232,7 @@
 	<string name="set_recent_album">Сделать новый альбом</string>
 	<string name="set_wallpaper">Рабочий стол</string>
 	<string name="settings">Настройки</string>
-	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере</string>
+	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере.</string>
 	<string name="shadow">Затенение</string>
 	<string name="sharpen">Резкость</string>
 	<string name="show_all">Изображения и видео</string>

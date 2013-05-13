@@ -27,7 +27,7 @@
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/development.html/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
-	<string name="Dashboard_Su_Enable_Content">Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя. \nВнимание: приложения с разрешениями могут вызвать нестабильность системы, потерю личных данных, повреждение системы или аппаратной части. \nВы уверены, что хотите включить режим суперпользователя?</string>
+	<string name="Dashboard_Su_Enable_Content">Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя. \nВнимание: приложения с разрешениями могут вызвать нестабильность в работе системы, а также потерю личных данных. \n\nВы уверены, что хотите включить режим суперпользователя?</string>
 	<string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
 	<string name="Generic_Canceling">Отмена...</string>
 	<string name="Generic_Check">Проверка</string>

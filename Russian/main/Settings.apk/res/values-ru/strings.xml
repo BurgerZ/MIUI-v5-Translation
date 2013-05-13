@@ -1229,7 +1229,7 @@
 	<string name="perm_su_disabled_in_stable">Суперпользователь недоступен на стабильной версии MIUI</string>
 	<string name="perm_su_disabled_in_stable_desc">Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования.\n\nПожалуйста, переключитесь на версию для разработчиков.</string>
 	<string name="perm_su_disabled_in_stable_download">Скачать MIUI</string>
-	<string name="perm_su_enable_content">Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя. \nВнимание: приложения с разрешениями могут вызвать нестабильность системы, потерю личных данных, повреждение системы или аппаратной части. \nВы уверены, что хотите включить режим суперпользователя?</string>
+	<string name="perm_su_enable_content">Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя. \nВнимание: приложения с разрешениями могут вызвать нестабильность в работе системы, а также потерю личных данных. \n\nВы уверены, что хотите включить режим суперпользователя?</string>
 	<string name="perm_su_enable_dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если Вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений.</string>
 	<string name="perm_su_enable_title">Суперпользователь</string>
 	<string name="perm_su_switch">Суперпользователь</string>
@@ -1705,7 +1705,7 @@
 	<string name="trackball_settings">Трекбол</string>
 	<string name="trackball_wake_title">Пробуждать</string>
 	<string name="transition_animation_scale_title">Переход: масштаб</string>
-	<string name="trust_switch_dialog_msg">Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.\nДоверять этому приложению?</string>
+	<string name="trust_switch_dialog_msg">Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.\n\nДоверять этому приложению?</string>
 	<string name="trusted_credentials">Надежные учетные данные</string>
 	<string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
 	<string name="trusted_credentials_disable_label">Отключить</string>
@@ -1788,8 +1788,8 @@
 	<string name="unlock_set_unlock_summary">Включите блокировку экрана, чтобы выбрать тип блокировки</string>
 	<string name="unmount_inform_text">SD-карта будет отключена</string>
 	<string name="untitled_apn">Без названия</string>
-	<string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для содействия в разработке более стабильной и простой в использовании MIUI ROM только при наличии Wi-Fi-соединеия</string>
-	<string name="upload_debug_log_title">Отправлять логи</string>
+	<string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для помощи в развитии прошивки MIUI. \nТолько по Wi-Fi.</string>
+	<string name="upload_debug_log_title">Отправлять журналы</string>
 	<string name="usage_log">Статистика использования приложения</string>
 	<string name="usage_stats_label">Статистика использования</string>
 	<string name="usage_time_label">Время использования</string>
