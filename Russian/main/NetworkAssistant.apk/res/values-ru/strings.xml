@@ -23,7 +23,7 @@
 	<string name="app_detail_internet_control_category">Управление сетью</string>
 	<string name="app_detail_title">О программе</string>
 	<string name="app_detail_version">Версия: %s</string>
-	<string name="app_name">Монитор</string>
+	<string name="app_name">Трафик</string>
 	<string name="app_traffic_detail">" трафик(%s)"</string>
 	<string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. (%s)</string>
 	<string name="apply_rules_failed_known">OK</string>
@@ -95,7 +95,7 @@
 	<string name="pref_connect_settings_exceed_limit">Отключать передачу данных</string>
 	<string name="pref_connect_settings_exceed_limit_hint">Предупреждать меня и отключить передачу данных при превышении ежемесячного лимита трафика</string>
 	<string name="pref_connect_settings_notify_in_statusbar">Отображать трафик</string>
-	<string name="pref_connect_settings_title">Настройки монитора</string>
+	<string name="pref_connect_settings_title">Настройки трафика</string>
 	<string name="pref_network_speed_internal_title">Интервал обновления</string>
 	<string name="pref_network_speed_settings">Скорость сети</string>
 	<string name="pref_network_status_bar">Панель состояния</string>

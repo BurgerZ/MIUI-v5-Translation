@@ -67,7 +67,7 @@
   <string name="group_by_tags">По тегам</string>
   <string name="group_by_time">По времени</string>
   <string name="height">Высота</string>
-  <string name="highlight">Блики</string>
+  <string name="highlight">Яркость</string>
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
   <string name="iso">ISO</string>

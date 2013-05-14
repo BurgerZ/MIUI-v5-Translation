@@ -19,9 +19,9 @@
 	<string name="close">Закрыть</string>
 	<string name="component_category_finest_title">Основные</string>
 	<string name="component_category_more_title">Дополнительные</string>
-	<string name="component_include_title">Пунктов: %1$s</string>
+	<string name="component_include_title">Компонентов: %1$s</string>
 	<string name="component_lockstyle_personal_title">Настройки локскрина</string>
-	<string name="component_select_title">%1$s пунктов</string>
+	<string name="component_select_title">Выбрано компонентов: %1$s</string>
 	<string name="component_settings_title">Текущая тема</string>
 	<string name="description_author">Автор:</string>
 	<string name="description_designer">Дизайнер:</string>
@@ -51,7 +51,7 @@
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="resource_apply">Применить</string>
-	<string name="resource_buy">Купить</string>
+	<string name="resource_buy">"Купить "</string>
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
 	<string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
 	<string name="resource_comment_count">Рейтинг: %1$s \nОтзывов: %2$s \nВерсия: %3$s</string>
@@ -96,8 +96,8 @@
 	<string name="resource_online">Онлайн %1$s</string>
 	<string name="resource_preview">Просмотр</string>
 	<string name="resource_price_format">(%1$s)</string>
-	<string name="resource_price_free">Беспл.</string>
-	<string name="resource_price_unit">MI кредит.</string>
+	<string name="resource_price_free">Бесплатно</string>
+	<string name="resource_price_unit">Mi-Кредит</string>
 	<string name="resource_ringtone_default">Мелодии</string>
 	<string name="resource_see_more">Подробнее</string>
 	<string name="resource_select">Выбрать</string>
@@ -115,7 +115,7 @@
 	<string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже</string>
 	<string name="theme_changed_failed_message">Не установлено</string>
 	<string name="theme_changed_message">Установлено</string>
-	<string name="theme_changing_dialog_title">Применение темы. Пожалуйста, подождите...</string>
+	<string name="theme_changing_dialog_title">Применение темы. \nПожалуйста, подождите...</string>
 	<string name="theme_component_title_alarm">Будильник</string>
 	<string name="theme_component_title_alarmstyle">Будильник</string>
 	<string name="theme_component_title_all">Темы</string>
@@ -136,9 +136,9 @@
 	<string name="theme_component_title_others">Прочее</string>
 	<string name="theme_component_title_photo_frame">Фоторамка</string>
 	<string name="theme_component_title_ringtone">Мелодия</string>
-	<string name="theme_component_title_statusbar">Статус-бар</string>
+	<string name="theme_component_title_statusbar">Строка состояния</string>
 	<string name="theme_component_title_wallpaper">Обои</string>
-	<string name="theme_description_title_customized">Пользов.</string>
+	<string name="theme_description_title_customized">Изменено</string>
 	<string name="theme_description_title_default">По умолчанию</string>
 	<string name="theme_import_activity_label">Обновление тем</string>
 	<string name="theme_import_data">Импорт информации</string>

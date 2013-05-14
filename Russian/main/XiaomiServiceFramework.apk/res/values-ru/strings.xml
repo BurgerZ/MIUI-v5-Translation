@@ -16,12 +16,12 @@
 	<string name="btn_call">Позвонить</string>
 	<string name="btn_count_down_auto">Запрос через %1$s сек.</string>
 	<string name="btn_count_down_wait">Подождите %1$s сек.</string>
-	<string name="btn_mili_center_recharge">Пополнить MiCredit</string>
+	<string name="btn_mili_center_recharge">Пополнить баланс</string>
 	<string name="btn_query">Узнать сейчас</string>
 	<string name="btn_recharge_large">Пополнить</string>
 	<string name="btn_pay_large">Оплатить</string>
 	<string name="btn_recharge_other">Другие методы пополнения</string>
-	<string name="btn_voucher">Карта MiCredit (%1$s)</string>
+	<string name="btn_voucher">Карта \"Mi-Кредит\" (%1$s)</string>
 	<string name="button_cancel">Отмена</string>
 	<string name="button_pay">Оплатить</string>
 	<string name="button_recharge">Пополнить</string>
@@ -133,7 +133,7 @@
 	<string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
 	<string name="paytool_error_msp">%1$s ошибка пополнения</string>
 	<string name="paytool_msp_not_installed">Вы не установили плагин защиты %1$s. Установить его сейчас?</string>
-	<string name="paytool_picker_hint">Пожалуйста, выберите сумму пополнения MiCredit</string>
+	<string name="paytool_picker_hint">Пожалуйста, выберите сумму пополнения баланса Mi-Кредит.</string>
 	<string name="paytool_tenpay">Tenpay</string>
 	<string name="prepaid_china_mobile">Оператор 1</string>
 	<string name="prepaid_china_telcom">Оператор 2</string>

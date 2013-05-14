@@ -3,8 +3,8 @@
 	<string name="altitude_title">Высота</string>
 	<string name="altitude_unit">м</string>
 	<string name="app_label">Компас</string>
-	<string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
-	<string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
+	<string name="calibrate_failed_no_location">Ошибка калибровки: невозможно получить данные.</string>
+	<string name="calibrate_failed_timeout">Ошибка калибрации: сервер не отвечает.</string>
 	<string name="calibrate_success">Калибровка успешно выполнена</string>
 	<string name="cannot_get_location">Не удалось получить координаты</string>
 	<string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
@@ -24,4 +24,5 @@
 	<string name="menu_calibrate_altitude">Калибрация высоты</string>
 	<string name="pressure_title">Давление</string>
 	<string name="pressure_unit">гПа</string>
+	<string name="guide_toast">Удалитесь от возможных магнитных помех. \nВыполните калибровку, вращая телефон так, как показано на анимации.</string>
 </resources>
