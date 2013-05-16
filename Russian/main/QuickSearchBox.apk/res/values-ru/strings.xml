@@ -29,4 +29,6 @@
 	<string name="search_widget">Поиск</string>
 	<string name="system_search_category_title">Телефон</string>
 	<string name="voice_search_hint_title">Говорите:</string>
+	<string name="search_in_web">Поиск в интернете</string>
+	<string name="search_in_app_store">Поиск в супермаркете</string>
 </resources>

@@ -34,7 +34,7 @@
 	<string name="account_settings_incoming_summary">Имя пользователя, пароль и другие настройки сервера входящей почты</string>
 	<string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
 	<string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
-	<string name="account_settings_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
+	<string name="account_settings_mail_check_frequency_label">Проверка папки \"Входящие\"</string>
 	<string name="account_settings_name_label">Имя отправителя</string>
 	<string name="account_settings_notifications">Настройки уведомлений</string>
 	<string name="account_settings_notify_label">Уведомления</string>
@@ -143,7 +143,7 @@
 	<string name="account_setup_options_mail_check_frequency_1hour">Каждый час</string>
 	<string name="account_setup_options_mail_check_frequency_30min">Каждые 30 минут</string>
 	<string name="account_setup_options_mail_check_frequency_5min">Каждые 5 минут</string>
-	<string name="account_setup_options_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
+	<string name="account_setup_options_mail_check_frequency_label">Проверка папки \"Входящие\"</string>
 	<string name="account_setup_options_mail_check_frequency_never">Никогда</string>
 	<string name="account_setup_options_mail_check_frequency_push">Автоматически (принудительно)</string>
 	<string name="account_setup_options_mail_window_1day">Один день</string>

@@ -50,6 +50,8 @@
 	<string name="good_comments">Хорошие</string>
 	<string name="header_processing">Идет скачивание...</string>
 	<string name="header_waiting">Ожидание скачивания...</string>
+	<string name="first_recommend_download">Установить все</string>
+	<string name="first_recommend_enter">Запуск</string>
 	<string name="hot_rank_tag">Топ рейтинга</string>
 	<string name="install">Скачать</string>
 	<string name="install_all_description">Установить приложения %1$s и %2$s сейчас？</string>

@@ -30,6 +30,7 @@
 	<string name="clear_cache">Очистить кэш</string>
 	<string name="close">Закрыть</string>
 	<string name="compress_message">Имя архива:</string>
+	<string name="compress_fail">Ошибка сжатия. Такое имя уже существует.</string>
 	<string name="compress_title">Создание архива</string>
 	<string name="confirm">OК</string>
 	<string name="confirm_know">OK</string>
@@ -41,7 +42,7 @@
 	<string name="data_capacity">Объем: %1$s</string>
 	<string name="decompress_cancel">Отмена</string>
 	<string name="decompress_confirm">Распаковать</string>
-	<string name="decompress_fail">Ошибка распаковки</string>
+	<string name="decompress_fail">Ошибка распаковки. Архив поврежден или файл уже существует.</string>
 	<string name="decompress_success">Распаковка завершена</string>
 	<string name="decompress_to">Распаковать в...</string>
 	<string name="decompress_to_here">Распаковать в текущую папку</string>
