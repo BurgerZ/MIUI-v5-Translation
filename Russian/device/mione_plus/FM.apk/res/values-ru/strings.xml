@@ -21,7 +21,7 @@
     <string name="fmradio_found_format">%sMHz...</string>
     <string name="fmradio_found_station">Найдено станций: %d</string>
     <string name="fmradio_in_calling_at_begin">Запуск радио невозможен при разговоре</string>
-    <string name="fmradio_no_headset_at_begin">Подключите наушники</string>
+    <string name="fmradio_no_headset_at_begin">Подключите наушники для запуска радио.</string>
     <string name="fmradio_no_headset_in_listen">Наушники отключены, радио автоматически выключено.</string>
     <string name="fmradio_on_airplane_mode_in_listen">Активирован режим полета, радио автоматически выключено.</string>
     <string name="fmradio_scan_begin_msg">Сканирование радиостанций</string>
@@ -54,7 +54,7 @@
     <string name="quit_warining">Радио отключится через %d мин.</string>
     <string name="saved">Сохранить</string>
     <string name="scan">Сканировать</string>
-    <string name="select_quit_time">Установите интервал до отключения (в минутах)</string>
+    <string name="select_quit_time">Установите интервал до отключения \n(в минутах)</string>
     <string name="service_start_error_msg">Во время выполнения произошла ошибка, радио будет отключено.</string>
     <string name="sleep_mode">Спящий режим</string>
     <string name="station_format_error">Произошла ошибка</string>
