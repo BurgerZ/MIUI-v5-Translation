@@ -38,8 +38,8 @@
   <string formatted="false" name="abbrev_month_day">%-e %b</string>
   <string formatted="false" name="abbrev_month_day_year">%d.%m.%Y</string>
   <string formatted="false" name="abbrev_month_year">%-b %Y</string>
-  <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
-  <string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
+  <string name="abbrev_wday_month_day_no_year">EEE. d, MMMM</string>
+  <string name="abbrev_wday_month_day_year">EEE. d, MMM yyyy</string>
   <string name="accept">Принять</string>
   <string name="accessibility_binding_label">Специальные возможности</string>
   <string name="action_bar_home_description">Перейти на главную</string>
@@ -272,7 +272,7 @@
   <string name="fmapp_name">FM радио</string>
   <string name="force_close">ОК</string>
   <string name="format_error">Не удалось очистить SD-карту</string>
-  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+  <string name="full_wday_month_day_no_year">EEEE d, MMMM</string>
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>

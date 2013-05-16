@@ -1885,7 +1885,7 @@
 	<string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
 	<string name="virus_scan_app_waiting">Ожидание сканирования</string>
 	<string name="virus_scanner_auto_update">Автообновление</string>
-	<string name="virus_scanner_date_formater">dd MMM yyyy</string>
+	<string name="virus_scanner_date_formater">dd, MMM yyyy</string>
 	<string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>
 	<string name="virus_scanner_lib_update_failed">Ошибка обновления вирусных баз!</string>
 	<string name="virus_scanner_lib_updating">Обновление базы...</string>

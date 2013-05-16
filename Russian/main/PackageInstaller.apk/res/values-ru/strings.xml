@@ -4,7 +4,7 @@
 	<string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
 	<string name="allow_source_dlg_text">%1$s хочет установить другие приложения.\n\nРазрешить и запомнить выбор?</string>
 	<string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
-	<string name="app_name">Программа установки приложений</string>
+	<string name="app_name">Установка приложений</string>
 	<string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
 	<string name="app_not_found_dlg_title">Приложение не найдено</string>
 	<string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>

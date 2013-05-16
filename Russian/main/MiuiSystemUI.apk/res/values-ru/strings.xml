@@ -187,7 +187,7 @@
 	<string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
 	<string name="settings_toggle_position_reset">Сброс переключателей</string>
 	<string name="share">Поделиться</string>
-	<string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
+	<string name="status_bar_date_format">EEEE\nd, MMMM yyyy</string>
 	<string name="status_bar_input_method_settings_configure_input_methods">Настройка методов ввода</string>
 	<string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
 	<string name="status_bar_network_flow_exceed">Сегодня: %1$s | Осталось: %2$s</string>
