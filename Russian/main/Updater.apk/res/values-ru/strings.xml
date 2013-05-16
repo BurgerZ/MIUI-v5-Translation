@@ -102,14 +102,14 @@
 	<string name="share">Поделиться</string>
 	<string name="share_qq">Поделиться через Tencent Weibo</string>
 	<string name="share_sina">Поделиться через Sina Weibo</string>
-	<string name="share_update">Поделиться информацией об обновлении системы</string>
-	<string name="share_update_content_sign">Я обновил MIUI до %1$s! Ранг обновления %2$s. Для получения подробных изменений, пожалуйста, посетите %3$s.</string>
+	<string name="share_update">Поделиться информацией</string>
+	<string name="share_update_content_sign">Я обновил MIUI до %1$s! Рейтинг обновления %2$s. Для получения подробных изменений, пожалуйста, посетите %3$s.</string>
 	<string name="share_update_content_unsign">Я обновил MIUI до %1$s! Для получения подробных изменений, пожалуйста, посетите %2$s.</string>
 	<string name="sign_in_add_account">Активируйте аккаунт Xiaomi</string>
 	<string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
 	<string name="sign_in_info">Рейтинг обновления: %1$s%%\n%2$s\nВерсия: %3$s</string>
-	<string name="sign_in_info_rank_more">Your update ranking is after %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
-	<string name="sign_in_info_total_more">Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
+	<string name="sign_in_info_rank_more">Ваще рейтинг обновления более %1$s\nПосле %2$s пользователи подписаны на MIUI %3$s.</string>
+	<string name="sign_in_info_total_more">Ваш рейтинг обновления: %1$s\nПосле %2$s пользователи будут подписаны на MIUI %3$s.</string>
 	<string name="stable_build">стабильная</string>
 	<string name="start_update">Начать обновление</string>
 	<string name="submit">Отправить</string>
@@ -135,7 +135,7 @@
 	<string name="update_monthly_build_only">Только ежемесячные обновления</string>
 	<string name="update_sad">Грустный</string>
 	<string name="update_success">Обновление успешно завершено!</string>
-	<string name="update_success_body">Поздравляем, система успешно обновлена</string>
+	<string name="update_success_body">Система успешно обновлена</string>
 	<string name="update_success_title">Обновление</string>
 	<string name="upgrade_close">Закрыть</string>
 	<string name="upgrade_kernel">Обновления ядра</string>
