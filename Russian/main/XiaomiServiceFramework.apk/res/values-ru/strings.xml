@@ -2,7 +2,7 @@
 <resources>
 	<string name="access_denied">доступ запрещен</string>
 	<string name="account">Аккаунт</string>
-	<string name="account_dspt">С помощью аккаунта Xiaomi вы сможете синхронизировать ваши контакты, сообщения и другие личные данные.</string>
+	<string name="account_dspt">С помощью аккаунта Xiaomi вы сможете синхронизировать данные.</string>
 	<string name="account_hint_text">Электронная почта</string>
 	<string name="account_name">Аккаунт: %1$s</string>
 	<string name="activating">Активация...</string>
@@ -74,8 +74,8 @@
 	<string name="find_device_enabling">Включение...</string>
 	<string name="find_device_error_network">Сеть недоступна</string>
 	<string name="find_device_error_server">Ошибка сервера</string>
-	<string name="find_device_notice_p1">Если вы не можете найти свой телефон, посетите</string>
-	<string name="find_device_notice_p3">для его поиска, блокировки или удаления данных</string>
+	<string name="find_device_notice_p1">Для поиска телефона используйте сервис</string>
+	<string name="find_device_notice_p3">""</string>
 	<string name="find_device_success_title">Поиск устройства включен</string>
 	<string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
 	<string name="forget_password">Забыли пароль?</string>
@@ -209,7 +209,7 @@
 	<string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
 	<string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
 	<string name="skip_login">Пропустить</string>
-	<string name="skip_setup_account_msg">С помощью аккаунта Xiaomi вы сможете синхронизировать ваши контакты, сообщения и другие личные данные.</string>
+	<string name="skip_setup_account_msg">С помощью аккаунта Xiaomi вы сможете синхронизировать данные.</string>
 	<string name="skip_setup_account_title">Пропустить настройку аккаунта</string>
 	<string name="sync_dspt">Использовать аккаунт Xiaomi</string>
 	<string name="sync_off">Выкл.</string>
