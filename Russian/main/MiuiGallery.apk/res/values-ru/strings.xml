@@ -63,11 +63,11 @@
 	<string name="contact_photo">Фото контакта</string>
 	<string name="contrast">Контраст</string>
 	<string name="create_new_cloud_folder">Создать новый облачный альбом</string>
-	<string name="crop">Кадрировать</string>
+	<string name="crop">Обрезать</string>
 	<string name="crop_fail_to_load_image">Ошибка загрузки изображения для обрезки</string>
 	<string name="crop_label">Обрезать изображение</string>
 	<string name="crop_save_text">Сохранить</string>
-	<string name="crop_tooltip">Чтобы кадрировать изображение, перетащите маркеры.</string>
+	<string name="crop_tooltip">Чтобы обрезать изображение, перетащите маркеры.</string>
 	<string name="crossprocess">Кросс-обработка</string>
 	<string name="cut">Обрезать</string>
 	<string name="damaged_file">Файл поврежден</string>

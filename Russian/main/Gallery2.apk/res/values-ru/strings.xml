@@ -18,13 +18,13 @@
   <string name="click_import">Нажмите здесь, чтобы начать импорт</string>
   <string name="close">Закрыть</string>
   <string name="confirm_delete">Удалить</string>
-  <string name="crop">Кадрировать</string>
-  <string name="crop_action">Кадрировать</string>
+  <string name="crop">Обрезать</string>
+  <string name="crop_action">Обрезать</string>
   <string name="crop_label">Обрезать фотографию</string>
   <string name="crop_not_saved">Изображение не сохранено</string>
   <string name="crop_save_text">ОК</string>
   <string name="crop_saved">Изображение сохранено в папке \"Загрузки\"</string>
-  <string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
+  <string name="crop_tooltip">Чтобы обрезать фото, перетащите маркеры.</string>
   <string name="crossprocess">Кроссобработка</string>
   <string name="delete">Удалить</string>
   <string name="description">Описание</string>

@@ -260,7 +260,7 @@
   <string name="continuous_shot_guidetext">Снимки непрерывной съемки будут сохранены в память устройства</string>
   <string name="crop_discard_text">Отмена</string>
   <string name="crop_gallery_text">Галерея</string>
-  <string name="crop_label">Кадрировать картинку</string>
+  <string name="crop_label">Обрезать картинку</string>
   <string name="crop_save_text">Сохранить</string>
   <string name="default_storage_changed_to_memory_card">По умолчанию хранение изменилось на карту памяти</string>
   <string name="default_storage_changed_to_phone">По умолчанию хранение изменилось на память телефона</string>
