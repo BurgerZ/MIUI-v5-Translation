@@ -6,7 +6,7 @@
 	<string name="add_to_playlist">В плейлист</string>
 	<string name="add_tracks">Добавить треки</string>
 	<string name="album_display_settings">Показывать обложки</string>
-	<string name="album_display_summary">Показывать обложки альбомов в интерфейсе проигрывателя. Рекомендуется включить</string>
+	<string name="album_display_summary">Показывать обложки альбомов в интерфейсе проигрывателя.</string>
 	<string name="album_download">Загрузка обложки...</string>
 	<string name="album_edit">Альбом</string>
 	<string name="album_picker_not_found">Галерея не найдена на устройстве</string>
@@ -17,7 +17,7 @@
 	<string name="albums_title">"Альбомы "</string>
 	<string name="all_tracks">Все треки</string>
 	<string name="android_album_settings">Встроенная обложка</string>
-	<string name="android_album_summary">Присваивается в зависимости от имени файла. Может вызвать ошибку. Рекомендуется отключить</string>
+	<string name="android_album_summary">Присваивается в зависимости от имени файла. Может вызвать ошибку.</string>
 	<string name="artist_albums">Все альбомы</string>
 	<string name="artist_details_format">%1$s, %2$s</string>
 	<string name="artist_edit">Артист</string>
@@ -44,7 +44,7 @@
 	<string name="correct_id3_settings">Корректировка ID3</string>
 	<string name="correct_id3_start">Начать корректировку ID3</string>
 	<string name="correct_id3_success">Коррекция ID3 завершена</string>
-	<string name="correct_id3_summary">Метод коррекции может привести к сильному потреблению трафика. Рекомендуется отключить</string>
+	<string name="correct_id3_summary">Метод коррекции может привести к сильному потреблению трафика.</string>
 	<string name="create_confirm">ОК</string>
 	<string name="create_equalzier_create_text_prompt">Название профиля</string>
 	<string name="create_playlist_create_text_prompt">Название плейлиста</string>
@@ -58,13 +58,13 @@
 	<string name="dirac_enabled">Dirac выключен</string>
 	<string name="download">Загрузить</string>
 	<string name="download_album_settings">Загрузка обложек</string>
-	<string name="download_album_summary">Может требовать большой расход трафика. Рекомендуется отключить</string>
+	<string name="download_album_summary">Может требовать большой расход трафика.</string>
 	<string name="download_all_album">Загрузить все обложки</string>
 	<string name="download_all_avatar">Скачать аватары исполнителей</string>
 	<string name="download_all_track">Скачать все треки</string>
 	<string name="download_batch_start">Начать загрузку всех</string>
 	<string name="download_lyric_settings">Загрузка текстов</string>
-	<string name="download_lyric_summary">Загрузка текстов требует небольшой расход трафика. Рекомендуется включить.</string>
+	<string name="download_lyric_summary">Загрузка текстов требует небольшой расход трафика.</string>
 	<string name="download_processing">Загрузка</string>
 	<string name="edit_playlist_menu">Редактировать</string>
 	<string name="empty_edit_hint">Информация о треке недоступна</string>
@@ -75,7 +75,7 @@
 	<string name="equalizer_delete_success">Профиль удален</string>
 	<string name="equalizer_save_success">Профиль сохранен</string>
 	<string name="fade_effect_settings">Эффект затухания</string>
-	<string name="fade_effect_summary">Плавное изменение громкости при переключении между треками. Рекомендуется включить.</string>
+	<string name="fade_effect_summary">Плавное изменение громкости при переключении между треками.</string>
 	<string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
 	<string name="file_not_found">Файл не найден</string>
 	<string name="filter_by_duration">Фильтр по длительности</string>
@@ -103,9 +103,9 @@
 	<string name="impunity_declaration">Онлайн музыка, которую вы собираетесь использовать, предоставляется сервисом Baidu Online Music. Нажмите \"OK\", чтобы продолжить, нажмите кнопку \"Отмена\" для выхода</string>
 	<string name="impunity_declaration_title">Примечание</string>
 	<string name="keep_quit_position_settings">Запомнить позицию</string>
-	<string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода. Рекомендуется включить.</string>
+	<string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода.</string>
 	<string name="listen_to_music_online_settings">Онлайн музыка</string>
-	<string name="listen_to_online_summary">Может отразится на стоимости услуг за мобильную связь. Рекомендуется отключить</string>
+	<string name="listen_to_online_summary">Может отразится на стоимости услуг за мобильную связь.</string>
 	<string name="load_album_artist_failed">Не удалось загрузить альбом и список исполнителей. Пожалуйста, попробуйте еще раз.</string>
 	<string name="load_album_artist_in_process">Загрузка альбома и списка исполнителей...</string>
 	<string name="load_album_failed">Ошибка загрузки, попробуйте еще раз</string>
@@ -126,7 +126,7 @@
 	<string name="lrc_select">Выберите текст</string>
 	<string name="lyric_and_album">Текст и обложка</string>
 	<string name="lyric_display_settings">Показывать тексты</string>
-	<string name="lyric_display_summary">Показывать тексты песен в интерфейсе проигрывателя. Рекомендуется включить</string>
+	<string name="lyric_display_summary">Показывать тексты песен в интерфейсе проигрывателя.</string>
 	<string name="lyric_download">Загрузить текст песни</string>
 	<string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к Интернету</string>
 	<string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
@@ -157,7 +157,7 @@
 	<string name="overwrite_confirm">Перезаписать</string>
 	<string name="play_all">Воспроизвести все</string>
 	<string name="play_and_download">Прослушать и скачать</string>
-	<string name="play_and_download_summary">Автоматически загружать треки, прослушанные онлайн. Рекомендуется включить</string>
+	<string name="play_and_download_summary">Автоматически загружать треки, прослушанные онлайн.</string>
 	<string name="play_selection">Слушать</string>
 	<string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов</string>
 	<string name="playback_failed_by_bad_file">Невозможно проиграть \"%s\". \nНе поддерживается формат файла.</string>
@@ -194,8 +194,8 @@
 	<string name="save">Добавить</string>
 	<string name="scanning">Сканирование SD-карты...</string>
 	<string name="scanning_nosdcard">Сканированиение (Нет SD-карты)...</string>
-	<string name="screen_bright_wake">Не гасить экран</string>
-	<string name="screen_bright_wake_summary">Не выключать подсветку экрана при воспроизведении музыки. Рекомендуется включить.</string>
+	<string name="screen_bright_wake">Не выключать экран</string>
+	<string name="screen_bright_wake_summary">Не выключать подсветку экрана при воспроизведении музыки.</string>
 	<string name="sdcard_busy_message">SD-карта занята</string>
 	<string name="sdcard_busy_message_nosdcard">SD-карта используется</string>
 	<string name="sdcard_error_message">Ошибка на вашей SD-карте</string>
