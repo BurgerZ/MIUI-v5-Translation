@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="MIUI_startpage">Стартовая страница</string>
 	<string name="accessibility_button_addbookmark">Добавить страницу в закладки</string>
@@ -190,6 +191,7 @@
 	<string name="import_bookmarks_wizard_next">Далее</string>
 	<string name="import_bookmarks_wizard_previous">Назад</string>
 	<string name="importing_favorite_files">Импорт данных...</string>
+	<string name="in_incognito">В режиме \"Инкогнито\" история не сохраняется</string>
 	<string name="instant_search_label">Google с Живым поиском (Лаборатория Google)</string>
 	<string name="is_first_history_item">Первая страница</string>
 	<string name="is_first_tab">На первой вкладке</string>
@@ -219,6 +221,7 @@
 	<string name="new_tab">Новая вкладка</string>
 	<string name="no_subfolders">Нет подпапок</string>
 	<string name="not_remind_again">Больше не напоминать</string>
+	<string name="notif_install_successful">Загрузка завершена</string>
 	<string name="ok">ОК</string>
 	<string name="open_all_bookmarks">Открыть все</string>
 	<string name="open_all_in_new_window">Открыть все в новых вкладках</string>
@@ -260,7 +263,8 @@
 	<string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
 	<string name="pref_content_title">Содержание страницы</string>
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
-	<string name="pref_data_preload_summary">\nРазрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
+	<string name="pref_data_preload_summary">"
+Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
 	<string name="pref_data_title">Настройки контента</string>
 	<string name="pref_default_text_encoding">Кодировка текста</string>
@@ -313,7 +317,8 @@
 	<string name="pref_lab_quick_controls_summary">Чтобы открыть панель инструментов, начните перелистывать страницу справа или слева</string>
 	<string name="pref_lab_title">Лаборатория Google</string>
 	<string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
-	<string name="pref_link_prefetch_summary">\nРазрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
+	<string name="pref_link_prefetch_summary">"
+Разрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме"</string>
 	<string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
 	<string name="pref_min_font_size">Минимальный размер шрифта</string>
 	<string name="pref_min_font_size_value">%d pt</string>
@@ -359,7 +364,10 @@
 	<string name="pref_ua_title">Настройки UserAgent</string>
 	<string name="pref_use_instant_search">Google Живой поиск</string>
 	<string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
-	<string name="pref_video_preload_summary">\nРазрешить браузеру предварительно загружать видео файлы, если это возможно</string>
+	<string name="pref_video_preload_dialogtitle">Загрузка видео</string>
+	<string name="pref_video_preload_summary">"
+Разрешить браузеру предварительно загружать видео файлы, если это возможно"</string>
+	<string name="pref_video_preload_title">Загрузка видео</string>
 	<string name="pref_volume_key_enabled">Клавиши громкости</string>
 	<string name="pref_volume_key_operation">Функция клавиш громкости</string>
 	<string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
@@ -416,12 +424,14 @@
 	<string name="ssl_untrusted">Этот сертификат получен из ненадежных источников</string>
 	<string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
 	<string name="stop">Стоп</string>
+	<string name="stop_loading">Стоп</string>
 	<string name="stopping">Остановка...</string>
 	<string name="tab_bookmarks">Закладки</string>
 	<string name="tab_closed">Вкладка закрыта</string>
 	<string name="tab_history">История</string>
 	<string name="tab_most_visited">Часто посещаемые</string>
 	<string name="tab_opened_background">Вкладка открыта в фоне</string>
+	<string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
 	<string name="tab_quicklinks">Быстрые закладки</string>
 	<string name="tab_snapshots">Сохраненные страницы</string>
 	<string name="tab_yellowpage">Категории</string>
@@ -448,10 +458,4 @@
 	<string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
 	<string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
 	<string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
-	<string name="pref_video_preload_title">Загрузка видео</string>
-	<string name="pref_video_preload_dialogtitle">Загрузка видео</string>
-	<string name="in_incognito">В режиме \"Инкогнито\" история не сохраняется</string>
-	<string name="notif_install_successful">Загрузка завершена</string>
-	<string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
-	<string name="stop_loading">Стоп</string>
 </resources>

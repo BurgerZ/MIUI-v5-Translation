@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="all_comments">Все</string>
 	<string name="already_bottom">Конец</string>
@@ -14,6 +15,7 @@
 	<string name="category_recommend_tag">Реком.</string>
 	<string name="category_tag">Категории</string>
 	<string name="clear_search_record_message">Очистить историю поиска?</string>
+	<string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
 	<string name="comment_count">Всего %1$s комментариев</string>
 	<string name="comment_description">%1$s%2$1s</string>
 	<string name="comment_invalid">Прикоснитесь к звездам, чтобы оценить</string>
@@ -31,7 +33,6 @@
 	<string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
 	<string name="comment_upload_success">Комментарий отправлен!</string>
 	<string name="comment_version_name">(версия %1$s)</string>
-	<string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
 	<string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
 	<string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
 	<string name="connecting">Подключение...</string>
@@ -47,11 +48,11 @@
 	<string name="enable_updata_local_app">Обновлений: %1$s</string>
 	<string name="expand_full_text">Развернуть весь текст▼</string>
 	<string name="expand_full_text_comment">Развернуть весь текст▼</string>
+	<string name="first_recommend_download">Установить все</string>
+	<string name="first_recommend_enter">Пропустить</string>
 	<string name="good_comments">Хорошие</string>
 	<string name="header_processing">Идет скачивание...</string>
 	<string name="header_waiting">Ожидание скачивания...</string>
-	<string name="first_recommend_download">Установить все</string>
-	<string name="first_recommend_enter">Пропустить</string>
 	<string name="hot_rank_tag">Топ рейтинга</string>
 	<string name="install">Скачать</string>
 	<string name="install_all_description">Установить приложения %1$s и %2$s сейчас？</string>
@@ -60,6 +61,9 @@
 	<string name="install_btn_download_manager">Менеджер загрузок</string>
 	<string name="install_btn_ok">ОК</string>
 	<string name="install_fail">%1$s - ошибка установки</string>
+	<string name="install_google_base_button">Установить сейчас</string>
+	<string name="install_google_base_message">“%1$s” для запуска требует сервисы Google</string>
+	<string name="install_google_base_title">Установить сервисы Google</string>
 	<string name="install_hash_fail">%1$s - ошибка установки</string>
 	<string name="install_inconsistent_fail">%1$s - ошибка установки</string>
 	<string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
@@ -100,6 +104,7 @@
 	<string name="menu_detail">Подробнее</string>
 	<string name="menu_download_manager">Менеджер загрузок</string>
 	<string name="menu_ignore">Позже</string>
+	<string name="menu_install_all">Установить все</string>
 	<string name="menu_login">Вход</string>
 	<string name="menu_preferences">Настройки</string>
 	<string name="menu_refresh">Обновить</string>
@@ -121,12 +126,9 @@
 	<string name="notif_delta_update_successful">Успешно обновлено. Для Вас сохранено %1$s, нажмите кнопку, чтобы запустить сейчас.</string>
 	<string name="notif_install_failed">Сбой установки %1$s</string>
 	<string name="notif_install_successful">%1$s успешно установлено</string>
+	<string name="notif_install_successful_default">%1$s installed</string>
 	<string name="notif_installing">Установка “%1$s”...</string>
 	<string name="notif_title_update">Доступно обновление для %1$s!</string>
-	<string name="menu_install_all">Установить все</string>
-	<string name="install_google_base_title">Установить сервисы Google</string>
-	<string name="install_google_base_message">“%1$s” для запуска требует сервисы Google</string>
-	<string name="install_google_base_button">Установить сейчас</string>
 	<string name="paused">Пауза</string>
 	<string name="pending">Ожидание...</string>
 	<string name="permission_button">Необходимые разрешения (%1$s)</string>
