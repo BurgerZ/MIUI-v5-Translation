@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="absent_num">НОМЕР ОТСУТСТВУЕТ</string>
 	<string name="accessibility_call_muted">Звук выключен</string>
@@ -14,7 +15,6 @@
 	<string name="administrative_disable">Административные функции отключены</string>
 	<string name="administrative_enable">Административные функции включены</string>
 	<string name="advanced_settings">Расширенные настройки</string>
-	<string name="advanced_settings_container">расширенный контейнер настроек</string>
 	<string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
 	<string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
 	<string name="advertisements_disable">Реклама отключена</string>
@@ -37,6 +37,9 @@
 	<string name="answer_widget_sliding_horizontal_miui">Горизонтальный слайд</string>
 	<string name="answer_widget_sliding_vertical_miui">Вертикальный слайд</string>
 	<string name="answer_widget_title_miui">Жест ответа</string>
+	<string name="antispam_marked_count">Отмечено контактов: %1$d</string>
+	<string name="antispam_marked_title">%1$s</string>
+	<string name="antispam_notification_title">Определен неизвестный номер</string>
 	<string name="apn_settings">Точки доступа</string>
 	<string name="areacode_required_accept_miui">OK</string>
 	<string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>
@@ -47,7 +50,6 @@
 	<string name="audio_mode_earpiece">Динамик гарнитуры</string>
 	<string name="audio_mode_speaker">Динамик</string>
 	<string name="audio_mode_wired_headset">Проводная гарнитура</string>
-	<string name="auth_username">AuthUserName</string>
 	<string name="auth_username_summary">Имя пользователя для аутентификации</string>
 	<string name="auth_username_title">Имя пользователя</string>
 	<string name="auto_answer_delay_entries_delay_10s_miui">10 секунд</string>
@@ -153,7 +155,8 @@
 	<string name="caller_manage_header">Конференц-вызов: %s</string>
 	<string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
 	<string name="calling_via_template">Вызов с помощью %s</string>
-	<string name="calling_via_template_miui">Звонок через ^1\n^2</string>
+	<string name="calling_via_template_miui">"Звонок через ^1
+^2"</string>
 	<string name="cancel">Отмена</string>
 	<string name="card_title_call_ended">Вызов завершен</string>
 	<string name="card_title_conf_call">Конференц-вызов</string>
@@ -250,7 +253,6 @@
 	<string name="default_contacts_countrycode_miui">Стандартный код города</string>
 	<string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода города: %s.</string>
 	<string name="default_preference_summary">&lt;Не настроено></string>
-	<string name="default_transport">UDP</string>
 	<string name="delete_all_sim_contacts_miui">Удалить все контакты с SIM-карты</string>
 	<string name="delete_fdn_contact">Удалить номер ограниченного набора</string>
 	<string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
@@ -301,10 +303,8 @@
 	<string name="disable_pin_ok">Запрос PIN SIM-карты отключен</string>
 	<string name="disable_sim_pin">Отключить запрос PIN SIM-карты</string>
 	<string name="disable_sim_pin_miui">Отключить запрос PIN SIM-карты</string>
-	<string name="display_name">DisplayName</string>
 	<string name="display_name_summary">&lt;Совпадает с именем пользователя></string>
 	<string name="display_name_title">Отображаемое имя</string>
-	<string name="domain_address">SipDomain</string>
 	<string name="domain_address_title">Сервер</string>
 	<string name="doneButton">Готово</string>
 	<string name="dtmf_tone_enable_title">Тон набора сенсорной панели</string>
@@ -314,7 +314,6 @@
 	<string name="dtmf_tones_summary_miui">Настроить длительность тональных сигналов DTMF</string>
 	<string name="dtmf_tones_title">Тональные сигналы DTMF</string>
 	<string name="dtmf_tones_title_miui">Тональные сигналы DTMF</string>
-	<string name="ecm_exit_dialog">EcmExitDialog</string>
 	<string name="edit_custom_location_title_miui">Настройка региональных приставок</string>
 	<string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
 	<string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
@@ -389,8 +388,10 @@
 	<string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр</string>
 	<string name="fdn_miui">Разрешенные номера</string>
 	<string name="fdn_summary_miui">Все отключается, когда FDN включен.</string>
-	<string name="fw_change_failed">Не удалось изменить номер переадресации вызовов.\nЕсли проблема не будет решена, свяжитесь со своим оператором</string>
-	<string name="fw_get_in_vm_failed">Не удалось сохранить текущие настройки переадресации.\nВсе равно сменить провайдера?</string>
+	<string name="fw_change_failed">"Не удалось изменить номер переадресации вызовов.
+Если проблема не будет решена, свяжитесь со своим оператором"</string>
+	<string name="fw_get_in_vm_failed">"Не удалось сохранить текущие настройки переадресации.
+Все равно сменить провайдера?"</string>
 	<string name="general_news_settings">Основные новости</string>
 	<string name="get_pin2">Введите PIN2</string>
 	<string name="get_smsc_address_error_miui">Не удалось запросить номер SMS-центра</string>
@@ -620,15 +621,20 @@
 	<string name="ota_title_activate">Активировать телефон</string>
 	<string name="ota_title_activate_success">Телефон активирован!</string>
 	<string name="ota_title_problem_with_activation">Неполадки при активации</string>
-	<string name="ota_touch_activate">Необходим специальный звонок для активации службы телефона. \n\nПосле нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона</string>
+	<string name="ota_touch_activate">"Необходим специальный звонок для активации службы телефона. 
+
+После нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона"</string>
 	<string name="ota_try_again">Повторите попытку</string>
-	<string name="ota_unsuccessful">Телефон не был активирован. \nВозможно, вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). \n\nПовторите попытку или свяжитесь со службой поддержки</string>
+	<string name="ota_unsuccessful">"Телефон не был активирован. 
+Возможно, вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). 
+
+Повторите попытку или свяжитесь со службой поддержки"</string>
 	<string name="other_settings">Другие</string>
 	<string name="other_settings_miui">Другие</string>
-	<string name="password">Password</string>
 	<string name="password_title">Пароль</string>
 	<string name="pause_prompt_no">Нет</string>
-	<string name="pause_prompt_str">Отправка тональных сигналов\n</string>
+	<string name="pause_prompt_str">"Отправка тональных сигналов
+"</string>
 	<string name="pause_prompt_yes">Да</string>
 	<string name="payphone">Телефон-автомат</string>
 	<string name="phoneAppLabel">Телефон</string>
@@ -642,20 +648,21 @@
 	<string name="pin2_changed_miui">PIN2 успешно изменен</string>
 	<string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
 	<string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: ​​Вы ввели неверный ПИН-код или слишком длинное имя</string>
-	<string name="pin2_lock_warning_miui">\nФункционал, касающийся PIN2, будет заблокирован при неудачной попытке!</string>
+	<string name="pin2_lock_warning_miui">"
+Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!"</string>
 	<string name="pin2_locked_message_miui">Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2</string>
 	<string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
 	<string name="pin_attempts_miui">Осталось %d попыток</string>
 	<string name="pin_changed">PIN SIM-карты успешно изменен</string>
 	<string name="pin_changed_miui">PIN SIM-карты успешно изменен</string>
 	<string name="pin_failed">Введен неверный PIN</string>
-	<string name="pin_lock_warning_miui">\nТелефон будет заблокирован при неудачной попытке!</string>
+	<string name="pin_lock_warning_miui">"
+Телефон будет заблокирован при неудачной попытке!"</string>
 	<string name="pin_progress_change_pin2_miui">Изменение PIN2...</string>
 	<string name="pin_progress_change_pin_miui">Изменение PIN-кода...</string>
 	<string name="pin_progress_set_fdn_lock_miui">Настройка FDN состояния блокировки...</string>
 	<string name="pin_progress_set_icc_lock_miui">Настройка МТП состояния блокировки...</string>
 	<string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
-	<string name="port">Порт</string>
 	<string name="port_title">Номер порта</string>
 	<string name="pref_custom_location_summary_miui">Редактирование региональных приставок.</string>
 	<string name="pref_custom_location_title_miui">Региональные приставки</string>
@@ -686,11 +693,11 @@
 	<string name="primary_account_summary_with">Основной аккаунт. %s</string>
 	<string name="private_num">Скрытый номер</string>
 	<string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
-	<string name="proxy_address">ProxyAddress</string>
 	<string name="proxy_address_title">Адрес прокси-сервера</string>
 	<string name="pstn_phone">Вызов по сотовой сети</string>
 	<string name="puk2_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
-	<string name="puk_lock_warning_miui">\nSIM-карта будет заблокирована навсегда при неудачной попытке!</string>
+	<string name="puk_lock_warning_miui">"
+SIM-карта будет заблокирована навсегда при неудачной попытке!"</string>
 	<string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
 	<string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
 	<string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
@@ -770,7 +777,6 @@
 	<string name="send_keepalive_title">Отправлять keep-alive</string>
 	<string name="separate_from_conference_miui">Индивидуальный вызов</string>
 	<string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный режим сети доступен при выключенной передаче данных</string>
-	<string name="set_primary">SetPrimary</string>
 	<string name="set_primary_summary">Использовать этот аккаунт по умолчанию для исходящих вызовов</string>
 	<string name="set_primary_title">Основной аккаунт</string>
 	<string name="set_smsc_address_error_miui">Не удалось установить номер SMS-центра</string>
@@ -862,17 +868,19 @@
 	<string name="telocation_show_settings_miui">Отображение</string>
 	<string name="third_party_account_summary">Этим аккаунтом сейчас пользуется приложение %s</string>
 	<string name="throttle_current_usage">Передача данных в текущем периоде</string>
-	<string name="throttle_data_rate_reduced_subtext">Превышен лимит в %1$s.\nСкорость передачи данных снижена до %2$d кбит/с.</string>
+	<string name="throttle_data_rate_reduced_subtext">"Превышен лимит в %1$s.
+Скорость передачи данных снижена до %2$d кбит/с."</string>
 	<string name="throttle_data_usage">Передача данных</string>
 	<string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
 	<string name="throttle_help">Подробнее</string>
 	<string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
 	<string name="throttle_rate">Скорость передачи данных</string>
 	<string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
-	<string name="throttle_status_subtext">%1$s (%2$d٪) из %3$s (максимум)\nСледующий период начнется в течение %4$d дн. (%5$s)</string>
+	<string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)
+Следующий период начнется в течение %4$d дн. (%5$s)"</string>
 	<string name="throttle_time_frame">Время передачи данных</string>
-	<string name="throttle_time_frame_subtext">%1$s превышен максимум.\nЧастота данных уменьшена до %2$d кБ/с</string>
-	<string name="transport">Protocol</string>
+	<string name="throttle_time_frame_subtext">"%1$s превышен максимум.
+Частота данных уменьшена до %2$d кБ/с"</string>
 	<string name="transport_title">Протокол</string>
 	<string name="tty_mode_entries_full_miui">Полнофункциональный</string>
 	<string name="tty_mode_entries_hco_miui">С возможностью слышать собеседника</string>
@@ -896,11 +904,11 @@
 	<string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
 	<string name="updating_settings">Обновление настроек...</string>
 	<string name="updating_title">Настройки вызовов</string>
-	<string name="username">UserName</string>
 	<string name="username_title">Имя пользователя</string>
 	<string name="ussdRunning">Выполняется запрос USSD...</string>
 	<string name="vibrate_on_ring_title">Вибрация при звонке</string>
-	<string name="vm_change_failed">Не удалось изменить номер голосовой почты.\nЕсли проблема не будет решена, свяжитесь со своим оператором</string>
+	<string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
+Если проблема не будет решена, свяжитесь со своим оператором"</string>
 	<string name="vm_changed">Номер голосовой почты изменен</string>
 	<string name="voice_privacy">Конфиденциальность разговоров</string>
 	<string name="voice_privacy_miui">Конфиденциальность</string>
@@ -916,7 +924,6 @@
 	<string name="voicemail_miui">Голосовая почта</string>
 	<string name="voicemail_notification_ringtone_title">Звонок</string>
 	<string name="voicemail_notification_vibarte_when_dialog_title">Вибрация</string>
-	<string name="voicemail_notification_vibrate_when_default">never</string>
 	<string name="voicemail_notification_vibrate_when_title">Вибрация</string>
 	<string name="voicemail_number_not_set">&lt;не задано></string>
 	<string name="voicemail_provider">Служба голосовой почты</string>
@@ -928,9 +935,7 @@
 	<string name="voicemail_settings_number_hint_miui">Введите номер голосовой почты</string>
 	<string name="voicemail_settings_number_label">Номер голосовой почты</string>
 	<string name="voicemail_settings_number_title_miui">Номер голосовой почты</string>
-	<string name="wait_prompt_str">Отправить следующие тоны?\n</string>
+	<string name="wait_prompt_str">"Отправить следующие тоны?
+"</string>
 	<string name="wild_prompt_str">Заменить универсальный символ на</string>
-	<string name="antispam_marked_title">%1$s</string>
-	<string name="antispam_marked_count">Отмечено контактов: %1$d</string>
-	<string name="antispam_notification_title">Определен неизвестный номер</string>
 </resources>

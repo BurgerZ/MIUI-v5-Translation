@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="alert_message_delete_record">Удалить выбранную запись?</string>
 	<string name="app_name">Диктофон</string>
@@ -41,6 +42,7 @@
 	<string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать его?</string>
 	<string name="preference_led_indicator">Индикатор записи</string>
 	<string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме.</string>
+	<string name="preference_silent_mode">Выключать все звуки</string>
 	<string name="record_list">Список записей</string>
 	<string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>
 	<string name="record_name_hour">.</string>
@@ -62,5 +64,4 @@
 	<string name="status_bar_recording_pause">Пауза</string>
 	<string name="storage_is_full">Память заполнена</string>
 	<string name="unknown_caller">Неизвестный вызов</string>
-	<string name="preference_silent_mode">Выключать все звуки</string>
 </resources>

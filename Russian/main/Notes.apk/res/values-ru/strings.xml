@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
 	<string name="alert_edit_action_delete">Удалить</string>
 	<string name="alert_edit_action_update">Изменить</string>
-	<string name="alert_message_delete_folders">Удалить выбранные папки? \n\nПапок: %1$s</string>
-	<string name="alert_message_delete_folders_notes">Удалить выбранные папки и заметки? \n\nПапок: %1$s \nЗаметок: %2$s</string>
+	<string name="alert_message_delete_folders">"Удалить выбранные папки? 
+
+Папок: %1$s"</string>
+	<string name="alert_message_delete_folders_notes">"Удалить выбранные папки и заметки? 
+
+Папок: %1$s 
+Заметок: %2$s"</string>
 	<string name="alert_message_delete_note">Удалить заметку?</string>
-	<string name="alert_message_delete_notes">Удалить выбранные заметки? \n\nЗаметок: %1$s</string>
+	<string name="alert_message_delete_notes">"Удалить выбранные заметки? 
+
+Заметок: %1$s"</string>
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
 	<string name="alert_title_delete">Удаление</string>
 	<string name="alert_title_discard">Отмена</string>
@@ -44,7 +52,9 @@
 	<string name="menu_rename_folder">Переименовать папку</string>
 	<string name="menu_send_to_desktop">Ярлык на рабочий стол</string>
 	<string name="menu_setting">Настройки</string>
+	<string name="menu_stick">Закрепить</string>
 	<string name="menu_title_select_folder">Выберите папку</string>
+	<string name="menu_unstick">Открепить</string>
 	<string name="not_now">Не сейчас</string>
 	<string name="note_alert_expired">Просрочено</string>
 	<string name="note_link_email">Отправить E-mail</string>
@@ -77,6 +87,4 @@
 	<string name="toast_privacy_mode">Нельзя редактировать заметку в режиме защиты.</string>
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку.</string>
 	<string name="widget_under_visit_mode">Не возможно просмотреть заметки в режиме гостя.</string>
-	<string name="menu_stick">Закрепить</string>
-    <string name="menu_unstick">Открепить</string>
 </resources>

@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="activity_not_found">Не удается открыть вложение</string>
 	<string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
@@ -196,20 +197,28 @@
 	<string name="mx_activate_hint_malformed_info">Ваши личные данные повреждены. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
 	<string name="mx_activate_hint_server">Сервер отклонил запрос активации. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
 	<string name="mx_activate_hint_sim_change">SIM карта изменилась. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
+	<string name="mx_activate_int_hint_malformed_info">Ошибка активации личных данных. Для повторной активации облачных сервисов будет отправлено SMS. Отправить сейчас?</string>
+	<string name="mx_activate_int_hint_server">Ошибка активации. Для повторной активации облачных сервисов будет отправлено SMS. Отправить сейчас?</string>
+	<string name="mx_activate_int_hint_sim_change">SIM-карта изменилась, требуется повторная активация облачных сообщений.</string>
 	<string name="mx_auto_resend_mms">Отправить как MMS</string>
 	<string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны.</string>
 	<string name="mx_auto_resend_sms">Отправить как SMS</string>
 	<string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны.</string>
 	<string name="mx_btn_enable">Включить</string>
-	<string name="mx_count_dspt">Облачных сообщений отправлено: \nSMS (%1$d), MMS (%2$s).</string>
+	<string name="mx_count_dspt">"Облачных сообщений отправлено: 
+SMS (%1$d), MMS (%2$s)."</string>
 	<string name="mx_current_status">Статус: в сети</string>
 	<string name="mx_dspt">Обмениваться облачными сообщениями могут только пользователи MIUI. При отсутствии интернет соединения сообщения будут отправлены с помощью мобильного оператора.</string>
 	<string name="mx_enable">Облачные сообщения</string>
+	<string name="mx_enable_int_popup_msg">"Облачные сообщения позволят пользователям MIUI обмениваться сообщениями бесплатно через интернет. Для активации будет отправлено SMS. 
+Активировать сейчас?"</string>
 	<string name="mx_enable_popup_msg">Облачные сообщения позволят вам обмениваться сообщениями с другими пользователями MIUI. Требуется обычная SMS для активации. Активировать сейчас?</string>
+	<string name="mx_int_warning_notice">Для активации облачных сервисов будет отправлено SMS.</string>
 	<string name="mx_msg">Облачные сообщения</string>
 	<string name="mx_offline">Не в сети</string>
 	<string name="mx_online">В сети</string>
 	<string name="mx_reactivate">Повторная активация</string>
+	<string name="mx_recommend_msg">Облачные сообщения. Нажмите кнопку включения и отправляйте бесплатные сообщения.</string>
 	<string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
 	<string name="need_download">Ожидание синхронизации...</string>
 	<string name="new_message">Новое сообщение</string>
@@ -234,9 +243,6 @@
 	<string name="phrase_list_title">Шаблоны</string>
 	<string name="pick_too_many_recipients">Слишком много получателей</string>
 	<string name="play">Воспроизвести</string>
-	<string name="prefDefault_vibrateWhen">Никогда</string>
-	<string name="prefDefault_vibrate_false">Никогда</string>
-	<string name="prefDefault_vibrate_true">Всегда</string>
 	<string name="pref_advanced_settings_title">Дополнительно</string>
 	<string name="pref_edit_smsc_address">Номер SMS-центра</string>
 	<string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>
@@ -326,7 +332,6 @@
 	<string name="select_link_title">Выбор действия</string>
 	<string name="select_local_audio">Выбор аудио...</string>
 	<string name="select_local_video">Выбор видео...</string>
-	<string name="mx_recommend_msg">Облачные сообщения. Нажмите кнопку включения и отправляйте бесплатные сообщения.</string>
 	<string name="select_top_text">Текст вверху</string>
 	<string name="send">Отправить</string>
 	<string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
@@ -392,7 +397,8 @@
 	<string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
 	<string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
 	<string name="type_video">Видеозапись</string>
-	<string name="undelivered_msg_dialog_body">Не удалось отправить сообщение.\nПопыток: %s.</string>
+	<string name="undelivered_msg_dialog_body">"Не удалось отправить сообщение.
+Попыток: %s."</string>
 	<string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
 	<string name="undelivered_sms_dialog_body">Не удалось отправить сообщение</string>
 	<string name="unknown_num">Неизвестный номер</string>
@@ -406,9 +412,4 @@
 	<string name="view_message_details">Подробности</string>
 	<string name="wap_push_title">"[Push-сообщение] "</string>
 	<string name="yes">ОК</string>
-	<string name="mx_int_warning_notice">Для активации облачных сервисов будет отправлено SMS.</string>
-	<string name="mx_activate_int_hint_sim_change">SIM-карта изменилась, требуется повторная активация облачных сообщений.</string>
-	<string name="mx_activate_int_hint_malformed_info">Ошибка активации личных данных. Для повторной активации облачных сервисов будет отправлено SMS. Отправить сейчас?</string>
-	<string name="mx_activate_int_hint_server">Ошибка активации. Для повторной активации облачных сервисов будет отправлено SMS. Отправить сейчас?</string>
-	<string name="mx_enable_int_popup_msg">Облачные сообщения позволят пользователям MIUI обмениваться сообщениями бесплатно через интернет. Для активации будет отправлено SMS. \nАктивировать сейчас?</string>
 </resources>

@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="activity_not_found">Приложение не найдено</string>
 	<string name="application_name">Рабочий стол</string>
@@ -49,13 +50,11 @@
 	<string name="gadget_clock_22_label">Часы</string>
 	<string name="gadget_clock_24_label">Часы</string>
 	<string name="gadget_error_text">Проблема загрузки виджета</string>
+	<string name="gadget_google_search_label">Поиск Google</string>
 	<string name="gadget_load_error">Ошибка загрузки виджета...</string>
 	<string name="gadget_photo_22_label">Фоторамка</string>
 	<string name="gadget_photo_24_label">Фоторамка</string>
 	<string name="gadget_photo_44_label">Фоторамка</string>
-	<string name="gadget_google_search_label">Поиск Google</string>
-	<string name="guide_install_app_msg">Это приложение не установлено на вашем телефоне. Найти это приложение в Google Play?</string>
-	<string name="guide_install_app_title">Установить</string>
 	<string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
 	<string name="gadget_weather_aqi_title">Качество воздуха</string>
 	<string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Пожалуйста, выберите снова после завершения скачивания</string>
@@ -72,6 +71,8 @@
 	<string name="group_folder">Новая папка</string>
 	<string name="group_live_folders">Папки</string>
 	<string name="group_shortcuts">Ярлыки</string>
+	<string name="guide_install_app_msg">Это приложение не установлено на вашем телефоне. Найти это приложение в Google Play?</string>
+	<string name="guide_install_app_title">Установить</string>
 	<string name="guide_tips_editing_mode">Удерживая виджет, перетащите его на экран</string>
 	<string name="install">Установить</string>
 	<string name="invalid_contact_shortcut">Недопустимый ярлык</string>
