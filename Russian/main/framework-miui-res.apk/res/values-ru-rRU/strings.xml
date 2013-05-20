@@ -304,7 +304,7 @@
 	<string name="labour_day">"День труда"</string>
 	<string name="lantern_festival">"Фестиваль фонарей"</string>
 	<string name="light_snow">"Небольшой снег"</string>
-	<string name="lock_screen_date">EEEE d, MMMM</string>
+	<string name="lock_screen_date">EEEE, d MMMM</string>
 	<string name="lockscreen_access_pattern_cell_added">Сотовая добавлена</string>
 	<string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
 	<string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
