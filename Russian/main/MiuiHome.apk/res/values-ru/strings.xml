@@ -61,7 +61,7 @@
 	<string name="gadget_weather_download_start">начать</string>
 	<string name="gadget_weather_download_title">Загрузить</string>
 	<string name="gadget_weather_downloading">Загрузка пакета темы. Пожалуйста, выберите ее повторно после окончания загрузки.</string>
-	<string name="gadget_weather_loading">Нет данных о погоде</string>
+	<string name="gadget_weather_loading">" "</string>
 	<string name="gadget_weather_low_temp">Мин.</string>
 	<string name="gadget_weather_theme_type">Тип виджета</string>
 	<string name="gadget_weather_time_format">EEE d MMM</string>

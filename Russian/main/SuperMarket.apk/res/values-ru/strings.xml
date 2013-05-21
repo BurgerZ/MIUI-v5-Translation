@@ -140,14 +140,14 @@
 	<string name="permissions_title">Разрешения для %1$s</string>
 	<string name="pref_list_always_enable">Включено</string>
 	<string name="pref_list_auto_update">Автообновление</string>
-	<string name="pref_list_data_network">Только по 2G/3G</string>
+	<string name="pref_list_data_network">Только по Wi-Fi</string>
 	<string name="pref_list_disable">Отключено</string>
 	<string name="pref_list_per_day">Ежедневно</string>
 	<string name="pref_list_per_week">Еженедельно</string>
 	<string name="pref_list_remind_me_after_download">Напомнить после загрузки</string>
 	<string name="pref_title_auto_update_setting">Параметры автообновления</string>
 	<string name="pref_title_clear_search_record">Очистить историю поиска</string>
-	<string name="pref_title_data_save_mode">Регулирование трафика</string>
+	<string name="pref_title_data_save_mode">Экономия трафика</string>
 	<string name="pref_title_silent_install">Тихая установка</string>
 	<string name="pref_title_update_notify_mode">Уведомления обновлений</string>
 	<string name="pref_title_update_onlyby_wifi">Автообновление только по Wi-Fi</string>
