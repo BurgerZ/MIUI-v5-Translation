@@ -288,11 +288,11 @@
      </string-array>
      <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
+        <item>L2TP/IPSec VPN с ключами</item>
+        <item>L2TP/IPSec VPN с сертификатами</item>
+        <item>IPSec VPN с ключами и Xauth-аутентификацией</item>
+        <item>IPSec VPN с сертификатами и Xauth-аутентификацией</item>
+        <item>IPSec VPN с сертификатами и гибридной аутентификацией</item>
      </string-array>
      <string-array name="wfd_status">
         <item>Устройство подключено, создание сессии...</item>
