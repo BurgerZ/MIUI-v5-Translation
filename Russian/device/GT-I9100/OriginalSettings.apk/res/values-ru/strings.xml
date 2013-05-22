@@ -511,7 +511,7 @@
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
   <string name="choose_timezone">Выбрать часовой пояс</string>
   <string name="chooser_wallpaper">Выберите обои из</string>
-  <string name="clear_activities">Clear defaults</string>
+  <string name="clear_activities">Настройки по умолчанию</string>
   <string name="clear_cache_btn_text">Clear cache</string>
   <string name="clear_data_dlg_text">"All of this application's data will be deleted permanently. This includes all files, settings, accounts, databases etc."</string>
   <string name="clear_data_dlg_title">Delete app data?</string>

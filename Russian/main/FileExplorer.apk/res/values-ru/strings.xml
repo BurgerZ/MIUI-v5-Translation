@@ -73,7 +73,7 @@
 	<string name="delete_folders">"Удалить выбранные папки? 
 
 Папок: %1$d"</string>
-	<string name="des_running_trans">Загрузка файлов: %1$d</string>
+	<string name="des_running_trans">Файлов осталось: %1$d</string>
 	<string name="dialog_select_type">Выбрать тип файла</string>
 	<string name="dialog_type_audio">Аудио</string>
 	<string name="dialog_type_image">Изображения</string>
@@ -219,7 +219,7 @@
 	<string name="sd_size_label">Хранилище пользователя</string>
 	<string name="search_hint">Введите часть или все имя файла</string>
 	<string name="search_title">Поиск документов</string>
-	<string name="send_to_midrive">KuaiPan</string>
+	<string name="send_to_midrive">Загрузка в KuaiPan</string>
 	<string name="send_to_midrive_failed_message">Не удалось загрузить в KuaiPan. Неверный формат файла.</string>
 	<string name="server_control_advanced_settings">Расширенные настройки</string>
 	<string name="server_control_charset">Кодирование передачи</string>
@@ -251,7 +251,7 @@
 	<string name="trans_task">KuaiPan</string>
 	<string name="trans_task_delete_confirm_message">Удалить выбранные загрузки? \n\nЗагрузок: %1$d</string>
 	<string name="transing">В процессе</string>
-	<string name="trash_box_capacity">Объем корзины: %1$s</string>
+	<string name="trash_box_capacity">Размер корзины: %1$s</string>
 	<string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
 	<string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
 	<string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
