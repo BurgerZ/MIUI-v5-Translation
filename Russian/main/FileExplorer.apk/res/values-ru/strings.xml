@@ -50,7 +50,7 @@
 	<string name="copy_failed">Ошибка копирования</string>
 	<string name="create_new_folder_desctiption">Создание папки...</string>
 	<string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
-	<string name="create_share_link_description">Создание ссылки···</string>
+	<string name="create_share_link_description">Создание ссылки...</string>
 	<string name="cution">Советы</string>
 	<string name="data_capacity">Объем: %1$s</string>
 	<string name="data_size_label">Данные</string>
@@ -82,7 +82,7 @@
 	<string name="directory_info_divider">"  |  "</string>
 	<string name="directory_no_item">пусто</string>
 	<string name="download_failed">Ошибка загрузки</string>
-	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
+	<string name="download_link_completed">Я отправил файл \"%1$s\" через KuaiPan. Ссылка для скачивания:\n</string>
 	<string name="downloading">Загрузка</string>
 	<string name="empty_dir_cleanup_indication">%s пустые папки</string>
 	<string name="empty_dir_title">Пустые папки</string>
@@ -186,7 +186,7 @@
 	<string name="operation_delete_confirm_message_folder">Удаление папки приведет к удалению всех файлов внутри нее.\n</string>
 	<string name="operation_deleting">Удаление...</string>
 	<string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
-	<string name="operation_download_link">Создание ссылки для скачивания</string>
+	<string name="operation_download_link">Ссылка для скачивания</string>
 	<string name="operation_favorite">Добавить в избранное</string>
 	<string name="operation_hide_sys">Скрыть системные</string>
 	<string name="operation_info">Сведения</string>
@@ -219,7 +219,7 @@
 	<string name="sd_size_label">Хранилище пользователя</string>
 	<string name="search_hint">Введите часть или все имя файла</string>
 	<string name="search_title">Поиск документов</string>
-	<string name="send_to_midrive">Загрузка в KuaiPan</string>
+	<string name="send_to_midrive">KuaiPan</string>
 	<string name="send_to_midrive_failed_message">Не удалось загрузить в KuaiPan. Неверный формат файла.</string>
 	<string name="server_control_advanced_settings">Расширенные настройки</string>
 	<string name="server_control_charset">Кодирование передачи</string>
@@ -248,7 +248,7 @@
 	<string name="thumbnail_cleanup_indication">%s эскизы</string>
 	<string name="thumbnail_title">Эскизы изображений</string>
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
-	<string name="trans_task">KuaiPan</string>
+	<string name="trans_task">Загрузка в KuaiPan</string>
 	<string name="trans_task_delete_confirm_message">Удалить выбранные загрузки? \n\nЗагрузок: %1$d</string>
 	<string name="transing">В процессе</string>
 	<string name="trash_box_capacity">Размер корзины: %1$s</string>

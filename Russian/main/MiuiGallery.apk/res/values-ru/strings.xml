@@ -268,7 +268,7 @@
 	<string name="sync_album">Синхронизация фото</string>
 	<string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже.</string>
 	<string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
-	<string name="sync_album_summary">Синхронизировать фотографии и скриншоты с облачными альбомами. \nПоследняя:</string>
+	<string name="sync_album_summary">Синхронизировать фотографии с облачными альбомами. \nПоследняя:</string>
 	<string name="sync_history_power_on">Синхр. во время зарядки</string>
 	<string name="sync_only_in_wifi">Только по Wi-Fi</string>
 	<string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе возможно чрезмерное потребление мобильного трафика.</string>
