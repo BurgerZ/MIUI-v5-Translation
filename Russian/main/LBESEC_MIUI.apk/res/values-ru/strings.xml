@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="Dashboard_App">Приложения</string>
-	<string name="Dashboard_HIPS_Disable_Content">"Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.
-Вы действительно хотите ее отключить?"</string>
+	<string name="Dashboard_HIPS_Disable_Content">Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?</string>
 	<string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
 	<string name="Dashboard_Log">Журналы</string>
 	<string name="Dashboard_Log_Clear_Content">Удалить все журналы?</string>
@@ -25,16 +23,11 @@
 	<string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
 	<string name="Dashboard_Perm_SU_Disabled">Права суперпользователя отключены</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable">Права суперпользователя недоступны</string>
-	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования. 
-  
-  Пожалуйста, переключитесь на версию для разработчиков"</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования.\n\nПожалуйста, переключитесь на версию для разработчиков</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/development.html/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
-	<string name="Dashboard_Su_Enable_Content">"Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя. 
-Внимание: приложения с разрешениями могут вызвать нестабильность в работе системы, а также потерю личных данных. 
-
-Вы уверены, что хотите включить режим суперпользователя?"</string>
+	<string name="Dashboard_Su_Enable_Content">Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя.\nВнимание: приложения с разрешениями могут вызвать нестабильность в работе системы, а также потерю личных данных.\n\nВы уверены, что хотите включить режим суперпользователя?</string>
 	<string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
 	<string name="Generic_Canceling">Отмена...</string>
 	<string name="Generic_Check">Проверка</string>
@@ -85,26 +78,21 @@
 	<string name="HIPS_Perm_CallLog">Журнал вызовов</string>
 	<string name="HIPS_Perm_CallLog_Access">Читать журналы вызовов</string>
 	<string name="HIPS_Perm_CallLog_Desc">Доступ к журналам вызовов</string>
-	<string name="HIPS_Perm_CallLog_Hint">"Приложений: %1$s 
-Доступ к журналам вызовов."</string>
+	<string name="HIPS_Perm_CallLog_Hint">Приложений: %1$s\nДоступ к журналам вызовов.</string>
 	<string name="HIPS_Perm_CallMonitor">Управление вызовами</string>
 	<string name="HIPS_Perm_CallMonitor_Desc">Управление входящими и исходящими вызовами, контроль громкости, и т.д.</string>
-	<string name="HIPS_Perm_CallMonitor_Hint">"Приложений: %1$s 
-Доступ к управлению вашими входящими и исходящими вызовами, контролю громкости."</string>
+	<string name="HIPS_Perm_CallMonitor_Hint">Приложений: %1$s\nДоступ к управлению вашими входящими и исходящими вызовами, контролю громкости.</string>
 	<string name="HIPS_Perm_CallState">Состояние телефона</string>
 	<string name="HIPS_Perm_CallState_Desc">Получить состояние телефона</string>
-	<string name="HIPS_Perm_CallState_Hint">"Приложений: %1$s 
-Доступ к состоянию телефона."</string>
+	<string name="HIPS_Perm_CallState_Hint">Приложений: %1$s\nДоступ к состоянию телефона.</string>
 	<string name="HIPS_Perm_Call_Desc">Позвонить, ответить или оклонить телефонные звонки</string>
-	<string name="HIPS_Perm_Call_Hint">"Приложений: %1$s 
-Доступ к вызовам, возможность отвечать на вызовы и отклонять их."</string>
+	<string name="HIPS_Perm_Call_Hint">Приложений: %1$s\nДоступ к вызовам, возможность отвечать на вызовы и отклонять их.</string>
 	<string name="HIPS_Perm_Call_Number">Вызов %1$s</string>
 	<string name="HIPS_Perm_CancelMissedCalls">Очистка информации о непринятых звонках</string>
 	<string name="HIPS_Perm_Contact">Контакты</string>
 	<string name="HIPS_Perm_Contact_Access">Читать ваш список контактов</string>
 	<string name="HIPS_Perm_Contact_Desc">Доступ к списку контактов</string>
-	<string name="HIPS_Perm_Contact_Hint">"Приложений: %1$s 
-Доступ к списку контактов."</string>
+	<string name="HIPS_Perm_Contact_Hint">Приложений: %1$s\nДоступ к списку контактов.</string>
 	<string name="HIPS_Perm_EndCall">отклонить текущий звонок</string>
 	<string name="HIPS_Perm_GetCallState">получить состояние текущего вызова</string>
 	<string name="HIPS_Perm_ListenCallState">мониторинг состояния вызова</string>
@@ -113,16 +101,14 @@
 	<string name="HIPS_Perm_Location_CellInfo">получать местоположение телефона</string>
 	<string name="HIPS_Perm_Location_CellLocation">получить местоположение телефона</string>
 	<string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
-	<string name="HIPS_Perm_Location_Hint">"Приложений: %1$s 
-Доступ к отслеживанию местоположения телефона."</string>
+	<string name="HIPS_Perm_Location_Hint">Приложений: %1$s\nДоступ к отслеживанию местоположения телефона.</string>
 	<string name="HIPS_Perm_Location_Monitor">Отслеживать ваше положение</string>
 	<string name="HIPS_Perm_Location_Source_Cellular">Источник: Сотовая сеть</string>
 	<string name="HIPS_Perm_Location_Source_GPS">Источник: GPS</string>
 	<string name="HIPS_Perm_Location_Source_Network">Источник: Сеть</string>
 	<string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
 	<string name="HIPS_Perm_MobileNetwork_Desc">Доступ к Интернет посредством мобильной сети</string>
-	<string name="HIPS_Perm_MobileNetwork_Hint">"Приложений: %1$s 
-Доступ в интернет по мобильной сети."</string>
+	<string name="HIPS_Perm_MobileNetwork_Hint">Приложений: %1$s\nДоступ в интернет по мобильной сети.</string>
 	<string name="HIPS_Perm_Network_Accept">Принять соединение от %1$s</string>
 	<string name="HIPS_Perm_Network_Connect">Подключение к %1$s</string>
 	<string name="HIPS_Perm_Network_Listen">Прослушка порта %1$s</string>
@@ -133,8 +119,7 @@
 	<string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
 	<string name="HIPS_Perm_PhoneID">Идентификаторы телефона</string>
 	<string name="HIPS_Perm_PhoneID_Desc">Доступ к идентификаторам телефона, включая IMEI, IMSI, и т.д.</string>
-	<string name="HIPS_Perm_PhoneID_Hint">"Приложений: %1$s 
-Доступ к идентификаторам вашего телефона."</string>
+	<string name="HIPS_Perm_PhoneID_Hint">Приложений: %1$s\nДоступ к идентификаторам вашего телефона.</string>
 	<string name="HIPS_Perm_PhoneID_ICCID">Доступ к серийному номеру SIM</string>
 	<string name="HIPS_Perm_PhoneID_IMEI">Доступ к номеру IMEI</string>
 	<string name="HIPS_Perm_PhoneID_IMEISN">Доступ к номеру IMEI/SN</string>
@@ -150,14 +135,12 @@
 	<string name="HIPS_Perm_SMS">SMS</string>
 	<string name="HIPS_Perm_SMS_Access">Чтение входящих SMS</string>
 	<string name="HIPS_Perm_SMS_Desc">Доступ к входящим SMS</string>
-	<string name="HIPS_Perm_SMS_Hint">"Приложений: %1$s 
-Доступ к входящим SMS"</string>
+	<string name="HIPS_Perm_SMS_Hint">Приложений: %1$s\nДоступ к входящим SMS</string>
 	<string name="HIPS_Perm_SendSMS">Отправка SMS</string>
 	<string name="HIPS_Perm_SendSMS_Content">Содержание:</string>
 	<string name="HIPS_Perm_SendSMS_Data">Отправить SMS на %1$s:%2$d</string>
 	<string name="HIPS_Perm_SendSMS_Desc">Отправить SMS напрямую</string>
-	<string name="HIPS_Perm_SendSMS_Hint">"Приложений: %1$s 
-Доступ для отправки SMS."</string>
+	<string name="HIPS_Perm_SendSMS_Hint">Приложений: %1$s\nДоступ для отправки SMS.</string>
 	<string name="HIPS_Perm_SendSMS_Port">Порт назначения:</string>
 	<string name="HIPS_Perm_SendSMS_Recipient">Получатель:</string>
 	<string name="HIPS_Perm_SendSMS_SMSC">SMS-центр:</string>
@@ -166,8 +149,7 @@
 	<string name="HIPS_Perm_SilenceRinger">Звонок без звука</string>
 	<string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Desc">Доступ в Интернет по Wi-Fi</string>
-	<string name="HIPS_Perm_WIFINetwork_Hint">"Приложений: %1$s 
-Доступ в интернет по Wi-Fi сети."</string>
+	<string name="HIPS_Perm_WIFINetwork_Hint">Приложений: %1$s\nДоступ в интернет по Wi-Fi сети.</string>
 	<string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
 	<string name="HIPS_SecurityPrompt_AcceptRoot">Да</string>
 	<string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>
