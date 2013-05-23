@@ -228,7 +228,7 @@
 	<string name="select_item">Выбрать файлы</string>
 	<string name="select_video">Выбрать видео</string>
 	<string name="send">Отправить</string>
-	<string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
+	<string name="send_multiple_files_hint_format">Отправить файлы (%s)</string>
 	<string name="send_to_cloud_failed_message">Этот пункт не может быть добавлен в облачные альбомы</string>
 	<string name="sepia">Сепия</string>
 	<string name="set_hidden_album">Скрыть альбомы</string>

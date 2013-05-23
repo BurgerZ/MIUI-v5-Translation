@@ -457,7 +457,7 @@
     <string name="albums">Альбомы</string>
     <string name="select_all">Выбрать все</string>
     <string name="set_label_all_albums">Все альбомы</string>
-    <string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
+    <string name="send_multiple_files_hint_format">Отправить файлы (%s)</string>
     <string name="simple_mode_button_text_hdr">Отключить HDR режим</string>
     <string name="simple_mode_button_text_panorama">Отключить режим панорамы</string>
     <string name="simple_mode_button_text_color_effect">Отключить эффекты</string>
