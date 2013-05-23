@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="account">Аккаунт</string>
-	<string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален из почты</string>
+	<string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален.</string>
 	<string name="account_delete_dlg_title">Удалить аккаунт</string>
 	<string name="account_duplicate_dlg_message_fmt">Это имя уже используется в аккаунте \"%s\"</string>
 	<string name="account_duplicate_dlg_title">Копировать аккаунт</string>
@@ -209,7 +209,7 @@
 	<string name="cc">Копия:</string>
 	<string name="choose_attachment_dialog_title">Выбрать приложение</string>
 	<string name="choosertitle_sharevia">Отправить через</string>
-	<string name="cleared_trusted_senders_message">"Очистить \"Показать фотографии\", изображения в сообщениях не будут показаны автоматически."</string>
+	<string name="cleared_trusted_senders_message">Очистить изображения?</string>
 	<string name="close_action">Закрыть</string>
 	<string name="completed_no_file">Файл не найден</string>
 	<string name="compose_action">Новое сообщение</string>
@@ -269,11 +269,11 @@
 	<string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
 	<string name="forward_download_failed_title">Не удалось переслать вложение</string>
 	<string name="gal_searching_fmt">Поиск %s...</string>
-	<string name="general_preference_auto_advance_dialog_title">Переходить к</string>
+	<string name="general_preference_auto_advance_dialog_title">Переходить</string>
 	<string name="general_preference_auto_advance_label">Автопереход</string>
-	<string name="general_preference_auto_advance_message_list">Списку сообщений</string>
-	<string name="general_preference_auto_advance_newer">Предыдущему сообщению</string>
-	<string name="general_preference_auto_advance_older">Следующему сообщению</string>
+	<string name="general_preference_auto_advance_message_list">К списку сообщений</string>
+	<string name="general_preference_auto_advance_newer">К новому сообщению</string>
+	<string name="general_preference_auto_advance_older">К старому сообщению</string>
 	<string name="general_preference_auto_advance_summary">Выберите экран для отображения после удаления цепочки писем</string>
 	<string name="general_preference_reply_all_label">Ответить всем</string>
 	<string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
@@ -284,8 +284,8 @@
 	<string name="general_preference_text_zoom_normal">Обычный</string>
 	<string name="general_preference_text_zoom_small">Небольшой</string>
 	<string name="general_preference_text_zoom_tiny">Мелкий</string>
-	<string name="general_preferences_clear_trusted_senders_summary">Очистка списка доверенных контактов для параметра \"Показать изображения\"</string>
-	<string name="general_preferences_clear_trusted_senders_title">Очистить список доверенных</string>
+	<string name="general_preferences_clear_trusted_senders_summary">Очистка изображений, которые были загружены автоматически.</string>
+	<string name="general_preferences_clear_trusted_senders_title">Очистить изображения</string>
 	<string name="header_label_general_preferences">Общие</string>
 	<string name="login_failed_ticker">Ошибка авторизации %s</string>
 	<string name="login_failed_title">Не удалось войти в аккаунт</string>
@@ -481,7 +481,7 @@
 	<string name="previous_action">Назад</string>
 	<string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер</string>
 	<string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
-	<string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
+	<string name="quick_responses_empty_view">Нет шаблонов</string>
 	<string name="read_action">Прочитано</string>
 	<string name="refresh_action">Обновление</string>
 	<string name="remove_star_action">Из избранных</string>
@@ -533,7 +533,7 @@
 	<string name="toast_file_error">Файл недоступен</string>
 	<string name="toast_intent_error">Не удалось начать загрузку</string>
 	<string name="toast_mailbox_not_found">Папка не найдена. Возможно, она удалена</string>
-	<string name="trusted_senders_cleared">Список доверенных контактов очищен</string>
+	<string name="trusted_senders_cleared">Изображения очищены</string>
 	<string name="unread_action">Не прочитано</string>
 	<string name="upload">Загрузить</string>
 	<string name="upload_state_completed">Завершено</string>
