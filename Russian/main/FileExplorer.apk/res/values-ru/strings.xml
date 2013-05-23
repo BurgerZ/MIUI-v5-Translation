@@ -242,6 +242,7 @@
 	<string name="data_size_label">Данные</string>
 	<string name="directory_info_divider">"  |  "</string>
 	<string name="directory_no_item">пусто</string>
+	<string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
 	<string name="empty_dir_cleanup_indication">%s пустые папки</string>
 	<string name="empty_dir_title">Пустые папки</string>
 	<string name="garbage_size_metric">"%s \nМусор"</string>
