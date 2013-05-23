@@ -64,13 +64,13 @@
         <item>Я</item>
     </string-array>
 	<string-array name="alarm_in_future">
-        <item>Alarm in less than a minute</item>
-        <item>Alarm in %1$s</item>
-        <item>Alarm in %2$s</item>
-        <item>Alarm in %1$s %2$s</item>
-        <item>Alarm in %3$s</item>
-        <item>Alarm in %1$s %3$s</item>
-        <item>Alarm in %2$s %3$s</item>
-        <item>Alarm in %1$s %2$s %3$s</item>
+        <item>Будильник зазвонит менее чем через минуту</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
     </string-array>
 </resources>
