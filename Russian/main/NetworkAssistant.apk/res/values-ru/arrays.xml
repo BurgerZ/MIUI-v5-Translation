@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
      <string-array name="date_of_app">
         <item>За вчера</item>
@@ -19,11 +18,10 @@
         <item>Трафик за сегодня</item>
         <item>Трафик за месяц</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 10 must: 8 -->
      <string-array name="network_speed_update_internals">
         <item>1 сек</item>
-	<item>2 сек</item>
-	<item>3 сек</item>
+		<item>2 сек</item>
+		<item>3 сек</item>
         <item>4 сек</item>
         <item>5 сек</item>
         <item>6 сек</item>

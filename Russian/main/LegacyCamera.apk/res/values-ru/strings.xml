@@ -11,8 +11,7 @@
   <string name="accessibility_shutter_button">Затвор</string>
   <string name="accessibility_switch">Переключить %1$s</string>
   <string name="accessibility_zoom_control">Зум</string>
-  <string name="bg_replacement_message">Установите устройство на твердой поверхности.
-Затем отойдите, чтобы вас было видно в камеру.</string>
+  <string name="bg_replacement_message">Установите устройство на твердой поверхности.\nЗатем отойдите, чтобы вас было видно в камеру.</string>
   <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности</string>
   <string name="camera_error_title">Ошибка камеры</string>
   <string name="camera_gallery_photos_text">Галерея</string>

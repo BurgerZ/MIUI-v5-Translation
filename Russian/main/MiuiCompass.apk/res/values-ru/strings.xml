@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="altitude_title">Высота</string>
 	<string name="altitude_unit">м</string>
@@ -15,8 +14,7 @@
 	<string name="direction_south">Ю</string>
 	<string name="direction_west">З</string>
 	<string name="getting_location">Получение координат...</string>
-	<string name="guide_toast">"Удалитесь от возможных магнитных помех. 
-Выполните калибровку, вращая телефон так, как показано на анимации."</string>
+	<string name="guide_toast">Удалитесь от возможных магнитных помех.\nВыполните калибровку, вращая телефон так, как показано на анимации.</string>
 	<string name="latitude">Широта</string>
 	<string name="location_east">В.Д.</string>
 	<string name="location_north">С.Ш.</string>
