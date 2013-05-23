@@ -1,21 +1,14 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-
   <string name="APKTOOL_DUMMY_0038">false</string>
   <string name="CURRENTDESTINATION_REMOVE">Удалить</string>
   <string name="CURRENTDESTINATION_REPLACE">Заменить</string>
-  <string name="DEST_CURRENTDEST">"Текущее
-  назначение"</string>
-  <string name="DEST_NEWEMAIL">"Новый 
- Email"</string>
-  <string name="DEST_NEWNUMBER">"Новый
-  номер"</string>
+  <string name="DEST_CURRENTDEST">Текущее\nназначение</string>
+  <string name="DEST_NEWEMAIL">Новый\nEmail</string>
+  <string name="DEST_NEWNUMBER">Новый\nномер</string>
   <string name="DEST_ONLINEALBUM">"Онлайн альбом"</string>
-  <string name="DEST_PHONEBOOK">"Телефонная 
-	книга"</string>
-  <string name="DEST_RECENTRECIPIENT">"Последний
-  получатель"</string>
+  <string name="DEST_PHONEBOOK">Телефонная\nкнига</string>
+  <string name="DEST_RECENTRECIPIENT">Последний\nполучатель</string>
   <string name="Dialog_No">Нет</string>
   <string name="Dialog_Yes">Да</string>
   <string name="My_Album_Online">Мой онлайн альбом</string>
@@ -24,8 +17,7 @@
   <string name="OPTION_2">Опция 2</string>
   <string name="OPTION_3">Опция 3</string>
   <string name="Send_to">Послать к</string>
-  <string name="Title_Dest">"Default
-Dest."</string>
+  <string name="Title_Dest">Default\nDest.</string>
   <string name="Title_SetDefDest">Установить назначение по умолчанию</string>
   <string name="already_exists">Уже существует</string>
   <string name="app_name">Быстрый просмотр</string>
