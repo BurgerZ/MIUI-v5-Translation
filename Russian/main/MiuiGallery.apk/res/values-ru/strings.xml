@@ -22,7 +22,7 @@
 	<string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы, установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом</string>
 	<string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
 	<string name="autofix">Авто</string>
-	<string name="big_screen_alertdialog_title">Проектор</string>
+	<string name="big_screen_alertdialog_title">Xiaomi Box</string>
 	<string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
 	<string name="browse_category">Просмотр изображений</string>
 	<string name="camera_connected">Камера подключена</string>
@@ -41,7 +41,7 @@
 	<string name="cloud_album_more_settings">Облачные альбомы</string>
 	<string name="cloud_album_set_create">Новый</string>
 	<string name="cloud_albums">Облачные альбомы</string>
-	<string name="cloud_camera_display_name">Фото</string>
+	<string name="cloud_camera_display_name">Мои фото</string>
 	<string name="cloud_gallery_no_pictures">Нет изображений</string>
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
 	<string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>

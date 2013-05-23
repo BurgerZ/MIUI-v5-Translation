@@ -13,7 +13,8 @@
         <item>9</item>
         <item>-</item>
         <item>/</item>
-		<item>:</item>
+		<item>.</item>
+		<item>,</item>
     </string-array>
     <array name="date_entryValues">
         <item>@drawable/date_0</item>
@@ -28,6 +29,7 @@
         <item>@drawable/date_9</item>
         <item>@drawable/date_m</item>
         <item>@drawable/date_m</item>
+		<item>@drawable/date_m</item>
 		<item>@drawable/date_m</item>
     </array>
 </resources>
