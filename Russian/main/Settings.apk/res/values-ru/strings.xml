@@ -1748,7 +1748,7 @@
 	<string name="unlock_disable_lock_pin_summary">Удалить ПИН-код разблокировки</string>
 	<string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
 	<string name="unlock_set_enter_system">Отключить локскрин</string>
-	<string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться после включения этой функции</string>
+	<string name="unlock_set_enter_system_summary">Системный экран блокировки не будет использоваться после включения этой функции.</string>
 	<string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
 	<string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
 	<string name="unlock_set_unlock_disabled_summary">Запрещено администратором, политикой шифрования или хранилищем учетных данных</string>
@@ -1902,7 +1902,7 @@
 	<string name="volume_restore_alert">Восстановить настройки громкости по умолчанию?</string>
 	<string name="volume_ring_description">Рингтон и уведомления</string>
 	<string name="volume_ring_mute">Отключить звонок и уведомления</string>
-	<string name="volume_system_description">Громкость системы, затвор камеры, локскрин и другие системные уведомления</string>
+	<string name="volume_system_description">Громкость системы, затвор камеры, экран блокировки и другие системные уведомления.</string>
 	<string name="volume_voice_description">Разговор</string>
 	<string name="vpn_cancel">Отмена</string>
 	<string name="vpn_configure">Конфигурация</string>

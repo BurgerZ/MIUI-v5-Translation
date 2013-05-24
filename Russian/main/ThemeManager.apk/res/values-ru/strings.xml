@@ -20,7 +20,7 @@
 	<string name="component_category_finest_title">Основные</string>
 	<string name="component_category_more_title">Дополнительные</string>
 	<string name="component_include_title">Компонентов: %1$s</string>
-	<string name="component_lockstyle_personal_title">Настройки локскрина</string>
+	<string name="component_lockstyle_personal_title">Настройки экрана блокировки</string>
 	<string name="component_select_title">Выбрано компонентов: %1$s</string>
 	<string name="component_settings_title">Текущая тема</string>
 	<string name="description_author">Автор:</string>
@@ -128,8 +128,8 @@
 	<string name="theme_component_title_framework">Система</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
-	<string name="theme_component_title_lockstyle">Локскрин</string>
-	<string name="theme_component_title_lockwallpaper">Обои локскрина</string>
+	<string name="theme_component_title_lockstyle">Экран блокир.</string>
+	<string name="theme_component_title_lockwallpaper">Обои экрана блокир.</string>
 	<string name="theme_component_title_miwallpaper">Mi обои</string>
 	<string name="theme_component_title_mms">Сообщения</string>
 	<string name="theme_component_title_notification">Уведомл.</string>
