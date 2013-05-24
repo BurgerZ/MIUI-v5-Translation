@@ -94,10 +94,10 @@
 	<string name="gbk_title">GBK</string>
 	<string name="instruction">Адрес синхронизации:</string>
 	<string name="instruction_pre">Обмен файлами с компьютером по FTP через сеть Wi-Fi</string>
-	<string name="KuaiPan_over_space">Нет свободного места в вашем KuaiPan</string>
-	<string name="KuaiPan_prompt">KuaiPan</string>
-	<string name="KuaiPan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
-	<string name="KuaiPan_tech_support">Техническая поддержка: Kingsoft KuaiPan</string>
+	<string name="kuaipan_over_space">Нет свободного места в вашем KuaiPan</string>
+	<string name="kuaipan_prompt">KuaiPan</string>
+	<string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
+	<string name="kuaipan_tech_support">Техническая поддержка: Kingsoft KuaiPan</string>
 	<string name="load_err">Ошибка загрузки</string>
 	<string name="loading">Загрузка...</string>
 	<string name="local_cache">Локальный кэш</string>
@@ -217,10 +217,10 @@
 	<string name="used">Занято:</string>
 	<string name="user_guide">Руководство пользователя</string>
 	<string name="user_guide_download_other_version">Вы можете установить клиент KuaiPan на ПК.</string>
-	<string name="user_guide_KuaiPan_copy">Вы можете загружать любые файлы в KuaiPan</string>
+	<string name="user_guide_kuaipan_copy">Вы можете загружать любые файлы в KuaiPan</string>
 	<string name="user_guide_other_version">Чтобы установить клиент KuaiPan, перейдите на сайт \"www.KuaiPan.cn\" с компьютера.</string>
 	<string name="user_guide_summary">Руководство по KuaiPan</string>
-	<string name="user_guide_upload_to_KuaiPan">Чтобы загрузить файл, достаточно скопировать его из памяти телефона и вставить в KuaiPan.</string>
+	<string name="user_guide_upload_to_kuaipan">Чтобы загрузить файл, достаточно скопировать его из памяти телефона и вставить в KuaiPan.</string>
 	<string name="utf8_summary">Тип кодировки по умолчанию</string>
 	<string name="wait_net">Ожидание сети</string>
 	<string name="wait_sdcard">Ожидание подключения SD-карты</string>
