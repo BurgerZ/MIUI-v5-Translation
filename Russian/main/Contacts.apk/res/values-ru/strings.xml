@@ -288,7 +288,7 @@
 	<string name="display_options_view_family_name_first">Сначала фамилию</string>
 	<string name="display_options_view_given_name_first">Сначала имя</string>
 	<string name="display_options_view_names_as">Показывать в контактах</string>
-	<string name="display_sim_contacts">Показать контакты SIM-карты</string>
+	<string name="display_sim_contacts">Контакты SIM-карты</string>
 	<string name="display_ungrouped">Все остальные контакты</string>
 	<string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
 	<string name="download_failed">Ошибка загрузка</string>
@@ -505,11 +505,11 @@
 	<string name="name_phonetic_middle">Отчество (транскрипция)</string>
 	<string name="name_prefix">Форма обращения</string>
 	<string name="name_suffix">Звание/титул</string>
-	<string name="next">далее</string>
+	<string name="next">Далее</string>
 	<string name="next_birthday">Следующий День рождения: %s</string>
 	<string name="nfc_vcard_file_name">Получено по NFC</string>
 	<string name="nicknameLabelsGroup">Псевдоним</string>
-	<string name="nickname_editor_title">Изменить ник</string>
+	<string name="nickname_editor_title">Изменить псевдоним</string>
 	<string name="nickname_picker_name_column">Имя контакта</string>
 	<string name="nickname_picker_nickname_column">Имя</string>
 	<string name="noAccounts">Для создания групп нужен аккаунт</string>
@@ -597,7 +597,7 @@
 	<string name="postal_region">Регион</string>
 	<string name="postal_street">Улица</string>
 	<string name="pref_key_photo">Изображение</string>
-	<string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без них.</string>
+	<string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без фото.</string>
 	<string name="pref_key_photo_word_title">Фото для контакта</string>
 	<string name="pref_key_rebuild_t9_index_message">Обновление индекса контактов для поиска с помощью T9.</string>
 	<string name="pref_key_rebuild_t9_index_title">Обновить индекс</string>
@@ -768,7 +768,7 @@
 	<string name="smart_group_frequency_1">В течение месяца</string>
 	<string name="smart_group_frequency_2">В течение 3 месяцев</string>
 	<string name="smart_group_frequency_3">В течение 6 месяцев</string>
-	<string name="smart_group_frequency_4">Не было контакта в течение более 6 месяцев</string>
+	<string name="smart_group_frequency_4">Более 6 месяцев</string>
 	<string name="smart_group_frequency_label">По последним вызовам</string>
 	<string name="smart_group_label">Умная группировка</string>
 	<string name="smart_group_loading">Загрузка групп...</string>
