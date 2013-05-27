@@ -10,14 +10,14 @@
 	<string name="accessibility_button_forward">Вперед</string>
 	<string name="accessibility_button_go">Перейти</string>
 	<string name="accessibility_button_goto">Перейти</string>
-	<string name="accessibility_button_larger">Больше</string>
+	<string name="accessibility_button_larger">Увеличить</string>
 	<string name="accessibility_button_more">Другие варианты</string>
 	<string name="accessibility_button_navscreen">Менеджер страниц</string>
 	<string name="accessibility_button_newincognitotab">Открыть новую вкладку в режиме инкогнито</string>
 	<string name="accessibility_button_newtab">Новая вкладка</string>
 	<string name="accessibility_button_refresh">Обновить страницу</string>
 	<string name="accessibility_button_search">Поиск</string>
-	<string name="accessibility_button_smaller">Меньше</string>
+	<string name="accessibility_button_smaller">Уменьшить</string>
 	<string name="accessibility_button_stop">Остановить загрузку страницы</string>
 	<string name="accessibility_button_tabs">Вкладки</string>
 	<string name="accessibility_button_uaswitch">Переключить клиентское приложение</string>
@@ -403,7 +403,7 @@
 	<string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
 	<string name="set_as_homepage">Сделать главной страницей</string>
 	<string name="share_link">Поделиться</string>
-	<string name="share_page">Отправить страницу</string>
+	<string name="share_page">Поделиться ссылкой</string>
 	<string name="shortcut_bookmark">Закладка</string>
 	<string name="shortcut_bookmark_title">Выберите закладку</string>
 	<string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
