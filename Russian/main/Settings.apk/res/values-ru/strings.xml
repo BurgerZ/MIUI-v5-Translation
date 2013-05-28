@@ -443,7 +443,7 @@
 	<string name="computing_size">Вычисление...</string>
 	<string name="config_list_label">Настроенные сети</string>
 	<string name="configure_input_method">Настройка методов ввода</string>
-	<string name="confirm_erase">Подтверждение удаления</string>
+	<string name="confirm_erase">Удалить</string>
 	<string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
 	<string name="contributors_title">Участники</string>
 	<string name="controls_label">Элементы управления</string>
