@@ -24,7 +24,7 @@
 	<string name="confirm_change_to_simple_mode_message">Переключиться в обычный режим?</string>
 	<string name="confirm_location_message">Камера может сохранять отметки о вашем местонахождении. Включить эту функцию?</string>
 	<string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
-	<string name="confirm_restore_title">Восстановить настройки по умолчанию</string>
+	<string name="confirm_restore_title">Сброс настроек</string>
 	<string name="crop_saved">Обрезанные изображения сохраняются в %s.</string>
 	<string name="delete">Удалить</string>
 	<string name="deleted">Удалено</string>
