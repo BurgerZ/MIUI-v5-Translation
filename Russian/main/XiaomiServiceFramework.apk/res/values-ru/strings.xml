@@ -53,6 +53,7 @@
 	<string name="error_expired_summary">Срок заказа истек</string>
 	<string name="error_frozen_summary">Ваш аккаунт заморожен</string>
 	<string name="error_frozen_title">Аккаунт заморожен</string>
+	<string name="error_giftcard_summary">Невозможно получить информацию о подарочной карте</string>
 	<string name="error_has_bought_summary">Вы уже купили этот продукт</string>
 	<string name="error_has_bought_title">Повторите покупку</string>
 	<string name="error_illegal_order_summary">Произошла ошибка покупки. Пожалуйста, попробуйте снова.</string>
@@ -86,6 +87,15 @@
 	<string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
 	<string name="forget_password">Забыли пароль?</string>
 	<string name="frozen">(Заморожен)</string>
+	<string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
+	<string name="giftcard_denom">Mi-Кредит</string>
+	<string name="giftcard_denom_available">Карта Mi-Кредит доступна</string>
+	<string name="giftcard_denom_frozen">Карта Mi-Кредит заморожена</string>
+	<string name="giftcard_empty">Нет подарочной карты</string>
+	<string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
+	<string name="giftcard_hint">На подарочную карту будут переведены Mi-Кредиты. Через определенный срок они будут недействительны.</string>
+	<string name="giftcard_record">Карта Mi-Кредит получена</string>
+	<string name="giftcard_value">(Подарочная карта на %1$s Mi-Кредит)</string>
 	<string name="header_data_and_synchronization">Данные и синхронизация</string>
 	<string name="i_know">OK</string>
 	<string name="input_password_hint">Введите пароль</string>
@@ -125,6 +135,7 @@
 	<string name="micloud_via_sms_alert">An SMS will be sent to validate your phone number. Continue?</string>
 	<string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
 	<string name="mili_center">Mi-Кредит</string>
+	<string name="my_mili_record">Мой Mi-Кредит</string>
 	<string name="next">Далее</string>
 	<string name="nobind">Не привязан</string>
 	<string name="order_price">Mi-Кредит: %1$s</string>
@@ -242,17 +253,5 @@
 	<string name="user_agreement_p3"> и  </string>
 	<string name="user_agreement_p4">Политикой безопасности</string>
 	<string name="user_agreement_p5">Регистрируясь, Вы соглашаетесь с\n</string>
-	<string name="voucher_btn_exchange">Обмен</string>
-	<string name="voucher_btn_exchange_error">Ошибка</string>
-	<string name="voucher_btn_has_exchanged">Передано</string>
-	<string name="voucher_denom">Mi-Кредиты</string>
-	<string name="voucher_edit_hint">Пароль</string>
-	<string name="voucher_edit_limit">символов</string>
-	<string name="voucher_empty">Нет карты Mi-Кредит</string>
-	<string name="voucher_error_code">Неверный пароль карты Mi-Кредит</string>
-	<string name="voucher_exchange">Обмен</string>
-	<string name="voucher_exchange_count">Обмен (%1$s)</string>
-	<string name="voucher_exchange_success">%1$s обмен Mi-Кредитов завершен</string>
-	<string name="voucher_expire">%1$s-%2$s-%3$s истек срок действия</string>
-	<string name="voucher_input">Ввод</string>
+	<string name="voucher_input_password_prompt">Введите пароль</string>
 </resources>

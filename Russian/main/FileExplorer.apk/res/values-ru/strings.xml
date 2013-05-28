@@ -167,7 +167,7 @@
 	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите...</string>
 	<string name="rename_description">Переименовывается···</string>
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
-	<string name="scanning">Сканирование...</string>
+	<string name="scanning" formatted="false">Сканирование %d из %d...</string>
 	<string name="sd_card_available">Свободно: %1$s</string>
 	<string name="sd_card_size">SD-карта: %1$s</string>
 	<string name="sd_full">SD-карта полна</string>
@@ -203,8 +203,8 @@
 	<string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
 	<string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
 	<string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
-	<string name="ui_bar_txt_download_progress">Скачивание...</string>
-	<string name="ui_bar_txt_upload_progress">Загрузка...</string>
+	<string name="ui_bar_txt_download_progress">Скачивание файлов (осталось: %1$d)</string>
+	<string name="ui_bar_txt_upload_progress">Загрузка файлов (осталось: %1$d)</string>
 	<string name="ui_filechange_btn_download">Скачать файлы</string>
 	<string name="ui_filechange_btn_upload">Загрузить файлы</string>
 	<string name="ui_main_menu_option_task_manage">Загрузка файлов</string>

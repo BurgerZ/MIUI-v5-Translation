@@ -139,7 +139,7 @@
 	<string name="group_resend_message">Переслать(%d)</string>
 	<string name="guild_add_attachments">Нажмите для добавления вложения или смайла в сообщение</string>
 	<string name="guild_add_recipients">Нажмите для добавления получателей из адресной книги</string>
-	<string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
+	<string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
 	<string name="hidden_sender_address">Адрес отправителя скрыт</string>
 	<string name="hint_search_sms">Всего сообщений: %d</string>
 	<string name="importing_progress_private_message">Импорт сообщений в приватный ящик сообщений...</string>
