@@ -74,7 +74,7 @@
 	<string name="nologin_no_waitfornewset">Не зарегистрированные пользователи не могут следить за обновлениями</string>
 	<string name="ok">Ок</string>
 	<string name="others">Другое</string>
-	<string name="pick_myfavorite_to_cancel">Выберите видео, которые вы хотите удалить из избранного</string>
+	<string name="pick_myfavorite_to_cancel">Выберите видео, которые вы хотите убрать из избранного.</string>
 	<string name="play">Воспроизведение</string>
 	<string name="play_length_colon">Продолжительность:</string>
 	<string name="playvideo">Воспроизведение видео</string>

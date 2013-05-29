@@ -374,7 +374,7 @@
 	<string name="hint_findContacts">Найти контакты</string>
 	<string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
 	<string name="hint_search_contacts">Контактов: %d</string>
-	<string name="hint_search_emails">Адресов электронной почты: %d</string>
+	<string name="hint_search_emails">Адресов эл. почты: %d</string>
 	<string name="hint_search_phone_numbers">Телефонов: %d</string>
 	<string name="ic_menu_back">Назад</string>
 	<string name="ic_menu_done">Готово</string>
