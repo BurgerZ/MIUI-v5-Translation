@@ -98,8 +98,8 @@
 	<string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
 	<string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
 	<string name="ext_media_safe_remove">Безопасное извлечение</string>
-	<string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
-	<string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
+	<string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь</string>
+	<string name="ext_media_safe_unmount_notification_title">SD-карта отключена</string>
 	<string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его</string>
 	<string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
 	<string name="flash_device">/sys/class/leds/flashlight/brightness</string>

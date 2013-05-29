@@ -147,7 +147,7 @@
 	<string name="pay_record_empty">Нет платежной истории</string>
 	<string name="paytool_alipay">Alipay</string>
 	<string name="paytool_edit_hint">Сумма пополнения (RMB):</string>
-	<string name="paytool_edit_limit">Менее чем %1$s</string>
+	<string name="paytool_edit_limit">максимум: %1$s</string>
 	<string name="paytool_error_denomination">Пожалуйста, введите правильную сумму пополнения</string>
 	<string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
 	<string name="paytool_error_msp">%1$s ошибка пополнения</string>
@@ -199,8 +199,8 @@
 	<string name="recharge_alipay_title">Alipay</string>
 	<string name="recharge_denomination">%1$s RMB</string>
 	<string name="recharge_hint">"1 Mi-Кредит = 5 юаней ~ 25 рублей"</string>
-	<string name="recharge_notification">Пополнение на %1$s кредитов Mi</string>
-	<string name="recharge_other">Выберите другой способ оплаты</string>
+	<string name="recharge_notification">Пополнение Mi-Кредитов: %1$s</string>
+	<string name="recharge_other">Отмена</string>
 	<string name="recharge_pcpay_summary">Поддерживает больше способов пополнения.</string>
 	<string name="recharge_pcpay_title">Пополнение через компьютер </string>
 	<string name="recharge_prepaid_summary">Пополение через China Mobile, China Unicom и China Telecom.</string>
