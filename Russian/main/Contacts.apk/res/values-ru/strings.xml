@@ -370,7 +370,7 @@
 	<string name="group_sms_progress_msg">Подготовка к групповой отправке SMS...</string>
 	<string name="groupsLabel">Группы</string>
 	<string name="groups_list_empty">Нет групп</string>
-	<string name="hint_distance">ержать дистанцию</string>
+	<string name="hint_distance">держать дистанцию</string>
 	<string name="hint_findContacts">Найти контакты</string>
 	<string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
 	<string name="hint_search_contacts">Контактов: %d</string>
