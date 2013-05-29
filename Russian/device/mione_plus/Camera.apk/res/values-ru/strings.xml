@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_error_title">Ошибка камеры</string>
+	<string name="cannot_connect_camera_once">Ошибка запуска камеры. Пожалуйста, повторите еще раз.</string>
+    <string name="cannot_connect_camera_twice">Ошибка запуска камеры. Пожалуйста, перезагрузите телефон.</string>
     <string name="cannot_connect_camera">Не удаeтся подключиться к камере</string>
     <string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
     <string name="camera_label">Камера</string>
@@ -16,6 +18,8 @@
     <string name="confirm_change_to_expert_mode_message">Переключить камеру в профессиональный режим?</string>
     <string name="confirm_change_to_simple_mode_message">Переключить камеру в обычный режим?</string>
     <string name="confirm_location_message">Телефон Xiaomi может сохранять ваше местоположение, включить данную опцию?</string>
+	<string name="save">Сохранить</string>
+    <string name="no_save">Не сохранять</string>
     <string name="open">Включить</string>
     <string name="skip">Пропустить</string>
     <string name="review_cancel">Отмена</string>
@@ -478,4 +482,37 @@
 	<string name="simple_mode_button_text_hand_night">Закрыть ночной режим</string>
 	<string name="simple_mode_title">Обычный режим</string>
 	<string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается, если ISO не установлено в режим \"Авто\".</string>
+	<string name="pref_video_captrue_ability_title">Захват кадра</string>
+    <string name="find_mecard_qrcode">Поиск визитки по QR коду</string>
+    <string name="find_weixin_qrcode">Поиск в WeiXin по QR коду</string>
+    <string name="find_market_qrcode">Поиск в маркете по QR коду</string>
+    <string name="find_web_qrcode">Поиск сайта по QR коду</string>
+    <string name="find_other_qrcode">Поиск по QR коду</string>
+    <string name="see_qrcode_detals">Подробнее</string>
+    <string name="scan_qrcode">Сканирование QR кода</string>
+    <string name="app_details">Информация о приложении:</string>
+    <string name="website_details">Информация о сайте:</string>
+    <string name="contact_details">Информация о контакте:</string>
+    <string name="weixin_details">Информация о WeiXin:</string>
+    <string name="qr_code_details">Информация о QR коде:</string>
+    <string name="import_contact">Импорт контакта</string>
+    <string name="secure_access_web_url">Открыть в браузере</string>
+    <string name="download_by_browser">Скачать</string>
+    <string name="launch_market">Открыть СуперМаркет</string>
+    <string name="see_app_details">Информация о приложении</string>
+    <string name="copy_text">Копировать текст</string>
+    <string name="copy_text_success">Скопировано</string>
+    <string name="contact_name">Имя</string>
+    <string name="contact_nickname">Псевдоним</string>
+    <string name="contact_company">Компаниия</string>
+    <string name="contact_title">Название</string>
+    <string name="contact_phone">Телефон</string>
+    <string name="contact_email">Почта</string>
+    <string name="contact_web">Сайт</string>
+    <string name="contact_address">Адрес</string>
+    <string name="contact_birthday">День рождения</string>
+    <string name="contact_note">Заметка</string>
+    <string name="success_message_import_from_account">Импорт завершен</string>
+    <string name="web_url_warning">Сайт QR кода может содержать вредоносные файлы. Для безопасной загрузки сайта используйте MIUI браузер.</string>
+    <string name="web_url_apk_warning">Приложение QR кода может содержать вредоносные ресурсы. Для безопасной загрузки приложения используйте СуперМаркет или Google Play.</string>
 </resources>
