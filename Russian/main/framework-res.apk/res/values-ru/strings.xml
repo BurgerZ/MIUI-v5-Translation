@@ -1051,7 +1051,7 @@
   <string name="selectTextMode">Выбрать текст</string>
   <string name="select_character">Введите символ</string>
   <string name="select_input_method">Выберите способ ввода</string>
-  <string name="select_keyboard_layout_notification_message">Коснитесь для выбора раскладки клавиатуры.</string>
+  <string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры</string>
   <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
   <string name="sendText">Выберите действие для текста</string>
   <string name="sending">Отправка...</string>
@@ -1259,7 +1259,7 @@
   <string name="permdesc_updateLock">Позволяет приложению предоставлять информацию об обновлении.</string>
   <string name="lockscreen_sim_error_message">SIM-карта недействительна</string>
   <string name="permlab_serialPort">Последовательные порты</string>
-  <string name="keyguard_password_entry_touch_hint">Коснитесь, чтобы ввести пароль</string>
+  <string name="keyguard_password_entry_touch_hint">Ввести пароль</string>
   <string name="granularity_label_link">ссылка</string>
   <string name="stkCcUssdToSs">USSD запрос изменен на SS запрос</string>
   <string name="granularity_label_line">линия</string>
