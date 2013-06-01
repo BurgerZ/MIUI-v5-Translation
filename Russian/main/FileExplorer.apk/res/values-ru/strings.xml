@@ -165,7 +165,7 @@
 	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="paused">Пауза</string>
 	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите...</string>
-	<string name="rename_description">Переименовывается···</string>
+	<string name="rename_description">Переименовывается...</string>
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
 	<string name="scanning" formatted="false">Сканирование %d из %d...</string>
 	<string name="sd_card_available">Свободно: %1$s</string>
