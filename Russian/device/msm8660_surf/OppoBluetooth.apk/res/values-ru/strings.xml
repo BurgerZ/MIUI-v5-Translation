@@ -74,9 +74,7 @@
   <string name="incoming_file_confirm_Notification_caption">Please confirm you want to receive this file</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth share: Incoming file</string>
   <string name="incoming_file_confirm_cancel">Decline</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" wants to send you %2$s (%3$s). 
-
- Accept the file?"</string>
+  <string name="incoming_file_confirm_content">"\"%1$s\" wants to send you %2$s (%3$s). Accept the file?"</string>
   <string name="incoming_file_confirm_ok">Accept</string>
   <string name="incoming_file_confirm_timeout_content">There was a timeout while accepting an incoming file from \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">Ok</string>
@@ -86,8 +84,7 @@
   <string name="localPhoneName">My name</string>
   <string name="no_transfers">Transfer history is empty.</string>
   <string name="not_exist_file">File does not exist</string>
-  <string name="not_exist_file_desc">"The file does not exist! 
-"</string>
+  <string name="not_exist_file_desc">"The file does not exist!"</string>
   <string name="noti_caption">%1$s successful, %2$s failed.</string>
   <string name="notification_received">Bluetooth share: Received %1$s</string>
   <string name="notification_received_complete">100% complete</string>
@@ -139,8 +136,7 @@
   <string name="unknownNumber">Unknown</string>
   <string name="unknown_device">Unknown device</string>
   <string name="unknown_file">Unknown file</string>
-  <string name="unknown_file_desc">"There is no application to handle this file type. 
-"</string>
+  <string name="unknown_file_desc">"There is no application to handle this file type."</string>
   <string name="update_record">Confirm record</string>
   <string name="upload_fail">Bluetooth share: All files are not sent successfully!</string>
   <string name="upload_fail_cancel">Close</string>
