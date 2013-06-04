@@ -27,10 +27,10 @@
 	<string name="menu_wh_item_full_screen_label">На весь экран</string>
 	<string name="menu_wh_item_using_16_9_label">Формат 16:9</string>
 	<string name="menu_wh_item_using_4_3_label">Формат 4:3</string>
-	<string name="nowifi_alert_dialog_continue">继续</string>
-	<string name="nowifi_alert_dialog_exit">退出</string>
-	<string name="nowifi_alert_dialog_message">您在使用收费网络播放视频，是否继续？</string>
-	<string name="nowifi_alert_dialog_title">流量提示</string>
+	<string name="nowifi_alert_dialog_continue">ОК</string>
+	<string name="nowifi_alert_dialog_exit">Отмена</string>
+	<string name="nowifi_alert_dialog_message">Wi-fi сеть недоступна. \nПродолжить воспроизведение через мобильный интернет?</string>
+	<string name="nowifi_alert_dialog_title">Предупреждение</string>
 	<string name="temp_play_history_button_label">История плеера</string>
 	<string name="to_be_play_label_v5">Воспроизведение</string>
 	<string name="toast_back_key_pressed_notice">Нажмите \"Назад\" еще раз для выхода</string>

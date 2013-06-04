@@ -387,6 +387,15 @@
 	<string name="bluetooth_visibility">Видимость</string>
 	<string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
 	<string name="bluetooth_visibility_timeout_summary">Укажите, в течение какого времени устройство будет видимым</string>
+	<string name="bluetooth_dun_connection_permission_request">Dun: запрос на подключение</string>
+	<string name="bluetooth_ftp_acceptance_dialog_text">%1$s хочет получить доступ к вашим файлам. Разрешить доступ %2$s?</string>
+	<string name="bluetooth_ftp_connection_permission_request">Ftp: запрос на подключение</string>
+	<string name="bluetooth_map_connection_permission_request">Map: запрос на подключение</string>
+	<string name="bluetooth_mas_acceptance_dialog_text">%1$s хочет получить доступ к вашим сообщениям. Разрешить доступ %2$s?</string>
+	<string name="bluetooth_mas_request">Запрос доступа к сообщениям</string>
+	<string name="bluetooth_pbap_connection_permission_request">Pbap: запрос на подключение</string>
+	<string name="bluetooth_sap_acceptance_dialog_text">%1$s хочет получить доступ к вашей SIM карте. Разрешить доступ %2$s?</string>
+	<string name="bluetooth_sap_connection_permission_request">Sap: запрос на подключение</string>
 	<string name="breathing_light_color_summary">Цвет светодиода для уведомлений</string>
 	<string name="breathing_light_color_title">" (цвет)"</string>
 	<string name="breathing_light_freq_summary">Интервал мигания светодиода</string>
@@ -1556,6 +1565,8 @@
 	<string name="show_touches">Показывать нажатия</string>
 	<string name="show_touches_summary">Показывать графический ключ разблокировки экрана</string>
 	<string name="silent_mode_title">Режим \"Без звука\"</string>
+	<string name="sim_pin_disabled">PIN1 выключен!</string>
+	<string name="sim_pin_enabled">PIN1 включен!</string>
 	<string name="sim_bad_pin">Неверный PIN-код</string>
 	<string name="sim_change_failed">Не удается изменить PIN.\nВозможно, код введен неверно</string>
 	<string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN.\nВключите блокировку SIM.</string>
@@ -1609,7 +1620,7 @@
 	<string name="status_awake_time">Время работы</string>
 	<string name="status_bar_settings">Панель состояния</string>
 	<string name="status_bt_address">Адрес Bluetooth</string>
-	<string name="status_data_state">Передача данных в моб. сети</string>
+	<string name="status_data_state">Мобильная передача данных</string>
 	<string name="status_icc_id">ICCID</string>
 	<string name="status_imei">IMEI</string>
 	<string name="status_imei_sv">IMEI SV</string>
@@ -1622,7 +1633,7 @@
 	<string name="status_prl_version">Версия PRL</string>
 	<string name="status_roaming">Роуминг</string>
 	<string name="status_serial_number">Серийный номер</string>
-	<string name="status_service_state">Доступность моб. сети</string>
+	<string name="status_service_state">Статус сети</string>
 	<string name="status_signal_strength">Уровень сигнала</string>
 	<string name="status_unavailable">Недоступно</string>
 	<string name="status_up_time">Время с момента включения</string>

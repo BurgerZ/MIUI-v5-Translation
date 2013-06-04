@@ -65,9 +65,9 @@
 	<string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
 	<string name="account_setup_account_type_pop_action">POP3</string>
 	<string name="account_setup_account_type_title">Тип аккаунта</string>
-	<string name="account_setup_basic_description_label">Имя акаунта (опционально)</string>
+	<string name="account_setup_basic_description_label">Имя акаунта (по желанию)</string>
 	<string name="account_setup_basic_label">Пожалуйста, заполните информацию для %s почтового ящика :</string>
-	<string name="account_setup_basic_name_label">Ваше имя (опционально)</string>
+	<string name="account_setup_basic_name_label">Ваше имя (по желанию)</string>
 	<string name="account_setup_basics_default_label">Сделать аккаунтом по умолчанию для отправки сообщений</string>
 	<string name="account_setup_basics_email_label">Адрес электронной почты</string>
 	<string name="account_setup_basics_exchange_title">Добавление аккаунта Exchange</string>

@@ -64,5 +64,5 @@
 	<string name="storage_is_full">Память заполнена</string>
 	<string name="unknown_caller">Неизвестный вызов</string>
 	<string name="preference_record_type_title">Формат записи</string>
-    	<string name="preference_record_type_dialog_title">Выберите формат записи</string>
+	<string name="preference_record_type_dialog_title">Выберите формат записи</string>
 </resources>

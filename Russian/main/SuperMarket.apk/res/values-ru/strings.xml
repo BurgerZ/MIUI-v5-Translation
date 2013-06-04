@@ -181,4 +181,5 @@
 	<string name="verifying">Проверка на вирусы...</string>
 	<string name="version_label">Версия：</string>
 	<string name="version_name">Версия: %1$s</string>
+	<string name="loading_comment_list">Загрузка комментариев...</string>
 </resources>

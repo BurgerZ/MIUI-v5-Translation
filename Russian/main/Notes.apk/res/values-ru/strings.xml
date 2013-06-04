@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
+	<string name="alert_action_edit_anyway">Продолжить</string>
 	<string name="alert_edit_action_delete">Удалить</string>
 	<string name="alert_edit_action_update">Изменить</string>
 	<string name="alert_message_delete_folders">Удалить выбранные папки?\n\nПапок: %1$s</string>
@@ -8,8 +9,10 @@
 	<string name="alert_message_delete_note">Удалить заметку?</string>
 	<string name="alert_message_delete_notes">Удалить выбранные заметки?\n\nЗаметок: %1$s</string>
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
+	<string name="alert_message_edit_anyway">Заметка содержит неизвестные ресурсы, редактирование может привести к потере данных.</string>
 	<string name="alert_title_delete">Удаление</string>
 	<string name="alert_title_discard">Отмена</string>
+	<string name="alert_title_edit_anyway">Отредактировать заметку?</string>
 	<string name="app_name">Заметки</string>
 	<string name="app_widget">Заметки</string>
 	<string name="attachment_camera">Камера</string>
@@ -26,6 +29,7 @@
 	<string name="error_note_not_exist">Заметка отсутствует</string>
 	<string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту!</string>
 	<string name="error_sdcard_unmounted">Экспорт не удался, т.к. SD-карта недоступна!</string>
+	<string name="error_unsupport_content">Заметка содержит неизвестные ресурсы, нажмите для обновления.</string>
 	<string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
 	<string name="failed_sdcard_export">Экспорт прерван!</string>
 	<string name="folder_exist">Папка %1$s уже существует, введите другое имя</string>
