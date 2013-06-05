@@ -23,7 +23,7 @@
 	<string name="cancel_download_buton_text">Отмена</string>
 	<string name="check_update">Проверить обновление</string>
 	<string name="check_update_policy">Параметры обновления</string>
-	<string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
+	<string name="check_update_when_wifi_available">Обновления только по Wi-Fi</string>
 	<string name="checking_for_updates">Проверка обновлений</string>
 	<string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
 	<string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>

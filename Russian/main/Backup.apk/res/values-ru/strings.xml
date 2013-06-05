@@ -11,7 +11,7 @@
 	<string name="auto_backup_choose_empty">Нет резервных копий</string>
 	<string name="auto_backup_choose_title">Настройка автоматического резервного копирования</string>
 	<string name="auto_backup_date">Частота копирования</string>
-	<string name="auto_backup_only_wifi">Только через Wi-Fi</string>
+	<string name="auto_backup_only_wifi">Только по Wi-Fi</string>
 	<string name="auto_backup_open">Автокопирование</string>
 	<string name="auto_backup_progress">Создание авто-бэкапа, пожалуйста подождите...</string>
 	<string name="auto_backup_select_user_apps">Выбор приложений</string>
