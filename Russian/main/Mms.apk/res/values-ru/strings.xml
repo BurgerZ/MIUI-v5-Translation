@@ -6,8 +6,8 @@
 	<string name="add_contact">Контакт</string>
 	<string name="add_festival">Поздравления</string>
 	<string name="add_music">Добавить музыку</string>
-	<string name="add_nickname">Псевдоним</string>
-	<string name="add_nickname_title">Добавить псевдоним</string>
+	<string name="add_nickname">Ник</string>
+	<string name="add_nickname_title">Добавить ник</string>
 	<string name="add_number_to_sender">Добавить номер в %s</string>
 	<string name="add_picture">Добавить картинку</string>
 	<string name="add_private_contact">Добавить контакт</string>
@@ -103,12 +103,12 @@
 	<string name="duration_selector_title">"Продолжительность показа слайда "</string>
 	<string name="duration_zero">Значение должно быть больше нуля.</string>
 	<string name="edit">Изменить</string>
-	<string name="edit_nickname_for_nocontact">Нет получателей. Добавьте хотя бы одного получателя, для изменения псевдонима.</string>
-	<string name="edit_nickname_for_nocontact_by_robot">Добавьте хотя бы одного получателя, для изменения псевдонима.</string>
+	<string name="edit_nickname_for_nocontact">Нет получателей. Добавьте получателя для изменения ника.</string>
+	<string name="edit_nickname_for_nocontact_by_robot">Добавьте получателя для изменения ника.</string>
 	<string name="edit_phrase">Изменить шаблон</string>
 	<string name="edit_slide_activity">Изменить слайд</string>
 	<string name="edit_slideshow_activity">Изменить слайд-шоу</string>
-	<string name="enable_password_protect">Защита графич. ключом</string>
+	<string name="enable_password_protect">Графический ключ</string>
 	<string name="enable_visible_pattern_title">Видимый ключ</string>
 	<string name="enter_edit_mode">Удалить</string>
 	<string name="error_code_label">"Код ошибки: "</string>

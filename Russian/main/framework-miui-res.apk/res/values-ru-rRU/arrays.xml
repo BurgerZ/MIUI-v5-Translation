@@ -73,4 +73,17 @@
         <item>Будильник зазвонит через %2$s и %3$s</item>
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
     </string-array>
+	<string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Ник</item>
+        <item>Телефон</item>
+        <item>Почта</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>День рождения</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Заметка</item>
+    </string-array>
 </resources>

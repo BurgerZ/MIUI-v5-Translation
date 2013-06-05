@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="group_add_success_toast">
-        <item quantity="other">Успешно добавлено %1$d контактов</item>
-        <item quantity="one">Успешно добавлен %1$d контакт</item>
+        <item quantity="other">Добавлено контактов: %1$d</item>
+        <item quantity="one">Добавлено контактов: %1$d</item>
      </plurals>
      <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Номеров: %1$d</item>
@@ -38,7 +38,7 @@
      </plurals>
      <plurals name="num_groups_in_account">
         <item quantity="other">Групп: %0$d</item>
-        <item quantity="one">Одна группа</item>
+        <item quantity="one">Групп: 1</item>
      </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>

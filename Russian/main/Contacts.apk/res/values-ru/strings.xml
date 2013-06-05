@@ -39,7 +39,7 @@
 	<string name="batch_delete_msg">Удалить выбранные контакты? \n\nКонтактов: %d \n\nЕсли вы используете облачное хранилище, то данные контактов будут также удалены с сервера.</string>
 	<string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
 	<string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
-	<string name="btn_delete_multi_contacts">Удалить %d контактов</string>
+	<string name="btn_delete_multi_contacts">Удалить контакты: %d</string>
 	<string name="btn_delete_one_contact">Удалить контакт</string>
 	<string name="btn_rotation">Повернуть</string>
 	<string name="btn_split_contact">Разделить контакт</string>
@@ -374,7 +374,7 @@
 	<string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
 	<string name="hint_search_contacts">Контактов: %d</string>
 	<string name="hint_search_emails">Адресов эл. почты: %d</string>
-	<string name="hint_search_phone_numbers">Телефонов: %d</string>
+	<string name="hint_search_phone_numbers">Контактов: %d</string>
 	<string name="ic_menu_back">Назад</string>
 	<string name="ic_menu_done">Готово</string>
 	<string name="imLabelsGroup">Чат</string>
@@ -511,8 +511,8 @@
 	<string name="next">Далее</string>
 	<string name="next_birthday">Следующий День рождения: %s</string>
 	<string name="nfc_vcard_file_name">Получено по NFC</string>
-	<string name="nicknameLabelsGroup">Псевдоним</string>
-	<string name="nickname_editor_title">Изменить псевдоним</string>
+	<string name="nicknameLabelsGroup">Ник</string>
+	<string name="nickname_editor_title">Изменить ник</string>
 	<string name="nickname_picker_name_column">Имя контакта</string>
 	<string name="nickname_picker_nickname_column">Имя</string>
 	<string name="noAccounts">Для создания групп нужен аккаунт</string>
