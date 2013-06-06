@@ -159,7 +159,7 @@
 	<string name="file_name">Имя файла</string>
 	<string name="file_picker">Обзор</string>
 	<string name="file_picker_new_folder">Новая папка</string>
-	<string name="file_picker_sdcard_not_found">SD-карта не обнаружена, пожалуйста проверьте устройство.</string>
+	<string name="file_picker_sdcard_not_found">SD-карта не подключена</string>
 	<string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
 	<string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены.</string>
 	<string name="find_on_page">Найти на странице</string>
@@ -260,7 +260,7 @@
 	<string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
 	<string name="pref_autofill_profile_editor">Текст автозаполнения</string>
 	<string name="pref_autofill_profile_editor_summary">Настроить текст для автозаполнения веб-форм</string>
-	<string name="pref_autologin_progress">Вход в Сайты Google с помощью аккаунта %s</string>
+	<string name="pref_autologin_progress">Вход в сайты Google с помощью аккаунта %s</string>
 	<string name="pref_autologin_title">Автоматический вход в систему</string>
 	<string name="pref_clear_cache_for_exit">Очищать кэш</string>
 	<string name="pref_clear_history_for_exit">Очищать историю</string>
@@ -303,7 +303,7 @@
 	<string name="pref_development_trace">Включить трассировку</string>
 	<string name="pref_development_viewport">Широкий экран</string>
 	<string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
-	<string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать вкладки при выходе из браузера. Снимите галочку, чтобы начинать с домашней страницы</string>
+	<string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать вкладки при выходе из браузера. Снимите галочку, чтобы начинать с домашней страницы.</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
 	<string name="pref_extras_reset_default">Сброс настроек</string>
 	<string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
@@ -382,9 +382,9 @@
 	<string name="pref_ua_string">Агент пользователя</string>
 	<string name="pref_ua_title">Настройки UserAgent</string>
 	<string name="pref_use_instant_search">Google Живой поиск</string>
-	<string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
+	<string name="pref_use_instant_search_summary">В живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
 	<string name="pref_video_preload_dialogtitle">Загрузка видео</string>
-	<string name="pref_video_preload_summary">\nРазрешить браузеру предварительно загружать видео файлы, если это возможно</string>
+	<string name="pref_video_preload_summary">\nРазрешить браузеру предварительно загружать видео файлы.</string>
 	<string name="pref_video_preload_title">Загрузка видео</string>
 	<string name="pref_volume_key_enabled">Клавиши громкости</string>
 	<string name="pref_volume_key_operation">Функция клавиш громкости</string>
@@ -408,7 +408,7 @@
 	<string name="return_to_homepage">Домашняя страница</string>
 	<string name="save">ОК</string>
 	<string name="save_dialog_title">Сохранить</string>
-	<string name="save_file_already_exist_alert_message">Файл уже существует, перезаписать его?</string>
+	<string name="save_file_already_exist_alert_message">Файл уже существует. \nПерезаписать его?</string>
 	<string name="save_file_already_exist_alert_title">Внимание</string>
 	<string name="save_to_bookmarks">Добавить закладку</string>
 	<string name="saving_snapshot">Сохраняется...</string>
@@ -458,7 +458,7 @@
 	<string name="tab_most_visited">Часто посещаемые</string>
 	<string name="tab_opened_background">Вкладка открыта в фоне</string>
 	<string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
-	<string name="tab_quicklinks">Быстрые закладки</string>
+	<string name="tab_quicklinks">Ссылки</string>
 	<string name="tab_snapshots">Сохраненные страницы</string>
 	<string name="tab_yellowpage">Категории</string>
 	<string name="title_bar_loading">Загрузка...</string>
