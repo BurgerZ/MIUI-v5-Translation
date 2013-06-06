@@ -1456,7 +1456,7 @@
 	<string name="sd_card_settings_label">SD-карта</string>
 	<string name="sd_card_storage">SD-карта</string>
 	<string name="sd_eject">Безопасное извлечение</string>
-	<string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
+	<string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства.</string>
 	<string name="sd_ejecting_summary">Выполняется извлечение</string>
 	<string name="sd_ejecting_title">Извлечение</string>
 	<string name="sd_format">Очистить SD-карту</string>

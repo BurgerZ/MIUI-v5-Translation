@@ -43,8 +43,8 @@
 	<string name="cant_delete_system_album">%s - это системный альбом, его удалить нельзя!</string>
 	<string name="cleaning_cache">Очистка кэша...</string>
 	<string name="clear_thumbnail_cache">Очистить кэш</string>
-	<string name="clear_thumbnail_cache_confirm">Кеш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>
-	<string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
+	<string name="clear_thumbnail_cache_confirm">Кэш эскизов будет очищен. \nГалерея пересканирует медиа файлы и заново создаст экскизы. \nПродолжить?</string>
+	<string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее.</string>
 	<string name="click_to_enter_camera">Открыть камеру</string>
 	<string name="close">Закрыть</string>
 	<string name="cloud_album_more_settings">Облачные альбомы</string>
