@@ -56,7 +56,7 @@
 	<string name="paused_by_app">Приостановлено</string>
 	<string name="paused_queued_for_wifi">Ожидание Wi-Fi</string>
 	<string name="paused_unknown">Остановлено</string>
-	<string name="paused_waiting_for_network">Ожидание сетевого подключения</string>
+	<string name="paused_waiting_for_network">Ожидание Wi-Fi</string>
 	<string name="paused_waiting_to_retry">Ожидание повтора</string>
 	<string name="pref_dialog_title_max_bytes_limit">Превышение размера файла</string>
 	<string name="pref_download_settings_title">Предупреждение о лимите</string>
