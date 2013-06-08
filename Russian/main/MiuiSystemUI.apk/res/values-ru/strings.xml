@@ -186,8 +186,8 @@
 	<string name="settings_toggle_layout_style_compact">Строка</string>
 	<string name="settings_toggle_layout_style_single_page">Сетка</string>
 	<string name="settings_toggle_position">Расположение переключателей</string>
-	<string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
-	<string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
+	<string name="settings_toggle_position_divider_list">Переключатели выше - отображаются</string>
+	<string name="settings_toggle_position_divider_page">%1$d переключателей выше - отображаются</string>
 	<string name="settings_toggle_position_reset">Сброс переключателей</string>
 	<string name="share">Поделиться</string>
 	<string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>

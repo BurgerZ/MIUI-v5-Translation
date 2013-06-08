@@ -17,7 +17,7 @@
     <string name="confirm_change_mode_title">Переключить режим</string>
     <string name="confirm_change_to_expert_mode_message">Переключить камеру в профессиональный режим?</string>
     <string name="confirm_change_to_simple_mode_message">Переключить камеру в обычный режим?</string>
-    <string name="confirm_location_message">Телефон Xiaomi может сохранять ваше местоположение, включить данную опцию?</string>
+    <string name="confirm_location_message">Сохранять ваше местоположение на фото?</string>
 	<string name="save">Сохранить</string>
     <string name="no_save">Не сохранять</string>
     <string name="open">Включить</string>
