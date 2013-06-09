@@ -27,7 +27,6 @@
 	<string name="clean_message">Удаление %1$s</string>
 	<string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
 	<string name="clean_trash_box">Очистить корзину</string>
-	<string name="clear_cache">Очистить кэш</string>
 	<string name="close">Закрыть</string>
 	<string name="compress_message">Имя архива:</string>
 	<string name="compress_fail">Ошибка сжатия. Такое имя уже существует.</string>
@@ -35,6 +34,7 @@
 	<string name="confirm">OК</string>
 	<string name="confirm_know">OK</string>
 	<string name="copy_failed">Ошибка копирования</string>
+	<string name="create_kuaipan_shortcut_pref">Ярлык на рабочий стол</string>
 	<string name="create_new_folder_desctiption">Создание папки...</string>
 	<string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
 	<string name="create_share_link_description">Создание ссылки...</string>
@@ -64,6 +64,7 @@
 	<string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
 	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
 	<string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует.</string>
+	<string name="fail_to_create_folder_unknown">Не удается создать папку. Неизвестная ошибка.</string>
 	<string name="fail_to_rename">Не удалось переименовать файл или папку, имя уже существует.</string>
 	<string name="error_filename_too_long">Имя файла слишком длинное</string>
 	<string name="favorite_photo">Фотография</string>
@@ -100,7 +101,6 @@
 	<string name="kuaipan_tech_support">Техническая поддержка: Kingsoft KuaiPan</string>
 	<string name="load_err">Ошибка загрузки</string>
 	<string name="loading">Загрузка...</string>
-	<string name="local_cache">Локальный кэш</string>
 	<string name="local_cache_size">Размер локального кэша: %s</string>
 	<string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
 	<string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
@@ -242,14 +242,19 @@
 	<string name="data_size_label">Данные</string>
 	<string name="directory_info_divider">"  |  "</string>
 	<string name="directory_no_item">пусто</string>
+	<string name="dlg_error_unmount_text">Невозможно отключить USB-хранилище. Попробуйте позже.</string>
 	<string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
 	<string name="empty_dir_cleanup_indication">%s пустые папки</string>
 	<string name="empty_dir_title">Пустые папки</string>
 	<string name="garbage_size_metric">"%s \nМусор"</string>
 	<string name="item_name">Без имени</string>
+	<string name="kuaipan_label">Kuaipan</string>
 	<string name="no_app_cache_indication">Нет кэша приложений</string>
 	<string name="no_app_garbage_indication">Нет мусора от приложений</string>
 	<string name="no_empty_dir_indication">Нет пустых папок</string>
+	<string name="no_enough_space">Недостаточно памяти</string>
+	<string name="no_enough_storage_indication">Не хватает свободной памяти для вставки файла. \nУдалите ненужные файлы и попробуйте снова.</string>
+	<string name="no_enough_storage_title">Недостаточно памяти</string>
 	<string name="no_temp_file_indication">Нет временных файлов</string>
 	<string name="no_thumbnail_indication">Нет эскизов изображений</string>
 	<string name="open_changed_file_message">Файл, который вы пытаетесь открыть был изменен, вы можете:\n1. Скачать (обновить локальный файл)\n2. Загрузить (обновить файл в облаке)</string>
@@ -264,6 +269,7 @@
 	<string name="thumbnail_cleanup_indication">%s эскизы</string>
 	<string name="thumbnail_title">Эскизы изображений</string>
 	<string name="uninstall_app_data">Удалить приложение и все данные</string>
+	<string name="unmount_inform_text">USB-хранилище будет отключено.</string>
 	<string name="version_text">Версия %1$s</string>
 	<string name="waiting_for_cleaning">Ожидание очистки</string>
 	<string name="waiting_for_scanning">Ожидание сканирования</string>

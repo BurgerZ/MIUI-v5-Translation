@@ -36,7 +36,7 @@
 	<string name="answer_widget_sliding_horizontal_miui">Горизонтальный слайд</string>
 	<string name="answer_widget_sliding_vertical_miui">Вертикальный слайд</string>
 	<string name="answer_widget_title_miui">Жест ответа</string>
-	<string name="antispam_marked_count">Отмечено контактов: %1$d</string>
+	<string name="antispam_marked_count">Отклонено: %1$d</string>
 	<string name="antispam_marked_title">%1$s</string>
 	<string name="antispam_notification_title">Определен неизвестный номер</string>
 	<string name="apn_settings">Точки доступа</string>
