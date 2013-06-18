@@ -166,11 +166,11 @@
 	<string name="remove_package_timeout_fail">Ошибка установки %1$s: удаление старой версии не удалось, удалите вручную</string>
 	<string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
 	<string name="result_of_clear_history">История поиска успешно очищена</string>
-	<string name="search_local_app_text_hint">Search apps in %1$d installed</string>
+	<string name="search_local_app_text_hint">Поиск в приложениях: %1$d</string>
 	<string name="search_not_found">\"%1$s\" не найдено</string>
-	<string name="search_other_market">Поиск другого маркета</string>
+	<string name="search_other_market">Поиск других приложений</string>
 	<string name="share_button">Поделиться</string>
-	<string name="share_subject">Отправить： %1$s</string>
+	<string name="share_subject">Отправить: %1$s</string>
 	<string name="share_text">Вот приложение, которое я думаю, тебе может понравиться: %1$s，вот ссылка ：%2$s</string>
 	<string name="show_all_local_app">Показать все</string>
 	<string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
@@ -183,7 +183,7 @@
 	<string name="update_date_label">Загружен：</string>
 	<string name="update_info">Изменения</string>
 	<string name="verifying">Проверка на вирусы...</string>
-	<string name="version_label">Версия：</string>
+	<string name="version_label">Версия:</string>
 	<string name="version_name">Версия: %1$s</string>
 	<string name="loading_comment_list">Загрузка комментариев...</string>
 </resources>
