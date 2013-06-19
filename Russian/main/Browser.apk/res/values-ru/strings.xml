@@ -39,6 +39,8 @@
 	<string name="added_to_bookmarks">Добавлено в закладки</string>
 	<string name="alert_tips">Этот сайт может содержать вредоносные ресурсы, будьте осторожны!</string>
 	<string name="allow">Разрешить</string>
+	<string name="app_new_version">Загрузка завершена. Последняя версия приложения установлена.</string>
+	<string name="app_update_install">Загрузка завершена. Обновление готово к установке.</string>
 	<string name="application_name">Браузер</string>
 	<string name="autofill_profile_editor_address_line_1">Адресная строка 1:</string>
 	<string name="autofill_profile_editor_address_line_1_hint">Адрес, почтовый ящик, адрес до востребования</string>
@@ -99,6 +101,7 @@
 	<string name="clear">Очистить</string>
 	<string name="clear_history">Очистить историю</string>
 	<string name="clear_history_group">Очистить всю историю</string>
+	<string name="clip_dialog_title">Открыть скопированную ссылку?</string>
 	<string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
 	<string name="close_all_tab_alert_title">Подтверждение закрытия</string>
 	<string name="containing_folder">Добавить в</string>
@@ -130,6 +133,8 @@
 	<string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
 	<string name="disable_autofill">Отключить автозаполнение</string>
 	<string name="do_not_save">Отмена</string>
+	<string name="download_complete">Загрузка файла завершена</string>
+	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
 	<string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
 	<string name="download_pending">Начинается загрузка...</string>
@@ -278,12 +283,14 @@
 	<string name="pref_content_open_in_background">Фоновый режим</string>
 	<string name="pref_content_open_in_background_summary">Открывать новые вкладки перед текущей</string>
 	<string name="pref_content_plugins">Разрешить плагины</string>
+	<string name="pref_content_preload_title">Предварительная загрузка</string>
 	<string name="pref_content_search_engine">Поисковая система</string>
 	<string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
 	<string name="pref_content_title">Содержание страницы</string>
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
 	<string name="pref_data_preload_summary">\nРазрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
+	<string name="pref_data_preload_value_never_summary">Запрещать браузеру предварительно загружать результаты поиска в фоновом режиме.</string>
 	<string name="pref_data_title">Настройки контента</string>
 	<string name="pref_default_text_encoding">Кодировка текста</string>
 	<string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
@@ -324,6 +331,13 @@
 	<string name="pref_general_sync_title">Синхронизация</string>
 	<string name="pref_general_title">Общие</string>
 	<string name="pref_gesture_title">Жесты</string>
+	<string name="pref_image_display_control">Отображение изображений</string>
+	<string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
+	<string name="pref_images_preload_summary">" Разрешить браузеру предварительно загружать изображения, если позволяет сервер."</string>
+	<string name="pref_images_preload_title">Предзагрузка изображений</string>
+	<string name="pref_images_preload_value_always_summary">Всегда разрешать браузеру предварительно загружать изображения, если позволяет сервер.</string>
+	<string name="pref_images_preload_value_never_summary">Никогда не разрешать браузеру предварительно загружать изображения, если позволяет сервер.</string>
+	<string name="pref_images_preload_value_wifi_only_summary">Разрешать браузеру предварительно загружать изображения, если позволяет сервер (умный режим).</string>
 	<string name="pref_inverted">Инверсия</string>
 	<string name="pref_inverted_category">Режим инверсии</string>
 	<string name="pref_inverted_contrast">Контраст</string>
@@ -336,8 +350,9 @@
 	<string name="pref_lab_quick_controls_summary">Чтобы открыть панель инструментов, начните перелистывать страницу справа или слева</string>
 	<string name="pref_lab_title">Лаборатория Google</string>
 	<string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
-	<string name="pref_link_prefetch_summary">\nРазрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
+	<string name="pref_link_prefetch_summary">\nРазрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме.</string>
 	<string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
+	<string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме.</string>
 	<string name="pref_min_font_size">Минимальный размер шрифта</string>
 	<string name="pref_min_font_size_value">%d pt</string>
 	<string name="pref_privacy_clear_cache">Очистить кэш</string>
@@ -386,6 +401,7 @@
 	<string name="pref_video_preload_dialogtitle">Загрузка видео</string>
 	<string name="pref_video_preload_summary">\nРазрешить браузеру предварительно загружать видео файлы.</string>
 	<string name="pref_video_preload_title">Загрузка видео</string>
+	<string name="pref_video_preload_value_never_summary">Запрещать браузеру предварительно загружать видео, если позволяет сервер.</string>
 	<string name="pref_volume_key_enabled">Клавиши громкости</string>
 	<string name="pref_volume_key_operation">Функция клавиш громкости</string>
 	<string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>

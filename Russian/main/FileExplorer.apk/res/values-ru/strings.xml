@@ -236,6 +236,8 @@
 	<string name="app_garbage_path">Путь:</string>
 	<string name="app_garbage_title">Мусор от приложений</string>
 	<string name="application_size_label">Приложение</string>
+	<string name="big5_summary">Стандартная кодировка в традиционной китайской системе Windows.</string>
+	<string name="big5_title">BIG5</string>
 	<string name="cancel_app_garbage_cleanup">Не очищать</string>
 	<string name="clean_app_garbage">Очистить мусор (%d)</string>
 	<string name="cleanup_complete">Готово</string>
