@@ -91,7 +91,7 @@
 	<string name="ftp_transfer_secure">Защищенная FTP-передача</string>
 	<string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
 	<string name="ftp_username_hint">Имя пользователя</string>
-	<string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке.</string>
+	<string name="gbk_summary">Стандартная кодировка в упрощённой китайской версии Windows.</string>
 	<string name="gbk_title">GBK</string>
 	<string name="instruction">Адрес синхронизации:</string>
 	<string name="instruction_pre">Обмен файлами с компьютером по FTP через сеть Wi-Fi</string>
@@ -236,7 +236,7 @@
 	<string name="app_garbage_path">Путь:</string>
 	<string name="app_garbage_title">Мусор от приложений</string>
 	<string name="application_size_label">Приложение</string>
-	<string name="big5_summary">Стандартная кодировка в традиционной китайской системе Windows.</string>
+	<string name="big5_summary">Стандартная кодировка в традиционной китайской версии Windows.</string>
 	<string name="big5_title">BIG5</string>
 	<string name="cancel_app_garbage_cleanup">Не очищать</string>
 	<string name="clean_app_garbage">Очистить мусор (%d)</string>

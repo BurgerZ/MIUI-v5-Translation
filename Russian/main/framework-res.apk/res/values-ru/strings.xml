@@ -230,7 +230,7 @@
   <string name="emailTypeOther">Другой</string>
   <string name="emailTypeWork">Рабочий</string>
   <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
-  <string name="emergency_calls_only">Только экстренные вызовы</string>
+  <string name="emergency_calls_only">Экстренный режим</string>
   <string name="emptyPhoneNumber">(Нет номера телефона)</string>
   <string name="enable_explore_by_touch_warning_message">"%1$s пытается включить навигацию касанием. Если ее включить, вы сможете видеть описание того, что находится под вашим пальцем"</string>
   <string name="enable_explore_by_touch_warning_title">Включить навигацию касанием?</string>
