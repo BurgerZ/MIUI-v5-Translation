@@ -150,7 +150,7 @@
 	<string name="pref_list_remind_me_after_download">Напомнить после загрузки</string>
 	<string name="pref_title_auto_update_setting">Параметры автообновления</string>
 	<string name="pref_title_clear_search_record">Очистить историю поиска</string>
-	<string name="pref_title_data_save_mode">Экономия трафика</string>
+	<string name="pref_title_data_save_mode">Загрузка изображений</string>
 	<string name="pref_title_silent_install">Тихая установка</string>
 	<string name="pref_title_update_notify_mode">Уведомления обновлений</string>
 	<string name="pref_title_update_onlyby_wifi">Автообновление только по Wi-Fi</string>
