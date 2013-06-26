@@ -72,7 +72,7 @@
 	<string name="preferences_bg_random_appear_title">Случайный цвет</string>
 	<string name="preferences_title">Настройки</string>
 	<string name="search">Заметки</string>
-	<string name="search_hint">Найти заметки</string>
+	<string name="search_hint">Поиск заметок</string>
 	<string name="search_label">Поиск заметок</string>
 	<string name="search_setting_description">Текст в заметках</string>
 	<string name="select_account_prompt">Синхронизация заметок</string>

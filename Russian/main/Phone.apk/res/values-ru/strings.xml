@@ -249,7 +249,8 @@
 	<string name="data_enabled">Передача данных</string>
 	<string name="default_contacts_countrycode_hint_miui">Например: 7</string>
 	<string name="default_contacts_countrycode_miui">Стандартный код страны</string>
-	<string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода страны: %s.</string>
+	<string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода страны: %s</string>
+	<string name="default_notification_description">По умолчанию: %1$s</string>
 	<string name="default_preference_summary">&lt;Не настроено></string>
 	<string name="delete_all_sim_contacts_miui">Удалить все контакты с SIM-карты</string>
 	<string name="delete_fdn_contact">Удалить номер ограниченного набора</string>
@@ -544,6 +545,7 @@
 	<string name="not_connected_miui">Не подключено</string>
 	<string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
 	<string name="notification_action_end_call">Завершить вызов</string>
+	<string name="notification_dialing">Вызов</string>
 	<string name="notification_incoming_call">Входящий вызов</string>
 	<string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
 	<string name="notification_missedCallTitle">Пропущенный вызов</string>
@@ -672,6 +674,7 @@
 	<string name="preferred_network_type_3g_only_warning_miui">Вы выбрали 3G как предпочтительный режим, сигнала может не быть, если ваша SIM-карта не поддерживает 3G! Нажмите OK для продолжения.</string>
 	<string name="preferred_network_type_cdma_miui">CDMA</string>
 	<string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
+	<string name="preferred_network_type_tds_cdma_miui">GSM/TDS-CDMA</string>
 	<string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
 	<string name="preferred_network_type_pref_entries_auto_miui">Автоматически</string>
 	<string name="preferred_network_type_pref_entries_global_miui">Глобально</string>

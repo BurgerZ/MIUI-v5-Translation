@@ -44,7 +44,7 @@
 	<string name="enabling_progress_title">Подождите...</string>
 	<string name="hello">Hello, World! (проверка связи)</string>
 	<string name="inbound_history_title">Входящие передачи</string>
-	<string name="inbound_noti_title">Bluetooth: полученные файлы</string>
+	<string name="inbound_noti_title">Bluetooth: файлы приняты</string>
 	<string name="incoming_file_confirm_Notification_caption">Принять файл?</string>
 	<string name="incoming_file_confirm_Notification_title">Bluetooth: входящий файл</string>
 	<string name="incoming_file_confirm_cancel">Отклонить</string>
@@ -70,7 +70,7 @@
 	<string name="notify_server">Уведомить TCP-сервер</string>
 	<string name="ok_button">ОК</string>
 	<string name="outbound_history_title">Исходящие передачи</string>
-	<string name="outbound_noti_title">Bluetooth: отправленные файлы</string>
+	<string name="outbound_noti_title">Bluetooth: файлы отправлены</string>
 	<string name="pbap_acceptance_timeout_message">Истекло время ожидания при установке подключения к %1$s</string>
 	<string name="pbap_authentication_timeout_message">Истекло время ожидания ввода ключа сеанса для связи с %1$s</string>
 	<string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth</string>

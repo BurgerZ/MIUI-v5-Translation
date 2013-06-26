@@ -27,7 +27,7 @@
 	<string name="failed_to_delete_temporary">Удалить не удалось, повторите попытку позже</string>
 	<string name="failed_to_drop">Перемещение не удалось</string>
 	<string name="failed_to_drop_widget_invalid">Добавляемый виджет является недопустимым</string>
-	<string name="failed_to_drop_widget_nospace">На экране не хватает места</string>
+	<string name="failed_to_drop_widget_nospace">Нет свободного места</string>
 	<string name="folder_name">Папка</string>
 	<string name="frame_load_failed">Не удалось загрузить виджет Фоторамка!</string>
 	<string name="free_style_apps_title">Выберите приложения</string>
