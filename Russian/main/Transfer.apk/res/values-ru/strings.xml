@@ -24,6 +24,7 @@
 	<string name="error_general">Ошибка</string>
 	<string name="error_network">Ошибка сети</string>
 	<string name="error_not_enough_space">Не хватает памяти</string>
+	<string name="error_peer_disconnected">Пиры отключены</string>
 	<string name="error_not_selected">Файл не выбран</string>
 	<string name="error_select">Ошибка передачи. Файл не выбран.</string>
 	<string name="error_transmit">Ошибка обмена</string>
