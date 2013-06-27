@@ -123,8 +123,8 @@
 	<string name="notification_icon_filter">Настройки</string>
 	<string name="notification_icon_filter_hide">Запрещенные приложений</string>
 	<string name="notification_icon_filter_list_empty_summary">Список пуст</string>
-	<string name="notification_icon_filter_menu_item_hide">Скрывать уведомления данного приложения</string>
-	<string name="notification_icon_filter_menu_item_show">Показывать уведомления данного приложения</string>
+	<string name="notification_icon_filter_menu_item_hide">Скрывать уведомление приложения</string>
+	<string name="notification_icon_filter_menu_item_show">Отображать уведомление приложения</string>
 	<string name="notification_icon_filter_mode">Режим контроля</string>
 	<string name="notification_icon_filter_mode_black_list">Черный список</string>
 	<string name="notification_icon_filter_mode_white_list">Белый список</string>
