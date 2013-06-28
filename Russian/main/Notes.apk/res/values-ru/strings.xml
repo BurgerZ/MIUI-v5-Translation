@@ -19,7 +19,7 @@
 	<string name="attachment_contact">Контакт</string>
 	<string name="attachment_gallery">Галерея</string>
 	<string name="button_new_note">Новая заметка</string>
-	<string name="call_record_folder_name">Вызов заметки</string>
+	<string name="call_record_folder_name">Заметки вызова</string>
 	<string name="close">Закрыть</string>
 	<string name="default_folder_name">Заметки</string>
 	<string name="enable_sync">Синхронизация</string>
