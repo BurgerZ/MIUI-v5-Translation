@@ -27,13 +27,17 @@
 	<string name="clean_message">Удаление %1$s</string>
 	<string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
 	<string name="clean_trash_box">Очистить корзину</string>
+	<string name="cleaned">Очищено</string>
+	<string name="cleaning">Очистка...</string>
 	<string name="close">Закрыть</string>
+	<string name="cleanup_stopped">Очистка остановлена</string>
 	<string name="compress_message">Имя архива:</string>
 	<string name="compress_fail">Ошибка сжатия. Такое имя уже существует.</string>
 	<string name="compress_title">Создание архива</string>
 	<string name="confirm">OК</string>
 	<string name="confirm_know">OK</string>
 	<string name="copy_failed">Ошибка копирования</string>
+	<string name="count_down_time">Начало через %d сек.</string>
 	<string name="create_kuaipan_shortcut_pref">Ярлык на рабочий стол</string>
 	<string name="create_new_folder_desctiption">Создание папки...</string>
 	<string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
@@ -70,6 +74,7 @@
 	<string name="favorite_photo">Фотография</string>
 	<string name="favorite_ringtone">Мелодии</string>
 	<string name="favorite_screen_cap">Скриншоты</string>
+	<string name="file_cleanup">Очистка файлов</string>
 	<string name="file_info_canread">Чтение:</string>
 	<string name="file_info_canwrite">Запись:</string>
 	<string name="file_info_ishidden">Скрытый:</string>
@@ -239,6 +244,7 @@
 	<string name="big5_summary">Стандартная кодировка в традиционной китайской версии Windows.</string>
 	<string name="big5_title">BIG5</string>
 	<string name="cancel_app_garbage_cleanup">Не очищать</string>
+	<string name="cancel_with_count_down">Отмена (%d)</string>
 	<string name="clean_app_garbage">Очистить мусор (%d)</string>
 	<string name="cleanup_complete">Готово</string>
 	<string name="data_size_label">Данные</string>
@@ -262,6 +268,7 @@
 	<string name="open_changed_file_message">Файл, который вы пытаетесь открыть был изменен, вы можете:\n1. Скачать (обновить локальный файл)\n2. Загрузить (обновить файл в облаке)</string>
 	<string name="open_changed_file_title">Файл изменен</string>
 	<string name="restart_cleaning">Повтор</string>
+	<string name="scanned">Сканирование завершено</string>
 	<string name="scanning_on_going">Сканирование...</string>
 	<string name="sd_size_label">Хранилище пользователя</string>
 	<string name="sys_size">Всего: %1$s</string>

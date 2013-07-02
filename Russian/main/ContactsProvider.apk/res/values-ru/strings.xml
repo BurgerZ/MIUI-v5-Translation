@@ -3,6 +3,13 @@
 	<string name="app_label">Хранилище контактов</string>
 	<string name="call_log_provider_label">Журнал вызовов</string>
 	<string name="create_contact">Создать новый контакт</string>
+	<string name="debug_dump_database_message">Вы собираетесь создать копию базы данных, которая содержит все данные о контактах, и отправить ее. Не забудьте удалить копию, как только вы успешно скопировали ее с устройства или электронного письма.</string>
+	<string name="debug_dump_delete_button">Удалить сейчас</string>
+	<string name="debug_dump_email_body">Прикрепление - это моя база контактов со всей информацией о контактах.</string>
+	<string name="debug_dump_email_sender_picker">Способ отправки</string>
+	<string name="debug_dump_email_subject">База контактов прикреплена</string>
+	<string name="debug_dump_start_button">Начать</string>
+	<string name="debug_dump_title">Копирование базы контактов</string>
 	<string name="default_directory">Контакты</string>
 	<string name="edit_contact">Добавить к контакту</string>
 	<string name="local_invisible_directory">Прочее</string>

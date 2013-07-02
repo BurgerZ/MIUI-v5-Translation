@@ -9,7 +9,7 @@
 	<string name="add_nickname">Ник</string>
 	<string name="add_nickname_title">Добавить ник</string>
 	<string name="add_number_to_sender">Добавить номер в %s</string>
-	<string name="add_picture">Добавить картинку</string>
+	<string name="add_picture">Изображение</string>
 	<string name="add_private_contact">Добавить контакт</string>
 	<string name="add_slide">Добавить слайд</string>
 	<string name="add_slide_hint">Нажмите, чтобы добавить</string>
@@ -396,7 +396,7 @@
 	<string name="type_audio">Аудиозапись</string>
 	<string name="type_picture">Изображение</string>
 	<string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
-	<string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
+	<string name="type_to_compose_text_or_leave_blank">Введите сообщение</string>
 	<string name="type_video">Видеозапись</string>
 	<string name="undelivered_msg_dialog_body">Не удалось отправить сообщение.\nПопыток: %s.</string>
 	<string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
