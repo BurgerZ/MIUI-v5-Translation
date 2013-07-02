@@ -454,10 +454,8 @@
 	<string name="menu_bar_group_add">Добавить</string>
 	<string name="menu_bar_group_delete">Удалить группу</string>
 	<string name="menu_bar_group_rename">Переименовать</string>
-	<string name="menu_bar_group_ringtone">Рингтон группы</string>
 	<string name="menu_bar_group_ringtone">Мелодия группы</string>
 	<string name="menu_bar_group_ringtone_largeui">Мелодия</string>
-	<string name="menu_bar_group_sms">Отправить SMS группе</string>
 	<string name="menu_bar_group_sms">SMS группе</string>
 	<string name="menu_call">Позвонить</string>
 	<string name="menu_callNumber">Вызов: %s</string>
