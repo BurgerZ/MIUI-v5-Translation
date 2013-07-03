@@ -657,7 +657,7 @@
 	<string name="previous">назад</string>
 	<string name="private_num">Скрытый номер</string>
 	<string name="processing">Обработка...</string>
-	<string name="profile_display_name">Настроить профиль</string>
+	<string name="profile_display_name">Мой профиль</string>
 	<string name="profile_name">Мой профиль</string>
 	<string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
 	<string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>

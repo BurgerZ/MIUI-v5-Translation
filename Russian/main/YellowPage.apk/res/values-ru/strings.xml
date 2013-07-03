@@ -32,7 +32,7 @@
     <string name="menu_about_yellow_page">О странице</string>
     <string name="menu_refresh">Обновить</string>
     <string name="custom_mark_category">Своя метка</string>
-    <string name="mark_number_dialog_maintitle">Отметить неизвестный номер</string>
+    <string name="mark_number_dialog_maintitle">Введите метку</string>
     <string name="mark_number_custom_dialog_maintitle">Подтвердить или отредактировать</string>
     <string name="delete">Удалить</string>
     <string name="mark_number_dialog_subtitle">Техническая поддержка: Sogou</string>
