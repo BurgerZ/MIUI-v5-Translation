@@ -37,7 +37,7 @@
 	<string name="confirm">OК</string>
 	<string name="confirm_know">OK</string>
 	<string name="copy_failed">Ошибка копирования</string>
-	<string name="count_down_time">Начало через %d сек.</string>
+	<string name="count_down_time">Отмена (%d)</string>
 	<string name="create_kuaipan_shortcut_pref">Ярлык на рабочий стол</string>
 	<string name="create_new_folder_desctiption">Создание папки...</string>
 	<string name="create_new_folder_failed">Не удалось создать папку %1$s</string>

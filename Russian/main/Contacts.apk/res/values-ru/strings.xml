@@ -31,7 +31,7 @@
 	<string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
 	<string name="all_list_empty">Нет контактов</string>
 	<string name="all_resources">Все</string>
-	<string name="antispam_mark_my_contribution">Мои отметки в антиспаме</string>
+	<string name="antispam_mark_my_contribution">Метка</string>
 	<string name="antispam_provider_format">Техническая поддержка: %s</string>
 	<string name="attach_photo_dialog_title">Фото контакта</string>
 	<string name="audio_chat">Голосовой чат</string>
