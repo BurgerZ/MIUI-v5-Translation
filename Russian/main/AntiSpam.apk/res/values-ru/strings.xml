@@ -77,7 +77,7 @@
 	<string name="fw_end_time">Время окончания</string>
 	<string name="fw_import_blacklist">Добавить в черный список</string>
 	<string name="fw_import_blacklist_confirm">Импортировать номера (%d) в черный список?</string>
-	<string name="fw_import_ms">Импорт контактов и SMS</string>
+	<string name="fw_import_ms">Импорт номеров и сообщений</string>
 	<string name="fw_import_whitelist">Добавить в белый список</string>
 	<string name="fw_import_whitelist_confirm">Импортировать номера (%d) в белый список?</string>
 	<string name="fw_in_blacklist">Номер %s уже существует в черном списке</string>

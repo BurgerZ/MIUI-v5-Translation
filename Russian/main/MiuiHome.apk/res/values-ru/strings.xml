@@ -11,7 +11,7 @@
 	<string name="buffering">Буферизация...</string>
 	<string name="cancel_action">Отмена</string>
 	<string name="cancel_btn_label">Отменить</string>
-	<string name="cant_remove_folder">Удаление невозможно, т.к. папка не пуста</string>
+	<string name="cant_remove_folder">Невозможно удалить папку с приложениями</string>
 	<string name="cant_remove_retained_app">Системное приложение удалить нельзя</string>
 	<string name="cant_remove_system_app">Системное приложение нельзя удалить!</string>
 	<string name="chooser_wallpaper">Выбрать обои из</string>

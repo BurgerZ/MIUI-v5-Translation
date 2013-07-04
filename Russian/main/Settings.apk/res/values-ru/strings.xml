@@ -1661,7 +1661,7 @@
 	<string name="storage_title_usb">USB-подключение к компьютеру</string>
 	<string name="storageuse_settings_summary">Объем памяти, занимаемый приложениями</string>
 	<string name="storageuse_settings_title">Использование памяти</string>
-	<string name="strict_mode">Включен строгий режим</string>
+	<string name="strict_mode">Не выключать экран</string>
 	<string name="strict_mode_summary">Подсвечивать экран во время длительных операций</string>
 	<string name="sum_carrier_select">Выберите оператора связи</string>
 	<string name="supplicant_state_label">Состояние:</string>
