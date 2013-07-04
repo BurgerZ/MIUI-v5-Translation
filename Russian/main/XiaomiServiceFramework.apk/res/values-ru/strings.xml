@@ -282,4 +282,22 @@
 	<string name="voucher_edit_hint">Пароль</string>
 	<string name="voucher_edit_limit">только цифры</string>
 	<string name="voucher_error_code">Неверный пароль карты</string>
+	<string name="enable_micloud">Активировать сервисы</string>
+	<string name="micloud_summary">Войдите в аккаунт Xiaomi чтобы синхронизировать контакты, фото, сообщения и другие данные с облачным сервисом.</string>
+	<string name="micloud_is_what">Что такое MiCloud?</string>
+	<string name="internet_message">Облачные сообщения</string>
+	<string name="micloud_more">Подробнее</string>
+	<string name="internet_comm">Сервисы сообщений</string>
+	<string name="cloud_messaging">Облачные сообщения MiCloud</string>
+	<string name="xiaomi_cloud_service">MiCloud</string>
+	<string name="current_account">Активный аккаунт</string>
+	<string name="my_xiaomi_account">Мой активный аккаунт Xiaomi</string>
+	<string name="micloud_intro_01_part_01">Экономия на SMS сообщениях</string>
+	<string name="micloud_intro_01_part_02">Пользователи MIUI могут обмениваться бесплатными сообщения через интернет.</string>
+	<string name="micloud_intro_02_part_01">Синхронизация данных</string>
+	<string name="micloud_intro_02_part_02">MiCloud позволяет синхронизировать контакты, фото, сообщения и другие данные с облачным сервисом.</string>
+	<string name="micloud_intro_03_part_01">Безопасность в использовании</string>
+	<string name="micloud_intro_03_part_02">Вы можете управлять своими данными, блокировать телефон, просматривать местоположение прямо с компьютера через сайт \"i.xiaomi.com\".</string>
+	<string name="micloud_dspt">MiCloud позволит вам отправлять облачные сообщения, синхронизировать свои данные, просматривать местоположение телефона и управлять данными с компютера в любое время!</string>
+	<string name="start_micloud">Старт</string>
 </resources>

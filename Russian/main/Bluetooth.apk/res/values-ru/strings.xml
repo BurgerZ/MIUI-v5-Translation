@@ -95,6 +95,10 @@
 	<string name="status_unknown_error">Неизвестная ошибка</string>
 	<string name="transfer_clear_dlg_msg">Все элементы будут удалены из списка</string>
 	<string name="transfer_clear_dlg_title">Очистить</string>
+	<string name="share_prepare">Подготовка передачи по Bluetooth</string>
+	<string name="miui_transfer_history_title">Передача по Bluetooth</string>
+	<string name="miui_transfer_inbound_title">Входящие</string>
+	<string name="miui_transfer_outbound_title">Исходящие</string>
 	<string name="transfer_menu_clear">Удалить из списка</string>
 	<string name="transfer_menu_clear_all">Очистить список</string>
 	<string name="transfer_menu_open">Открыть</string>

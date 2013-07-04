@@ -32,7 +32,7 @@
 	<string name="close">Закрыть</string>
 	<string name="cleanup_stopped">Очистка остановлена</string>
 	<string name="compress_message">Имя архива:</string>
-	<string name="compress_fail">Ошибка сжатия. Такое имя уже существует.</string>
+	<string name="compress_fail">Ошибка создания архива. Такое имя уже существует.</string>
 	<string name="compress_title">Создание архива</string>
 	<string name="confirm">OК</string>
 	<string name="confirm_know">OK</string>
