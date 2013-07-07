@@ -126,7 +126,7 @@
 	<string name="lyric_display_settings">Показывать тексты</string>
 	<string name="lyric_display_summary">Показывать тексты песен в интерфейсе проигрывателя.</string>
 	<string name="lyric_download">Загрузка текста песни</string>
-	<string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к Интернету</string>
+	<string name="lyric_open_other_connect">Загрузка текста песен с помощью мобильного интернета</string>
 	<string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
 	<string name="mediaplaybacklabel">Музыка</string>
 	<string name="mobile_connect_settings">Мобильная сеть</string>
