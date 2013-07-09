@@ -108,8 +108,8 @@
 	<string name="sign_in_add_account">Активируйте аккаунт Xiaomi</string>
 	<string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
 	<string name="sign_in_info">Рейтинг обновления: %1$s%%\n%2$s\nВерсия: %3$s</string>
-	<string name="sign_in_info_rank_more">Ваш рейтинг обновления более %1$s\nПосле %2$s пользователи подписаны на MIUI %3$s.</string>
-	<string name="sign_in_info_total_more">Ваш рейтинг обновления: %1$s\nПосле %2$s пользователи будут подписаны на MIUI %3$s.</string>
+	<string name="sign_in_info_total_more">Рейтинг обновления: %1$s \nБолее %2$s пользователей установили MIUI %3$s.</string>
+    <string name="sign_in_info_rank_more">Рейтинг обновления: %1$s \nБолее %2$s пользователей установили MIUI %3$s.</string>
 	<string name="stable_build">стабильная</string>
 	<string name="start_update">Начать обновление</string>
 	<string name="submit">Отправить</string>
