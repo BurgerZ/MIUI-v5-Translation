@@ -95,7 +95,7 @@
 	<string name="frequentlyplayed_title">Популярные</string>
 	<string name="hot_artists">Популярные исполнители</string>
 	<string name="id3_edit">Изменение ID3 тегов вручную</string>
-	<string name="id3_edit_failed">Не удалось отредактировать ID3</string>
+	<string name="id3_edit_failed">Не удалось отредактировать ID3. \nТрек защищен.</string>
 	<string name="id3_modify_confirm_check">Сохранить изменения ID3</string>
 	<string name="id3_modify_confirm_text">Сохранить</string>
 	<string name="impunity_declaration">Онлайн музыка, которую вы собираетесь использовать, предоставляется сервисом Baidu Online Music. Нажмите \"OK\", чтобы продолжить, нажмите кнопку \"Отмена\" для выхода</string>
@@ -172,6 +172,7 @@
 	<string name="playlists_title">"Плейлисты "</string>
 	<string name="powered_by">Техническая поддержка:</string>
 	<string name="project_device">Xiaomi Box</string>
+	<string name="project_device_mobile">Мобильный телефон</string>
 	<string name="queue">В очередь</string>
 	<string name="quit_player">Выход</string>
 	<string name="quit_warining">Автоотключение через %d мин.</string>

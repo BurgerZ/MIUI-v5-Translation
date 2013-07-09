@@ -109,7 +109,7 @@
 	<string name="edit_slide_activity">Изменить слайд</string>
 	<string name="edit_slideshow_activity">Изменить слайд-шоу</string>
 	<string name="enable_password_protect">Графический ключ</string>
-	<string name="enable_visible_pattern_title">Видимый ключ</string>
+	<string name="enable_visible_pattern_title">Отображать ключ</string>
 	<string name="enter_edit_mode">Удалить</string>
 	<string name="error_code_label">"Код ошибки: "</string>
 	<string name="error_state">Данные были изменены</string>
