@@ -16,8 +16,6 @@
 	<string name="badPuk">Неверный PUK!</string>
 	<string name="buttonTxtContinue">Продолжить</string>
 	<string name="add_zero_prefix">Добавить префикс 0 при наборе мобильных номеров</string>
-	<string name="add_zero_prefix">Добавить префикс 0 при наборе мобильных номеров</string>
-	<string name="add_zero_prefix">Добавить префикс 0 при наборе мобильных номеров</string>
 	<string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора...</string>
 	<string name="additional_cdma_call_settings">Дополнительные настройки CDMA-звонка</string>
 	<string name="additional_gsm_call_settings">Дополнительные настройки</string>
@@ -1059,5 +1057,4 @@
     <string name="exportAllcontatsSuccess">Все контакты успешно экспортированы на SIM карту</string>
     <string name="exportAllcontatsFailed">Не удалось экспортировать контакты на SIM!</string>
     <string name="cursorError">Курсор не содержит соответствующих данных!</string>
-	<string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
 </resources>
