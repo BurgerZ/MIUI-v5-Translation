@@ -204,7 +204,7 @@
 	<string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
 	<string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в устройство</string>
 	<string name="search_hint">Поиск музыки</string>
-	<string name="search_settings_description">Исполнитель, альбом и трек.</string>
+	<string name="search_settings_description">Исполнители, альбомы и треки.</string>
 	<string name="search_suggestion">Поиск:</string>
 	<string name="search_title">Поиск</string>
 	<string name="select_all">Все</string>

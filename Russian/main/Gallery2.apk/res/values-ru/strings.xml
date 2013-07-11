@@ -54,7 +54,7 @@
   <string name="flash_on">Со вспышкой</string>
   <string name="flip">Отразить</string>
   <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
-  <string name="focal_length">Фокус. расст.</string>
+  <string name="focal_length">Фокус</string>
   <string name="free_space_format">Свободно: %s</string>
   <string name="gadget_title">Рамка фотографии</string>
   <string name="grain">Зернистость</string>

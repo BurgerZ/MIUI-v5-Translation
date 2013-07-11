@@ -169,7 +169,7 @@
 	<string name="paytool_alipay">Alipay</string>
 	<string name="paytool_edit_hint">Сумма пополнения (RMB):</string>
 	<string name="paytool_edit_limit">максимум: %1$s</string>
-	<string name="paytool_error_denomination">Пожалуйста, введите правильную сумму пополнения</string>
+	<string name="paytool_error_denomination">Пожалуйста, введите корректную сумму пополнения.</string>
 	<string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
 	<string name="paytool_error_msp">%1$s ошибка пополнения</string>
 	<string name="paytool_msp_not_installed">Вы не установили плагин защиты %1$s. Установить его сейчас?</string>
@@ -179,13 +179,13 @@
 	<string name="prepaid_china_telcom">Оператор 2</string>
 	<string name="prepaid_china_unicom">Оператор 3</string>
 	<string name="prepaid_edit_limit">символов</string>
-	<string name="prepaid_error_card_length">Пожалуйста, введите правильный номер карты предоплаты или пароль</string>
-	<string name="prepaid_error_card_number">Введите правильную сумму для пополнения счета</string>
+	<string name="prepaid_error_card_length">Пожалуйста, введите корректный номер карты предоплаты или пароль.</string>
+	<string name="prepaid_error_card_number">Введите корректную сумму пополнения счета</string>
 	<string name="prepaid_error_carrier">Пожалуйста, выберите Вашего оператора</string>
 	<string name="prepaid_error_denomination">Выберите сумму пополнения</string>
 	<string name="prepaid_error_password">Неверный пароль карты предоплаты</string>
-	<string name="prepaid_number_edit_hint">Номер карты предоплаты</string>
-	<string name="prepaid_password_edit_hint">Пароль карты предоплаты</string>
+	<string name="prepaid_number_edit_hint">Номер карты</string>
+	<string name="prepaid_password_edit_hint">Пароль карты</string>
 	<string name="prepaid_picker_hint_1_1">1.</string>
 	<string name="prepaid_picker_hint_1_2">Поддерживается только разовая плата</string>
 	<string name="prepaid_picker_hint_2_1">2.</string>
@@ -201,6 +201,9 @@
 	<string name="progress_error_pay_title">Ошибка оплаты</string>
 	<string name="progress_error_recharge_title">Ошибка пополнения</string>
 	<string name="progress_loading">Обработка. Пожалуйста, подождите...</string>
+	<string name="progress_msg_creating">Создание пополнения через SMS...</string>
+	<string name="progress_warning_check">Проверка не завершена. \nПроверка проходит в течение двух рабочих дней.</string>
+	<string name="xiaomi_money_service">Центр Mi-Кредит</string>
 	<string name="progress_paytool_creating">Создание покупки %1$s...</string>
 	<string name="progress_paytool_installing">Установка мобильного плагина безопасности %1$s...</string>
 	<string name="progress_prepaid_creating">Обработка запроса на пополнение...</string>
@@ -213,14 +216,31 @@
 	<string name="progress_success_recharge_summary">Баланс: %1$s Mi-Кредит</string>
 	<string name="progress_success_recharge_title">Пополнение завершено: %1$s</string>
 	<string name="progress_voucher_creating">Пополнение карты Mi Credit...</string>
+	<string name="msg_picker_hint_1_1">1. </string>
+	<string name="msg_picker_hint_1_2">Способ пополнения MiCredit card через SMS стоит дороже (2 юаня = 1 MiCredit)</string>
+	<string name="msg_picker_hint_2_1">2. </string>
+	<string name="msg_picker_hint_2_2">За каждую  SMS взимается плата, согласно тарифу вашего оператора</string>
+	<string name="msg_picker_hint_3_1">3. </string>
+	<string name="msg_picker_hint_3_2">Максимальная сумма пополнения 300 юаней в месяц</string>
+	<string name="msg_denomination_type">MiCredit</string>
+	<string name="msg_error">Ошибка пополнения через SMS</string>
+	<string name="progress_msg_creating">Создание SMS для пополнения…</string>
 	<string name="progress_warning_contact_server">Платеж все еще не подтвержден.\n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s\n2. Сообщите свой серийный номер: %2$s</string>
 	<string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
 	<string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите ваш пароль.</string>
 	<string name="recharge_alipay_summary">Пополнение через Alipay.</string>
 	<string name="recharge_alipay_title">Alipay</string>
 	<string name="recharge_denomination">%1$s RMB</string>
+	<string name="recharge_grid_edit_hint">Размер (RMB)</string>
+	<string name="recharge_grid_edit_limit">максимум: %1$s</string>
+	<string name="recharge_grid_error_denomination">Введите сумму пополнения</string>
+	<string name="recharge_grid_picker_hint">Выбор суммы пополнения MiCredit</string>
+	<string name="recharge_group_1to1">1 Mi-Кредит = 1 юань ~ 5.50 рублей</string>
+	<string name="recharge_group_2to1">1 Mi-Кредит = 2 юаня ~ 11.00 рублей</string>
 	<string name="recharge_hint">"1 Mi-Кредит = 5 юаней ~ 25 рублей"</string>
 	<string name="recharge_notification">Пополнение Mi-Кредитов: %1$s</string>
+	<string name="recharge_message_summary">Поддержка пополнения через телефон</string>
+	<string name="recharge_message_title">Пополнение через SMS</string>
 	<string name="recharge_other">Отмена</string>
 	<string name="recharge_pcpay_summary">Поддерживает больше способов пополнения.</string>
 	<string name="recharge_pcpay_title">Пополнение через компьютер </string>
@@ -262,12 +282,9 @@
 	<string name="title_mili_center">Mi-Кредит</string>
 	<string name="title_pay">Оплата Mi-Кредит</string>
 	<string name="title_pay_record">%1$s - история пополнений</string>
-	<string name="title_paytool">Пополнить через %1$s</string>
-	<string name="title_prepaid">Пополнить через карту</string>
 	<string name="title_recharge">"Пополнить Mi-Кредит"</string>
 	<string name="title_recharge_record">История пополнения</string>
 	<string name="title_reg">Регистрация в Xiaomi</string>
-	<string name="title_voucher">Пополнить через карту Mi-Кредит</string>
 	<string name="unactivated_user">Не активирован</string>
 	<string name="unbind">Отвязать</string>
 	<string name="update_contacts">Обновление контактов</string>
