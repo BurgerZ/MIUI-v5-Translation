@@ -1611,6 +1611,7 @@
 	<string name="sms_delivered_sound_dialog_title">Выберите звук для уведомления о доставке сообщения</string>
 	<string name="sms_delivered_sound_title">Доставка</string>
 	<string name="memory_title">"Доступно %1$s из %2$s"</string>
+	<string name="xiaomi_money_service">Центр Mi-Кредит</string>
 	<string name="sms_over_ims_off">Отключить SMS через IMS</string>
 	<string name="sms_over_ims_on">Включить SMS через IMS</string>
 	<string name="sms_received_sound_dialog_title">Выбор звука при получении сообщения</string>
