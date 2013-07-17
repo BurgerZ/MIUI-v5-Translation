@@ -8,6 +8,7 @@
 	<string name="account_type_format">Контакт %1$s</string>
 	<string name="actionIncomingCall">Входящие вызовы</string>
 	<string name="action_menu_overflow_description">Дополнительные параметры</string>
+	<string name="activity_not_found_uri">Приложения для открытия данного типа файлов не найдено</string>
 	<string name="activity_title_confirm_add_detail">Добавление данных</string>
 	<string name="activity_title_contacts_filter">Фильтр контактов</string>
 	<string name="activity_title_settings">Настройки</string>
@@ -140,6 +141,7 @@
 	<string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
 	<string name="confirm_delete_contact_all_call_logs">Удалить все вызовы контакта \"%s\"?</string>
 	<string name="confirm_delete_selected_all_call_logs">Удалить все вызовы?</string>
+	<string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? \nКонтактов: %d</string>
 	<string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
 	<string name="confirm_export_title">Экспорт контактов</string>
 	<string name="connections">Связи</string>
@@ -195,6 +197,10 @@
 	<string name="delete_duplicate_message">Объединение контактов...</string>
 	<string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты не будут удалены)</string>
 	<string name="delete_group_dialog_title">Удаление группы</string>
+	<string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
+	<string name="delete_sim_entries_finish">Контакты с SIM-карты удалены</string>
+	<string name="delete_sim_entry_miui">Удалить</string>
+	<string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
 	<string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
 	<string name="description_add_contact">Добавить контакт</string>
 	<string name="description_author">Автор:</string>
@@ -881,4 +887,17 @@
 	<string name="websiteLabelsGroup">Веб-сайт</string>
 	<string name="wipe_data">Очистить данные</string>
 	<string name="zero_items_selected">Выберите контакты</string>
+	<string name="import_all_sim_entries_miui">Импорт всех контактов</string>
+	<string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
+	<string name="import_sim_entries_finish">Импорт контактов с SIM-карты завершен</string>
+	<string name="import_sim_entry_miui">Импорт</string>
+	<string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты...</string>
+	<string name="profile_name_photo">Я</string>
+	<string name="readingSimContacts">Чтение контактов с SIM-карты…</string>
+	<string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
+	<string name="simContacts_empty">Нет контактов на SIM-карте</string>
+	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
+	<string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
+	<string name="toast_copy_done">Копирование завершено</string>
+	<string name="toast_copying">Копирование…</string>
 </resources>

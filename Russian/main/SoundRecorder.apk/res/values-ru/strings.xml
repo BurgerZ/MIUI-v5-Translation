@@ -17,6 +17,9 @@
 	<string name="dialog_send">Отправить</string>
 	<string name="dialog_title_storage_full">Место для сохранения заполено</string>
 	<string name="dialog_warning">Внимание</string>
+	<string name="duration_format_hour">%sч</string>
+	<string name="duration_format_minute">%sм</string>
+	<string name="duration_format_second">%sс</string>
 	<string name="error_app_internal">Внутренняя ошибка приложения</string>
 	<string name="error_app_internal_title">Ошибка диктофона</string>
 	<string name="error_filename_too_long">Имя файла слишком длинное</string>
@@ -32,6 +35,7 @@
 	<string name="max_length_reached">Достигнута максимальная длина</string>
 	<string name="menu_settings">Настройки</string>
 	<string name="menu_view_record_list">Список записей</string>
+	<string name="message_file_size_error">Запись достигла максимального размера (%s)</string>
 	<string name="minute">%d мин.</string>
 	<string name="no_file">Нет записей</string>
 	<string name="notification_playback">Воспроизведение...</string>
@@ -63,6 +67,7 @@
 	<string name="status_bar_recording">Запись...</string>
 	<string name="status_bar_recording_pause">Пауза</string>
 	<string name="storage_is_full">Память заполнена</string>
+	<string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимум записей: %2$s.</string>
 	<string name="unknown_caller">Неизвестный вызов</string>
 	<string name="preference_record_type_title">Формат записи</string>
 	<string name="preference_record_type_dialog_title">Выберите формат записи</string>
