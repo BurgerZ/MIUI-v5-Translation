@@ -110,7 +110,8 @@
 	<string name="error_sim_not_ready">SIM-карта не готова</string>
 	<string name="error_too_frequent_visits_summary">Вы совершаете запрос слишком часто. Пожалуйста, попробуйте еще раз через пять минут.</string>
 	<string name="error_too_frequent_visits_title">Слишком часто!</string>
-	<string name="error_unknown">Ошибка: %1$s</string>
+	<string name="error_unknown">Неизвестная ошибка</string>
+	<string name="error_invalid_dev_id">Неверный id устройства</string>
 	<string name="error_user_id_mismatch_summary">Пожалуйста, проверьте настройки аккаунта и попробуйте снова</string>
 	<string name="error_user_id_mismatch_title">Ошибка аутентификации!</string>
 	<string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>

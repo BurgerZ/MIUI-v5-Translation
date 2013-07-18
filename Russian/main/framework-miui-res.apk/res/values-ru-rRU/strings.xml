@@ -351,6 +351,8 @@
 	<string name="partys_day">Founding section</string>
 	<string name="payphone">Телефоный автомат</string>
 	<string name="peace_day">День памяти</string>
+	<string name="device_xiaomi">Телефон Xiaomi</string>
+	<string name="device_hongmi">Телефон Hongmi</string>
 	<string name="perm_auto_backup">Автоматическое резервное копирование</string>
 	<string name="perm_data_update_dspt">Разрешить обновления данных</string>
 	<string name="perm_data_update_lab">Обновление данных</string>
@@ -371,6 +373,7 @@
 	<string name="puk_operation_failed">PUK - операция не удалась.</string>
 	<string name="reboot_confirm">Телефон будет перезагружен.</string>
 	<string name="reboot_confirm_title">Перезагрузить телефон?</string>
+	<string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов.</string>
 	<string name="reboot_progress">Перезагрузка...</string>
 	<string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
 	<string name="reverse_all">Очистить выделение</string>

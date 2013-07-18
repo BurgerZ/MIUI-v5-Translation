@@ -51,7 +51,7 @@
 	<string name="cloud_album_more_settings">Облачные альбомы</string>
 	<string name="cloud_album_set_create">Новый</string>
 	<string name="cloud_albums">Облачные альбомы</string>
-	<string name="cloud_camera_display_name">Мои фото</string>
+	<string name="cloud_camera_display_name">Фото с камеры</string>
 	<string name="cloud_gallery_no_pictures">Нет изображений</string>
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
 	<string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
@@ -99,7 +99,7 @@
 	<string name="details_title">%1$d из %2$d</string>
 	<string name="documentary">Документальные</string>
 	<string name="done">Готово</string>
-	<string name="doodle">Подмалевок</string>
+	<string name="doodle">Подрисовать</string>
 	<string name="doodle_tooltip">Рисуйте пальцем на изображении</string>
 	<string name="duotone">Двойной тон</string>
 	<string name="duration">Длительность</string>

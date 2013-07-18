@@ -100,7 +100,7 @@
 	<string name="choosertitle_sharevia">Способ отправки</string>
 	<string name="clear">Очистить</string>
 	<string name="clear_history">Очистить историю</string>
-	<string name="clear_history_group">Очистить всю историю</string>
+	<string name="clear_history_group">Очистить всю историю (%s)</string>
 	<string name="clip_dialog_title">Открыть скопированную ссылку?</string>
 	<string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
 	<string name="close_all_tab_alert_title">Подтверждение закрытия</string>

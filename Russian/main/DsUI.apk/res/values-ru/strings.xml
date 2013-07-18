@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="powerOn">ВКЛ</string>
+    <string name="powerOff">ВЫКЛ</string>
+    <string name="dolbyDigitalPlus">Dolby Digital Plus</string>
+    <string name="intelligent_equalizer">Интеллектуальный EQ:</string>
+    <string name="surround_virtualizer">Surround Virtualizer</string>
+    <string name="dialogue_enhancer">Dialogue Enhancer</string>
+    <string name="volume_leveler">Volume Leveler</string>
+    <string name="copyright">Dolby и double-D являются зарегистрированными товарными знаками Dolby Laboratories. ©2012 Dolby Laboratories. Все права защищены.</string>
+    <string name="movie">Фильм</string>
+    <string name="music">Музыка</string>
+    <string name="game">Игра</string>
+    <string name="voice">Голос</string>
+    <string name="preset_1">Настройка 1</string>
+    <string name="preset_2">Настройка 2</string>
+    <string name="bright">Bright</string>
+    <string name="open">Открыть</string>
+    <string name="rich">Rich</string>
+    <string name="focused">Focused</string>
+    <string name="off">Выкл</string>
+    <string name="custom">Вручную</string>
+    <string name="db36">36dB</string>
+    <string name="db24">24dB</string>
+    <string name="db12">12dB</string>
+    <string name="db0">0dB</string>
+    <string name="dbn12">-12dB</string>
+    <string name="graphical_equalizer">Графический EQ:</string>
+    <string name="app_name">Dolby</string>
+    <string name="colon">:</string>
+    <string name="minimize_content_description">Свернуть кнопки</string>
+    <string name="placeholder">PLACEHOLDER</string>
+    <string name="instore_app_name">DsInStoreDemoApp</string>
+    <string name="instore_menu_text">Демо видео</string>
+    <string name="replay">Повторить</string>
+    <string name="default_text" />
+    <string name="stop">Стоп</string>
+    <string name="exit">Выход</string>
+    <string name="tooltip_eq_title">Интеллектуальный/Графический Эквалайзер</string>
+    <string name="tooltip_eq_text">The Intelligent Equalizer analyzes and dynamically adjusts the audio to match a desired tone. Choose from the four presets shown, and then touch the Spectral Visualizer to make custom modifications to the Graphic Equalizer.</string>
+    <string name="tooltip_sv_title">Визуалайзер</string>
+    <string name="tooltip_sv_text">The Surround Virtualizer creates realistic surround sound from any set of headphones or stereo speakers. Set the switch on or off to control the surround sound effect.</string>
+    <string name="tooltip_de_title">Усилитель</string>
+    <string name="tooltip_de_text">The Dialogue Enhancer improves the clarity of speech in any type of media. Set the switch on or off to control dialogue enhancement.</string>
+    <string name="tooltip_vl_title">Уровень громкости</string>
+    <string name="tooltip_vl_text">The Volume Leveler provides a consistent volume across all content and applications based on the master volume level of the device. Set the switch on or off to control automatic volume leveling.</string>
+</resources>

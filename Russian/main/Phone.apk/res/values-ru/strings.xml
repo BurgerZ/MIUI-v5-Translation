@@ -696,7 +696,7 @@
 	<string name="preferred_network_type_3g_only_warning_miui">Вы выбрали 3G как предпочтительный режим, сигнала может не быть, если ваша SIM-карта не поддерживает 3G! Нажмите OK для продолжения.</string>
 	<string name="preferred_network_type_cdma_miui">CDMA</string>
 	<string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-	<string name="preferred_network_type_tds_cdma_miui">GSM/TDS-CDMA</string>
+	<string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
 	<string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
 	<string name="preferred_network_type_pref_entries_auto_miui">Автоматически</string>
 	<string name="preferred_network_type_pref_entries_global_miui">Глобально</string>

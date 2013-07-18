@@ -50,9 +50,9 @@
 	<string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
 	<string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
 	<string name="app_label">Графический интерфейс системы</string>
-	<string name="battery_low_percent_format">Осталось %d%%</string>
-	<string name="battery_low_subtitle">Батарея разряжается</string>
-	<string name="battery_low_title">Низкий заряд батареи. Подключите зарядное устройство</string>
+	<string name="battery_low_percent_format">Осталось: %d%%</string>
+	<string name="battery_low_subtitle">Батарея разряжена</string>
+	<string name="battery_low_title">Низкий заряд батареи. \nПодключите зарядное устройство.</string>
 	<string name="battery_low_why">Статистика</string>
 	<string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
 	<string name="call_status_dialing">Вызов</string>
