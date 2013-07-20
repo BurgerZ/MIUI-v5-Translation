@@ -140,8 +140,8 @@
   <string name="data_usage_limit_body">Нажмите, чтобы включить</string>
   <string name="data_usage_limit_snoozed_body">%s превышает установленный лимит</string>
   <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит на моб. трафик</string>
-  <string name="data_usage_mobile_limit_title">Моб. Интернет отключен</string>
-  <string name="data_usage_restricted_body">Нажмите, чтобы снять ограничение</string>
+  <string name="data_usage_mobile_limit_title">Мобильный нтернет отключен</string>
+  <string name="data_usage_restricted_body">Снять ограничение</string>
   <string name="data_usage_restricted_title">Фоновый режим ограничен</string>
   <string name="data_usage_warning_body">Проверить трафик и настройки</string>
   <string name="data_usage_warning_title">Осталось мало трафика</string>
