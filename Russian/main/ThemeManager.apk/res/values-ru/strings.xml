@@ -133,8 +133,8 @@
 	<string name="theme_component_title_framework">Система</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
-	<string name="theme_component_title_lockstyle">Экран блокир.</string>
-	<string name="theme_component_title_lockwallpaper">Обои блокир.</string>
+	<string name="theme_component_title_lockstyle">Экран блокировки</string>
+	<string name="theme_component_title_lockwallpaper">Обои экрана блокировки</string>
 	<string name="theme_component_title_miwallpaper">Mi обои</string>
 	<string name="theme_component_title_mms">Сообщения</string>
 	<string name="theme_component_title_notification">Уведомл.</string>
