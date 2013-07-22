@@ -206,6 +206,9 @@
 	<string name="status_bar_recent_remove_item_title">Удалить из списка</string>
 	<string name="status_bar_recording_back">Нажмите для возвращения в Диктофон</string>
 	<string name="status_bar_recording_pause">Пауза. Нажмите для перехода в Диктофон</string>
+	<string name="headset_settings">Наушники подключены</string>
+	<string name="headset_info">Настроить функции кнопок</string>
+	<string name="headset_custom">Настроить</string>
 	<string name="status_bar_settings_airplane">Режим полета</string>
 	<string name="status_bar_settings_auto_brightness_label">Автоматически</string>
 	<string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
