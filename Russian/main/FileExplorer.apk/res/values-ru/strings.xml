@@ -201,6 +201,13 @@
 	<string name="tab_networkdisk">KuaiPan</string>
 	<string name="tab_phone">Телефон</string>
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
+	<string name="ui_main_menu_option_sign_in">Вход</string>
+	<string name="sign_description">Авторизация...</string>
+	<string name="signin_error">Ошибка авторизации, отсутствует интернет соединение.</string>
+	<string name="signin_success">Вход завершен \nВы получили %1$s</string>
+	<string name="already_signin_description">Вход можно совершать раз в день, попробуйте завтра :)</string>
+	<string name="pull_to_signin">Перетащите вниз, чтобы войти и получить свободное место на облачном сервере.</string>
+	<string name="release_to_signin">Загрузка в KuaiPan</string>
 	<string name="trans_task">Загрузка в KuaiPan</string>
 	<string name="trans_task_delete_confirm_message">Удалить выбранные загрузки? \n\nЗагрузок:%1$d</string>
 	<string name="transing">В процессе</string>
@@ -248,6 +255,7 @@
 	<string name="clean_app_garbage">Очистить мусор (%d)</string>
 	<string name="cleanup_complete">Готово</string>
 	<string name="data_size_label">Данные</string>
+	<string name="cache_size_label">Кэш</string>
 	<string name="directory_info_divider">"  |  "</string>
 	<string name="directory_no_item">пусто</string>
 	<string name="dlg_error_unmount_text">Невозможно отключить USB-хранилище. Попробуйте позже.</string>
