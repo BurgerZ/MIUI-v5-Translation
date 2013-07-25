@@ -129,7 +129,7 @@
 	<string name="start_activity_failed">Не удалось запустить. Пожалуйста, попробуйте снова.</string>
 	<string name="starting_preset_app">Запуск...</string>
 	<string name="status_bar_toggle_ac">Доступ</string>
-	<string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
+	<string name="status_bar_toggle_auto_brightness">Подсветка</string>
 	<string name="status_bar_toggle_bluetooth">Bluetooth</string>
 	<string name="status_bar_toggle_brightness">Яркость</string>
 	<string name="status_bar_toggle_data">Интернет</string>
@@ -159,7 +159,7 @@
 	<string name="status_bar_toggle_torch">Фонарик</string>
 	<string name="status_bar_toggle_vibrate">Вибрация</string>
 	<string name="status_bar_toggle_wifi">Wi-Fi</string>
-	<string name="status_bar_toggle_wifi_ap">Wi-Fi хотспот</string>
+	<string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
 	<string name="title_select_live_folder">Выберите папку</string>
 	<string name="title_select_shortcut">Выберите ярлык</string>
 	<string name="toggle_select_title">Выберите переключатели</string>

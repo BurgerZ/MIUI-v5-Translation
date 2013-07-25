@@ -219,9 +219,9 @@
 	<string name="status_bar_settings_wifi_button">Wi-Fi</string>
 	<string name="status_bar_style_settings">Панель состояния</string>
 	<string name="status_bar_toggle_ac">Доступ</string>
-	<string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
+	<string name="status_bar_toggle_auto_brightness">Подсветка</string>
 	<string name="status_bar_toggle_bluetooth">Bluetooth</string>
-	<string name="status_bar_toggle_brightness">Подсветка</string>
+	<string name="status_bar_toggle_brightness">Яркость</string>
 	<string name="status_bar_toggle_data">Интернет</string>
 	<string name="status_bar_toggle_divider">Еще</string>
 	<string name="status_bar_toggle_drive_mode">За рулем</string>
@@ -249,7 +249,7 @@
 	<string name="status_bar_toggle_torch">Фонарик</string>
 	<string name="status_bar_toggle_vibrate">Вибрация</string>
 	<string name="status_bar_toggle_wifi">Wi-Fi</string>
-	<string name="status_bar_toggle_wifi_ap">Wi-Fi хотспот</string>
+	<string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
 	<string name="status_bar_use_physical_keyboard">Использование физической клавиатуры</string>
 	<string name="tab_notifications_lable">Уведомления</string>
 	<string name="tab_toggles_lable">Переключатели</string>
