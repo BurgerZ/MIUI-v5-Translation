@@ -1289,7 +1289,7 @@
   <string name="sim_locked">SIM-карта заблокирована</string>
   <string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
   <string name="sim_in_airplane_mode">Пожалуйста, отключить режим полета.</string>
-  <string name="volume_warning_message">Послушивание музыки на большой громкости может повлиять на ваш слух.</string>
+  <string name="volume_warning_message">Прослушивание музыки на большой громкости может повлиять на ваш слух.</string>
   <string name="resolver_guide_title">Настройки по умолчанию</string>
   <string name="config_networkLocationProvider2">com.android.location.service.NetworkLocationProvider</string>
   <string name="config_geocodeProvider">com.android.location.service.GeocodeProvider</string>

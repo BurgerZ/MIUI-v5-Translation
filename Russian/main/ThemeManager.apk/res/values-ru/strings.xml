@@ -134,7 +134,7 @@
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
 	<string name="theme_component_title_lockstyle">Экран блокировки</string>
-	<string name="theme_component_title_lockwallpaper">Обои экрана блокировки</string>
+	<string name="theme_component_title_lockwallpaper">Обои блокировки</string>
 	<string name="theme_component_title_miwallpaper">Mi обои</string>
 	<string name="theme_component_title_mms">Сообщения</string>
 	<string name="theme_component_title_notification">Уведомл.</string>
