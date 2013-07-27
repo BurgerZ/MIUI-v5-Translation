@@ -266,7 +266,7 @@
     <string name="show_all">Изображения и видео</string>
     <string name="appwidget_title">Фотогалерея</string>
     <string name="appwidget_empty_text">Нет фотографий</string>
-    <string name="crop_saved">Обрезанное изображение сохранено в папке%s.</string>
+    <string name="crop_saved">Изображение сохранено в папке%s.</string>
     <string name="no_albums_alert">Нет доступных альбомов.</string>
     <string name="empty_album">Нет фото/видео</string>
     <string name="picasa_posts">Записи</string>

@@ -85,7 +85,7 @@
 	<string name="calllog_menu_send_sms">Отправить сообщение</string>
 	<string name="callrecordview_item_newcontact">Новый контакт</string>
 	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин. %d сек.</string>
-	<string name="callrecordview_item_op_time_missed">Не подключен</string>
+	<string name="callrecordview_item_op_time_missed">"| Не подключен"</string>
 	<string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
 	<string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
 	<string name="callrecordview_item_op_time_rejected">Отклонен</string>

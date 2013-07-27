@@ -425,7 +425,7 @@
     <string name="set_as">Задать как</string>
     <string name="no_thumbnail">Нет миниатюры</string>
     <string name="loading">Загрузка...</string>
-    <string name="crop_saved">Обрезаное изображение сохранено как \"%s\"</string>
+    <string name="crop_saved">Изображение сохранено как \"%s\"</string>
     <string name="video_err">Невозможно воспроизвести видео</string>
     <string name="iso">ISO</string>
     <string name="exposure_time">Выдержка</string>
