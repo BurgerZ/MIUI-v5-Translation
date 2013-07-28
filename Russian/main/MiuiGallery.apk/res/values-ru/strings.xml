@@ -25,7 +25,7 @@
 	<string name="albums">Альбомы</string>
 	<string name="albumset_page_title_separator">" | "</string>
 	<string name="alert">Внимание</string>
-	<string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только тогда, когда есть Wi-Fi соединение</string>
+	<string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фото и скриншоты только тогда, когда есть Wi-Fi соединение</string>
 	<string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
 	<string name="aperture">Диафрагма</string>
 	<string name="app_name">Галерея</string>
@@ -43,9 +43,9 @@
 	<string name="by_sms">Сообщение</string>
 	<string name="camera_connected">Камера подключена</string>
 	<string name="camera_disconnected">Камера отключена</string>
-	<string name="camera_folder_display_name">Фотографии с камеры</string>
+	<string name="camera_folder_display_name">Фото с камеры</string>
 	<string name="camera_setas_wallpaper">Обои</string>
-	<string name="camera_view_none_message">Фотографии будут отображаться здесь</string>
+	<string name="camera_view_none_message">Фото будут отображаться здесь</string>
 	<string name="can_modified">Разрешить получателю добавлять картинки</string>
 	<string name="cancel">Отмена</string>
 	<string name="cancel_hint">Действие отменено</string>
@@ -327,9 +327,9 @@
 	<string name="straighten">Выравнивание</string>
 	<string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
 	<string name="sync_album">Синхронизация фото</string>
-	<string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже.</string>
+	<string name="sync_album_error">Не удалось загрузить фото. Повторите попытку позже.</string>
 	<string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
-	<string name="sync_album_summary">Синхронизировать фотографии с облачными альбомами. \nПоследняя:</string>
+	<string name="sync_album_summary">Синхронизировать фото с облачными альбомами. \nПоследняя:</string>
 	<string name="sync_history_power_on">Синхр. во время зарядки</string>
 	<string name="sync_only_in_wifi">Только по Wi-Fi</string>
 	<string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе возможно чрезмерное потребление мобильного трафика.</string>
