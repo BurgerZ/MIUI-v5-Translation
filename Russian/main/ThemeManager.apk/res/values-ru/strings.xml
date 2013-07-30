@@ -23,6 +23,7 @@
 	<string name="component_lockstyle_personal_title">Настройки экрана блокировки</string>
 	<string name="component_select_title">Выбрано компонентов: %1$s</string>
 	<string name="component_settings_title">Текущая тема</string>
+	<string name="deleting">Удаление...</string>
 	<string name="description_author">Автор:</string>
 	<string name="description_designer">Дизайнер:</string>
 	<string name="description_download">Скачано:</string>
@@ -77,6 +78,8 @@
 	<string name="resource_default_name">Ресурс</string>
 	<string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
 	<string name="resource_delete_confirm">Удалить выбранное?</string>
+	<string name="resource_delta_update_failed">Ошибка Delta обновления.</string>
+	<string name="resource_delta_update_successful">Delta обновление сохранено %1$s.</string>
 	<string name="resource_detail">Детали</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>
@@ -86,6 +89,7 @@
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
 	<string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
 	<string name="resource_get_auth_retrieving">Получение авторизации...</string>
+	<string name="resource_import_successful">Скачивание завершено.</string>
 	<string name="resource_importing">Импортирование</string>
 	<string name="resource_list_title">Последние темы</string>
 	<string name="resource_local">Локально %1$s</string>

@@ -200,6 +200,7 @@
 	<string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
 	<string name="delete_sim_entries_finish">Контакты с SIM-карты удалены</string>
 	<string name="delete_sim_entry_miui">Удалить</string>
+	<string name="deleting">Удаление...</string>
 	<string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
 	<string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
 	<string name="description_add_contact">Добавить контакт</string>
@@ -301,6 +302,8 @@
 	<string name="display_sim_contacts">Контакты SIM-карты</string>
 	<string name="display_ungrouped">Все остальные контакты</string>
 	<string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
+	<string name="dlg_add_blacklist">Добавить номер в черный список?</string>
+	<string name="dlg_remove_blacklist">Удалить номер из черного списка?</string>
 	<string name="download_failed">Ошибка загрузка</string>
 	<string name="download_preview_failed">Не удалось загрузить изображение</string>
 	<string name="duplicate_group_name">Группа уже существует</string>
@@ -444,6 +447,7 @@
 	<string name="loading_group_members">Загрузка контактов...</string>
 	<string name="loading_groups">Загрузка групп...</string>
 	<string name="loading_recent">Загрузка последних контактов...</string>
+	<string name="loading_resource_detail_fail">Ошибка загрузки</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
 	<string name="local_invisible_directory">Другое</string>
 	<string name="local_profile_title">Мой профиль</string>
@@ -695,6 +699,7 @@
 	<string name="remind_btn_ignore">Позже</string>
 	<string name="remind_btn_sync_now">Сейчас</string>
 	<string name="removePhoto">Удалить изображение</string>
+	<string name="remove_blacklist">Удалить из черного списка</string>
 	<string name="remove_duplicate">MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.\n\nНажмите на объединение и немного подождите, пока автоматическое объединение не завершится.</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
@@ -705,6 +710,8 @@
 	<string name="resource_default_name">Ресурс</string>
 	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
 	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
+	<string name="resource_delta_update_failed">Ошибка Delta обновления</string>
+	<string name="resource_delta_update_successful">Delta обновление сохранено %1$s.</string>
 	<string name="resource_detail">Подробно</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>
@@ -714,6 +721,7 @@
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
 	<string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
 	<string name="resource_get_auth_retrieving">Получение авторизации...</string>
+	<string name="resource_import_successful">Загрузка завершена.</string>
 	<string name="resource_importing">Импорт...</string>
 	<string name="resource_list_title">Последние</string>
 	<string name="resource_local">Локально: %1$s</string>
@@ -734,6 +742,7 @@
 	<string name="resource_title">Сведения</string>
 	<string name="resource_title_select_ringtone">Выберите мелодию</string>
 	<string name="resource_update">Обн.</string>
+	<string name="resource_waiting_download">Ожидание</string>
 	<string name="restore_nickname">Восстановить</string>
 	<string name="ret_sign">\n</string>
 	<string name="returnCall">Обратный вызов</string>
