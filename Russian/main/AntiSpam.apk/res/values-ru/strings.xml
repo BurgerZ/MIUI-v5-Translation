@@ -63,7 +63,7 @@
      <string name="qm_auto_time_turn_off_title">Тихий режим</string>
      <string name="qm_auto_time_turn_on">Начало</string>
      <string name="qm_auto_time_turn_on_title">Время работы тихого режима</string>
-     <string name="qm_notification">"Тихий режим"</string>
+     <string name="qm_notification">"Тихий режим включен"</string>
      <string name="qm_open">Тихий режим</string>
      <string name="qm_other_settings">Дополнительно</string>
      <string name="qm_other_settings_group">Другие</string>

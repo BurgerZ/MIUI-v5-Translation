@@ -233,7 +233,7 @@
 	<string name="open">Открыть</string>
 	<string name="open_single_image_failure">Ошибка загрузки изображения!</string>
 	<string name="open_sync_title">Пожалуйста, включите синхронизацию</string>
-	<string name="operation_delete_confirm_message_folder">Папка будет удалена со всеми файлами.
+	<string name="operation_delete_confirm_message_folder">Папка будет удалена со всеми файлами.</string>
 	<string name="operation_refresh">Обновить</string>
 	<string name="operation_rename">Переименовать</string>
 	<string name="orientation">Ориентация</string>
