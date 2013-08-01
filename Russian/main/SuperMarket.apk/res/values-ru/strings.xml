@@ -142,7 +142,7 @@
 	<string name="notif_description_from_market">Из маркета Xiaomi</string>
 	<string name="notif_install_failed">Сбой установки %1$s</string>
 	<string name="notif_install_successful">%1$s успешно установлено</string>
-	<string name="notif_install_successful_default">%1$s installed</string>
+	<string name="notif_install_successful_default">%1$s установлено</string>
 	<string name="notif_installing">Установка “%1$s”...</string>
 	<string name="notif_summary_auto_update_failed">Нажмите сюда для продолжения.</string>
 	<string name="notif_summary_auto_update_successful">Обновление %1$s приложений завершено.</string>
