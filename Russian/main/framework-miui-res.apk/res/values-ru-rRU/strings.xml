@@ -312,13 +312,14 @@
 	<string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
 	<string name="lockscreen_access_pattern_start">Шаблон начат</string>
 	<string name="lockscreen_emergency_call">Только экстренные</string>
+	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Вы ввели неверный пароль %d раз. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью аккаунта Xiaomi. \n\nПовторите через %d сек.</string>
 	<string name="lockscreen_forgot_pattern_button_text">Забыть шаблон?</string>
 	<string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
 	<string name="lockscreen_pattern_wrong">Попробовать снова</string>
 	<string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
-	<string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
-	<string name="lockscreen_transport_play_description">Кнопка Играть</string>
-	<string name="lockscreen_transport_prev_description">Previous track button</string>
+	<string name="lockscreen_transport_next_description">Следующий трек</string>
+	<string name="lockscreen_transport_play_description">Воспроизведение</string>
+	<string name="lockscreen_transport_prev_description">Предыдущий трек</string>
 	<string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту.</string>
 	<string name="memory_clear_nothing_result">Нет памяти для очистки</string>
 	<string name="memory_clear_result">Очищено: %1$s\nДоступно: %2$s</string>
@@ -399,6 +400,10 @@
 	<string name="sim_account_name">SIM</string>
 	<string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходимо отправить SMS для активации облачных сервисов Xiaomi. Активировать сейчас?</string>
 	<string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходимо отправить SMS для активации облачных сервисов Xiaomi. Активировать сейчас?</string>
+	<string name="sim_in_airplane_mode">Отключите режим полета</string>
+	<string name="sim_locked">SIM-карта заблокирована</string>
+	<string name="sim_not_ready">SIM-карта используется. Пожалуйста, попробуйте позже.</string>
+	<string name="sim_unavailable">SIM-карта недоступна</string>
 	<string name="slight_cold">Небольшой холод</string>
     <string name="slight_heat">Небольшой зной</string>
     <string name="solar_calendar">Солнечный календарь</string>

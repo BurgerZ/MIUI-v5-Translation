@@ -71,4 +71,5 @@
 	<string name="unknown_caller">Неизвестный вызов</string>
 	<string name="preference_record_type_title">Формат записи</string>
 	<string name="preference_record_type_dialog_title">Выберите формат записи</string>
+	<string name="record_name_minute">мин.</string>
 </resources>

@@ -476,7 +476,7 @@
 	<string name="select_dot">Выбрать текст</string>
 	<string name="selection_all">Выбрать все</string>
 	<string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
-	<string name="send_to_desktop">На рабочий стол</string>
+	<string name="send_to_desktop">Ярлык</string>
 	<string name="set_as_homepage">Сделать главной страницей</string>
 	<string name="share_link">Поделиться</string>
 	<string name="share_page">Поделиться</string>

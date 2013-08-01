@@ -84,6 +84,86 @@
             "thumbnail":"youtube.png",
             "logobg":"bg05.9.png",
             "favicon":""
+        },
+        {
+            "title":"Одноклассники",
+            "url":"http://m.odnoklassniki.ru/",
+            "thumbnail":"odnoklassniki.png",
+            "logobg":"bg04.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Mail.ru",
+            "url":"http://mail.ru/",
+            "thumbnail":"mail_ru.png",
+            "logobg":"bg12.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://m.facebook.com/",
+            "thumbnail":"facebook.png",
+            "logobg":"bg14.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Lit Lib",
+            "url":"http://www.litlib.ru/",
+            "thumbnail":"lit_lib.png",
+            "logobg":"bg09.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Википедия",
+            "url":"http://ru.m.wikipedia.org/",
+            "thumbnail":"wikipedia.png",
+            "logobg":"bg12.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"MIUI forum",
+            "url":"http://en.miui.com/forum.php",
+            "thumbnail":"miui_forum.png",
+            "logobg":"bg10.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"ПростоПлеер",
+            "url":"http://pleer.com/m",
+            "thumbnail":"pleer.png",
+            "logobg":"bg03.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"DimonVideo",
+            "url":"http://dimonvideo.ru/",
+            "thumbnail":"dimonvideo.png",
+            "logobg":"bg09.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"MIUI Android",
+            "url":"http://miuiandroid.com",
+            "thumbnail":"miui_android.png",
+            "logobg":"bg07.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Самиздат",
+            "url":"http://samlib.ru/",
+            "thumbnail":"samizdat.png",
+            "logobg":"bg03.9.png",
+            "favicon":"",
+			"hidden":"true"
         }
     ]
 }

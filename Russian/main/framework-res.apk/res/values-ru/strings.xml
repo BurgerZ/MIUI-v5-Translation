@@ -937,6 +937,7 @@
   <string name="phoneTypeWork">Рабочий</string>
   <string name="phoneTypeWorkMobile">Рабочий моб.</string>
   <string name="phoneTypeWorkPager">Раб. пейджер</string>
+  <string name="pinpuk_attempts">\nПопыток осталось:</string>
   <string name="pm">PM</string>
   <string name="policydesc_allow_camera">Перезагрузка</string>
   <string name="policydesc_disableCamera">Запретить использование всех камер устройства</string>
@@ -969,6 +970,8 @@
   <string name="preposition_for_year">в %s г.</string>
   <string name="progress_erasing">Очистка SD-карты...</string>
   <string name="progress_unmounting">Отключение SD-карты...</string>
+  <string name="reboot_confirm">Телефон будет перезагружен</string>
+  <string name="reboot_progress">Перезагрузка…</string>
   <string name="radiobutton_not_selected">не выбрано</string>
   <string name="radiobutton_selected">выбрано</string>
   <string name="reboot_safemode_confirm">Вы хотите перезагрузиться в безопасном режиме? Это заблокирует все приложения, установленные вами. Они будут восстановлены после перезагрузки</string>
@@ -992,7 +995,7 @@
   <string name="relationTypeSpouse">Супруг(а)</string>
   <string name="relative_time">%1$s, %2$s</string>
   <string name="replace">Заменить</string>
-  <string name="report">Отзыв</string>
+  <string name="report">Отчет</string>
   <string name="reset">Сбросить</string>
   <string name="ringtone_default">Мелодия по умолчанию</string>
   <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>

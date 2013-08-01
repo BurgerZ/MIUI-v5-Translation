@@ -45,8 +45,8 @@
      <string name="menu_bl_remove">Удалить из черного списка</string>
      <string name="menu_bl_sms_log">Заблокированные сообщения</string>
      <string name="menu_call">Вызов</string>
-     <string name="menu_clear_all_call">Удалить все заблокированные вызовы</string>
-     <string name="menu_clear_all_sms">Удалить все заблокированные сообщения</string>
+     <string name="menu_clear_all_call">Очистить журнал вызовов</string>
+     <string name="menu_clear_all_sms">Очистить журнал сообщений</string>
      <string name="menu_clear_current_call">Удалить все заблокированные вызовы от этого номера</string>
      <string name="menu_clear_current_sms">Удалить все заблокированные сообщения от этого номера</string>
      <string name="menu_edit">Изменить</string>
@@ -84,14 +84,14 @@
      <string name="qm_vip_list_group">Группы контактов</string>
      <string name="qm_vip_sms_setting_button">Отключить сообщения белого списка</string>
      <string name="quiet_mode">Тихий режим</string>
-     <string name="st_bl_block_setting_title">Выбрать позже</string>
+     <string name="st_bl_block_setting_title">Действия</string>
      <string name="st_bl_setting_group">Настройки черного списка</string>
      <string name="st_block_all">Блокировать вызовы и сообщения</string>
      <string name="st_block_mute">Блокировать вызовы и не уведомлять о сообщениях</string>
-     <string name="st_block_private_call_button">Блокировать вызовы от неизвестных номеров</string>
+     <string name="st_block_private_call_button">Блокировать неизвестные</string>
      <string name="st_block_title">Блокировать</string>
      <string name="st_call_group">Вызовы</string>
-     <string name="st_common_setting_group">Быстрый просмотр</string>
+     <string name="st_common_setting_group">Общие</string>
      <string name="st_filter_keywords_setting_summary1">Сообщения, содержащие ключевые слова, будут заблокированны.</string>
      <string name="st_filter_keywords_setting_summary2">Вы можете добавить несколько ключевых слов через запятую.</string>
      <string name="st_filter_keywords_setting_title">Ключевые слова</string>
@@ -103,7 +103,7 @@
      <string name="st_settings_name">Настройки</string>
      <string name="st_sms_group">Сообщения</string>
      <string name="tab_blacklist">Черный список</string>
-     <string name="tab_block_log">Блокирования</string>
+     <string name="tab_block_log">Журнал</string>
      <string name="tab_call">Вызовы</string>
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>

@@ -2298,4 +2298,8 @@
 	<string name="screensaver_settings_summary_sleep">Во время зарядки</string>
 	<string name="screensaver_settings_when_to_dream">При заставке</string>
 	<string name="xiaomi_cloud_service">MiCloud</string>
+	<string name="perm_privacy_app_count_trust_summary">Приложения с доверием</string>
+    <string name="safe_relative">Связанные с безопасностью</string>
+	<string name="wifi_share_uploading">Загрузка</string>
+	<string name="wifi_share_list_empty">Нет доступных Wi-Fi</string>
 </resources>
