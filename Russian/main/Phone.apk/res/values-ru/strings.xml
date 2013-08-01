@@ -738,7 +738,7 @@
 	<string name="label_sdp">Разблокировка PIN-кода SIM-карты</string>
 	<string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
 	<string name="rc_unlock_failed">Неудачный запрос разблокировки RUIM.</string>
-	<string name="rc_unlock_success">RUIM усмешно разблокирован.</string>
+	<string name="rc_unlock_success">RUIM успешно разблокирован.</string>
 	<string name="readingSimContacts">Информация считывается с SIM-карты. Пожалуйста, подождите...</string>
 	<string name="reading_settings">Чтение настроек...</string>
 	<string name="regional_disable">Региональные новости отключены</string>
