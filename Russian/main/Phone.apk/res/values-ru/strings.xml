@@ -538,8 +538,8 @@
 	<string name="missed_call_notify_times_summary_miui">Количество напоминаний о пропущенном вызове.</string>
 	<string name="missed_call_notify_times_title_miui">Количество напоминаний</string>
 	<string name="missed_call_notify_twice_miui">2 раза</string>
-	<string name="mmiCancelled">Код MMI отменен</string>
-	<string name="mmiStarted">Код MMI запущен</string>
+	<string name="mmiCancelled">Запрос отменен</string>
+	<string name="mmiStarted">Выполняется запрос</string>
 	<string name="mobile_network_setting">Настройки мобильной сети</string>
 	<string name="mobile_networks">Настройки сотовой сети</string>
 	<string name="mobile_networks_miui">Мобильная сеть</string>
