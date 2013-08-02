@@ -38,8 +38,8 @@
      <string name="menu_add_into_contact">Добавить к существующему контакту</string>
      <string name="menu_add_new_contact">Новый контакт</string>
      <string name="menu_add_vip_custom">Добавить</string>
-     <string name="menu_bl_add_contact">Недавние контакты</string>
-     <string name="menu_bl_add_manual">Добавить вручную</string>
+     <string name="menu_bl_add_contact">Добавить контакты</string>
+     <string name="menu_bl_add_manual">Ввести номер</string>
      <string name="menu_bl_call_log">Заблокированные вызовы</string>
      <string name="menu_bl_clear">Очистить черный список</string>
      <string name="menu_bl_remove">Удалить из черного списка</string>
