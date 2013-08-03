@@ -350,7 +350,7 @@
 	<string name="empty_alert">Поле \"%s\" не может быть пустым</string>
 	<string name="empty_networks_list">Сети не найдены</string>
 	<string name="enable">Включить</string>
-	<string name="enable_antispam_strange_summary">>Не уведомлять о первом входящем вызове от неизвестного номера.</string>
+	<string name="enable_antispam_strange_summary">Не уведомлять о первом входящем вызове от неизвестного номера.</string>
 	<string name="enable_antispam_strange_title">Антиспам вызов</string>
 	<string name="enable_disable_administrative">Административные функции</string>
 	<string name="enable_disable_advertisements">Реклама</string>
