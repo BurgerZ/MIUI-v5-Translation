@@ -183,7 +183,7 @@
 	<string name="create_group_item_label">[Создать новую группу]</string>
 	<string name="customLabelPickerTitle">Название ярлыка</string>
 	<string name="custom_list_filter">Настройка отображения</string>
-	<string name="custom_nickname_hint">Введите титул (например: Мр. или Доктор)</string>
+	<string name="custom_nickname_hint">Введите ник</string>
 	<string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
 	<string name="date_time_set">Настроить</string>
 	<string name="date_year_toggle">Указать год</string>
@@ -509,12 +509,12 @@
 	<string name="menu_splitAggregate">Разделить</string>
 	<string name="menu_sync_remove">Удалить группу синхронизации</string>
 	<string name="menu_viewContact">Просмотреть контакт</string>
-	<string name="merge_contact_message">Дублирующихся контактов: %1$d /nОбъединено: %2$d</string>
+	<string name="merge_contact_message">Дублирующихся контактов: %1$d</string>
 	<string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
 	<string name="missing_name">(без имени)</string>
 	<string name="move_and_resize">Изменение размера и положения</string>
 	<string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
-	<string name="multipleContactDeleteConfirmationDetail">Удаление \"%s\" удалит всю информацию о этом контакте из аккаунтов</string>
+	<string name="multipleContactDeleteConfirmationDetail">\"%1$s\" содержит информацию в нескольких аккаунтах. Удаление \"%2$s\" приведет к очистке информации из всех аккаунтов.</string>
 	<string name="my_phone_not_provider_bluetooth">Телефон без поддержки Bluetooth</string>
 	<string name="my_phone_provider_bluetooth">Телефон с поддержкой Bluetooth</string>
 	<string name="nameLabelsGroup">Имя</string>
@@ -552,6 +552,7 @@
 	<string name="no_account_prompt">Подключите Контакты к аккаунту Google, чтобы:\n\n• Всегда иметь под рукой обновленные данные – на любом устройстве\n• Синхронизировать все контакты – Вы никогда не потеряете их</string>
 	<string name="no_contact_details">Нет других данных об этом контакте</string>
 	<string name="no_contact_in_other_phone">Нет контактов</string>
+	<string name="sina_weibo">Sina Weibo</string>
 	<string name="no_contacts_dialog_message">Человек не найден в Ваших контактах. Возможно он находится в списке контактов на SIM-карте. Для поиска , сделайте импорт всех контактов с SIM-карты.</string>
 	<string name="no_contacts_dialog_title">Контакт не найден</string>
 	<string name="no_contacts_selected">Контакты не выбраны</string>
@@ -694,7 +695,7 @@
 	<string name="cloud_antispam_mark">Отметить</string>
 	<string name="recent_updates">Недавние обновления</string>
 	<string name="redirect_calls_to_vm_confirm_message">Убедитесь, что ваш оператор поддерживает данную функцию. Возможно, вы не сможете получать вызовы от этого контакта.</string>
-	<string name="redirect_calls_to_vm_confirm_text">Включить</string>
+	<string name="redirect_calls_to_vm_confirm_text">Ок</string>
 	<string name="relationLabelsGroup">Отношения</string>
 	<string name="remind_btn_ignore">Позже</string>
 	<string name="remind_btn_sync_now">Сейчас</string>
@@ -773,7 +774,7 @@
 	<string name="send_to_voicemail_checkbox">Отправить звонки на голосовую почту</string>
 	<string name="separatorJoinAggregateAll">Все контакты</string>
 	<string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
-	<string name="service_provider">Поставщик услуг</string>
+	<string name="service_provider">Сервисные контакты</string>
 	<string name="set_default">Установить как основной</string>
 	<string name="share_error">Не удалось передать данные</string>
 	<string name="share_via">Отправить</string>

@@ -7,13 +7,14 @@
     <string name="network_unavaliable">Сеть недоступна. Пожалуйста, проверьте настройки сети.</string>
     <string name="service_unavailiable">Сеть недоступна. Повторите попытку позже.</string>
     <string name="data_error">Сервис недоступен. Повторите попытку позже.</string>
-    <string name="yellow_page_detail_title">О программе</string>
+    <string name="yellow_page_detail_title">Контакт</string>
     <string name="yellow_page_call_log_title">Журнал вызовов</string>
     <string name="yellow_page_website">Официальный сайт</string>
     <string name="menu_copy_text">Копировать</string>
     <string name="menu_call_ip_number">IP-вызов (набор %s)</string>
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="provider_tag">Данные</string>
+	<string name="all_numbers">Все номера</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
     <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>

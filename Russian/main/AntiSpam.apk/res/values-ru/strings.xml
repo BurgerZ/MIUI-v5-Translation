@@ -100,7 +100,9 @@
      <string name="st_mute_all">Не уведомлять о вызовах и сообщениях</string>
      <string name="st_mute_block">Не уведомлять о вызовах и блокировать сообщения</string>
      <string name="st_mute_title">Не уведомлять</string>
+	 <string name="st_other_settings_group">Другие</string>
      <string name="st_settings_name">Настройки</string>
+	 <string name="st_show_block_notification">Показывать уведомления</string>
      <string name="st_sms_group">Сообщения</string>
      <string name="tab_blacklist">Черный список</string>
      <string name="tab_block_log">Журнал</string>

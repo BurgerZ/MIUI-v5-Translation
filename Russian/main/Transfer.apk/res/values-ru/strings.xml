@@ -20,6 +20,7 @@
 	<string name="editmode_menu_delete">Удалить</string>
 	<string name="editmode_menu_share">Поделиться</string>
 	<string name="error_bad_file">Файл поврежден</string>
+	<string name="error_connect_service">Не удается подключиться</string>
 	<string name="error_download">Ошибка загрузки</string>
 	<string name="error_general">Ошибка</string>
 	<string name="error_network">Ошибка сети</string>
@@ -35,6 +36,7 @@
 	<string name="first_in_tip">Использование обмена файлами в первый раз</string>
 	<string name="goback">Назад</string>
 	<string name="guide_label">Инструкция</string>
+	<string name="trasfer_list">Список файлов</string>
 	<string name="history">История</string>
 	<string name="history_all">Вся история</string>
 	<string name="history_receive">История приема</string>
