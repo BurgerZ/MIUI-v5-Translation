@@ -39,7 +39,7 @@
   <string name="btopp_live_folder">Bluetooth received</string>
   <string name="calendar_file_incoming_title">Received calendar file</string>
   <string name="clear_history">Очистить историю</string>
-  <string name="clearing_history">Очистка истории...</string>
+  <string name="clearing_history">Очистка истории…</string>
   <string name="contact_file_incoming_title">Получен файл контактов</string>
   <string name="defaultname">Carkit</string>
   <string name="deleteAll_record">Удалить все записи</string>
@@ -53,14 +53,14 @@
   <string name="download_line2">Файл: %1$s</string>
   <string name="download_line3">Размер файла: %1$s</string>
   <string name="download_line4" />
-  <string name="download_line5">Получение файла...</string>
+  <string name="download_line5">Получение файла…</string>
   <string name="download_ok">Скрыть</string>
   <string name="download_succ_line5">Получение файла</string>
   <string name="download_succ_ok">Открыть</string>
   <string name="download_success">%1$s Получено.</string>
   <string name="download_title">Передача файлов</string>
-  <string name="enabling_progress_content">Включение bluetooth...</string>
-  <string name="enabling_progress_title">Пожалуйста подождите...</string>
+  <string name="enabling_progress_content">Включение bluetooth…</string>
+  <string name="enabling_progress_title">Пожалуйста подождите…</string>
   <string name="file_encrypted">The folder has been encrypted.</string>
   <string name="file_incoming_in_statistic">%1$s files save in dir: %2$s</string>
   <string name="file_incoming_in_statistic_lookup_button">Look up file</string>
@@ -145,7 +145,7 @@
   <string name="upload_fail_ok">Try again</string>
   <string name="upload_line1">To: \"%1$s\"</string>
   <string name="upload_line3">File Type: %1$s (%2$s)</string>
-  <string name="upload_line5">Sending file...</string>
+  <string name="upload_line5">Sending file…</string>
   <string name="upload_succ_line5">File sent</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Sent complete.</string>

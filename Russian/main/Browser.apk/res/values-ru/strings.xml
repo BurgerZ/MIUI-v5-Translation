@@ -110,9 +110,9 @@
 	<string name="contextmenu_add_contact">Добавить контакт</string>
 	<string name="contextmenu_copy">Копировать</string>
 	<string name="contextmenu_copylink">Копировать URL ссылки</string>
-	<string name="contextmenu_dial_dot">Набор номера...</string>
+	<string name="contextmenu_dial_dot">Набор номера…</string>
 	<string name="contextmenu_download_image">Сохранить изображение</string>
-	<string name="contextmenu_download_image_as">Сохранить изображение как...</string>
+	<string name="contextmenu_download_image_as">Сохранить изображение как…</string>
 	<string name="contextmenu_map">Карта</string>
 	<string name="contextmenu_openlink">Открыть</string>
 	<string name="contextmenu_openlink_newwindow">Открыть в новой вкладке</string>
@@ -139,11 +139,11 @@
 	<string name="download_dialog_file_length_hint_txt">Размер файла</string>
 	<string name="download_dialog_file_length_lessthan1kb">Менее 1 Кб</string>
 	<string name="download_dialog_file_length_nolength_error_txt">Не удалось получить данные</string>
-	<string name="download_dialog_file_length_nolength_txt">Получение...</string>
+	<string name="download_dialog_file_length_nolength_txt">Получение…</string>
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
 	<string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
-	<string name="download_pending">Начинается загрузка...</string>
+	<string name="download_pending">Начинается загрузка…</string>
 	<string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
 	<string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
 	<string name="dump_counters">Сбросить счетчики V8</string>
@@ -216,7 +216,7 @@
 	<string name="import_bookmarks_wizard_done">Готово</string>
 	<string name="import_bookmarks_wizard_next">Далее</string>
 	<string name="import_bookmarks_wizard_previous">Назад</string>
-	<string name="importing_favorite_files">Импорт данных...</string>
+	<string name="importing_favorite_files">Импорт данных…</string>
 	<string name="in_incognito">В режиме \"Инкогнито\" история не сохраняется</string>
 	<string name="instant_search_label">Google с Живым поиском (Лаборатория Google)</string>
 	<string name="is_first_history_item">Первая страница</string>
@@ -228,7 +228,7 @@
 	<string name="js_engine_flags">Установить флаги JS</string>
 	<string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения</string>
 	<string name="loadSuspendedTitle">Нет подключения</string>
-	<string name="loading_video">Загрузка видео...</string>
+	<string name="loading_video">Загрузка видео…</string>
 	<string name="local_bookmarks">Локальные</string>
 	<string name="location">Адрес</string>
 	<string name="max_tabs_warning">Достигнут предел количества вкладок</string>
@@ -422,13 +422,13 @@
 	<string name="pref_volume_key_operation">Функция клавиш громкости</string>
 	<string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
 	<string name="preview">Предварительный просмотр</string>
-	<string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+	<string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
 	<string name="quicklinks_management">Полезные сайты</string>
 	<string name="readmode_already_add_to_bookshelf">Подключено к книжной полке</string>
 	<string name="readmode_login">Войти</string>
 	<string name="readmode_login_message">Перед чтением небходимо войти в аккаунт</string>
 	<string name="readmode_page_load_error">Ошибка загрузки, попробуйте снова.</string>
-	<string name="readmode_page_loading">Загрузка...</string>
+	<string name="readmode_page_loading">Загрузка…</string>
 	<string name="readmode_pay">Оплатить главу</string>
 	<string name="readmode_pay_message">Для чтения следующих глав необходимо оплатить доступ</string>
 	<string name="readmode_reach_last_page">Достигнута последняя страница</string>
@@ -454,7 +454,7 @@
 	<string name="save_file_already_exist_alert_message">Файл уже существует. \nПерезаписать его?</string>
 	<string name="save_file_already_exist_alert_title">Внимание</string>
 	<string name="save_to_bookmarks">Добавить закладку</string>
-	<string name="saving_snapshot">Сохраняется...</string>
+	<string name="saving_snapshot">Сохраняется…</string>
 	<string name="search">Поиск</string>
 	<string name="search_baidu">Baidu</string>
 	<string name="search_bing">Bing</string>
@@ -499,7 +499,7 @@
 	<string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
 	<string name="stop">Стоп</string>
 	<string name="stop_loading">Стоп</string>
-	<string name="stopping">Остановка...</string>
+	<string name="stopping">Остановка…</string>
 	<string name="storage_internal">Внутренняя память</string>
 	<string name="storage_sd_card">SD-карта</string>
 	<string name="storage_usb">USB-накопитель</string>
@@ -512,7 +512,7 @@
 	<string name="tab_quicklinks">Ссылки</string>
 	<string name="tab_snapshots">Сохраненные страницы</string>
 	<string name="tab_yellowpage">Категории</string>
-	<string name="title_bar_loading">Загрузка...</string>
+	<string name="title_bar_loading">Загрузка…</string>
 	<string name="too_many_subwindows_dialog_message">Можно открыть только одно всплывающее окно</string>
 	<string name="too_many_subwindows_dialog_title">Всплывающее окно уже открыто</string>
 	<string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
@@ -537,7 +537,7 @@
 	<string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
 	<string name="download">Загрузка</string>
     <string name="loading_rest_candidates">Загрузка остальных кандидатов</string>
-    <string name="downloading">Загрузка...</string>
+    <string name="downloading">Загрузка…</string>
     <string name="downloaded">Загружено</string>
     <string name="disk_space_used">Используется: %1$s</string>
     <string name="disk_space_selected">Выбрано: %1$s</string>

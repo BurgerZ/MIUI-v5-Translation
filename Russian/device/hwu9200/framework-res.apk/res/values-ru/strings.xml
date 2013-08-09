@@ -64,9 +64,9 @@
   <string name="am">AM</string>
   <string name="android_system_label">Система Android</string>
   <string name="android_upgrading_apk">Оптимизация приложений %1$d из %2$d</string>
-  <string name="android_upgrading_complete">Окончание загрузки...</string>
-  <string name="android_upgrading_starting_apps">Запуск приложений...</string>
-  <string name="android_upgrading_title">Обновление Android...</string>
+  <string name="android_upgrading_complete">Окончание загрузки…</string>
+  <string name="android_upgrading_starting_apps">Запуск приложений…</string>
+  <string name="android_upgrading_title">Обновление Android…</string>
   <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -251,7 +251,7 @@
   <string name="extmedia_format_button_format">Формат</string>
   <string name="extmedia_format_message">Отформатировать карту SD? Все данные, находящиеся на карте, будут уничтожены</string>
   <string name="extmedia_format_title">Очистить SD-карту</string>
-  <string name="extract_edit_menu_button">Изменить...</string>
+  <string name="extract_edit_menu_button">Изменить…</string>
   <string name="factorytest_failed">Не удалось провести стандартный тест</string>
   <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
   <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app</string>
@@ -374,7 +374,7 @@
   <string name="launch_warning_replace">Приложение %1$s выполняется</string>
   <string name="launch_warning_title">Приложение перенаправлено</string>
   <string name="list_delimeter">", "</string>
-  <string name="loading">Загрузка...</string>
+  <string name="loading">Загрузка…</string>
   <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
   <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
   <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
@@ -391,7 +391,7 @@
   <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
 Перейдите на страницу "</string>
-  <string name="lockscreen_glogin_checking_password">Проверка...</string>
+  <string name="lockscreen_glogin_checking_password">Проверка…</string>
   <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
   <string name="lockscreen_glogin_instructions">Для разблокировки войдите с помощью своего аккаунта Google</string>
   <string name="lockscreen_glogin_invalid_input">Неверное имя пользователя или пароль</string>
@@ -419,7 +419,7 @@
   <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
   <string name="lockscreen_sim_puk_locked_instructions">См. руководство пользователя или свяжитесь со службой поддержки</string>
   <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты...</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
   <string name="lockscreen_sound_off_label">Отключить звук</string>
   <string name="lockscreen_sound_on_label">Включить звук</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
@@ -952,8 +952,8 @@
   <string name="preposition_for_date">%s</string>
   <string name="preposition_for_time">в %s</string>
   <string name="preposition_for_year">в %s г.</string>
-  <string name="progress_erasing">Очистка SD-карты...</string>
-  <string name="progress_unmounting">Отключение SD-карты...</string>
+  <string name="progress_erasing">Очистка SD-карты…</string>
+  <string name="progress_unmounting">Отключение SD-карты…</string>
   <string name="radiobutton_not_selected">не выбрано</string>
   <string name="radiobutton_selected">выбрано</string>
   <string name="recent_tasks_title">Недавние</string>
@@ -1035,7 +1035,7 @@
   <string name="select_character">Введите символ</string>
   <string name="select_input_method">Выберите способ ввода</string>
   <string name="sendText">Выберите действие для текста</string>
-  <string name="sending">Отправка...</string>
+  <string name="sending">Отправка…</string>
   <string name="serial_number">Серийный номер:</string>
   <string name="serviceClassData">Данные</string>
   <string name="serviceClassDataAsync">Асинхр.</string>
@@ -1061,7 +1061,7 @@
   <string name="short_format_month">%b</string>
   <string name="shutdown_confirm">Телефон будет выключен.</string>
   <string name="shutdown_confirm_question">Завершить работу?</string>
-  <string name="shutdown_progress">Выключение...</string>
+  <string name="shutdown_progress">Выключение…</string>
   <string name="silent_mode">Режим без звука</string>
   <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство</string>
   <string name="sim_added_title">SIM-карта добавлена</string>

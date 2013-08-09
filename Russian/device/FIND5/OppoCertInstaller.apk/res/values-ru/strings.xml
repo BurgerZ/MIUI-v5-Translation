@@ -3,7 +3,7 @@
     <string name="app_name">Программа установки сертификата</string>
     <string name="pick_file_title">Выбор сертификата</string>
     <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
-    <string name="extracting_pkcs12">Загрузка...</string>
+    <string name="extracting_pkcs12">Загрузка…</string>
     <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
     <string name="name_credential_dialog_title">Укажите название сертификата</string>
     <string name="credential_name">Название сертификата:</string>

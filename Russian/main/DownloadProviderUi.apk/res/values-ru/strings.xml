@@ -41,7 +41,7 @@
 	<string name="download_title_sorted_by_date">Загрузки – по дате</string>
 	<string name="download_title_sorted_by_size">Загрузки – по размеру</string>
 	<string name="download_when_network_connected">Будет использоваться также мобильная сеть</string>
-	<string name="downloads_operating">Загрузка...</string>
+	<string name="downloads_operating">Загрузка…</string>
 	<string name="editmode_menu_delete">Удалить</string>
 	<string name="editmode_menu_share">Отправить</string>
 	<string name="keep_queued_download">Оставить</string>

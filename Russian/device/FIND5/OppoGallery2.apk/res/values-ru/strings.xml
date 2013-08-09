@@ -16,10 +16,10 @@
     <string name="video_camera_label">Видеокамера</string>
     <string name="gallery_camera_bucket_name">Снимки, сделанные камерой</string>
     <string name="gallery_camera_videos_bucket_name">Видео</string>
-    <string name="wait">Подождите...</string>
+    <string name="wait">Подождите…</string>
     <string name="no_storage">Вставьте SD-карту перед использованием камеры.</string>
     <string name="not_enough_space">Ваша SD-карта заполнена.</string>
-    <string name="preparing_sd">Подготовка карты SD...</string>
+    <string name="preparing_sd">Подготовка карты SD…</string>
     <string name="access_sd_fail">Нет доступа к SD-карте.</string>
     <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
     <string name="review_play">Воспроизвести</string>
@@ -87,10 +87,10 @@
     <string name="no_picture_to_share">Нет ни одного изображения.</string>
     <string name="no_video_to_share">Нет ни одного видео.</string>
     <string name="pano_too_fast_prompt">Очень быстро</string>
-    <string name="pano_dialog_prepare_preview">Обработка...</string>
+    <string name="pano_dialog_prepare_preview">Обработка…</string>
     <string name="pano_dialog_panorama_failed">Не удалось сохранить файл.</string>
     <string name="pano_dialog_title">Панорама</string>
-    <string name="pano_capture_indication">Создание панорамы...</string>
+    <string name="pano_capture_indication">Создание панорамы…</string>
     <string name="pano_dialog_waiting_previous">Обработка предыдущего файла…</string>
     <string name="pano_review_saving_indication_str">Сохранение…</string>
     <string name="tap_to_focus">Нажмите для фокусировки.</string>
@@ -202,12 +202,12 @@
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="movie_view_label">Видеопроигрыватель</string>
     <string name="loading_video">Загрузка видео…</string>
-    <string name="loading_image">Загрузка изображения...</string>
-    <string name="loading_account">Загрузка аккаунта...</string>
+    <string name="loading_image">Загрузка изображения…</string>
+    <string name="loading_account">Загрузка аккаунта…</string>
     <string name="resume_playing_title">Продолжение просмотра видео</string>
     <string name="resume_playing_message">Продолжить воспроизведение с %s?</string>
     <string name="resume_playing_resume">Продолжить воспроизведение</string>
-    <string name="loading">Загрузка...</string>
+    <string name="loading">Загрузка…</string>
     <string name="fail_to_load">Не загружено</string>
     <string name="fail_to_load_image">Не удалось загрузить изображение</string>
     <string name="no_thumbnail">Нет уменьшенного изображения</string>
@@ -215,7 +215,7 @@
     <string name="crop_save_text">ОК</string>
     <string name="ok">ОК</string>
     <string name="multiface_crop_help">Нажмите на лицо, чтобы начать.</string>
-    <string name="saving_image">Сохранение картинки...</string>
+    <string name="saving_image">Сохранение картинки…</string>
     <string name="save_error">Изображение не сохранено.</string>
     <string name="crop_label">Обрезать фотографию</string>
     <string name="select_image">Выбрать фото</string>
@@ -225,7 +225,7 @@
     <string name="select_group">Выбрать группы</string>
     <string name="set_image">Установить картинку как</string>
     <string name="set_wallpaper">Установить обои</string>
-    <string name="wallpaper">Установка обоев...</string>
+    <string name="wallpaper">Установка обоев…</string>
     <string name="camera_setas_wallpaper">Обои</string>
     <string name="delete">Удалить</string>
     <string name="deleting">Удаление</string>
@@ -247,7 +247,7 @@
     <string name="no_such_item">Элемент не найден.</string>
     <string name="edit">Редактировать</string>
     <string name="process_caching_requests">Обработка запросов на кэширование</string>
-    <string name="caching_label">Кэширование...</string>
+    <string name="caching_label">Кэширование…</string>
     <string name="crop_action">Обрезать</string>
     <string name="set_as">Установить как</string>
     <string name="video_err">Не удалось воспроизвести видео.</string>
@@ -354,7 +354,7 @@
     <string name="notfication_down_failed">Загрузка не выполнена</string>
     <string name="auto_upload_warning">При подключении к Wi-Fi сети автоматически выкладывает фотографии, сделанные вами</string>
     <string name="auto_upload_dialog_title">Автоматически отправлять фотографии</string>
-    <string name="status_download">Загрузка...</string>
+    <string name="status_download">Загрузка…</string>
     <string name="status_upload">Загрузка</string>
     <string name="status_pending">Ожидает</string>
     <string name="status_pause">Приостановлено</string>
@@ -392,7 +392,7 @@
     <string name="no_storage_hint">Память недоступна</string>
     <string name="folder_phonestorage">Память телефона</string>
     <string name="task_busy">Телефон занят, пожалуйста, попробуйте позже.</string>
-    <string name="oppo_cloud_loading_dialog_message">Идет загрузка...</string>
+    <string name="oppo_cloud_loading_dialog_message">Идет загрузка…</string>
     <string name="wifi_disconnected_title">Wi-fi отключен</string>
     <string name="wifi_disconnected_content">Подключение по сети Wi-fi разорвано, использовать GPRS интернет для передачи альбома?</string>
     <string name="oppo_cloud_nopicture1">Фото/видео отсутствует</string>

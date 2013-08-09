@@ -102,7 +102,7 @@
     <string name="notif_file_not_exist">Видеофайл не существует.</string>
     <string name="usb_mode">Память не доступна</string>
     <string name="no_video">Нет видео</string>
-    <string name="searching_dlna_msg">Поиск DLNA устройства...</string>
+    <string name="searching_dlna_msg">Поиск DLNA устройства…</string>
     <string name="set_wlan_string">Установить Wi-Fi</string>
     <string name="alart_start_wlan_string">Для использования режима DLNA необходимо подключение по Wi-Fi сети. Удостоверьтесь что телефон и DLNA устройство подключено к одной и той же точке доступа.</string>
     <string name="choose_dlna_device">Выбрать DLNA устройство</string>

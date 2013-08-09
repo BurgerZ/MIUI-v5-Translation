@@ -37,7 +37,7 @@
   <string name="include_default_destination">По умолчанию назначение</string>
   <string name="invalid_character">Неверный символ</string>
   <string name="max_char_reached_msg">Достигнуто максимальное количество символов</string>
-  <string name="media_scanner_running">Запущено сканирование...</string>
+  <string name="media_scanner_running">Запущено сканирование…</string>
   <string name="menu_kodak">Kodak</string>
   <string name="menu_snapfish">Snapfish</string>
   <string name="name_is_empty">Имя пустое</string>
@@ -46,7 +46,7 @@
   <string name="no_sdcard">SD карта не обнаружена</string>
   <string name="no_way_to_share_image">Нет подходящего приложения</string>
   <string name="no_way_to_share_video">Нет подходящего приложения</string>
-  <string name="preparing_sd">Подготовка SD карты...</string>
+  <string name="preparing_sd">Подготовка SD карты…</string>
   <string name="remove_dialog">Вы уверены, что хотите удалить?</string>
   <string name="remove_dialog_canceled">Отменено</string>
   <string name="remove_dialog_removed">Удалено</string>

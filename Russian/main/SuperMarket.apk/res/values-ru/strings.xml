@@ -28,7 +28,7 @@
 	<string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
 	<string name="comment_name_default">Пользователь %1$s</string>
 	<string name="comment_publish">Отправить</string>
-	<string name="comment_sending">Отправка...</string>
+	<string name="comment_sending">Отправка…</string>
 	<string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован, включить его сейчас?</string>
 	<string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован, пожалуйста, активируйте и попробуйте еще раз</string>
 	<string name="comment_upload_data_invalid">Извините, комментирование является недействительным</string>
@@ -43,7 +43,7 @@
 	<string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
 	<string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
 	<string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
-	<string name="connecting">Подключение...</string>
+	<string name="connecting">Подключение…</string>
 	<string name="data_save_mode_tip">Изображения отключены</string>
 	<string name="delta_update">Обновление %1$s</string>
 	<string name="description_info">Описание</string>
@@ -61,8 +61,8 @@
 	<string name="first_recommend_download">Установить все</string>
 	<string name="first_recommend_enter">Пропустить</string>
 	<string name="good_comments">Хорошие</string>
-	<string name="header_processing">Идет скачивание...</string>
-	<string name="header_waiting">Ожидание скачивания...</string>
+	<string name="header_processing">Идет скачивание…</string>
+	<string name="header_waiting">Ожидание скачивания…</string>
 	<string name="hot_rank_tag">Топ рейтинга</string>
 	<string name="install">Скачать</string>
 	<string name="install_all_description">Установить приложения %1$s и %2$s сейчас？</string>
@@ -96,13 +96,13 @@
 	<string name="kilobytes_unit">%1$s KБ</string>
 	<string name="launch">Запустить</string>
 	<string name="launch_failed_text">Ошибка запуска %1$s</string>
-	<string name="loading_app_detail">Загрузка сведений о приложении...</string>
-	<string name="loading_app_list">Загрузка списка приложений...</string>
-	<string name="loading_category_list">Загрузка категорий...</string>
-	<string name="loading_collection_list">Загрузка списка коллекций...</string>
-	<string name="loading_installed_list">Загрузка установленных приложений...</string>
-	<string name="loading_search_result">Загрузка результатов поиска...</string>
-	<string name="loading_update_list">Загрузка списка обновлений...</string>
+	<string name="loading_app_detail">Загрузка сведений о приложении…</string>
+	<string name="loading_app_list">Загрузка списка приложений…</string>
+	<string name="loading_category_list">Загрузка категорий…</string>
+	<string name="loading_collection_list">Загрузка списка коллекций…</string>
+	<string name="loading_installed_list">Загрузка установленных приложений…</string>
+	<string name="loading_search_result">Загрузка результатов поиска…</string>
+	<string name="loading_update_list">Загрузка списка обновлений…</string>
 	<string name="login_active">Активировать</string>
 	<string name="login_active_title">Ваш аккаунт не активирован. Хотите активировтаь его сейчас?</string>
 	<string name="login_download_title">Вход в аккаунт Xiaomi</string>
@@ -143,12 +143,12 @@
 	<string name="notif_install_failed">Сбой установки %1$s</string>
 	<string name="notif_install_successful">%1$s успешно установлено</string>
 	<string name="notif_install_successful_default">%1$s установлено</string>
-	<string name="notif_installing">Установка “%1$s”...</string>
+	<string name="notif_installing">Установка “%1$s”…</string>
 	<string name="notif_summary_auto_update_failed">Нажмите сюда для продолжения.</string>
 	<string name="notif_summary_auto_update_successful">Обновление %1$s приложений завершено.</string>
 	<string name="notif_title_update">Доступно обновление для %1$s!</string>
 	<string name="paused">Пауза</string>
-	<string name="pending">Ожидание...</string>
+	<string name="pending">Ожидание…</string>
 	<string name="permission_button">Необходимые разрешения (%1$s)</string>
 	<string name="permission_extra">Другие разрешения</string>
 	<string name="permission_risky_money">Отправка SMS</string>
@@ -201,8 +201,8 @@
 	<string name="update_date">%3$s, %2$s, %1$s</string>
 	<string name="update_date_label">Загружен：</string>
 	<string name="update_info">Изменения</string>
-	<string name="verifying">Проверка на вирусы...</string>
+	<string name="verifying">Проверка на вирусы…</string>
 	<string name="version_label">Версия:</string>
 	<string name="version_name">Версия: %1$s</string>
-	<string name="loading_comment_list">Загрузка комментариев...</string>
+	<string name="loading_comment_list">Загрузка комментариев…</string>
 </resources>

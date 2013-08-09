@@ -37,7 +37,7 @@
 	<string name="download_current_rom">Загрузить прошивку</string>
 	<string name="download_ota_rom">Обновление (%s)</string>
 	<string name="download_whole_rom">Полный пакет (%s)</string>
-	<string name="downloading_description">Загрузка...</string>
+	<string name="downloading_description">Загрузка…</string>
 	<string name="emegency_build">Сборка:</string>
 	<string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
 	<string name="expect">4. Ожидания</string>
@@ -110,7 +110,7 @@
 	<string name="sign_in_info_total_more">Рейтинг обновления: %1$s \nБолее %2$s пользователей установили MIUI %3$s.</string>
     <string name="sign_in_info_rank_more">Рейтинг обновления: %1$s \nБолее %2$s пользователей установили MIUI %3$s.</string>
     <string name="sina_share_fail">Ошибка отправки!</string>
-    <string name="sina_share_pendding">Отправка...</string>
+    <string name="sina_share_pendding">Отправка…</string>
     <string name="sina_share_success">Отправка завершена!</string>
     <string name="sina_token_expired_warning">Срок аккаунта Weibo истек, переподключитесь.</string>
     <string name="sina_token_invalid_warning">Ошибка аккаунта Weibo, переподключитесь.</string>
@@ -118,7 +118,7 @@
 	<string name="start_update">Начать обновление</string>
 	<string name="submit">Отправить</string>
 	<string name="submit_fail">Ошибка отправки</string>
-	<string name="submit_progress">Отправка...</string>
+	<string name="submit_progress">Отправка…</string>
 	<string name="submit_success">Отправлено!</string>
 	<string name="system_backup_apply_helper">"Устройство автоматически перезагрузится после обновления. "</string>
 	<string name="system_backup_ask">Спрашивать снова</string>

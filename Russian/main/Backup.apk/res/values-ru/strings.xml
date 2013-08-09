@@ -13,7 +13,7 @@
 	<string name="auto_backup_date">Частота копирования</string>
 	<string name="auto_backup_only_wifi">Только по Wi-Fi</string>
 	<string name="auto_backup_open">Автокопирование</string>
-	<string name="auto_backup_progress">Создание авто-бэкапа, пожалуйста подождите...</string>
+	<string name="auto_backup_progress">Создание авто-бэкапа, пожалуйста подождите…</string>
 	<string name="auto_backup_select_user_apps">Выбор приложений</string>
 	<string name="auto_backup_selected_user_apps">Выбранные приложения</string>
 	<string name="auto_backup_setting">Настройка бэкапа по расписанию</string>
@@ -33,7 +33,7 @@
 	<string name="backup_items_app_tailer">" - данные приложений "</string>
 	<string name="backup_items_sysdata_tailer">" - системные данные, "</string>
 	<string name="backup_new">Новый</string>
-	<string name="backup_progress">Выполняется резервная копия...</string>
+	<string name="backup_progress">Выполняется резервная копия…</string>
 	<string name="backup_recently">(Последний)</string>
 	<string name="backup_report">Отчет</string>
 	<string name="backup_update">Обновить</string>
@@ -59,7 +59,7 @@
 	<string name="cloud_restore_guide">Нажмите кнопку \"Начать\" для восстановления данных\nВы можете восстановить %s в бэкап</string>
 	<string name="cloud_restore_title">Восстановление</string>
 	<string name="cloud_restore_window_title">Восстановление из облака</string>
-	<string name="cloud_search">Поиск...</string>
+	<string name="cloud_search">Поиск…</string>
 	<string name="compute_backup_info">Получение информации резервного копирования</string>
 	<string name="compute_delete_contact_info">Удаление информации контактов</string>
 	<string name="contact_title">Контакты</string>
@@ -68,7 +68,7 @@
 	<string name="data_no_enough_space">Не хватает памяти</string>
 	<string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на внутренней памяти</string>
 	<string name="delete">Удалить</string>
-	<string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
+	<string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите…</string>
 	<string name="delete_failed_backup_confirm">Резервная копия имеет ошибки. Не возможно восстановить.</string>
 	<string name="disable_encrypt_title">Отключить шифрование</string>
 	<string name="enable_encrypt">Включить сейчас</string>
@@ -107,9 +107,9 @@
 	<string name="nothing_searched">Ничего не найдено</string>
 	<string name="progress_backup_hint">Резервное копирование</string>
 	<string name="progress_restore_hint">Восстановление данных</string>
-	<string name="prompt_reading">Чтение...</string>
-	<string name="prompt_sending">Отправка...</string>
-	<string name="prompt_writing">Запись...</string>
+	<string name="prompt_reading">Чтение…</string>
+	<string name="prompt_sending">Отправка…</string>
+	<string name="prompt_writing">Запись…</string>
 	<string name="read_encrypt_fail">Не удалось расшифровать</string>
 	<string name="refresh">Обновление</string>
 	<string name="restore">Восстановление</string>
@@ -121,7 +121,7 @@
 	<string name="restore_failed">Ошибка восстановления</string>
 	<string name="restore_finished">Восстановление завершено</string>
 	<string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
-	<string name="restore_progress">Идет восстановление данных...</string>
+	<string name="restore_progress">Идет восстановление данных…</string>
 	<string name="restore_report">Журнал восстановления</string>
 	<string name="restore_telephony_hit">Примечание: Процесс восстановления перезагрузит приложение</string>
 	<string name="retry">Повторить</string>
@@ -149,7 +149,7 @@
 	<string name="succeed">Успешно завершено</string>
 	<string name="system_backup">Бэкап</string>
 	<string name="system_backup_info">Настройки всех системных приложений</string>
-	<string name="task_backup_cancel_progress">Остановка процесса...</string>
+	<string name="task_backup_cancel_progress">Остановка процесса…</string>
 	<string name="task_backup_finished_local">Резервное копирование завершено!</string>
 	<string name="task_canceled">Отменено</string>
 	<string name="task_canceled_all_local">Все задачи отменены</string>
@@ -161,11 +161,11 @@
 	<string name="task_finished">Завершено</string>
 	<string name="task_local_backup_cancel_dialog">Резервное копирование не было завершено.\nНажмите кнопку OK, чтобы удалить эту резервную копию</string>
 	<string name="task_pending">В ожидании</string>
-	<string name="task_post_running">Пост-обработка...</string>
+	<string name="task_post_running">Пост-обработка…</string>
 	<string name="task_pre_running">Подготовка</string>
 	<string name="task_progress">Прогресс</string>
 	<string name="task_restore_cancel_dialog">Вы собираетесь отменить операцию.\nЭто может привести к потере данных!</string>
-	<string name="task_restore_cancel_progress">Остановка процесса...</string>
+	<string name="task_restore_cancel_progress">Остановка процесса…</string>
 	<string name="task_restore_finished_local">Восстановление завершено</string>
 	<string name="task_restore_none">Не нуждается в восстановлении</string>
 	<string name="task_running_backup_dialog">Резервное копирование в процессе, нажмите кнопку OK для просмотра.</string>

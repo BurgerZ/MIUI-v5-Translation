@@ -50,25 +50,25 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Сканирование...</item>
-        <item>Подключение...</item>
-        <item>Авторизация...</item>
-        <item>Получение IP-адреса...</item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
         <item>Подключено</item>
         <item>Условно</item>
-        <item>Отключение...</item>
+        <item>Отключение…</item>
         <item>Отключено</item>
         <item>Не удалось соединиться</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Сканирование...</item>
-        <item>Подключение к %1$s...</item>
-        <item>Авторизация на %1$s...</item>
-        <item>Получение IP-адреса от %1$s...</item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Авторизация на %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
         <item>Подключено к %1$s</item>
         <item>Условно</item>
-        <item>Отключение от %1$s...</item>
+        <item>Отключение от %1$s…</item>
         <item>Отключено</item>
         <item>Не удалось отключиться</item>
     </string-array>
@@ -222,8 +222,8 @@
     </string-array>
     <string-array name="vpn_states">
         <item>Отключено</item>
-        <item>Инициализация...</item>
-        <item>Подключение...</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
         <item>Подключено</item>
         <item>Таймаут</item>
         <item>Подключение не удалось</item>

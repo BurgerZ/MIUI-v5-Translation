@@ -17,7 +17,7 @@
 	<string name="account_security_dialog_title">Обновления безопасности</string>
 	<string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android</string>
 	<string name="account_security_title">Безопасность устройства</string>
-	<string name="account_security_waiting_policy_key_message">%s необходима информация настройки безопасности с сервера. Пожалуйста, ждите...</string>
+	<string name="account_security_waiting_policy_key_message">%s необходима информация настройки безопасности с сервера. Пожалуйста, ждите…</string>
 	<string name="account_settings_action">Настройки аккаунта</string>
 	<string name="account_settings_background_attachments_label">Автозагрузка файлов</string>
 	<string name="account_settings_background_attachments_summary">Автоматически загружать прикрепленные файлы при активном Wi-Fi соединении.</string>
@@ -76,9 +76,9 @@
 	<string name="account_setup_basics_manual_setup_action">Вручную</string>
 	<string name="account_setup_basics_password_label">Пароль</string>
 	<string name="account_setup_basics_title">Добавление аккаунта</string>
-	<string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений...</string>
-	<string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений...</string>
-	<string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта...</string>
+	<string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений…</string>
+	<string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
+	<string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
 	<string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
 	<string name="account_setup_exchange_device_id_label">Идентификатор мобильного устройства</string>
 	<string name="account_setup_exchange_headline">Настройки сервера</string>
@@ -217,14 +217,14 @@
 	<string name="contextmenu_add_contact">Добавить контакт</string>
 	<string name="contextmenu_copy">Копировать</string>
 	<string name="contextmenu_copylink">Скопируйте URL-адрес</string>
-	<string name="contextmenu_dial_dot">Набрать...</string>
+	<string name="contextmenu_dial_dot">Набрать…</string>
 	<string name="contextmenu_feedback">Отправить отзыв</string>
 	<string name="contextmenu_help">Справка</string>
 	<string name="contextmenu_map">Карты</string>
 	<string name="contextmenu_openlink">Открыть в браузере</string>
 	<string name="contextmenu_send_mail">Отправить письмо</string>
 	<string name="contextmenu_sharelink">Отправить ссылку</string>
-	<string name="contextmenu_sms_dot">Сообщение...</string>
+	<string name="contextmenu_sms_dot">Сообщение…</string>
 	<string name="copy_email">Скопировать адрес эл. почты</string>
 	<string name="copy_number">Скопировать номер телефона</string>
 	<string name="create_action">Создать</string>
@@ -247,8 +247,8 @@
 	<string name="dialog_sync_all_canceled">Команда \"Синхронизировать все\" отменена</string>
 	<string name="dialog_sync_all_error_title">Синхронизировать все</string>
 	<string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено</string>
-	<string name="dialog_sync_all_preparing">Подготовка %1$d фото и %2$d видео к загрузке...</string>
-	<string name="dialog_sync_all_scanning">Поиск файлов...</string>
+	<string name="dialog_sync_all_preparing">Подготовка %1$d фото и %2$d видео к загрузке…</string>
+	<string name="dialog_sync_all_scanning">Поиск файлов…</string>
 	<string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже</string>
 	<string name="disable_admin_warning">Внимание! Отключение прав на администрирование вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами.</string>
 	<string name="discard_action">Отменить</string>
@@ -268,7 +268,7 @@
 	<string name="forward_action">Переслать</string>
 	<string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
 	<string name="forward_download_failed_title">Не удалось переслать вложение</string>
-	<string name="gal_searching_fmt">Поиск %s...</string>
+	<string name="gal_searching_fmt">Поиск %s…</string>
 	<string name="general_preference_auto_advance_dialog_title">Переходить</string>
 	<string name="general_preference_auto_advance_label">Автопереход</string>
 	<string name="general_preference_auto_advance_message_list">К списку сообщений</string>
@@ -385,7 +385,7 @@
 	<string name="message_view_message_details_dialog_title">Детали</string>
 	<string name="message_view_move_to_newer">Следующее сообщение</string>
 	<string name="message_view_move_to_older">Предыдущее сообщение</string>
-	<string name="message_view_parse_message_toast">Сообщение открывается...</string>
+	<string name="message_view_parse_message_toast">Сообщение открывается…</string>
 	<string name="message_view_show_details">Показать сведения</string>
 	<string name="message_view_show_invite_action">Пригласить</string>
 	<string name="message_view_show_message_action">Сообщение</string>
@@ -394,7 +394,7 @@
 	<string name="message_view_status_attachment_saved">Вложение сохранено как %s</string>
 	<string name="message_view_subject_label">Тема:</string>
 	<string name="message_view_to_label">На:</string>
-	<string name="more_string">еще %1$s...</string>
+	<string name="more_string">еще %1$s…</string>
 	<string name="more_than_999">более 999</string>
 	<string name="move_action">Переместить</string>
 	<string name="move_to_folder_dialog_title">Переместить в папку</string>
@@ -507,7 +507,7 @@
 	<string name="settings_action">Настройки</string>
 	<string name="settings_activity_title">Настройки</string>
 	<string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
-	<string name="status_loading_messages">Загрузка сообщений...</string>
+	<string name="status_loading_messages">Загрузка сообщений…</string>
 	<string name="status_network_error">Ошибка подключения</string>
 	<string name="subject_hint">Тема:</string>
 	<string name="summary_menu_show_finished">Показать завершенные загрузки</string>
@@ -546,7 +546,7 @@
 	<string name="waitinf_for_sync_message_1">Ожидание синхронизации</string>
 	<string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся</string>
 	<string name="widget_all_mail">Все входящие</string>
-	<string name="widget_loading">Загрузка...</string>
+	<string name="widget_loading">Загрузка…</string>
 	<string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты</string>
 	<string name="widget_no_mailboxes">Этот аккаунт не синхронизирован, попробуйте позже.</string>
 	<string name="widget_other_views">Нажмите, чтобы изменить</string>

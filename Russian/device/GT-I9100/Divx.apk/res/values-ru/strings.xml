@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="all_licenses_are_clearing">Удаление...</string>
+  <string name="all_licenses_are_clearing">Удаление…</string>
   <string name="all_licenses_are_removed">Очищенный</string>
   <string name="app_name">Настройки лицензии</string>
   <string name="clear_license">Очистить лицензию</string>

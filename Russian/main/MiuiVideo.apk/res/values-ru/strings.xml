@@ -9,7 +9,7 @@
 	<string name="app_name">Онлайн видео</string>
 	<string name="area_colon">Страна:</string>
 	<string name="authenticated_failed">Ошибка аутентификации</string>
-	<string name="authenticating">Авторизация...</string>
+	<string name="authenticating">Авторизация…</string>
 	<string name="authenticating_manually">Ошибка аутентификации</string>
 	<string name="brief_intro">Краткое введение</string>
 	<string name="bu">Отделение</string>
@@ -49,7 +49,7 @@
 	<string name="jni_res_unkown_error">Неизвестная ошибка</string>
 	<string name="load_data_failed">Не удалось получить данные, проверьте сеть</string>
 	<string name="loading">" "</string>
-	<string name="loading_review">Загрузка комментариев...</string>
+	<string name="loading_review">Загрузка комментариев…</string>
 	<string name="loading_review_failed">Ошибка загрузки</string>
 	<string name="loading_video">" "</string>
 	<string name="local">Локальные</string>

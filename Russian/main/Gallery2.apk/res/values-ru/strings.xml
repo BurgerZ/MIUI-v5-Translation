@@ -10,7 +10,7 @@
   <string name="appwidget_title">Фотогалерея</string>
   <string name="auto">Авто</string>
   <string name="autofix">Авто</string>
-  <string name="caching_label">Кэширование...</string>
+  <string name="caching_label">Кэширование…</string>
   <string name="camera_connected">Камера подключена</string>
   <string name="camera_disconnected">Камера отключена</string>
   <string name="camera_setas_wallpaper">Обои</string>
@@ -71,11 +71,11 @@
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
   <string name="iso">ISO</string>
-  <string name="loading">Идет загрузка...</string>
-  <string name="loading_account">Загрузка аккаунта...</string>
+  <string name="loading">Идет загрузка…</string>
+  <string name="loading_account">Загрузка аккаунта…</string>
   <string name="loading_failure">Не удалось загрузить фото</string>
-  <string name="loading_image">Загрузка изображения...</string>
-  <string name="loading_video">Загрузка видео...</string>
+  <string name="loading_image">Загрузка изображения…</string>
+  <string name="loading_video">Загрузка видео…</string>
   <string name="location">Местоположение</string>
   <string name="locations">Места</string>
   <string name="lomoish">Ломо</string>
@@ -116,7 +116,7 @@
   <string name="save_error">Изображение не сохранено.</string>
   <string name="save_photo">Сохранить изменения?</string>
   <string name="saving_failure">Не удалось сохранить фото</string>
-  <string name="saving_image">Сохранение картинки...</string>
+  <string name="saving_image">Сохранение картинки…</string>
   <string name="select_album">Выберите альбомы</string>
   <string name="select_all">Выбрать все</string>
   <string name="select_group">Выберите группы</string>
@@ -161,7 +161,7 @@
   <string name="untagged">Без тегов</string>
   <string name="video_err">Не удалось воспроизвести видео</string>
   <string name="vignette">Виньетка</string>
-  <string name="wallpaper">Установка обоев...</string>
+  <string name="wallpaper">Установка обоев…</string>
   <string name="white_balance">Баланс белого</string>
   <string name="widget_type">Тип виджета</string>
   <string name="widget_type_album">Изображения из альбома</string>

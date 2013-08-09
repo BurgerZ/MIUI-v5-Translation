@@ -13,7 +13,7 @@
 	<string name="backup_theme_dialog_message">"Резервное копирование темы"</string>
 	<string name="backup_theme_dialog_ok">ОК</string>
 	<string name="backup_theme_name">Моя тема</string>
-	<string name="backup_theme_progress_message">Сохранение...</string>
+	<string name="backup_theme_progress_message">Сохранение…</string>
 	<string name="backup_theme_success_message">Сохранение текущей темы завершено</string>
 	<string name="change_wallpaper">Обои</string>
 	<string name="close">Закрыть</string>
@@ -23,7 +23,7 @@
 	<string name="component_lockstyle_personal_title">Настройки экрана блокировки</string>
 	<string name="component_select_title">Выбрано компонентов: %1$s</string>
 	<string name="component_settings_title">Текущая тема</string>
-	<string name="deleting">Удаление...</string>
+	<string name="deleting">Удаление…</string>
 	<string name="description_author">Автор:</string>
 	<string name="description_designer">Дизайнер:</string>
 	<string name="description_download">Скачано:</string>
@@ -37,9 +37,9 @@
 	<string name="download_success">Успешно загружено</string>
 	<string name="fail_to_add_account">Ошибка добавления аккаунта</string>
 	<string name="live_wallpaper">Живые обои</string>
-	<string name="loading">Загрузка...</string>
+	<string name="loading">Загрузка…</string>
 	<string name="loading_resource_detail_fail">Ошибка загрузки</string>
-	<string name="loading_resource_detail_info">Загрузка...</string>
+	<string name="loading_resource_detail_info">Загрузка…</string>
 	<string name="lockscreen_wallpaper">Экран блокировки</string>
 	<string name="lockstyle_personal_settings">Изменить</string>
 	<string name="long_ringtone_resource">Длинные</string>
@@ -47,7 +47,7 @@
 	<string name="mi_wallpaper">Mi обои</string>
 	<string name="online_no_network">Не удается подключиться к сети</string>
 	<string name="online_search_hint">Введите ключевые слова</string>
-	<string name="processing">Обработка...</string>
+	<string name="processing">Обработка…</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="resource_apply">Применить</string>
@@ -57,7 +57,7 @@
 	<string name="resource_comment_count">Рейтинг: %1$s\nОтзывов: %2$s\nВерсия: %3$s</string>
 	<string name="resource_comment_description">%1$s отзыв %2$s:%3$s:%4$s</string>
 	<string name="resource_comment_edit_comment">Добавить отзыв</string>
-	<string name="resource_comment_edit_comment_waiting">Проверка ваших отзывов к этой теме...</string>
+	<string name="resource_comment_edit_comment_waiting">Проверка ваших отзывов к этой теме…</string>
 	<string name="resource_comment_edit_text_default">Написать отзыв</string>
 	<string name="resource_comment_edit_title">Отзывы к \"%1$s\"</string>
 	<string name="resource_comment_entry_tips">Отзывов: %1$s.\nНажмите, чтобы посмотреть.</string>
@@ -66,7 +66,7 @@
 	<string name="resource_comment_name_default">Пользователь %1$s</string>
 	<string name="resource_comment_publish">Отправить</string>
 	<string name="resource_comment_rate">Рейтинг:</string>
-	<string name="resource_comment_sending">Отправка отзыва...</string>
+	<string name="resource_comment_sending">Отправка отзыва…</string>
 	<string name="resource_comment_title">Отзывы к \"%1$s\"</string>
 	<string name="resource_comment_upload_data_invalid">Ошибка отправки отзыва</string>
 	<string name="resource_comment_upload_failed">Ошибка сохранения отзыва</string>
@@ -84,11 +84,11 @@
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>
 	<string name="resource_downloading">Скачивание</string>
-	<string name="resource_get_auth_checking">Проверка авторизации...</string>
+	<string name="resource_get_auth_checking">Проверка авторизации…</string>
 	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
 	<string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
-	<string name="resource_get_auth_retrieving">Получение авторизации...</string>
+	<string name="resource_get_auth_retrieving">Получение авторизации…</string>
 	<string name="resource_import_successful">Скачивание завершено.</string>
 	<string name="resource_importing">Импортирование</string>
 	<string name="resource_list_title">Последние темы</string>
@@ -124,7 +124,7 @@
 	<string name="theme_batch_updating_text">Тем обновляется: %1$d</string>
 	<string name="theme_changed_failed_message">Ошибка применения</string>
 	<string name="theme_changed_message">Применено</string>
-	<string name="theme_changing_dialog_title">Применение темы.\nПожалуйста, подождите...</string>
+	<string name="theme_changing_dialog_title">Применение темы.\nПожалуйста, подождите…</string>
 	<string name="theme_component_title_alarm">Будильник</string>
 	<string name="theme_component_title_alarmstyle">Будильник</string>
 	<string name="theme_component_title_all">Темы</string>
@@ -155,14 +155,14 @@
 	<string name="theme_import_data">Импорт информации</string>
 	<string name="theme_import_fail">Ошибка импорта %1$s</string>
 	<string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
-	<string name="theme_import_importing">Обновление... осталось: %1$d</string>
+	<string name="theme_import_importing">Обновление… осталось: %1$d</string>
 	<string name="theme_import_item_delete_request_button">Удалить</string>
 	<string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
 	<string name="theme_import_item_delete_request_title">Тема не обновлена</string>
-	<string name="theme_import_item_importing">Обновление...</string>
+	<string name="theme_import_item_importing">Обновление…</string>
 	<string name="theme_import_item_not_exist">Не существует</string>
 	<string name="theme_import_item_not_upgraded">Не обновлено</string>
-	<string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите...</string>
+	<string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите…</string>
 	<string name="theme_import_item_waiting">Ожидание</string>
 	<string name="theme_import_new_download">Импорт</string>
 	<string name="theme_import_normal">Обновление темы</string>
@@ -171,8 +171,8 @@
 	<string name="theme_import_oper_stop">Остановить</string>
 	<string name="theme_import_oper_stop_request_content">Эти темы нуждаются в обновлении для использования, остановить?</string>
 	<string name="theme_import_preparing">Поиск тем</string>
-	<string name="theme_import_stoping">Остановка...</string>
-	<string name="theme_importing">Импортирование темы...</string>
+	<string name="theme_import_stoping">Остановка…</string>
+	<string name="theme_importing">Импортирование темы…</string>
 	<string name="theme_is_imported">Тема импортирована</string>
 	<string name="theme_name">%1$s</string>
 	<string name="theme_sdcard_importing">Импортирование</string>
@@ -188,7 +188,7 @@
 	<string name="title_system_resource">Системные</string>
 	<string name="wallpaper_crop">Обрезать</string>
 	<string name="wallpaper_decoded_error">Ошибка</string>
-	<string name="wallpaper_loading_text">Загрузка...</string>
+	<string name="wallpaper_loading_text">Загрузка…</string>
 	<string name="wallpaper_set_as_both">Применить на рабочий стол и экран блокировки</string>
 	<string name="wallpaper_set_as_destop">Применить на рабочий стол</string>
 	<string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>

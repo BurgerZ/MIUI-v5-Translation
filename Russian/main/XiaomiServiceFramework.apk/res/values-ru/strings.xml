@@ -13,7 +13,7 @@
 	<string name="activate_phone_send_sms_failed_notif">Ошибка отправки SMS для активации</string>
 	<string name="activate_phone_server_error">Ошибка сервера. Невозможно активировать сервис синхронизации.</string>
 	<string name="activate_phone_server_error_notif">Ошибка сервера</string>
-	<string name="activating">Активация...</string>
+	<string name="activating">Активация…</string>
 	<string name="add_weibo_account">Добавить аккаунт</string>
 	<string name="alert_title_remove_account">Удалить аккаунт</string>
 	<string name="app_name">Аккаунты Xiaomi</string>
@@ -78,7 +78,7 @@
 	<string name="button_retry">Повтор</string>
 	<string name="check_phone_error_title">Ошибка синхронизации</string>
 	<string name="check_phone_io_error">Ошибка сети</string>
-	<string name="checking_account">Проверка аккаунта...</string>
+	<string name="checking_account">Проверка аккаунта…</string>
 	<string name="cmcc_data_sync_notice">Используйте аккаунт Xiaomi для синхронизации сообщений, контактов и других данных. Также наслаждайтесь возможностями облачных сервисов.</string>
 	<string name="cmcc_micloud_dspt">Облачные сервисы позволяют синхронизировать данные, следить за местоположением телефона, управлять данными с компьютера в любое время.</string>
 	<string name="completed">Завершено</string>
@@ -129,8 +129,8 @@
 	<string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
 	<string name="find_device_disabled_notice">Вы можете включить снова через Параметры - Мои аккаунты - Аккаунт Xiaomi</string>
 	<string name="find_device_disabled_title">Поиск устройств отключен</string>
-	<string name="find_device_disabling">Выключение...</string>
-	<string name="find_device_enabling">Включение...</string>
+	<string name="find_device_disabling">Выключение…</string>
+	<string name="find_device_enabling">Включение…</string>
 	<string name="find_device_error_network">Сеть недоступна</string>
 	<string name="find_device_error_server">Ошибка сервера</string>
 	<string name="find_device_notice_p1">Для поиска телефона используйте сервис</string>
@@ -158,7 +158,7 @@
 	<string name="login">Войти</string>
 	<string name="login_failed">Неверное имя пользователя или пароль</string>
 	<string name="login_instead_reg">Войти с помощью телефона</string>
-	<string name="login_notice">Авторизация, пожалуйста, подождите...</string>
+	<string name="login_notice">Авторизация, пожалуйста, подождите…</string>
 	<string name="memu_refresh">Обновить</string>
 	<string name="mibi_license_message">Использовать сервис Xiaomi Mi-Кредит?\n\nНажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s</string>
 	<string name="mibi_license_message_span">пользовательское соглашение Mi-Кредит.</string>
@@ -172,7 +172,7 @@
 	<string name="micloud_activate_back_btn">Отмена</string>
 	<string name="micloud_activate_retry_btn">Повторить</string>
 	<string name="micloud_activating_account_notify_info">Вы активируете аккаунт Xiaomi</string>
-	<string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi...</string>
+	<string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi…</string>
 	<string name="micloud_active_alert_title">Активировать аккаунт</string>
 	<string name="micloud_active_email_sent_1">Мы отправили вам письмо с ссылкой активации на почту:</string>
 	<string name="micloud_active_email_sent_2" />
@@ -249,17 +249,17 @@
 	<string name="process_result">Результат процесса:</string>
 	<string name="progress_bankcall_card_creating">Создание заказа…</string>
 	<string name="progress_bankcall_card_querying">Определение типа банковского счета…</string>
-	<string name="progress_connecting">Подключение...</string>
-	<string name="progress_creating">Проверка покупки...</string>
-	<string name="progress_downloading">Загрузка...</string>
+	<string name="progress_connecting">Подключение…</string>
+	<string name="progress_creating">Проверка покупки…</string>
+	<string name="progress_downloading">Загрузка…</string>
 	<string name="progress_error_pay_title">Ошибка оплаты</string>
 	<string name="progress_error_recharge_title">Ошибка пополнения</string>
-	<string name="progress_loading">Обработка. Пожалуйста, подождите...</string>
+	<string name="progress_loading">Обработка. Пожалуйста, подождите…</string>
 	<string name="progress_warning_check">Проверка не завершена. \nПроверка проходит в течение двух рабочих дней.</string>
-	<string name="progress_paytool_creating">Создание покупки %1$s...</string>
-	<string name="progress_paytool_installing">Установка мобильного плагина безопасности %1$s...</string>
-	<string name="progress_prepaid_creating">Обработка запроса на пополнение...</string>
-	<string name="progress_querying">Обработка запроса...</string>
+	<string name="progress_paytool_creating">Создание покупки %1$s…</string>
+	<string name="progress_paytool_installing">Установка мобильного плагина безопасности %1$s…</string>
+	<string name="progress_prepaid_creating">Обработка запроса на пополнение…</string>
+	<string name="progress_querying">Обработка запроса…</string>
 	<string name="progress_submit_hint">Пополнение будет отражено в течение 3х минут</string>
 	<string name="progress_submit_pay_summary">Платеж: %1$s RMB</string>
 	<string name="progress_submit_recharge_summary">Пополнение: %1$s RMB</string>
@@ -268,7 +268,7 @@
 	<string name="progress_success_pay_title">Платеж завершен: %1$s</string>
 	<string name="progress_success_recharge_summary">Баланс: %1$s Mi-Кредит</string>
 	<string name="progress_success_recharge_title">Пополнение завершено: %1$s</string>
-	<string name="progress_voucher_creating">Пополнение карты Mi Credit...</string>
+	<string name="progress_voucher_creating">Пополнение карты Mi Credit…</string>
 	<string name="msg_picker_hint_1_1">1. </string>
 	<string name="msg_picker_hint_1_2">Способ пополнения MiCredit card через SMS стоит дороже (2 юаня = 1 MiCredit)</string>
 	<string name="msg_picker_hint_2_1">2. </string>
@@ -311,7 +311,7 @@
 	<string name="remove_account_notice">Что бы вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
 	<string name="remove_confirm">Удалить</string>
 	<string name="remove_unactivated_account_notice">Аккаунт Xiaomi не активирован. Удалить его?</string>
-	<string name="removing_account">Удаление аккаунта...</string>
+	<string name="removing_account">Удаление аккаунта…</string>
 	<string name="send_int_sms_for_sync_notice">Для активации синхронизации сообщений будет отправлено SMS. Продолжить?</string>
 	<string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Продолжить?</string>
 	<string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>

@@ -43,7 +43,7 @@
 	<string name="create_an_account_desc">Подключите Календарь к аккаунту Google, чтобы:\n\n• Всегда иметь под рукой обновленные данные – на любом устройстве.\n• Синхронизировать все мероприятия – вы никогда не потеряете их.</string>
 	<string name="creating_event">Мероприятие создано</string>
 	<string name="creating_event_with_guest">Приглашение отправлено</string>
-	<string name="custom">Особое... (настраивается только на сайте)</string>
+	<string name="custom">Особое… (настраивается только на сайте)</string>
 	<string name="daily">Ежедневно</string>
 	<string name="day_view">День</string>
 	<string name="day_view_new_event_hint">Создать мероприятие</string>
@@ -51,7 +51,7 @@
 	<string name="delete_recurring_event_title">Удалить %s?</string>
 	<string name="delete_this_event_title">Удалить мероприятие?</string>
 	<string name="description_label">Описание</string>
-	<string name="directory_searching_fmt">Поиск в %s...</string>
+	<string name="directory_searching_fmt">Поиск в %s…</string>
 	<string name="discard_label">Отмена</string>
 	<string name="dismiss_all_label">Удалить все</string>
 	<string name="do_not_check">Не проверять -></string>
@@ -87,7 +87,7 @@
 	<string name="hint_where">Место мероприятия</string>
 	<string name="jump_date">Перейти</string>
 	<string name="jump_date_full">Перейти к дате</string>
-	<string name="loading">Загрузка...</string>
+	<string name="loading">Загрузка…</string>
 	<string name="local_calendar_display_name">Локальный календарь</string>
 	<string name="local_owner_account_name">Локальный аккаунт</string>
 	<string name="menu_about_preferences">О календаре</string>
@@ -102,7 +102,7 @@
 	<string name="monthly">Ежемесячно</string>
 	<string name="monthly_on_day">Ежемесячно (%s числа)</string>
 	<string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
-	<string name="more_string">еще %1$s...</string>
+	<string name="more_string">еще %1$s…</string>
 	<string name="new_event_dialog_label">Новое мероприятие</string>
 	<string name="new_event_dialog_option">Новое мероприятие</string>
 	<string name="no_calendars_found">Добавить мероприятие можно только в видимый календарь, связанный с аккаунтом Google. Нажмите \"Добавить аккаунт\" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
@@ -134,7 +134,7 @@
 	<string name="preferences_week_start_day_title">Первый день недели</string>
 	<string name="presence_label">Мой статус:</string>
 	<string name="privacy_label">Конфиденциальность</string>
-	<string name="quick_response_custom_msg">Пользовательское сообщение...</string>
+	<string name="quick_response_custom_msg">Пользовательское сообщение…</string>
 	<string name="quick_response_dialog_title">Выбрать быстрый ответ</string>
 	<string name="quick_response_email_failed">Программа почты не найдена</string>
 	<string name="quick_response_settings">Быстрые ответы</string>

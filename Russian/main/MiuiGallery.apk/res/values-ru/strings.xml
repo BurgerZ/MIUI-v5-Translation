@@ -14,13 +14,13 @@
 	<string name="album_quota_fulfiled">"Не удалось создать альбом, количество альбомов достигло предела.."</string>
 	<string name="album_share_kicked">Вы были удалены из альбома: %1$s</string>
 	<string name="album_share_stat_content">Новые приглашения для альбома</string>
-	<string name="album_share_subtitle_accepting">Принятие приглашения от %1$s...</string>
-	<string name="album_share_subtitle_denying">Игнорирование приглашения от %1$s...</string>
+	<string name="album_share_subtitle_accepting">Принятие приглашения от %1$s…</string>
+	<string name="album_share_subtitle_denying">Игнорирование приглашения от %1$s…</string>
 	<string name="album_share_subtitle_invited">Поделился: %1$s, принять?</string>
 	<string name="album_share_subtitle_normal">Поделился: %1$s</string>
 	<string name="album_share_subtitle_not_ready">Информация об альбоме не готова. Нажмите, чтобы скачать.</string>
-	<string name="album_share_subtitle_quitting">Отказ от приглашения %1$s...</string>
-	<string name="album_share_subtitle_requesting">Загрузка информации об альбоме...</string>
+	<string name="album_share_subtitle_quitting">Отказ от приглашения %1$s…</string>
+	<string name="album_share_subtitle_requesting">Загрузка информации об альбоме…</string>
 	<string name="album_share_title_new_album">Делиться новым альбомом</string>
 	<string name="albums">Альбомы</string>
 	<string name="albumset_page_title_separator">" | "</string>
@@ -52,7 +52,7 @@
 	<string name="cannot_send_message">"Не удается отправить сообщение"</string>
 	<string name="cannot_send_message_reason">Не указаны получатели.</string>
 	<string name="cant_delete_system_album">%s - это системный альбом, его удалить нельзя!</string>
-	<string name="cleaning_cache">Очистка кэша...</string>
+	<string name="cleaning_cache">Очистка кэша…</string>
 	<string name="clear_thumbnail_cache">Очистить кэш</string>
 	<string name="clear_thumbnail_cache_confirm">Кэш эскизов будет очищен. \nГалерея пересканирует медиа файлы и заново создаст экскизы. \nПродолжить?</string>
 	<string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее.</string>
@@ -100,7 +100,7 @@
 	<string name="delete_file">Удалить выбранные файлы? \n\nФайлов: %1$d</string>
 	<string name="delete_files_and_folders">Удалить выбранные файлы и папки? \n\nФайлов: %1$d \nПапок: %2$d</string>
 	<string name="delete_folder">Удалить выбранные папки? \n\nПапок: %1$d</string>
-	<string name="deleting_files">Удаление файлов...</string>
+	<string name="deleting_files">Удаление файлов…</string>
 	<string name="demo_video_folder_display_name">Демо-видео</string>
 	<string name="description">Описание</string>
 	<string name="details">Сведения</string>
@@ -124,7 +124,7 @@
 	<string name="error_socket_timeout">Превышено время ожидания</string>
 	<string name="exit_share">Закрыть альбом</string>
 	<string name="exit_share_failed">Закрытие альбома \"%1$s\" не удалось</string>
-	<string name="exit_share_in_process">Закрытие альбома. Пожалуйста, подождите...</string>
+	<string name="exit_share_in_process">Закрытие альбома. Пожалуйста, подождите…</string>
 	<string name="exit_share_successfully">Альбом \"%1$s\" закрыт</string>
 	<string name="exposure_time">Выдержка</string>
 	<string name="external_sd_card">SD-карта</string>
@@ -171,7 +171,7 @@
 	<string name="import_fail">Сбой импорта</string>
 	<string name="initial_cloud_button_text">Начать использование</string>
 	<string name="initial_cloud_text">Создавайте облачные альбомы и синхронизируйте изображения.</string>
-	<string name="initializing_cloud">Загрузка облачного альбома...</string>
+	<string name="initializing_cloud">Загрузка облачного альбома…</string>
 	<string name="input_cloudfolder_name">Название облачного альбома</string>
 	<string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
 	<string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
@@ -182,7 +182,7 @@
 	<string name="kick_sharer_failed">Ошибка удаления</string>
 	<string name="kick_sharer_successfully">Получатель удален</string>
 	<string name="landscape_mode">Ландшафтный режим</string>
-	<string name="loading">Идет загрузка...</string>
+	<string name="loading">Идет загрузка…</string>
 	<string name="loading_failure">Не удалось загрузить изображение</string>
 	<string name="loading_thumbnail">Загрузка эскизов</string>
 	<string name="local_albums">Локальные альбомы</string>
@@ -256,7 +256,7 @@
 	<string name="remove_recent_album">Удалить из последних альбомов</string>
 	<string name="rename_failed">Не удалось переименовать</string>
 	<string name="rename_failed_duplicated_name">Имя уже существует</string>
-	<string name="request_qr_code">Получение QR-кода...</string>
+	<string name="request_qr_code">Получение QR-кода…</string>
 	<string name="request_qr_code_failed">Ошибка получения QR-кода. Повторите еще раз.</string>
 	<string name="request_sms_url_failed">Не удалось запросить URL для обмена по SMS</string>
 	<string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>
@@ -268,7 +268,7 @@
 	<string name="save_error">Изображение не сохранено</string>
 	<string name="save_photo">Сохранить изменения?</string>
 	<string name="saving_failure">Не удалось сохранить фото</string>
-	<string name="saving_image">Сохранение картинки...</string>
+	<string name="saving_image">Сохранение картинки…</string>
 	<string name="scan_qr_code">Чтобы получить ссылку на альбом, понадобится сканировать QR-код.</string>
 	<string name="sd_not_available">SD-карта размонтирована или недоступна</string>
 	<string name="seconds">сек.</string>
@@ -286,7 +286,7 @@
 	<string name="set_label_all_albums">Все альбомы</string>
 	<string name="set_label_local_albums">Офлайн-альбомы</string>
 	<string name="set_label_mtp_devices">MTP-устройства</string>
-	<string name="set_lock_and_wallpaper">Установка обоев...</string>
+	<string name="set_lock_and_wallpaper">Установка обоев…</string>
 	<string name="set_lock_or_wallpaper">Как фон</string>
 	<string name="set_lockscreen">Экран блокировки</string>
 	<string name="set_recent_album">Сделать новый альбом</string>

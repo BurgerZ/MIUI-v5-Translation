@@ -3,6 +3,6 @@
 	<string name="app_label">Хранилище мультимедиа</string>
 	<string name="artist_label">Исполнитель</string>
 	<string name="uid_label">Мультимедиа</string>
-	<string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
+	<string name="upgrade_msg">Обновление базы данных мультимедиа…</string>
 	<string name="drm_licensed_message">Не удается задать защищенный файл как рингтон</string>
 </resources>

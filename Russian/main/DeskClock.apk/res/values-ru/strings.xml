@@ -73,7 +73,7 @@
 	<string name="legal_workday_invalidate">Рабочие дни (будильник звонит пн-пт)</string>
 	<string name="legal_workday_invalidate_message">(обновите базу)</string>
 	<string name="legal_workday_message">(выключен в праздники)</string>
-	<string name="loading_ringtone">Загрузка мелодии звонка...</string>
+	<string name="loading_ringtone">Загрузка мелодии звонка…</string>
 	<string name="menu_add_worldclock">Добавить</string>
 	<string name="menu_alarmclock_edit">Редактировать</string>
 	<string name="menu_delete">Удалить</string>
@@ -123,7 +123,7 @@
 	<string name="volume_button_dialog_title">Клавиши громкости</string>
 	<string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
 	<string name="volume_button_setting_title">Клавиши громкости</string>
-	<string name="wait_when_operating_data_message">Обработка...</string>
+	<string name="wait_when_operating_data_message">Обработка…</string>
 	<string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
 	<string name="weekend_alarm_clock">По выходным дням</string>
 	<string name="workday_alarm_clock">По рабочим дням</string>
