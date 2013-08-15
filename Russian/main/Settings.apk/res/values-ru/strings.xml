@@ -1920,7 +1920,7 @@
 	<string name="virus_scan_app_scan_finish">Сканирование завершено!</string>
 	<string name="virus_scan_app_scanning">Сканирование…</string>
 	<string name="virus_scan_app_stop_scan">Остановить сканирование</string>
-	<string name="virus_scan_app_uninstall">Удаленить: %d</string>
+	<string name="virus_scan_app_uninstall">Удалить: %d</string>
 	<string name="virus_scan_app_waiting">Ожидание сканирования</string>
 	<string name="virus_scanner_auto_update">Автообновление</string>
 	<string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>

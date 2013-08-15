@@ -7,8 +7,8 @@
 	<string name="alwaysUsePrompt">По умолчанию</string>
 	<string name="android_lockscreen_glogin_instructions">Войдите в свой аккаунт для разблокировки.</string>
 	<string name="app_no_notification">нет</string>
-	<string name="app_notificaiton_on_notificationBar">Панель</string>
-	<string name="app_notificaiton_on_statusBar_and_notificationBar">Строка, панель</string>
+	<string name="app_notificaiton_on_notificationBar">панель</string>
+	<string name="app_notificaiton_on_statusBar_and_notificationBar">строка, панель</string>
 	<string name="arbor_day">"День древонасаждения"</string>
 	<string name="autumn_begins">"Начало осени"</string>
 	<string name="autumn_equinox">"День осеннего равноденствия"</string>
