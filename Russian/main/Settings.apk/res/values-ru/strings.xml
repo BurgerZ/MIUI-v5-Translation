@@ -1088,6 +1088,8 @@
 	<string name="next_label">Далее</string>
 	<string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
 	<string name="nfc_quick_toggle_title">NFC</string>
+	<string name="noise_suppression">Подавление шума</string>
+	<string name="phone_call_noise_suppression">Подавление шума</string>
 	<string name="no">Нет</string>
 	<string name="no_application">Ничего</string>
 	<string name="no_applications">Нет приложений</string>
@@ -1906,7 +1908,7 @@
 	<string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
 	<string name="vibrate_when_ringing_title">Вибро и звонок</string>
 	<string name="virus_scan_app_continue">Продолжить</string>
-	<string name="virus_scan_app_find_risk">Найдены угрозы (%d), рекомендуется удалить</string>
+	<string name="virus_scan_app_find_risk">Приложение %d возможно вредоносно, рекомендуется удалить.</string>
 	<string name="virus_scan_app_finish">Готово</string>
 	<string name="virus_scan_app_force_stop">Сканирование отменено</string>
 	<string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
@@ -1918,7 +1920,7 @@
 	<string name="virus_scan_app_scan_finish">Сканирование завершено!</string>
 	<string name="virus_scan_app_scanning">Сканирование…</string>
 	<string name="virus_scan_app_stop_scan">Остановить сканирование</string>
-	<string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
+	<string name="virus_scan_app_uninstall">Удаленить: %d</string>
 	<string name="virus_scan_app_waiting">Ожидание сканирования</string>
 	<string name="virus_scanner_auto_update">Автообновление</string>
 	<string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>

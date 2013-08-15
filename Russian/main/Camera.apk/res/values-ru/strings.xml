@@ -419,7 +419,7 @@
     <string name="folder_imported">Импорт</string>
     <string name="folder_screenshot">Скриншот</string>
     <string name="deleted">Удалено</string>
-    <string name="undo">Аннулировано</string>
+    <string name="undo">Отмена</string>
     <string name="ok">OK</string>
     <string name="cancel">Отмена</string>
     <string name="set_as">Задать как</string>

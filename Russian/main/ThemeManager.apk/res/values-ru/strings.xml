@@ -113,8 +113,8 @@
 	<string name="resource_update">Обновить</string>
 	<string name="resource_waiting_download">Ожидание</string>
 	<string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы, перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
-	<string name="sdcard_status_changed_dialog_message">Требуется выход.\nПожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
-	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
+	<string name="sdcard_status_changed_dialog_message">\nНеобходимо перезапустить приложение \"Темы\" для обновления ресурсов.</string>
+	<string name="sdcard_status_changed_dialog_title">SD-карта была отключена.</string>
 	<string name="short_ringtone_resource">Короткие</string>
 	<string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже.</string>
 	<string name="theme_batch_has_update_text">Темы, требующие обновления: %1$d</string>
@@ -137,8 +137,8 @@
 	<string name="theme_component_title_framework">Система</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
-	<string name="theme_component_title_lockstyle">Экран блокировки</string>
-	<string name="theme_component_title_lockwallpaper">Обои блокировки</string>
+	<string name="theme_component_title_lockstyle">Локскрин</string>
+	<string name="theme_component_title_lockwallpaper">Обои локскрина</string>
 	<string name="theme_component_title_miwallpaper">Mi обои</string>
 	<string name="theme_component_title_mms">Сообщения</string>
 	<string name="theme_component_title_notification">Уведомл.</string>

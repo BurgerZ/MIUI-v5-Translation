@@ -247,9 +247,9 @@
   <string name="ext_media_safe_unmount_notification_message">Можно безопасно извлечь SD-карту</string>
   <string name="ext_media_safe_unmount_notification_title">Безопасное удаление карты SD</string>
   <string name="ext_media_unmountable_notification_message">SD-карта повреждена. Попробуйте отформатировать ее</string>
-  <string name="ext_media_unmountable_notification_title">Поврежденная карта SD</string>
+  <string name="ext_media_unmountable_notification_title">Поврежденная SD-карта</string>
   <string name="extmedia_format_button_format">Формат</string>
-  <string name="extmedia_format_message">Отформатировать карту SD? Все данные, находящиеся на карте, будут уничтожены</string>
+  <string name="extmedia_format_message">Отформатировать SD-карту? Все данные будут удалены.</string>
   <string name="extmedia_format_title">Очистить SD-карту</string>
   <string name="extract_edit_menu_button">Изменить…</string>
   <string name="factorytest_failed">Не удалось провести стандартный тест</string>

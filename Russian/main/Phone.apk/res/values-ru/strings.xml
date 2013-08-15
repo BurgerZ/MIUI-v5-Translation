@@ -158,7 +158,7 @@
 	<string name="call_record_notification_title_miui">Запись…</string>
 	<string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
-	<string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
+	<string name="call_record_sd_space_low_miui">Память на SD-карте заполнена.</string>
 	<string name="call_record_setting_miui">Запись разговора</string>
 	<string name="call_recording_notification_summary_miui">Уведомление о начале и окончании записи вызова.</string>
 	<string name="call_recording_notification_title_miui">Уведомлять о записи</string>

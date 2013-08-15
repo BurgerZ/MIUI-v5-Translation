@@ -8,7 +8,6 @@
 	<string name="account_type_format">Контакт %1$s</string>
 	<string name="actionIncomingCall">Входящие вызовы</string>
 	<string name="action_menu_overflow_description">Дополнительные параметры</string>
-	<string name="activity_not_found_uri">Приложения для открытия данного типа файлов не найдено</string>
 	<string name="activity_title_confirm_add_detail">Добавление данных</string>
 	<string name="activity_title_contacts_filter">Фильтр контактов</string>
 	<string name="activity_title_settings">Настройки</string>
@@ -74,6 +73,7 @@
 	<string name="call_other_fax">Позвонить на номер факса</string>
 	<string name="call_pager">Пейджер</string>
 	<string name="call_radio">Радиотелефон</string>
+	<string name="call_record_setting_miui">Запись разговора</string>
 	<string name="call_settings">Настройки</string>
 	<string name="call_telex">Телекс</string>
 	<string name="call_tty_tdd">Телетайп</string>
@@ -134,7 +134,9 @@
 	<string name="clearFrequentsConfirmation_title">Очистить частые контакты?</string>
 	<string name="clearFrequentsProgress_title">Очистка контактов…</string>
 	<string name="clear_default">Удалить настройки по умолчанию</string>
+	<string name="clear_digits">Очистить номер телефона</string>
 	<string name="click_close">Нажмите, чтобы закрыть</string>
+	<string name="close_dial_pad">Закрыть клавиатуру</string>
 	<string name="cloud_antispam_title">Определение номеров</string>
 	<string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
 	<string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
@@ -193,6 +195,7 @@
 	<string name="deleteConfirmation_title">Удаление контакта</string>
 	<string name="delete_call_log_title">Выбрать журналы для удаления?</string>
 	<string name="delete_contact_calllog_title">Записи удалены</string>
+	<string name="delete_dial_input">Удалить</string>
 	<string name="delete_duplicate">Объединить</string>
 	<string name="delete_duplicate_message">Объединение контактов…</string>
 	<string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты не будут удалены)</string>
@@ -269,6 +272,7 @@
 	<string name="device_version_header_bluetooth">Импортирование контактов через Bluetooth</string>
 	<string name="device_version_header_no_bluetooth">Импорт контактов с SIM-карты</string>
 	<string name="device_version_title">Выберите версию мобильного телефона</string>
+	<string name="dial">Вызов</string>
 	<string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>
 	<string name="dialerIconLabel">Вызовы</string>
 	<string name="dialerKeyboardHintText">Для набора используйте клавиатуру</string>
@@ -666,7 +670,7 @@
 	<string name="preference_tone_title">Выбрать звук</string>
 	<string name="prepare_import">подготовка импорта</string>
 	<string name="preview_contact_card_title">Импортировать</string>
-	<string name="previous">назад</string>
+	<string name="previous">Назад</string>
 	<string name="private_num">Скрытый номер</string>
 	<string name="processing">Обработка…</string>
 	<string name="profile_display_name">Мой профиль</string>

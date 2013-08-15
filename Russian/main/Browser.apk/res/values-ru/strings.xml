@@ -569,6 +569,7 @@
     <string name="common_use_phrase_bottom_bar_up_analytic_txt">Развернуть</string>
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
     <string name="download_default_path_txt">Установить папку загрузок по умолчанию</string>
+	<string name="download_dialog_default_path_invalid">Неверный путь загрузки. Будет использован путь по умолчанию.</string>
     <string name="pref_file_download_save_title">Загрузка и сохранение файлов</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Сброс настроек</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию?</string>
