@@ -236,7 +236,7 @@
 	<string name="operation_delete_confirm_message_folder">Папка будет удалена со всеми файлами.</string>
 	<string name="operation_refresh">Обновить</string>
 	<string name="operation_rename">Переименовать</string>
-	<string name="operation_set_as_screensaver">Как заставка</string>
+	<string name="operation_set_as_screensaver">Установить на заставку</string>
 	<string name="operation_unset_as_screensaver">Отменить заставку</string>
 	<string name="orientation">Ориентация</string>
 	<string name="other_category">Другие настройки</string>
@@ -298,7 +298,7 @@
 	<string name="set_lock_or_wallpaper">Как фон</string>
 	<string name="set_lockscreen">Экран блокировки</string>
 	<string name="set_recent_album">Сделать новый альбом</string>
-	<string name="set_screensaver_path_message">Фотографии из этого альбома будут показаны как заставка после 5 секунд выключенного экрана.</string>
+	<string name="set_screensaver_path_message">Фотографии из этого альбома будут отображаться в режиме слайдшоу после 5 секунд выключенного экрана.</string>
 	<string name="set_screensaver_path_title">Заставка слайдшоу</string>
 	<string name="set_wallpaper">Рабочий стол</string>
 	<string name="settings">Настройки</string>

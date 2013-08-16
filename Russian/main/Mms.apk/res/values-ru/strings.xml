@@ -81,6 +81,7 @@
 	<string name="converting_to_picture_message">Преобразование в сообщение MMS…</string>
 	<string name="converting_to_text_message">Преобразование в сообщение SMS…</string>
 	<string name="copy_message_text">Скопировать текст</string>
+	<string name="copy_message_text_success">Текст скопирован</string>
 	<string name="copy_to_sdcard">Сохранить вложение</string>
 	<string name="copy_to_sdcard_fail">Файл не сохранен</string>
 	<string name="copy_to_sdcard_success">Файл сохранен как %s</string>
