@@ -176,7 +176,7 @@
 	<string name="task_running_restore_hint">Сервис запущен в фоне, попробуйте снова сделать восстановление!</string>
 	<string name="task_service_not_launched">Сервис не запустился, ждите!</string>
 	<string name="task_stopped_exception">Прервано</string>
-	<string name="total_num">%d всего записей</string>
+	<string name="total_num">Всего записей: %d</string>
 	<string name="unit_byte">б</string>
 	<string name="unit_piece">" записей"</string>
 	<string name="unknown_hint">Неизвестно</string>

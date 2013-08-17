@@ -651,7 +651,7 @@
 	<string name="preference_import_export_title">Импорт и экспорт</string>
 	<string name="preference_others">Другое</string>
 	<string name="preference_phone">Телефон</string>
-	<string name="preference_phone_more_title">Дополнительно</string>
+	<string name="preference_phone_more_title">Вызовы</string>
 	<string name="preference_remove_duplicate">Слияние дубликатов</string>
 	<string name="preference_simple_mode_description">Не отображать фото, продолжительность разговора и другие данные в журнале вызовов и списке контактов.</string>
 	<string name="preference_simple_mode_title">Простой режим</string>

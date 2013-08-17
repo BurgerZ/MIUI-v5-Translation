@@ -33,8 +33,8 @@
 	<string name="birthday_event_description">Сегодня день рождения %1$s</string>
 	<string name="birthday_notification_text_three_days_later">3 дня до дня рождения (%3$s)</string>
 	<string name="birthday_notification_text_today">Не забудьте поздравить!</string>
-	<string name="birthday_notification_title_three_days_later">Скоро день рождения у %1$s</string>
-	<string name="birthday_notification_title_today">День рождения у %1$s</string>
+	<string name="birthday_notification_title_three_days_later">Скоро день рождения: %1$s</string>
+	<string name="birthday_notification_title_today">День рождения : %1$s</string>
 	<string name="calendar_refresh">Обновить</string>
 	<string name="change_response_title">Изменить ответ</string>
 	<string name="copy_db">Отправить базу данных</string>
@@ -67,7 +67,7 @@
 	<string name="email_guests_label">Email</string>
 	<string name="email_picker_label">Email с</string>
 	<string name="email_subject_prefix">"Re: "</string>
-	<string name="empty_event">Нельзя создать мероприятие без данных</string>
+	<string name="empty_event">Мероприятие не сохранено</string>
 	<string name="event_create">Новое мероприятие</string>
 	<string name="event_delete">Удалить мероприятие</string>
 	<string name="event_edit">Изменить мероприятие</string>

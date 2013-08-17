@@ -20,7 +20,7 @@
 	<string name="component_category_finest_title">Основные</string>
 	<string name="component_category_more_title">Дополнительные</string>
 	<string name="component_include_title">Компонентов: %1$s</string>
-	<string name="component_lockstyle_personal_title">Настройки экрана блокировки</string>
+	<string name="component_lockstyle_personal_title">Настройки локскрина</string>
 	<string name="component_select_title">Выбрано компонентов: %1$s</string>
 	<string name="component_settings_title">Текущая тема</string>
 	<string name="deleting">Удаление…</string>
