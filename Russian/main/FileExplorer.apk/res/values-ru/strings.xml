@@ -40,7 +40,7 @@
 	<string name="count_down_time">Отмена (%d)</string>
 	<string name="create_kuaipan_shortcut_pref">Ярлык на рабочий стол</string>
 	<string name="create_new_folder_desctiption">Создание папки…</string>
-	<string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
+	<string name="create_new_folder_failed">Не удалось создать папку</string>
 	<string name="create_share_link_description">Создание ссылки…</string>
 	<string name="cution">Советы</string>
 	<string name="data_capacity">Объем: %1$s</string>
@@ -65,7 +65,7 @@
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
 	<string name="downloading">Загрузка</string>
-	<string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
+	<string name="enable_sd_card">В настоящий момент SD-карта подключена к компьютеру. \nЧтобы видеть ее содержимое, отключите режим USB-накопителя.</string>
 	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
 	<string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует.</string>
 	<string name="fail_to_create_folder_unknown">Не удается создать папку. Неизвестная ошибка.</string>

@@ -24,7 +24,8 @@
 	<string name="network_unavailable_dialog_button_ok">OK</string>
 	<string name="network_unavailable_dialog_content">Ваш отчет будет отправлен, как только сеть будет доступна</string>
 	<string name="network_unavailable_dialog_title">Сеть недоступна</string>
-	<string name="packaging_dialog_content">Генерация отчета, пожалуйста, подождите…</string>
+	<string name="packaging_dialog_content">Создание отчета, пожалуйста, подождите…</string>
+	<string name="bugreport_feedback_from">От: %s</string>
 	<string name="report_miui">Отчет MIUI</string>
 	<string name="section_description">Описание</string>
 	<string name="section_err_type">Тип отчета</string>

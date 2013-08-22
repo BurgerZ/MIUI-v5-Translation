@@ -6,7 +6,7 @@
 	<string name="calendar_info_events">Мероприятий: %1$d</string>
 	<string name="calendar_info_events_dirty">Мероприятий: %1$d; не сохранено: %2$d</string>
 	<string name="calendar_info_no_calendars">Нет календарей</string>
-	<string name="calendar_storage">События календаря</string>
+	<string name="calendar_storage">Мероприятия календаря</string>
 	<string name="debug_tool_delete_button">Удалить сейчас</string>
 	<string name="debug_tool_email_body">К сообщению прикреплена база данных календаря с личной информацией.</string>
 	<string name="debug_tool_email_sender_picker">Выберите способ отправки</string>

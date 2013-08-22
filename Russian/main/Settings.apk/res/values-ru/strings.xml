@@ -1908,7 +1908,7 @@
 	<string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
 	<string name="vibrate_when_ringing_title">Вибро и звонок</string>
 	<string name="virus_scan_app_continue">Продолжить</string>
-	<string name="virus_scan_app_find_risk">Приложение %d возможно вредоносно, рекомендуется удалить.</string>
+	<string name="virus_scan_app_find_risk">Приложений с риском: %d</string>
 	<string name="virus_scan_app_finish">Готово</string>
 	<string name="virus_scan_app_force_stop">Сканирование отменено</string>
 	<string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>

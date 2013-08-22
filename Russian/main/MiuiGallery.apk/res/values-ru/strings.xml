@@ -181,7 +181,7 @@
 	<string name="kick_sharer">Удалить получателя</string>
 	<string name="kick_sharer_failed">Ошибка удаления</string>
 	<string name="kick_sharer_successfully">Получатель удален</string>
-	<string name="landscape_mode">Ландшафтный режим</string>
+	<string name="photo_page_always_rotate">Автоповорот</string>
 	<string name="loading">Идет загрузка…</string>
 	<string name="loading_failure">Не удалось загрузить изображение</string>
 	<string name="loading_thumbnail">Загрузка эскизов</string>

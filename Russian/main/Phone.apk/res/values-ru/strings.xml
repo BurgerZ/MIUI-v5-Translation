@@ -165,7 +165,7 @@
 	<string name="call_recording_prompt_miui">Идет запись…</string>
 	<string name="call_settings">Вызовы</string>
 	<string name="call_settings_category_miui">Вызов</string>
-	<string name="call_settings_miui">Дополнительно</string>
+	<string name="call_settings_miui">Настройки вызова</string>
 	<string name="call_title_redialing_with_times_miui">Повторный набор: попытка №%d</string>
 	<string name="call_waiting_sum_miui">Уведомление о входящих вызовах во время разговора.</string>
 	<string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
@@ -174,7 +174,7 @@
 	<string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизводить 2 раза с вибрацией</string>
 	<string name="call_waiting_tone_twice_only_miui">Воспроизводить 2 раза</string>
 	<string name="caller_id_sum_miui">Скрытие номера для исходящих вызовов, если поддерживается сетью.</string>
-	<string name="caller_id_title_miui">Антиопределитель номера</string>
+	<string name="caller_id_title_miui">Скрытие номера</string>
 	<string name="caller_manage_header">Конференц-вызов: %s</string>
 	<string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
 	<string name="calling_via_template">Вызов с помощью %s</string>
@@ -1002,7 +1002,7 @@
     <string name="card_title_cugcall">Звонок закрытой группе пользователей</string>
     <string name="card_title_outgoing_barred">Исходящие звонки запрещены</string>
     <string name="card_title_incoming_barred">Входящие звонки запрещены</string>
-    <string name="card_title_clir_suppression_rejected">Антиопределитель запрещён - отмена</string>
+    <string name="card_title_clir_suppression_rejected">Скрытие номера запрещёно - отмена</string>
     <string name="card_title_call_deflected">Звонок отклонён</string>
     <string name="card_title_MTcall_forwarding">Входящий вызов переадресуется</string>
     <string name="card_title_forwarded_MTcall">Входящий переадресованный вызов</string>
