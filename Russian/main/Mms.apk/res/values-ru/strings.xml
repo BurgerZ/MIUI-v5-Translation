@@ -62,9 +62,10 @@
 	<string name="confirm_dialog_title">Удаление</string>
 	<string name="confirm_export_dialog_description">После удаления приватного контакта ваша переписка восстановится в обычный режим. Продолжить?</string>
 	<string name="confirm_export_dialog_title">Удаление приватного контакта</string>
-	<string name="confirm_no_block_positive">Отменить блокирование</string>
+	<string name="confirm_no_block_positive">Отменить блокировку</string>
 	<string name="confirm_no_block_title">Отменить блокирование и восстановить в сообщения?</string>
 	<string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
+	<string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
 	<string name="confirm_restore_positive">Восстановить</string>
 	<string name="confirm_restore_title">Восстановить выбранные сообщения?</string>
 	<string name="context_menu_add_contact">Добавить в контакты</string>
@@ -322,6 +323,7 @@
 	<string name="replace_image">Заменить картинку</string>
 	<string name="resent_message">Повторить</string>
 	<string name="resize_image_error_information">Изображение слишком велико для отправки, даже после изменения размера</string>
+	<string name="restore_all_button_msg">Восстановить всё</string>
 	<string name="restore_blocked_message">Восстановить сообщения</string>
 	<string name="save">Сохранить</string>
 	<string name="save_ringtone">Сохранить как мелодию звонка</string>

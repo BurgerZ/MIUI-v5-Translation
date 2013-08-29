@@ -175,6 +175,7 @@
 	<string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены.</string>
 	<string name="find_on_page">Найти на странице</string>
 	<string name="folder_name">Имя папки</string>
+	<string name="folder_name_too_long">Имя папка слишком длинное</string>
 	<string name="same_folder_name_warning">Эта папка уже существует</string>
 	<string name="same_bookmarks_warning">Эта закладка уже существует</string>
 	<string name="forward">Вперед</string>
@@ -298,7 +299,6 @@
 	<string name="pref_content_open_in_background">Фоновый режим</string>
 	<string name="pref_content_open_in_background_summary">Открывать новые вкладки перед текущей</string>
 	<string name="pref_content_plugins">Разрешить плагины</string>
-	<string name="pref_content_preload_title">Предварительная загрузка</string>
 	<string name="pref_content_search_engine">Поисковая система</string>
 	<string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
 	<string name="pref_content_title">Содержание страницы</string>
@@ -325,7 +325,6 @@
 	<string name="pref_development_trace">Включить трассировку</string>
 	<string name="pref_development_viewport">Широкий экран</string>
 	<string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
-	<string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать вкладки при выходе из браузера. Снимите галочку, чтобы начинать с домашней страницы.</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
 	<string name="pref_extras_reset_default">Сброс настроек</string>
 	<string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
@@ -346,7 +345,6 @@
 	<string name="pref_general_sync_title">Синхронизация</string>
 	<string name="pref_general_title">Общие</string>
 	<string name="pref_gesture_title">Жесты</string>
-	<string name="pref_image_display_control">Отображение изображений</string>
 	<string name="pref_images_preload_dialogtitle">Загрузка изображений</string>
 	<string name="pref_images_preload_summary">Разрешить браузеру загружать изображения.</string>
 	<string name="pref_images_preload_title">Загрузка изображений</string>
@@ -418,6 +416,14 @@
 	<string name="pref_video_preload_summary">\nРазрешить браузеру загружать видео.</string>
 	<string name="pref_video_preload_title">Загрузка видео</string>
 	<string name="pref_video_preload_value_never_summary">Запретить браузеру загружать видео.</string>
+	<string name="pref_save_bandwidth_mode_title">Мобильный трафик</string>
+	<string name="pref_save_bandwidth_mode_summary">Запретить загрузку изображений при использовании мобильного интернета.</string>
+	<string name="menu_enable_save_bandwidth_mode">Включить мобильный трафик</string>
+	<string name="menu_disable_save_bandwidth_mode">Отключить мобильный трафик</string>
+	<string name="menu_save_bandwidth_mode_first_clicked_txt">Не загружать изображения при использовании мобильного интернета</string>
+	<string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ОК</string>
+	<string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного трафика включено</string>
+	<string name="menu_save_bandwidth_mode_close_toast">Ограничение мобильного трафика отключено</string>
 	<string name="pref_volume_key_enabled">Клавиши громкости</string>
 	<string name="pref_volume_key_operation">Функция клавиш громкости</string>
 	<string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
@@ -570,6 +576,7 @@
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Свернуть</string>
     <string name="download_default_path_txt">Установить папку загрузок по умолчанию</string>
 	<string name="download_dialog_default_path_invalid">Неверный путь загрузки. Будет использован путь по умолчанию.</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg">SD-карта отключена</string>
     <string name="pref_file_download_save_title">Загрузка и сохранение файлов</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Сброс настроек</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию?</string>

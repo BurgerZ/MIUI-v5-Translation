@@ -154,12 +154,14 @@
 	<string name="call_record_notification_message_low_space_miui">Запись остановлена, т.к. память заполнена.</string>
 	<string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
 	<string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
+	<string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением.</string>
 	<string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
 	<string name="call_record_notification_title_miui">Запись…</string>
 	<string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
-	<string name="call_record_sd_space_low_miui">Память на SD-карте заполнена.</string>
+	<string name="call_record_sd_space_low_miui">Память на SD-карте заполнена</string>
 	<string name="call_record_setting_miui">Запись разговора</string>
+	<string name="call_record_unknown_error">Ошибка записи</string>
 	<string name="call_recording_notification_summary_miui">Уведомление о начале и окончании записи вызова.</string>
 	<string name="call_recording_notification_title_miui">Уведомлять о записи</string>
 	<string name="call_recording_prompt_miui">Идет запись…</string>
@@ -427,8 +429,8 @@
 	<string name="hac_mode_summary_miui">Включить усиление звука</string>
 	<string name="hac_mode_title">Слуховые аппараты</string>
 	<string name="hac_mode_title_miui">Усиление звука</string>
-	<string name="handon_ringer_summary_miui">Возьмите телефон в руку при входящем вызове для уменьшения громкости мелодии.</string>
-	<string name="handon_ringer_title_miui">Тихий режим в руках</string>
+	<string name="handon_ringer_summary_miui">Телефон не будет вибрировать во время разговора.</string>
+	<string name="handon_ringer_title_miui">Не вибрировать</string>
 	<string name="hangup_sms_miui">Отклонить с SMS</string>
 	<string name="ignore_miui">Игнорировать</string>
 	<string name="importAllSimEntries">Импортировать все</string>

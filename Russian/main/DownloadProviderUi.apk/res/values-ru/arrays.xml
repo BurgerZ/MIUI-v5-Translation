@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="prefEntries_max_bytes_limit">
-        <item>10МБ</item>
-        <item>5МБ</item>
-        <item>2МБ</item>
-        <item>1МБ</item>
-        <item>500КБ</item>
-        <item>200КБ</item>
-        <item>100КБ</item>
+        <item>20 Мб</item>
+        <item>10 Мб</item>
+        <item>5 Мб</item>
+        <item>2 Мб</item>
+        <item>1 Мб</item>
+        <item>512 Кб</item>
+        <item>Любой размер</item>
      </string-array>
 </resources>

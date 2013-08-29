@@ -641,6 +641,7 @@
 	<string name="dirac_mode_earbuds">Гарнитура</string>
 	<string name="dirac_mode_in_ear">Наушники</string>
 	<string name="dirac_mode_off">Отключено</string>
+	<string name="dirac_mode_piston_100">Наушники Xiaomi</string>
 	<string name="eq_auto">Пользовательский</string>
 	<string name="eq_blues">Блюз</string>
 	<string name="eq_classical">Классика</string>
@@ -1090,6 +1091,7 @@
 	<string name="nfc_quick_toggle_title">NFC</string>
 	<string name="noise_suppression">Подавление шума</string>
 	<string name="phone_call_noise_suppression">Подавление шума</string>
+	<string name="sync_wifi_only">Только по Wi-Fi</string>
 	<string name="no">Нет</string>
 	<string name="no_application">Ничего</string>
 	<string name="no_applications">Нет приложений</string>
@@ -2240,7 +2242,7 @@
 	<string name="wimax_settings_summary">Подключение и настройка сети и модема 4G</string>
 	<string name="window_animation_scale_title">Окно: масштаб</string>
 	<string name="wireless_networks_settings_title">Беспроводные сети</string>
-	<string name="wps_category">Безопасное и быстрое подключение</string>
+	<string name="wps_category">Быстрое подключение</string>
 	<string name="wps_connect_summary">Убедитесь, что беспроводной маршрутизатор WPS активен</string>
 	<string name="wps_connect_title">WPS связь</string>
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>

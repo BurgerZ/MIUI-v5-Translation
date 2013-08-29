@@ -49,7 +49,9 @@
 	<string name="play_record">Играть</string>
 	<string name="preference_led_indicator">Индикатор записи</string>
 	<string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме.</string>
+	<string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
 	<string name="preference_silent_mode">Выключать все звуки</string>
+	<string name="preference_scenes">Режим записи</string>
 	<string name="record_list">Список записей</string>
 	<string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>
 	<string name="record_name_hour">.</string>
