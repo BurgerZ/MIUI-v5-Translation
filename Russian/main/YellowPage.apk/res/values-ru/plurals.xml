@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="all_numbers_count">
+        <item quantity="other">Номеров: %d</item>
+        <item quantity="one">Номеров: 1</item>
+    </plurals>
+</resources>
