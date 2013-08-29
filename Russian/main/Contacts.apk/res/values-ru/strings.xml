@@ -95,7 +95,7 @@
 	<string name="callrecordview_menu_delete_accepted">Очистить журнал входящих вызовов</string>
 	<string name="callrecordview_menu_delete_all">Очистить журнал</string>
 	<string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
-	<string name="callrecordview_menu_delete_confirm">Очистить журнал %s?</string>
+	<string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
 	<string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
 	<string name="callrecordview_menu_delete_new">Удалить из журнала новые контакты</string>
 	<string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
