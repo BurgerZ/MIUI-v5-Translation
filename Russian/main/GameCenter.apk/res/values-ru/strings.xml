@@ -80,7 +80,7 @@
 	<string name="install_inconsistent_fail">%1$s - установка не удалась: несоотвествие подписей</string>
 	<string name="install_no_network_description">Ошибка сетевого соединения, повторите попытку соединения</string>
 	<string name="install_no_permission">Ошибка загрузки, повторите еще раз</string>
-	<string name="install_on_data_description">Вы уверены, что хотите установить приложения %1$s %2$s？</string>
+	<string name="install_on_data_description">Установить приложения %1$s %2$s?</string>
 	<string name="install_only_on_wifi_description">Вы можете скачать это приложение только по Wi-Fi</string>
 	<string name="install_sign_not_same_btn_remove">Удалить и обновить</string>
 	<string name="install_sign_not_same_message">%1$s файл обновления и текущее приложение имеют разные названия. Не удается обновить. Пожалуйста, удалите текущую версию, а затем установите последнюю версию.</string>

@@ -11,7 +11,7 @@
 	<string name="call_record_or">или</string>
 	<string name="default_record_name">запись без названия</string>
 	<string name="delete">Удалить</string>
-	<string name="delete_dialog_message">Вы уверены, что хотите удалить текущую запись?</string>
+	<string name="delete_dialog_message">Удалить выбранную запись?</string>
 	<string name="deleting_message">Удаление…</string>
 	<string name="dialog_content_storage_full">Из-за нехватки места для сохранения, запись была остановлена. Открыть файловый менеджер для очистки ненужных файлов?</string>
 	<string name="dialog_play">Играть</string>

@@ -461,4 +461,5 @@
 	<string name="winter_begins">Начало зимы</string>
 	<string name="winter_solstice" />
 	<string name="yesterday">"Вчера "</string>
+    <string name="volume_ring_description">Рингтон и уведомления</string>
 </resources>

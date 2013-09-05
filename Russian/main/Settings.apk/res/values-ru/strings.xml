@@ -1472,7 +1472,6 @@
     <string name="headset_no_contected">Гарнитура не подключена</string>
     <string name="headset_calibrate_wrong_key">Нажата неверная клавиша.</string>
 	<string name="screen_button_key">Виртуальные кнопки</string>
-	<string name="screen_color_temperature_adjust">Цветовая температура</string>
 	<string name="screen_compatibility_label">Совместимость с экраном</string>
 	<string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
 	<string name="screen_key_long_press">Длительное нажатие</string>
@@ -1480,10 +1479,10 @@
 	<string name="screen_key_long_press_timeout">Длительность нажатия</string>
 	<string name="screen_on_proximity_sensor_summary"> Использование датчика приближения для предотвращения случайных нажатий на экран заблокированного телефона.</string>
 	<string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
-	<string name="screen_saturation_adjust">Насыщенность</string>
 	<string name="screen_timeout">Выключение экрана</string>
 	<string name="screen_timeout_summary">После %1$s бездействия.</string>
 	<string name="screen_timeout_title">Выключение экрана</string>
+	<string name="screen_never_timeout_title">Не выключать</string>
 	<string name="screensaver_activate_on_dock_title">Также запустить при подключении док-станции</string>
 	<string name="screensaver_component_title">Выбранная заставка</string>
 	<string name="screensaver_settings_summary_off">Отключено</string>
@@ -1716,6 +1715,9 @@
 	<string name="sync_settings">Аккаунты и синхронизация</string>
 	<string name="sync_wifi_label">Настройки Wi-Fi</string>
 	<string name="system">Система</string>
+	<string name="screen_color_temperature">Цветовая температура</string>
+    <string name="screen_saturation">Насыщенность</string>
+    <string name="screen_color_temperature_and_saturation">Температура и насыщенность</string>
 	<string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
 	<string name="system_update_settings_list_item_title">Обновление системы</string>
 	<string name="terms_title">Условия использования</string>

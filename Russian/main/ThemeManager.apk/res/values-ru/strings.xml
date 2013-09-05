@@ -76,10 +76,10 @@
 	<string name="resource_comment_version_name">(Версия: %1$s)</string>
 	<string name="resource_default">Мелодия по умолчанию</string>
 	<string name="resource_default_name">Ресурс</string>
-	<string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
+	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
 	<string name="resource_delete_confirm">Удалить выбранное?</string>
-	<string name="resource_delta_update_failed">Ошибка Delta обновления.</string>
-	<string name="resource_delta_update_successful">Delta обновление сохранено %1$s.</string>
+	<string name="resource_delta_update_failed">Ошибка обновления.</string>
+	<string name="resource_delta_update_successful">Обновление завершено: %1$s.</string>
 	<string name="resource_detail">Детали</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>

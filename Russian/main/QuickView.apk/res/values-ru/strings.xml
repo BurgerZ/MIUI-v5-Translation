@@ -47,7 +47,7 @@
   <string name="no_way_to_share_image">Нет подходящего приложения</string>
   <string name="no_way_to_share_video">Нет подходящего приложения</string>
   <string name="preparing_sd">Подготовка SD карты…</string>
-  <string name="remove_dialog">Вы уверены, что хотите удалить?</string>
+  <string name="remove_dialog">Удалить диалог?</string>
   <string name="remove_dialog_canceled">Отменено</string>
   <string name="remove_dialog_removed">Удалено</string>
   <string name="rename">Переименовать</string>

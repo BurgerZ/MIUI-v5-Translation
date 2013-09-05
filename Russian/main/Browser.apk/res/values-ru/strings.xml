@@ -132,7 +132,7 @@
 	<string name="delete_bookmark">Из закладок</string>
 	<string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
 	<string name="delete_folder">Удалить папку</string>
-	<string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
+	<string name="delete_multi_bookmarks_alert_title">Удалить выбранные закладки (%1$s)?</string>
 	<string name="disable_autofill">Отключить автозаполнение</string>
 	<string name="do_not_save">Отмена</string>
 	<string name="download_complete">Загрузка завершена</string>
@@ -245,7 +245,8 @@
 	<string name="menu_share_url">Отправить</string>
 	<string name="menu_theme_setting">Настройка темы</string>
 	<string name="menu_view_download">Загрузки</string>
-	<string name="move_to_up_folder">на уровень выше</string>
+	<string name="move_to_up_folder">Вернуться</string>
+	<string name="bookmark_folder_needs_title">Необходимо ввести имя папки</string>	
 	<string name="multi_select_title">Выбрано %1$s закладок</string>
 	<string name="name">Ярлык</string>
 	<string name="navigation_button_close">Закрыть</string>

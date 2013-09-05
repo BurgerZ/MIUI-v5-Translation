@@ -269,7 +269,7 @@
 	<string name="general_preference_auto_advance_older">К старому сообщению</string>
 	<string name="general_preference_auto_advance_summary">Выберите экран для отображения после удаления цепочки писем</string>
 	<string name="general_preference_reply_all_label">Ответить всем</string>
-	<string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
+	<string name="general_preference_reply_all_summary">Всегда отвечать всем участникам диалога.</string>
 	<string name="general_preference_text_zoom_dialog_title">Размер шрифта</string>
 	<string name="general_preference_text_zoom_huge">Огромный</string>
 	<string name="general_preference_text_zoom_label">Размер шрифта</string>

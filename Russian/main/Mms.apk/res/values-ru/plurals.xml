@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="confirm_delete_conversation">
-        <item quantity="other">Удалить выбранные переписки? \n\nПереписок: %1$s</item>
-        <item quantity="one">Удалить выбранную переписку?</item>
+        <item quantity="other">Удалить выбранные диалоги? \n\nДиалогов: %1$s</item>
+        <item quantity="one">Удалить выбранный диалог?</item>
      </plurals>
      <plurals name="message_count">
         <item quantity="other">Сообщений: %1$s</item>

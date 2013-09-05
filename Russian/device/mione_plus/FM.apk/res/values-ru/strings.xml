@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alert_message_delete_station">Вы уверены, что хотите удалить станцию?</string>
+    <string name="alert_message_delete_station">Удалить станцию?</string>
     <string name="alert_title_delete">Удалить</string>
     <string name="alert_title_input_station">Введите частоту радиостанции</string>
     <string name="alert_title_new_station">Новая радиостанция</string>

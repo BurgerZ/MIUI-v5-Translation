@@ -233,7 +233,6 @@
         <item>Яркий режим</item>
         <item>Стандартный режим</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 8 must: 7 -->
      <string-array name="screen_timeout_entries">
         <item>15 сек.</item>
         <item>30 сек.</item>
@@ -241,7 +240,7 @@
         <item>2 мин.</item>
         <item>5 мин.</item>
         <item>10 мин.</item>
-        <item>30 мин.</item>
+        <item>Не выключать</item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">
         <item>Спрашивать</item>

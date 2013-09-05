@@ -113,7 +113,7 @@
 	<string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
 	<string name="cancel_export_confirmation_message">Отменить экспорт \"%s\"?</string>
 	<string name="cancel_import_confirmation_message">Отменить импорт \"%s\"?</string>
-	<string name="cancel_import_dialog_message">Вы уверены, что хотите прекратить импорт контактов?</string>
+	<string name="cancel_import_dialog_message">Остановить импорт контактов?</string>
 	<string name="cancel_import_dialog_title">Остановить импорт</string>
 	<string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
 	<string name="chat">Чат</string>
@@ -293,7 +293,7 @@
 	<string name="directory_search_label">Каталог</string>
 	<string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
 	<string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
-	<string name="dirty_contacts_notification_title">Вы уверены, что хотите синхронизировать контакты?</string>
+	<string name="dirty_contacts_notification_title">Синхронизировать контакты?</string>
 	<string name="display_all_contacts">Все контакты</string>
 	<string name="display_more_groups">Другие группы…</string>
 	<string name="display_only_phones">Только с номером телефона</string>
@@ -409,7 +409,7 @@
 	<string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
 	<string name="import_to_xiaomi_account_progress_message">Импортирование…</string>
 	<string name="import_to_xiaomi_account_progress_title">Импортировать контакты в аккаунт Xiaomi</string>
-	<string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
+	<string name="import_to_xiaomi_account_title">Импортировать контакты в аккаунт Xiaomi?</string>
 	<string name="import_vcard_description">Импортирование контактов с SD-карты.</string>
 	<string name="import_weibo_dialog_title">Импорт контактов sina weibo</string>
 	<string name="import_weibo_error_no_matched_contacts">Нет совпадающих контактах</string>
@@ -685,7 +685,7 @@
 	<string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
 	<string name="rebuild_t9_index_dialog_message">Перестроение данных индекса…</string>
 	<string name="recent">Последний</string>
-	<string name="recentCallsIconLabel">История звонков</string>
+	<string name="recentCallsIconLabel">Журнал вызовов</string>
 	<string name="recentCalls_addToContact">Добавить в контакты</string>
 	<string name="recentCalls_callNumber">Звонков %s</string>
 	<string name="recentCalls_deleteAll">Очистить журнал вызовов</string>
@@ -715,8 +715,8 @@
 	<string name="resource_default_name">Ресурс</string>
 	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
 	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
-	<string name="resource_delta_update_failed">Ошибка Delta обновления</string>
-	<string name="resource_delta_update_successful">Delta обновление сохранено %1$s.</string>
+	<string name="resource_delta_update_failed">Ошибка обновления</string>
+	<string name="resource_delta_update_successful">Обновление завершено: %1$s.</string>
 	<string name="resource_detail">Подробно</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>

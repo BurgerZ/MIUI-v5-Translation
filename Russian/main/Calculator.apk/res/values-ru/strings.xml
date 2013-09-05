@@ -15,4 +15,6 @@
 	<string name="scientific">Научный</string>
 	<string name="sqrtDesc">Квадратный корень</string>
 	<string name="text_copied_toast">Текст скопирован</string>
+	<string name="switch_to_scientific_pad">Научный режим</string>
+	<string name="switch_to_standard_pad">Базовый режим</string>
 </resources>

@@ -59,7 +59,7 @@
 	<string name="operation_send">Отправить</string>
 	<string name="picker_title">Приложение</string>
 	<string name="receive">Прием</string>
-	<string name="receive_cancel_tip">Вы уверены, что хотите остановить передачу?</string>
+	<string name="receive_cancel_tip">Остановить передачу?</string>
 	<string name="receive_cancel_tip2">Передача отменена. Получено %1$d из %2$d файлов.</string>
 	<string name="receive_canceled">Отменено</string>
 	<string name="receive_cannot_created_file">Ошибка создания файла</string>
@@ -80,7 +80,7 @@
 	<string name="sdcard_unavailable">SD-карта недоступна</string>
 	<string name="send">Отправить</string>
 	<string name="send_2d_code">Отправить с 2D-кодом</string>
-	<string name="send_cancel_tip">Вы уверены, что хотите остановить передачу?</string>
+	<string name="send_cancel_tip">Остановить передачу?</string>
 	<string name="send_cancel_tip2">Передача отменена. Отправлено %1$d из %2$d файлов.</string>
 	<string name="send_files">Отправка файлов: %1$d</string>
 	<string name="send_finish">Файл отправлен</string>
