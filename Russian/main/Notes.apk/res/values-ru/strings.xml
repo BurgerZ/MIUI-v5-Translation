@@ -70,7 +70,6 @@
 	<string name="notify_alarm_title">Напоминание</string>
 	<string name="pref_desc_mode_grid">Сетка</string>
 	<string name="pref_desc_mode_list">Список</string>
-	<string name="pref_title_data_export">Экспорт заметок</string>
 	<string name="pref_title_data_export_to_sdcard">Экспортировать на SD-карту</string>
 	<string name="pref_title_note_style">Стиль заметок</string>
 	<string name="preferences_bg_random_appear_title">Случайный цвет</string>

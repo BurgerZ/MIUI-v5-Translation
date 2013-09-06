@@ -47,7 +47,6 @@
 	<string name="mi_wallpaper">Mi обои</string>
 	<string name="online_no_network">Не удается подключиться к сети</string>
 	<string name="online_search_hint">Введите ключевые слова</string>
-	<string name="processing">Обработка…</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="resource_apply">Применить</string>

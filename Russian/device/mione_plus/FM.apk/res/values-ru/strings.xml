@@ -21,13 +21,10 @@
     <string name="fmradio_found_format">%sMHz…</string>
     <string name="fmradio_found_station">Найдено станций: %d</string>
     <string name="fmradio_in_calling_at_begin">Запуск радио невозможен при разговоре</string>
-    <string name="fmradio_no_headset_at_begin">Подключите наушники для запуска радио.</string>
     <string name="fmradio_no_headset_in_listen">Подключите наушники для включения радио.</string>
     <string name="fmradio_on_airplane_mode_in_listen">Активирован режим полета, радио автоматически выключено.</string>
     <string name="fmradio_scan_begin_msg">Сканирование радиостанций</string>
     <string name="fmradio_service_label">Радио</string>
-    <string name="fmradio_start_error">Ошибка включения радио</string>
-    <string name="fmradio_stop_unexpected">Радио неожиданно остановлено</string>
     <string name="fmradio_waiting_for_power_on">Радио включено, пожалуйста, подождите…</string>
     <string name="frequency">Частота:</string>
     <string name="frequency_already_exist">Частота уже существует</string>

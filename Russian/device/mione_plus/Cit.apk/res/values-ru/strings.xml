@@ -106,7 +106,6 @@
   <string name="cit_main_camera_check_title">Основная камера</string>
   <string name="cit_front_camera_check_title">Фронтальная камера</string>
   <string name="cit_front_camera_check_summary">Фронтальная камера \n\n1.Включите камеру \n2.Выбирете стандартную камеру \n3.Сфотографируйте \n4.Подтвердите сохранение снимка  \n5.Просмотрите изображение \n6.Удалите соответствующей кнопкой</string>
-  <string name="cit_main_camera_sdcard_error">SD-карта заполнена</string>
   <string name="cit_name">Инженерное меню</string>
   <string name="cit_not_available">Не поддерживается</string>
   <string name="cit_notificationlight">Индикатор уведомлений</string>

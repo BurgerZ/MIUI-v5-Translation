@@ -902,6 +902,10 @@
   <string name="permlab_vibrate">Управление вибрацией</string>
   <string name="permlab_wakeLock">Предотвращение спящего режима</string>
   <string name="permlab_writeApnSettings">Настройки APN</string>
+  <string name="permlab_IMS">Использование функции IMS</string>
+  <string name="permdesc_IMS">Позволяет приложению получать доступ к функциям IMS.</string>
+  <string name="permlab_hdmi_suspend">Приостановление отображения HDMI</string>
+  <string name="permdesc_hdmi_suspend">Позволяет приложению приостанавливать зеркальное отображение HDMI.</string>
   <string name="permlab_writeCalendar">Изменение календаря</string>
   <string name="permlab_writeContacts">Изменение контактов</string>
   <string name="permlab_writeDictionary">Изменение словаря</string>

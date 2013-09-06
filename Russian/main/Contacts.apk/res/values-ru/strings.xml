@@ -672,10 +672,8 @@
 	<string name="preview_contact_card_title">Импортировать</string>
 	<string name="previous">Назад</string>
 	<string name="private_num">Скрытый номер</string>
-	<string name="processing">Обработка…</string>
 	<string name="profile_display_name">Мой профиль</string>
 	<string name="profile_name">Мой профиль</string>
-	<string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
 	<string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
 	<string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
 	<string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>

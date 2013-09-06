@@ -411,8 +411,8 @@
     <string name="flash_on">Сработала вспышка</string>
     <string name="flash_off">Без вспышки</string>
     <string name="manual">Вручную</string>
-    <string name="close">Выйти</string>
-    <string name="details_title">%1$d из %2$d элементов:</string>
+    <string name="close">Закрыть</string>
+    <string name="details_title">%1$d из %2$d</string>
     <string name="set_label_local_albums">Альбомы</string>
     <string name="folder_camera">Камера</string>
     <string name="folder_download">Загрузки</string>

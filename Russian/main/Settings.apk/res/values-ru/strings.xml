@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="about_settings">О телефоне</string>
-	<string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
+	<string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО.</string>
 	<string name="ac_enable_title">Ограничение доступа</string>
-	<string name="ac_privacy_mode_sum">Чтобы отключить режим защиты, потребуется ввести графический ключ</string>
-	<string name="ac_privacy_mode_title">Пароль</string>
+	<string name="ac_privacy_mode_sum">Для отключения режима защиты потребуется ввести графический ключ.</string>
+	<string name="ac_privacy_mode_title">Графический ключ</string>
 	<string name="ac_set_apps_title">Защита приложений</string>
 	<string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
 	<string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
@@ -979,9 +979,9 @@
 	<string name="lockpattern_settings_choose_lock_pattern">Установить ключ</string>
 	<string name="lockpattern_settings_enable_power_button_instantly_locks">Блокировка кнопкой питания</string>
 	<string name="lockpattern_settings_enable_summary">Использовать графический ключ для защиты телефона</string>
-	<string name="lockpattern_settings_enable_tactile_feedback_title">Вибрировать при касании</string>
+	<string name="lockpattern_settings_enable_tactile_feedback_title">Вибрация при нажатии</string>
 	<string name="lockpattern_settings_enable_title">Запрашивать ключ</string>
-	<string name="lockpattern_settings_enable_visible_pattern_title">Показывать графический ключ</string>
+	<string name="lockpattern_settings_enable_visible_pattern_title">Показывать ключ</string>
 	<string name="lockpattern_settings_help_how_to_record">Как начертить графический ключ разблокировки</string>
 	<string name="lockpattern_settings_title">Графический ключ разблокировки</string>
 	<string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторите попытку через %d с.</string>

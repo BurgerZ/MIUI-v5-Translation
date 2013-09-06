@@ -76,7 +76,6 @@
 	<string name="confirm_delete">Удалить выбранное?</string>
 	<string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы с изображениями? \n\nАльбомов: %s \nИзображений: %s</string>
 	<string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить выбранные альбомы и изображения? \n\nИзображений:%s \nАльбомов: %s</string>
-	<string name="confirm_delete_items">Выбрано: %s</string>
 	<string name="confirm_delete_pictures">Изображений: %s</string>
 	<string name="confirm_delete_system_album">Удалить системный альбом \"%s\"?</string>
 	<string name="confirm_delete_videos">%s видео</string>

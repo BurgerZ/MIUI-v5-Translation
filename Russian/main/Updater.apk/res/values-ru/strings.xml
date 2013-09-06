@@ -150,7 +150,7 @@
 	<string name="update_monthly_build_only">Только ежемесячные обновления</string>
 	<string name="update_sad">Грустный</string>
 	<string name="update_success">Обновление успешно завершено!</string>
-	<string name="update_success_body">Обновлено до %s</string>
+	<string name="update_success_body">Текущая версия: %s</string>
 	<string name="update_success_title">Обновление</string>
 	<string name="upgrade_close">Закрыть</string>
 	<string name="upgrade_kernel">Обновления ядра</string>
