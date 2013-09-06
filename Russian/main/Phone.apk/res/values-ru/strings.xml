@@ -143,7 +143,7 @@
 	<string name="callFailed_unobtainable_number">Недействительный номер</string>
 	<string name="callFailed_userBusy">Линия занята</string>
 	<string name="call_assistant_miui">Упрощение вызова</string>
-	<string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
+	<string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки.</string>
 	<string name="call_forwarding_settings">Переадресация вызова</string>
 	<string name="call_forwarding_settings_miui">Переадресация вызова</string>
 	<string name="call_lost">Вызов прерван</string>
@@ -155,7 +155,7 @@
 	<string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
 	<string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
 	<string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением.</string>
-	<string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
+	<string name="call_record_notification_title_error_miui">Ошибка записи разговора</string>
 	<string name="call_record_notification_title_miui">Запись…</string>
 	<string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
