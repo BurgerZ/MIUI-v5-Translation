@@ -158,6 +158,14 @@
 			"hidden":"true"
         },
         {
+            "title":"SamAndroid",
+            "url":"http://samandroid.ru",
+            "thumbnail":"samandroid.png",
+            "logobg":"bg09.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
             "title":"Самиздат",
             "url":"http://samlib.ru/",
             "thumbnail":"samizdat.png",

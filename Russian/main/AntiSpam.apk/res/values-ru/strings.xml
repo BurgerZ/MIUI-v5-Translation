@@ -56,7 +56,7 @@
      <string name="menu_restore">Восстановить в сообщения</string>
      <string name="menu_sms">Отправить сообщения</string>
      <string name="qm_auto_button_title">Автовключение</string>
-     <string name="qm_auto_setting_group">Автоматическое включение и выключение</string>
+     <string name="qm_auto_setting_group">Включение по расписанию</string>
      <string name="qm_auto_time_setting">Время</string>
      <string name="qm_auto_time_setting_summary">С %1$s до %2$s</string>
      <string name="qm_auto_time_turn_off">Окончание</string>
@@ -72,7 +72,7 @@
      <string name="qm_repeated_call_summary_3min">Второй вызов от того же номера в течение трех минут не будет отключен</string>
      <string name="qm_repeated_call_summary_none">Не исключать неоднократные вызовы</string>
      <string name="qm_special_call_setting_group">Исключения</string>
-     <string name="qm_summary">При включении тихого режима, уведомления входящих вызовов и сообщений будут отключены.</string>
+     <string name="qm_summary">При включении тихого режима уведомления входящих вызовов и сообщений будут отключены.</string>
      <string name="qm_vip_call_button_title">Белый список</string>
      <string name="qm_vip_call_setting_title">Белый список</string>
      <string name="qm_vip_call_summary_contact">Все контакты</string>

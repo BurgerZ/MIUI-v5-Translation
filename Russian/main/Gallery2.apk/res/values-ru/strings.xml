@@ -28,7 +28,7 @@
   <string name="crossprocess">Кроссобработка</string>
   <string name="delete">Удалить</string>
   <string name="description">Описание</string>
-  <string name="deselect_all">Отменить все</string>
+  <string name="deselect_all">Снять все</string>
   <string name="details">Сведения</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -118,7 +118,7 @@
   <string name="saving_failure">Не удалось сохранить фото</string>
   <string name="saving_image">Сохранение картинки…</string>
   <string name="select_album">Выберите альбомы</string>
-  <string name="select_all">Выбрать все</string>
+  <string name="select_all">Отметить все</string>
   <string name="select_group">Выберите группы</string>
   <string name="select_image">Выберите фото</string>
   <string name="select_item">Выберите объекты</string>

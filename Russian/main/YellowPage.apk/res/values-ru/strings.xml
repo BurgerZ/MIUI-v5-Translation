@@ -73,6 +73,13 @@
     <string name="recharge_phone_number_error">Неверный номер телефона.</string>
     <string name="recharge_user_confirm_title">Подтвердить</string>
     <string name="recharge_user_confirm_summary">Вы пополняете %1$s для RMB%2$s！ \n\nОбщая сумма: RMB%3$s</string>
+	<string name="recharge_order_id">ID заказа:</string>
+	<string name="recharge_status_description">Статус:</string>
+	<string name="recharge_actual_price">Цена:</string>
+	<string name="recharge_order_original_price">RMB%s</string>
+	<string name="recharge_order_actual_price">\u00A5%s</string>
+	<string name="recharge_order_pay">Оформить заказ</string>
+	<string name="recharge_history">История пополнения</string>
     <string name="module_sms_sent">Сообщение отправлено</string>
     <string name="sms_send_failed">Не удалось отправить сообщение.</string>
     <string name="sms_sending">Отправка…</string>

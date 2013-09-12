@@ -38,7 +38,7 @@
      </string-array>
      <string-array name="entries_date_type">
         <item>Время получения</item>
-        <item>Время отправки с сервера</item>
+        <item>Время отправки</item>
      </string-array>
      <string-array name="prefEntries_ringtone_repeat">
         <item>1 раз</item>

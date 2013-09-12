@@ -339,6 +339,7 @@
 	<string name="update_contacts">Обновление контактов</string>
 	<string name="update_contacts_description">Сервис Sina micro обновит информацию контактов.</string>
 	<string name="updated_contacts">Обновлено контактов: %s</string>
+	<string name="updated_nothing">Не обновлено</string>
 	<string name="user_agreement_p1">Входя в аккаунт, вы соглашаетесь с\n</string>
 	<string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
 	<string name="user_agreement_p3"> и  </string>

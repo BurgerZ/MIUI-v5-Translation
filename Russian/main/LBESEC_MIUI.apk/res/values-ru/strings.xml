@@ -17,7 +17,7 @@
 	<string name="Dashboard_Perm_HIPS_Risky">Разрешения с риском (%1$d)</string>
 	<string name="Dashboard_Perm_HIPS_Safe">Разрешения (%1$d)</string>
 	<string name="Dashboard_Perm_HIPS_Switch">Управление разрешениями</string>
-	<string name="Dashboard_Perm_Header">Управление %1$d приложениями</string>
+	<string name="Dashboard_Perm_Header">Приложений: %1$d</string>
 	<string name="Dashboard_Perm_Header_Disabled">Управление доступом отключено</string>
 	<string name="Dashboard_Perm_SU">Управление доступом суперпользователя</string>
 	<string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>

@@ -74,6 +74,7 @@
 	<string name="call_pager">Пейджер</string>
 	<string name="call_radio">Радиотелефон</string>
 	<string name="call_record_setting_miui">Запись разговора</string>
+	<string name="save">Добавить</string>
 	<string name="call_settings">Настройки</string>
 	<string name="call_telex">Телекс</string>
 	<string name="call_tty_tdd">Телетайп</string>
@@ -501,8 +502,8 @@
 	<string name="menu_redirect_calls_to_vm">Выключить голосовую почту</string>
 	<string name="menu_removeStar">Из избранных</string>
 	<string name="menu_search">Поиск</string>
-	<string name="menu_select_all">Выбрать все</string>
-	<string name="menu_select_none">Отменить все</string>
+	<string name="menu_select_all">" Отметить все "</string>
+	<string name="menu_select_none">" Снять все "</string>
 	<string name="menu_sendSMS">Отправить сообщение</string>
 	<string name="menu_sendTextMessage">Отправить сообщение</string>
 	<string name="menu_set_ring_tone">Мелодия контакта</string>
@@ -580,7 +581,7 @@
 	<string name="option_not_in_group">Удалить контакт из группы</string>
 	<string name="option_not_star">Убрать из избранных</string>
 	<string name="option_rename_group">Переименовать</string>
-	<string name="option_send_to_desktop">Отправить на рабочий стол</string>
+	<string name="option_send_to_desktop">Ярлык на рабочий стол</string>
 	<string name="option_send_to_others">Отправить…</string>
 	<string name="option_view_contact">Просмотр</string>
 	<string name="option_view_group">Посмотреть</string>
@@ -765,7 +766,7 @@
 	<string name="search_results_searching">Поиск…</string>
 	<string name="search_settings_description">Имена контактов</string>
 	<string name="searching_vcard_message">Поиск данных vCard на SD-карте…</string>
-	<string name="select_all">Выбрать все</string>
+	<string name="select_all">" Отметить все "</string>
 	<string name="select_device">выберите устройство для подключения</string>
 	<string name="select_new_photo_from_photo_package">Выбрать из фото пакета</string>
 	<string name="select_none">Выберите хотя бы один контакт</string>
@@ -909,8 +910,8 @@
 	<string name="readingSimContacts">Чтение контактов с SIM-карты…</string>
 	<string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
 	<string name="simContacts_empty">Нет контактов на SIM-карте</string>
-	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
-	<string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
+	<string name="sim_contact_dropdown_menu_deselect_all_miui">" Снять все "</string>
+	<string name="sim_contact_dropdown_menu_select_all_miui">" Отметить все "</string>
 	<string name="toast_copy_done">Копирование завершено</string>
 	<string name="toast_copying">Копирование…</string>
 </resources>

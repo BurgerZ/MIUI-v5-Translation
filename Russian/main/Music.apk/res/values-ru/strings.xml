@@ -140,6 +140,7 @@
 	<string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр</string>
 	<string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к Интернету</string>
 	<string name="music_picker_title">Выберите трек</string>
+	<string name="empty_track_list">Нет треков</string>
 	<string name="music_settings">Настройки</string>
 	<string name="network_error">Нет подключения к сети, пожалуйста, проверьте сетевые настройки</string>
 	<string name="new_albums">Новые альбомы</string>

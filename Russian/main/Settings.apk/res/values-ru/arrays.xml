@@ -55,8 +55,8 @@
 	 <string-array name="change_security_lock_picker">
         <item>Фейс-контроль</item>
         <item>Графический ключ</item>
-        <item>Цифровой пароль</item>
-        <item>Смешанный пароль</item>
+        <item>Код</item>
+        <item>Пароль</item>
 	 </string-array>
      <string-array name="dream_timeout_entries">
         <item>Никогда</item>

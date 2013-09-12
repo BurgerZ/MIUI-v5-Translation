@@ -27,7 +27,7 @@
 	<string name="alert">Мелодия и тема</string>
 	<string name="analog_gadget">Часы</string>
 	<string name="app_label">Часы</string>
-	<string name="auto_silence_never">Выключено</string>
+	<string name="auto_silence_never">Бесконечно</string>
 	<string name="auto_silence_summary">Автоматическое выключение будильника через %d мин.</string>
 	<string name="auto_silence_title">Автовыключение</string>
 	<string name="cancel">Стоп</string>
@@ -85,7 +85,7 @@
 	<string name="minute_unit">м</string>
 	<string name="minutes">%s мин.</string>
 	<string name="music_button_description">Музыка</string>
-	<string name="never">Не выбрано</string>
+	<string name="never">Однократно</string>
 	<string name="nightmode_button_description">Затемнить</string>
 	<string name="pause">Пауза</string>
 	<string name="remind_ringtone">Мелодия</string>

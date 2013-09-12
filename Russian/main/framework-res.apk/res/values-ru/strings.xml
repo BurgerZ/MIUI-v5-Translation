@@ -126,13 +126,13 @@
   <string name="contentServiceSyncNotificationTitle">Синхр.</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений %s</string>
   <string name="content_description_sliding_handle">Сенсорное управление. Нажмите и удерживайте.</string>
-  <string name="copy">Копировать</string>
-  <string name="copyAll">Копировать все</string>
-  <string name="copyUrl">Копировать URL</string>
+  <string name="copy">" Копировать "</string>
+  <string name="copyAll">" Копировать все "</string>
+  <string name="copyUrl">" Копировать URL "</string>
   <string name="create_contact_using">"Создать контакт
 с номером %s"</string>
-  <string name="cut">Вырезать</string>
-  <string name="cutAll">Вырезать все</string>
+  <string name="cut">" Вырезать "</string>
+  <string name="cutAll">" Вырезать все "</string>
   <string name="data_usage_3g_limit_snoozed_title">Превышен лимита трафика 2G и 3G</string>
   <string name="data_usage_3g_limit_title">Передача данных 2G/3G отключена</string>
   <string name="data_usage_4g_limit_snoozed_title">Превышен лимит на трафик 4G</string>
@@ -1055,8 +1055,8 @@
   <string name="searchview_description_voice">Голосовой поиск</string>
   <string name="second">с.</string>
   <string name="seconds">с.</string>
-  <string name="selectAll">Выбрать все</string>
-  <string name="selectTextMode">Выбрать текст</string>
+  <string name="selectAll">" Выбрать все "</string>
+  <string name="selectTextMode">Выделить текст</string>
   <string name="select_character">Введите символ</string>
   <string name="select_input_method">Выберите способ ввода</string>
   <string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры</string>

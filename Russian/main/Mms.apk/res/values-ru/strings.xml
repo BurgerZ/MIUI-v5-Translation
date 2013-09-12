@@ -413,7 +413,7 @@
 	<string name="type_to_compose_text_or_leave_blank">Введите сообщение</string>
 	<string name="type_video">Видеозапись</string>
 	<string name="undelivered_msg_dialog_body">Не удалось отправить сообщение.\nПопыток: %s.</string>
-	<string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
+	<string name="undelivered_msg_dialog_title">Сообщение не доставлено</string>
 	<string name="undelivered_sms_dialog_body">Не удалось отправить сообщение</string>
 	<string name="unknown_num">Неизвестный номер</string>
 	<string name="unknown_sender">Неизвестный отправитель</string>
@@ -427,4 +427,8 @@
 	<string name="view_message_details">Подробности</string>
 	<string name="wap_push_title">"[Push-сообщение] "</string>
 	<string name="yes">ОК</string>
+	<string name="file_share_message_description">Я поделился с вами файлами</string>
+    <string name="addBlackList">В черный список</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
+	<string name="batch_adding_progress_message">Добавление…</string>
 </resources>
