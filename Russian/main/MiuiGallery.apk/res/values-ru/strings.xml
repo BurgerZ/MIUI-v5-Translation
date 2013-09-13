@@ -67,6 +67,7 @@
 	<string name="cloud_album_set_scan_qr_code">QR-код</string>
     <string name="scan_qr_code_failure">Ошибка сканирования</string>
 	<string name="cloud_albums">Облачные альбомы</string>
+	<string name="empty_album">Нет изображений</string>
 	<string name="cloud_camera_display_name">Фото с камеры</string>
 	<string name="cloud_gallery_no_pictures">Нет изображений</string>
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
@@ -217,8 +218,8 @@
 	<string name="message_no_delete_access_with_count">Невозможно удалить файлов: %d \nВозможно доступ запрещен.</string>
 	<string name="messagelist_sender_self">Я</string>
 	<string name="miliao_folder_display_name">MiTalk</string>
-	<string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
-	<string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
+	<string name="miliao_painting_folder_display_name">Рисунки MiTalk</string>
+	<string name="miliao_saved_folder_display_name">Изображения MiTalk</string>
 	<string name="mimetype">Тип MIME</string>
 	<string name="mishop_saved_folder_display_name">MiShop</string>
 	<string name="miui_capture_screen_folder_display_name">Скриншоты</string>
