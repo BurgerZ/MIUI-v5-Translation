@@ -39,7 +39,7 @@
 	<string name="added_to_bookmarks">Добавлено в закладки</string>
 	<string name="alert_tips">Этот сайт может содержать вредоносные ресурсы, будьте осторожны!</string>
 	<string name="allow">Разрешить</string>
-	<string name="app_new_version">Загрузка завершена. Последняя версия приложения установлена.</string>
+	<string name="app_new_version">Загрузка приложения завершена</string>
 	<string name="app_update_install">Загрузка завершена. Обновление готово к установке.</string>
 	<string name="application_name">Браузер</string>
 	<string name="autofill_profile_editor_address_line_1">Адресная строка 1:</string>

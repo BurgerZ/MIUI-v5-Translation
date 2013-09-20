@@ -53,7 +53,7 @@
 	<string name="description_label">Описание</string>
 	<string name="directory_searching_fmt">Поиск в %s…</string>
 	<string name="discard_label">Отмена</string>
-	<string name="dismiss_all_label">Удалить все</string>
+	<string name="dismiss_all_label">ОК</string>
 	<string name="do_not_check">Не проверять -></string>
 	<string name="does_not_repeat">Однократно</string>
 	<string name="done">Готово</string>
