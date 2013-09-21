@@ -24,6 +24,8 @@
     <string name="toast_delete_station">%sМГц удалена</string>
     <string name="toast_edit_station">Изменения сохранены</string>
     <string name="toast_save_station">%sМГц сохранена</string>
+	<string name="menu_edit">Редактировать</string>
+	<string name="menu_delete">Удалить</string>
 	<string name="exit_fm">Выход</string>
 	<string name="menu_settings">Настройки</string>
     <string name="menu_record_start">Начать запись</string>
@@ -33,8 +35,8 @@
     <string name="menu_record_list">Записи</string>
     <string name="menu_scan_start">Сканировать станции</string>
     <string name="menu_scan_stop">Остановить сканирование</string>
-    <string name="menu_select_station">Выбрать станцию</string>
-	<string name="title_select_station">Введите частоту: %s</string>
+    <string name="menu_select_station">Ввести частоту</string>
+	<string name="title_select_station">Частота: %s</string>
     <string name="menu_stats">Статистика FM RF</string>
     <string name="button_text_stop">Остановить</string>
     <string name="msg_seeking">Поиск станций…</string>
@@ -110,7 +112,7 @@
     <string name="set">ОК</string>
 	<string name="msg_noantenna_message">Подключите наушники</string>
     <string name="msg_do_not_support_fm">FM радио не поддерживается на этом устройстве</string>
-	<string name="toast_sleep_mode">Радио будет отключено через %s.</string>
+	<string name="toast_sleep_mode">Радио будет отключено через %s</string>
     <string name="status_recording">Запись: %s</string>
     <string name="status_recording_time">(Запись: %s)</string>
     <string name="record_file_format">%1$s_%2$s</string>

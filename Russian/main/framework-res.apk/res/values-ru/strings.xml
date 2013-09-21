@@ -569,7 +569,7 @@
   <string name="password_keyboard_label_alpha_key">АБВ</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
-  <string name="paste">Вставить</string>
+  <string name="paste">" Вставить "</string>
   <string name="permdesc_accessCoarseLocation">Позволяет приложению получать доступ к данным местоположения, таким как A-GPS. Вредоносные приложения могут использовать эту возможность для определения вашего приблизительного местоположения.</string>
   <string name="permdesc_accessFineLocation">Позволяет приложению получать доступ к данным местоположения, таким как GPS. Вредоносные приложения могут использовать эту возможность для определения вашего точного местоположения и расходовать заряд батареи.</string>
   <string name="permdesc_accessLocationExtraCommands">Позволяет приложению получать доступ к дополнительным данным о местоположении. Вредоносные приложения могут использовать эту возможность для вмешательства в работу GPS или других источников местоположения.</string>
