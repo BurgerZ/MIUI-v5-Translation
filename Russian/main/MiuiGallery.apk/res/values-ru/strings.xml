@@ -67,7 +67,6 @@
 	<string name="cloud_album_set_scan_qr_code">QR-код</string>
     <string name="scan_qr_code_failure">Ошибка сканирования</string>
 	<string name="cloud_albums">Облачные альбомы</string>
-	<string name="empty_album">Нет изображений</string>
 	<string name="cloud_camera_display_name">Фото с камеры</string>
 	<string name="cloud_gallery_no_pictures">Нет изображений</string>
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>

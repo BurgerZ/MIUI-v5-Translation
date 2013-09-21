@@ -252,7 +252,7 @@
 	<string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
 	<string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
 	<string name="connect_disconnect_vibrate_normal_miui">Вибрировать</string>
-	<string name="connect_disconnect_vibrate_summary_miui" />
+	<string name="connect_disconnect_vibrate_summary_miui">Вибриовать, когда собеседник отвечает на ваш вызов.</string>
 	<string name="connect_disconnect_vibrate_title_miui">Вибрация при приеме вызова</string>
 	<string name="connect_disconnect_vibrate_weak_miui">Слабо вибрировать</string>
 	<string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже</string>
@@ -579,7 +579,7 @@
 	<string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
 	<string name="notification_action_end_call">Завершить вызов</string>
 	<string name="notification_incoming_call">Входящий вызов</string>
-	<string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
+	<string name="notification_missedCallTicker">Пропущенные вызовы от контакта %s</string>
 	<string name="notification_missedCallTitle">Пропущенный вызов</string>
 	<string name="notification_missedCall_call_back">Вызов</string>
 	<string name="notification_missedCall_message">SMS</string>
