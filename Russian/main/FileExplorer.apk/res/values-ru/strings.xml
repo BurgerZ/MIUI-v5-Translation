@@ -174,8 +174,8 @@
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
 	<string name="scanning" formatted="false">Сканирование %d из %d…</string>
 	<string name="sd_card_available">Свободно: %1$s</string>
-	<string name="sd_card_size">SD-карта: %1$s</string>
-	<string name="sd_full">SD-карта полна</string>
+	<string name="sd_card_size">Всего: %1$s</string>
+	<string name="sd_full">SD-карта заполнена</string>
 	<string name="search_hint">Введите часть или все имя файла</string>
 	<string name="search_title">Поиск документов</string>
 	<string name="send_to_midrive">KuaiPan</string>

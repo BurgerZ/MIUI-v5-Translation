@@ -101,7 +101,7 @@
   <string name="badPuk">Введен неверный PUK-код</string>
   <string name="beforeOneMonthDurationPast">Более месяца назад</string>
   <string name="bluetooth_a2dp_audio_route_name">Аудио Bluetooth</string>
-  <string name="byteShort">\u0020Б</string>
+  <string name="byteShort">\u0020б</string>
   <string name="cancel">Отмена</string>
   <string name="capital_off">ВЫКЛ</string>
   <string name="capital_on">ВКЛ</string>
@@ -274,7 +274,7 @@
   <string name="format_error">Не удалось очистить SD-карту</string>
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
-  <string name="gigabyteShort">\u0020ГБ</string>
+  <string name="gigabyteShort">\u0020Гб</string>
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Выключение</string>
   <string name="global_action_restart">Перезагрузка</string>
@@ -373,7 +373,7 @@
   <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
   <string name="keyguard_password_wrong_pin_code">Неверный PIN-код!</string>
-  <string name="kilobyteShort">\u0020КБ</string>
+  <string name="kilobyteShort">\u0020Кб</string>
   <string name="last_month">Прошлый месяц</string>
   <string name="launchBrowserDefault">Запустить браузер?</string>
   <string name="launch_warning_original">Изначально было запущено приложение %1$s</string>
@@ -459,7 +459,7 @@
   <string name="media_route_chooser_grouping_done">Готово</string>
   <string name="media_shared">Сейчас SD-карта используется компьютером</string>
   <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
-  <string name="megabyteShort">\u0020МБ</string>
+  <string name="megabyteShort">\u0020Мб</string>
   <string name="meid">MEID</string>
   <string name="menu_delete_shortcut_label">удалить</string>
   <string name="menu_enter_shortcut_label">ввод</string>
@@ -919,7 +919,7 @@
   <string name="permlab_writeSocialStream">Добавление записей в блог</string>
   <string name="permlab_writeSyncSettings">Настройки синхронизации</string>
   <string name="perms_description_app">Предоставлено: %1$s</string>
-  <string name="petabyteShort">\u0020ПБ</string>
+  <string name="petabyteShort">\u0020Пб</string>
   <string name="phoneTypeAssistant">Секретарь</string>
   <string name="phoneTypeCallback">Обр. вызов</string>
   <string name="phoneTypeCar">В авто</string>
@@ -1126,7 +1126,7 @@
   <string name="sync_too_many_deletes">Превышен предел удаления</string>
   <string name="sync_too_many_deletes_desc">Удаленных объектов для %2$s: %1$d, аккаунт %3$s. Что нужно сделать?</string>
   <string name="sync_undo_deletes">Отменить удаления</string>
-  <string name="terabyteShort">\u0020TБ</string>
+  <string name="terabyteShort">\u0020Tб</string>
   <string name="tethered_notification_message">Нажмите для настройки</string>
   <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
   <string name="textSelectionCABTitle">Выбор текста</string>

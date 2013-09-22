@@ -74,7 +74,7 @@
   <string name="yt_terms">Загружая файлы, вы принимаете </string>
   <string name="yt_title_for_multiple">Добавить %d видео</string>
   <string name="yt_title_for_single">Добавить видео</string>
-  <string name="yt_toast_file_too_large">Нельзя загружать видео больше 1 ГБ.</string>
+  <string name="yt_toast_file_too_large">Нельзя загружать видео больше 1 Гб</string>
   <string name="yt_use_location">Отправлять данные о местоположении</string>
   <string name="yt_video_title_hint">Укажите заголовок здесь</string>
 </resources>

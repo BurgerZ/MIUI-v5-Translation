@@ -47,8 +47,8 @@
      </string-array>
      <string-array name="traffic_uints">
         <item>" б"</item>
-        <item>КБ</item>
-        <item>МБ</item>
-        <item>ГБ</item>
+        <item>Кб</item>
+        <item>Мб</item>
+        <item>Гб</item>
      </string-array>
 </resources>

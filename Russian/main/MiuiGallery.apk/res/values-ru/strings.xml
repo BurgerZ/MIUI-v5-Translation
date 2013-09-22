@@ -238,8 +238,8 @@
 	<string name="no_network_connected">Нет подключения к сети</string>
 	<string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно.</string>
 	<string name="no_such_item">Элемент не найден</string>
-	<string name="no_thumbnail">Нет уменьшенного изображения</string>
-	<string name="none_picture">Нет изображений</string>
+	<string name="no_thumbnail">Нет изображения для предварительного просмотра</string>
+	<string name="none_picture">Нет изображения</string>
 	<string name="not_auto_create_recent_album">Не создавать автоматически последние альбомы</string>
 	<string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
 	<string name="fail_to_sync_album">Ошибка синхронизации альбома с сервером. Пожалуйста, проверьте интернет соединение.</string>
