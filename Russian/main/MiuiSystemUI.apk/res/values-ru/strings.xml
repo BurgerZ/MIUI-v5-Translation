@@ -227,7 +227,7 @@
 	<string name="status_bar_toggle_power_mode">Режим питания</string>
 	<string name="status_bar_toggle_privacy_mode">Гость</string>
 	<string name="status_bar_toggle_quiet_mode">Тихий режим</string>
-	<string name="status_bar_toggle_reboot">Перезагрузка</string>
+	<string name="status_bar_toggle_reboot">Перезагр.</string>
 	<string name="status_bar_toggle_ring">Звук</string>
 	<string name="status_bar_toggle_ringtone">Мелодия</string>
 	<string name="status_bar_toggle_rotate">Поворот</string>
@@ -236,7 +236,7 @@
 	<string name="status_bar_toggle_shutdown">Выключение</string>
 	<string name="status_bar_toggle_sync">Синхр.</string>
 	<string name="status_bar_toggle_sync_auto">Автосинхр.</string>
-	<string name="status_bar_toggle_sync_manual">Ручная синхр.</string>
+	<string name="status_bar_toggle_sync_manual">Синхр.</string>
 	<string name="status_bar_toggle_syncing">Синхр…</string>
 	<string name="status_bar_toggle_torch">Фонарик</string>
 	<string name="status_bar_toggle_vibrate">Вибрация</string>

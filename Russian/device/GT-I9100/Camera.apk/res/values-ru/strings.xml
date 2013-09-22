@@ -27,7 +27,7 @@
   <string name="E_POINT_BLUE">Синяя точка</string>
   <string name="E_POINT_GREEN">Зеленая точка</string>
   <string name="E_POINT_RED_YELLOW">Красно-желтая точка</string>
-  <string name="E_POSTERIZE">Пастеризация</string>
+  <string name="E_POSTERIZE">Постеризация</string>
   <string name="E_SEPIA">Сепия</string>
   <string name="E_SKETCH">Эскиз</string>
   <string name="E_SOLARIZE">Соляризация</string>
