@@ -203,7 +203,7 @@
     <string name="pause_60">прошло 60 минут</string>
     <string name="pause_90">прошло 90 минут</string>
     <string name="notif_illegal_chars">Имя файла не должно включать в себя нижеследующие английские символы:</string>
-    <string name="more">Ещё</string>
+    <string name="more">Еще</string>
     <string name="cleanlist">Очистить плей-лист?</string>
     <string name="tosurecleanlist">Очистить плей-лист</string>
     <string name="deletesong">" %1$s удалена"</string>

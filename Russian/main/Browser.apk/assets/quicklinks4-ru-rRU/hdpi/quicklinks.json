@@ -1,11 +1,19 @@
 {
     "quicklinks":[
         {
+            "title":"WSMproject",
+            "url":"http://burgerz.pro/wsm-project/",
+            "thumbnail":"wsm.png",
+            "logobg":"bg10.9.png",
+            "favicon":""
+        },
+        {
             "title":"Google",
             "url":"http://www.google.ru/",
             "thumbnail":"thumb_google.png",
             "logobg":"bg09.9.png",
-            "favicon":""
+            "favicon":"",
+			"hidden":"true"
         },
         {
             "title":"Picasa",
