@@ -65,6 +65,9 @@
 	 <string name="st_block_unknown_call">Блокировать неизв. вызовы</string>
 	 <string name="st_block_unknown_sms">Блокировать неизв. сообщения</string>
 	 <string name="st_other_setting_group">Другие</string>
+	 <string name="tab_block_log_unKnowNumber">Неизвестный номер</string>
+	 <string name="twelve_hour_time_format">a h:mm</string>
+	 <string name="twenty_four_hour_time_format">HH:mm</string>
      <string name="st_filter_keywords_setting_title">Ключевые слова</string>
      <string name="st_filter_keywords_title">Ключевые слова для сообщений</string>
      <string name="st_filter_sms_button">Фильтр спам-сообщений</string>

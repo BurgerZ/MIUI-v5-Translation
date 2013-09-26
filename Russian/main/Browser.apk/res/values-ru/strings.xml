@@ -308,6 +308,8 @@
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
 	<string name="pref_data_preload_value_never_summary">Запретить браузеру загружать результаты поиска в фоновом режиме.</string>
 	<string name="pref_data_title">Настройки контента</string>
+	<string name="pref_autologin_progress_in_background">Вход на сайты Google используя %s в фоне</string>
+	<string name="readmode_battery">"Батарея: "</string>
 	<string name="pref_default_text_encoding">Кодировка текста</string>
 	<string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
 	<string name="pref_default_zoom">Масштаб по умолчанию</string>

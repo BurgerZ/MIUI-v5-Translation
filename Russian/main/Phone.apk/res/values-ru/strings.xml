@@ -273,6 +273,9 @@
 	<string name="custom_location_location_no_item_miui">Нет кодов</string>
 	<string name="custom_location_number_hint_miui">Код региона или города</string>
 	<string name="cw_title_miui">Ожидание вызова</string>
+	<string name="data_connected_change">Отключить активную сеть и переключиться на другую?</string>
+	<string name="duringcall">Операция невозможна во время вызова</string>
+	<string name="information">Информация</string>
 	<string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
 	<string name="data_enabled">Передача данных</string>
 	<string name="default_contacts_countrycode_hint_miui">Например: 7</string>

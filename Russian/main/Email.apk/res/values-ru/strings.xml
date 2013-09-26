@@ -210,6 +210,14 @@
 	<string name="choose_attachment_dialog_title">Выбрать приложение</string>
 	<string name="choosertitle_sharevia">Отправить через</string>
 	<string name="cleared_trusted_senders_message">Очистить изображения?</string>
+	<string name="newer_action">Новые</string>
+	<string name="older_action">Старые</string>
+	<string name="mailbox_name_server_inbox">Входящие</string>
+	<string name="mailbox_name_server_outbox">Исходящие</string>
+	<string name="mailbox_name_server_drafts">Черновики</string>
+	<string name="mailbox_name_server_trash">Корзина</string>
+	<string name="mailbox_name_server_sent">Отправленные</string>
+	<string name="mailbox_name_server_junk">Спам</string>
 	<string name="close_action">Закрыть</string>
 	<string name="completed_no_file">Файл не найден</string>
 	<string name="compose_action">Новое сообщение</string>
