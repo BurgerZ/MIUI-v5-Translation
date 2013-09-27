@@ -2013,7 +2013,6 @@
 	<string name="wfd_menu_teardown">Разъединить</string>
 	<string name="wfd_settings_title">Wi-Fi Дисплей</string>
 	<string name="wfd_settings_description">Вывод изображения на дисплей через Wi-Fi</string>
-	<string name="wfd_wps_keypad">Нажатие кнопки</string>
 	<string name="wfd_wps_pbc">Ввод PIN-кода</string>
 	<string name="widget_picker_title">Выбор виджета</string>
 	<string name="wifi_access_points">Сети Wi-Fi</string>
