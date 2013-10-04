@@ -697,7 +697,7 @@
 	<string name="pref_custom_location_title_miui">Коды регионов</string>
 	<string name="prefer_2g">Только 2G</string>
 	<string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
-	<string name="preference_category_ringtone">Рингтон</string>
+	<string name="preference_category_ringtone">Мелодия</string>
 	<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Предпочтительная сеть: Глобальная</string>
 	<string name="preferred_network_mode_cdma_evdo_summary">Предпочтительная сеть: CDMA/EvDo</string>
 	<string name="preferred_network_mode_cdma_only_summary">Предпочтительная сеть: только CDMA</string>

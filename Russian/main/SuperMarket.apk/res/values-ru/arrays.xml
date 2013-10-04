@@ -189,7 +189,7 @@
      </string-array>
      <string-array name="permission_group_label">
         <item>Ваша учетная запись</item>
-        <item>Вы должны платить за услуги</item>
+        <item>Необходимо платить за услуги</item>
         <item>Средства разработки</item>
         <item>Параметры устройства</item>
         <item>Ваша должность</item>

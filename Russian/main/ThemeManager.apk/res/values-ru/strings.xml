@@ -68,8 +68,8 @@
 	<string name="resource_comment_title">Отзывы к \"%1$s\"</string>
 	<string name="resource_comment_upload_data_invalid">Ошибка отправки отзыва</string>
 	<string name="resource_comment_upload_failed">Ошибка сохранения отзыва</string>
-	<string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, Вы должны применить тему</string>
-	<string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
+	<string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, необходимо применить тему.</string>
+	<string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт.</string>
 	<string name="resource_comment_upload_success">Отзыв отправлен!</string>
 	<string name="resource_comment_version_name">(Версия: %1$s)</string>
 	<string name="resource_default">Мелодия по умолчанию</string>
@@ -155,7 +155,7 @@
 	<string name="theme_import_data">Импорт информации</string>
 	<string name="theme_import_fail">Ошибка импорта %1$s</string>
 	<string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
-	<string name="theme_import_importing">Обновление… осталось: %1$d</string>
+	<string name="theme_import_importing">Обновление тем… (осталось: %1$d)</string>
 	<string name="theme_import_item_delete_request_button">Удалить</string>
 	<string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
 	<string name="theme_import_item_delete_request_title">Тема не обновлена</string>
@@ -189,7 +189,7 @@
 	<string name="wallpaper_crop">Обрезать</string>
 	<string name="wallpaper_decoded_error">Ошибка</string>
 	<string name="wallpaper_loading_text">Загрузка…</string>
-	<string name="wallpaper_set_as_both">Применить на рабочий стол и экран блокировки</string>
+	<string name="wallpaper_set_as_both">Применить на все</string>
 	<string name="wallpaper_set_as_destop">Применить на рабочий стол</string>
 	<string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
 	<string name="wallpaper_settings">Настройки обоев</string>

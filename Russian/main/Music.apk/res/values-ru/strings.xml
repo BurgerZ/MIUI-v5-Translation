@@ -190,12 +190,12 @@
 	<string name="rename_artist_menu">Переименовать исполнителя</string>
 	<string name="rename_playlist_menu">Переименовать</string>
 	<string name="retry">Повтор</string>
-	<string name="ringtone_menu">Установить как рингтон</string>
-	<string name="ringtone_not_support">Рингтон данного формата не поддерживается.</string>
-	<string name="ringtone_set">Трек \"%s\" установлен как рингтон</string>
+	<string name="ringtone_menu">Установить на звонок</string>
+	<string name="ringtone_not_support">Данный формат не поддерживается</string>
+	<string name="ringtone_set">Трек \"%s\" установлен на звонок</string>
 	<string name="save">Добавить</string>
 	<string name="scanning">Сканирование SD-карты…</string>
-	<string name="scanning_nosdcard">Сканированиение (Нет SD-карты)…</string>
+	<string name="scanning_nosdcard">Сканированиение (нет SD-карты)…</string>
 	<string name="screen_bright_wake">Не выключать экран</string>
 	<string name="screen_bright_wake_summary">Не выключать подсветку экрана при воспроизведении музыки.</string>
 	<string name="sdcard_busy_message">SD-карта занята</string>

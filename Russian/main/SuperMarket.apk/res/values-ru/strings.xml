@@ -13,7 +13,7 @@
 	<string name="bytes">%1$s/%2$s</string>
 	<string name="bytes_unit">%1$s Б</string>
 	<string name="cancel">Отмена</string>
-	<string name="category_recommend_tag">Реком.</string>
+	<string name="category_recommend_tag">Рекомендации</string>
 	<string name="category_tag">Категории</string>
 	<string name="clear_search_record_message">Очистить историю поиска?</string>
 	<string name="comment_1_star">1 звезда</string>
@@ -65,7 +65,7 @@
 	<string name="first_recommend_download">Установить все</string>
 	<string name="first_recommend_enter">Пропустить</string>
 	<string name="good_comments">Хорошие</string>
-	<string name="hot_rank_tag">Топ рейтинга</string>
+	<string name="hot_rank_tag">Популярные</string>
 	<string name="hot_subject">Коллекции</string>
 	<string name="install">Скачать</string>
 	<string name="install_all_description">Установить приложения %1$s и %2$s сейчас?</string>
@@ -194,7 +194,7 @@
 	<string name="publish_info">%1$s %2$s %3$s</string>
 	<string name="quicksearchbox_description">Поиск маркета для приложений</string>
 	<string name="rank_app_name">%1$s. %2$s</string>
-	<string name="rank_tag">Топ</string>
+	<string name="rank_tag">Популярные</string>
 	<string name="rating_button">Голосов: %1$s</string>
 	<string name="recommendation_tag">Все</string>
 	<string name="remove_package_timeout_fail">Ошибка установки %1$s: удаление старой версии не удалось, удалите вручную</string>

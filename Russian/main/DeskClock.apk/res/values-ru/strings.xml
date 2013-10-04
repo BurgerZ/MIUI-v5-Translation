@@ -55,7 +55,7 @@
 	<string name="done">Готово</string>
 	<string name="edit_alarm">Изменить будильник</string>
 	<string name="elapsed_hour">%d ч.</string>
-	<string name="elapsed_time_format">(+%s)</string>
+	<string name="elapsed_time_format">+%s</string>
 	<string name="enable_alarm">Включить будильник</string>
 	<string name="every_day">Ежедневно</string>
 	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>

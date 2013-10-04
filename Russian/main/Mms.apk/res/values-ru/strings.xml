@@ -329,8 +329,8 @@
 	<string name="save_ringtone">Сохранить как мелодию звонка</string>
 	<string name="save_to_sim">Сохранить на SIM-карту</string>
 	<string name="saved_label">"Сохранено: "</string>
-	<string name="saved_ringtone">Рингтон сохранен</string>
-	<string name="saved_ringtone_fail">Рингтон не сохранен</string>
+	<string name="saved_ringtone">Мелодия сохранена</string>
+	<string name="saved_ringtone_fail">Мелодия не сохранена</string>
 	<string name="search">SMS/MMS</string>
 	<string name="search_empty">Ничего не найдено</string>
 	<string name="search_hint">Поиск сообщений</string>

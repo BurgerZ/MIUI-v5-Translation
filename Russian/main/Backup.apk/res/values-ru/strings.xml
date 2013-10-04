@@ -49,7 +49,7 @@
 	<string name="cancel_backup">Отмена</string>
 	<string name="cancel_restore">Отменить</string>
 	<string name="cloud_app_name">Облако</string>
-	<string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
+	<string name="cloud_backup_hint">Необходимо авторизироваться для резервного копирования онлайн</string>
 	<string name="cloud_backup_login">Войти в MIUI</string>
 	<string name="cloud_backup_window_title">Облако</string>
 	<string name="cloud_home_title">Онлайн</string>

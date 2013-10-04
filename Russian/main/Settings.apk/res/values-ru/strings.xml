@@ -1957,7 +1957,7 @@
 	<string name="volume_notification_mute">Отключить уведомления</string>
 	<string name="volume_restore">Настройки по умолчанию</string>
 	<string name="volume_restore_alert">Восстановить настройки громкости по умолчанию?</string>
-	<string name="volume_ring_description">Рингтон и уведомления</string>
+	<string name="volume_ring_description">Мелодия и уведомления</string>
 	<string name="volume_ring_mute">Отключить звонок и уведомления</string>
 	<string name="volume_system_description">Громкость системы, затвор камеры, экран блокировки и другие системные уведомления.</string>
 	<string name="volume_voice_description">Разговор</string>

@@ -4,7 +4,7 @@
   <string name="all_licenses_are_removed">Очищенный</string>
   <string name="app_name">Настройки лицензии</string>
   <string name="clear_license">Очистить лицензию</string>
-  <string name="clear_license_popup">Для  повторного использования, Вы должны запросить лицензию ещe раз. Продолжить?</string>
+  <string name="clear_license_popup">Для  повторного использования, необходимо запросить лицензию ещe раз. Продолжить?</string>
   <string name="clear_license_summary">Удалить все лицензии DRM</string>
   <string name="dialog_cancel_button">Отменить</string>
   <string name="dialog_cancel_registration_button">Отменить</string>

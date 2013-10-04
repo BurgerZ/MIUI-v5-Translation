@@ -226,9 +226,9 @@
 	<string name="upload_failed">Ошибка загрузки</string>
 	<string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами.</string>
 	<string name="uploading">Загрузка</string>
-	<string name="used">Занято:</string>
+	<string name="used">"Занято: "</string>
 	<string name="user_guide">Руководство пользователя</string>
-	<string name="user_guide_download_other_version">Вы можете установить клиент KuaiPan на ПК.</string>
+	<string name="user_guide_download_other_version">Вы можете установить клиент KuaiPan на ПК</string>
 	<string name="user_guide_kuaipan_copy">Вы можете загружать любые файлы в KuaiPan</string>
 	<string name="user_guide_other_version">Чтобы установить клиент KuaiPan, перейдите на сайт \"www.KuaiPan.cn\" с компьютера.</string>
 	<string name="user_guide_summary">Руководство по KuaiPan</string>

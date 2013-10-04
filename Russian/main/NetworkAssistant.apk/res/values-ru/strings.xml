@@ -57,7 +57,7 @@
 	<string name="finish_traffic_settings_title">Настройки трафика</string>
 	<string name="fire_rule_program_list">Список приложений</string>
 	<string name="fire_wall_is_closed">Брэндмауер не включен</string>
-	<string name="force_stop_dlg_text">Завершение работы приложения может вызвать ошибки</string>
+	<string name="force_stop_dlg_text">Завершение работы приложения может привести к некорректной работе системы.</string>
 	<string name="force_stop_dlg_title">Закрыть приложение?</string>
 	<string name="i_known_button">ОК</string>
 	<string name="input_hint">Пожалуйста, введите</string>

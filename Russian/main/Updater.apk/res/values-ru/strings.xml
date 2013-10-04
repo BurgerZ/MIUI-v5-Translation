@@ -24,7 +24,7 @@
 	<string name="check_update">Обновление</string>
 	<string name="check_update_policy">Параметры обновления</string>
 	<string name="check_update_when_wifi_available">Обновления только по Wi-Fi</string>
-	<string name="checking_for_updates">Проверка обновлений</string>
+	<string name="checking_for_updates">Проверка обновлений…</string>
 	<string name="choose_recommend">Рекомендуете ли вы данное обновление?</string>
 	<string name="comment_invalid">Нажмите на звездочки, чтобы поставить оценку.</string>
 	<string name="comment_publish">Отправить</string>
@@ -150,7 +150,7 @@
 	<string name="update_monthly_build_only">Только ежемесячные обновления</string>
 	<string name="update_sad">Грустный</string>
 	<string name="update_success">Обновление успешно завершено!</string>
-	<string name="update_success_body">Текущая версия: %s</string>
+	<string name="update_success_body">%s</string>
 	<string name="update_success_title">Обновление</string>
 	<string name="upgrade_close">Закрыть</string>
 	<string name="upgrade_kernel">Обновления ядра</string>
