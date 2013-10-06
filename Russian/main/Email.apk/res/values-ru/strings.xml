@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="permission_read_attachment_label">Открывать прикрепленные файлы</string>
-    <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты</string>
-    <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
-    <string name="permission_access_provider_desc">Приложение получит доступ к базе данных программы электронной почты, которая включает полученные и отправленные письма, имена пользователей и пароли</string>
+    <string name="permission_read_attachment_label">Прикрепленные файлы</string>
+    <string name="permission_read_attachment_desc">Позволяет приложению просматривать прикрепленные файлы электронной почты.</string>
+    <string name="permission_access_provider_label">Данные сервиса почты</string>
+    <string name="permission_access_provider_desc">Позволяет приложению получать доступ к базе данных электронной почты, например, полученные и отправленные письма, имена пользователей и пароли.</string>
     <string name="app_name">Почта</string>
     <string name="compose_title">Новое сообщение</string>
     <string name="debug_title">Выполнить отладку</string>
@@ -46,7 +46,7 @@
     <string name="move_to_folder_dialog_title">Переместить в папку</string>
     <string name="status_loading_messages">Загрузка сообщений…</string>
     <string name="status_network_error">Ошибка подключения</string>
-    <string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое</string>
+    <string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое.</string>
     <string name="cannot_move_protocol_not_supported_toast">Перемещение не поддерживается в аккаунтах POP3</string>
     <string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах</string>
     <string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок \"Черновики\", \"Исходящие\" и \"Отправленные\"</string>
@@ -358,8 +358,8 @@
     <string name="account_shortcut_picker_name">Ярлык почты</string>
     <string name="account_shortcut_picker_title">Выберите аккаунт</string>
     <string name="mailbox_shortcut_picker_title">Выберите папку</string>
-    <string name="toast_account_not_found">Аккаунт не найден. Возможно, он удален</string>
-    <string name="toast_mailbox_not_found">Папка не найдена. Возможно, она удалена</string>
+    <string name="toast_account_not_found">Аккаунт недоступен. Возможно, он удален.</string>
+    <string name="toast_mailbox_not_found">Папка недоступна. Возможно, она удалена.</string>
     <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер</string>
     <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
     <string name="exchange_name">Корпоративный</string>
@@ -390,8 +390,8 @@
     <string name="general_preferences_clear_trusted_senders_summary">Очистка изображений, которые были загружены автоматически.</string>
     <string name="trusted_senders_cleared">Изображения очищены</string>
     <string name="position_of_count">%1$d из %2$s</string>
-    <string name="waitinf_for_sync_message_1">Ожидание синхронизации</string>
-    <string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся</string>
+    <string name="waitinf_for_sync_message_1">Ожидание синхронизации…</string>
+    <string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся.</string>
     <string name="widget_other_views">Нажмите, чтобы изменить</string>
     <string name="widget_all_mail">Все входящие</string>
     <string name="widget_unread">Непрочитанные</string>
