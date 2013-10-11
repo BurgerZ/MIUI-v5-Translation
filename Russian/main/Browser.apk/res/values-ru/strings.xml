@@ -246,6 +246,10 @@
 	<string name="menu_theme_setting">Настройка темы</string>
 	<string name="menu_view_download">Загрузки</string>
 	<string name="move_to_up_folder">Вернуться</string>
+	<string name="clear_search_history">Очистить историю</string>
+	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте вверх для закрытия</string>
+	<string name="bottom_bar_tabs_long_click_down_tip_txt">Сдвиньте вниз для закрытия</string>
+	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
 	<string name="bookmark_folder_needs_title">Необходимо ввести имя папки</string>	
 	<string name="multi_select_title">Выбрано %1$s закладок</string>
 	<string name="name">Ярлык</string>
@@ -328,6 +332,10 @@
 	<string name="pref_development_trace">Включить трассировку</string>
 	<string name="pref_development_viewport">Широкий экран</string>
 	<string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
+	<string name="general_set_default_browser_title">Браузер по умолчанию</string>
+	<string name="general_set_default_browser_dialog_summary">Используйте MIUI приложения для лучшей производительности.</string>
+	<string name="general_set_default_browser_dialog_close_txt">Отмена</string>
+	<string name="general_set_default_browser_dialog_ok_txt">ОК</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
 	<string name="pref_extras_reset_default">Сброс настроек</string>
 	<string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>

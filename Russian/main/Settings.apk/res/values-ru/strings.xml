@@ -408,6 +408,7 @@
 	<string name="bluetooth_sap_connection_permission_request">Sap: запрос на подключение</string>
 	<string name="breathing_light_color_summary">Цвет светодиода для уведомлений</string>
 	<string name="breathing_light_color_title">" (цвет)"</string>
+	<string name="breathing_light_color_menu_title">Цвет индикатора</string>
 	<string name="breathing_light_freq_summary">Интервал мигания светодиода</string>
 	<string name="breathing_light_freq_title">" (частота)"</string>
 	<string name="brightness">Яркость</string>
@@ -448,6 +449,7 @@
 	<string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
 	<string name="change_password">Сменить пароль</string>
 	<string name="change_security_lock">Другие способы разблокировки</string>
+	<string name="android_beam_tips">Убедитесь, что оба устройства подключены, а затем выберите файлы, которое хотите передать.</string>
 	<string name="checkbox_notification_same_as_incoming_call">Использовать этот уровень громкости также для уведомлений</string>
 	<string name="choose_timezone">Выбрать часовой пояс</string>
 	<string name="clear_activities">Удалить настройки по умолчанию</string>
@@ -748,10 +750,10 @@
 	<string name="enable_traces_summary_none">Трассировка отключена</string>
 	<string name="enable_traces_summary_num">Включенных трассировок: %1$d</string>
 	<string name="enable_traces_title">Включить трассировку</string>
-	<string name="enforce_read_external_confirm_message">Когда включена защита USB хранилища, приложения должны запрашивать разрешения для чтения данных с внешнего хранилища.\n\u0009\nНекоторые приложения могут перестать работать, пока их не обновят разработчики</string>
-	<string name="enforce_read_external_confirm_title">Защитить USB хранилище?</string>
-	<string name="enforce_read_external_summary">Приложения должны посылать запрос на доступ к USB хранилищу</string>
-	<string name="enforce_read_external_title">Защита USB хранилища</string>
+	<string name="enforce_read_external_confirm_message">Когда включена защита USB-накопителя, приложения должны запрашивать разрешения для чтения данных с внешнего накопителя.\n\u0009\nНекоторые приложения могут перестать работать, пока их не обновят разработчики.</string>
+	<string name="enforce_read_external_confirm_title">Защитить USB-накопитель?</string>
+	<string name="enforce_read_external_summary">Приложения будут запрашивать доступ к USB-накопителю</string>
+	<string name="enforce_read_external_title">Защита USB-накопителя</string>
 	<string name="enter_password">Введите пароль для расшифровки данных хранилища</string>
 	<string name="erase_application">Удалить приложения</string>
 	<string name="erase_application_description">Удалить установленные приложения</string>
@@ -1101,6 +1103,7 @@
 	<string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, вы можете пересканировать сети или добавить сеть вручную</string>
 	<string name="no_running_services">Ничего не запущено</string>
 	<string name="no_services">Неактивен</string>
+	<string name="default_date_format">dd.MM.yyyy</string>
 	<string name="normal_date_format">%s (по умолчанию)</string>
 	<string name="notification_pulse_title">Индикация</string>
 	<string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
@@ -1911,7 +1914,7 @@
 	<string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
 	<string name="vibrate_input_devices">Использовать вибро</string>
 	<string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
-	<string name="vibrate_when_ringing_title">Вибро и звонок</string>
+	<string name="vibrate_when_ringing_title">В обычном режиме</string>
 	<string name="virus_scan_app_continue">Продолжить</string>
 	<string name="virus_scan_app_find_risk">Приложений с риском: %d</string>
 	<string name="virus_scan_app_finish">Готово</string>
@@ -1928,6 +1931,7 @@
 	<string name="virus_scan_app_uninstall">Удалить: %d</string>
 	<string name="virus_scan_app_waiting">Ожидание сканирования</string>
 	<string name="virus_scanner_auto_update">Автообновление</string>
+	<string name="virus_scanner_date_formater">dd MMM. yyyy</string>
 	<string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>
 	<string name="virus_scanner_lib_update_failed">Ошибка обновления вирусных баз!</string>
 	<string name="virus_scanner_lib_updating">Обновление базы…</string>
@@ -1957,8 +1961,8 @@
 	<string name="volume_notification_mute">Отключить уведомления</string>
 	<string name="volume_restore">Настройки по умолчанию</string>
 	<string name="volume_restore_alert">Восстановить настройки громкости по умолчанию?</string>
-	<string name="volume_ring_description">Мелодия и уведомления</string>
-	<string name="volume_ring_mute">Отключить звонок и уведомления</string>
+	<string name="volume_ring_description">Рингтон и уведомления</string>
+	<string name="volume_ring_mute">Отключить рингтон и уведомления</string>
 	<string name="volume_system_description">Громкость системы, затвор камеры, экран блокировки и другие системные уведомления.</string>
 	<string name="volume_voice_description">Разговор</string>
 	<string name="vpn_cancel">Отмена</string>
@@ -2013,6 +2017,7 @@
 	<string name="wfd_menu_teardown">Разъединить</string>
 	<string name="wfd_settings_title">Wi-Fi Дисплей</string>
 	<string name="wfd_settings_description">Вывод изображения на дисплей через Wi-Fi</string>
+	<string name="wfd_enabler_title">Включить Wi-Fi дисплей</string>
 	<string name="wfd_wps_pbc">Ввод PIN-кода</string>
 	<string name="widget_picker_title">Выбор виджета</string>
 	<string name="wifi_access_points">Сети Wi-Fi</string>

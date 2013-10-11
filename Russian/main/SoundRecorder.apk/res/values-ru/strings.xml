@@ -38,6 +38,7 @@
 	<string name="menu_view_record_list">Список записей</string>
 	<string name="message_file_size_error">Запись достигла максимального размера (%s)</string>
 	<string name="minute">%d мин.</string>
+	<string name="audio_db_title_format">dd.MM.yyyy HH:mm:ss</string>
 	<string name="no_file">Нет записей</string>
 	<string name="notification_playback">Воспроизведение…</string>
 	<string name="notification_recording">Запись…</string>
@@ -51,6 +52,8 @@
 	<string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме.</string>
 	<string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
 	<string name="preference_silent_mode">Выключать все звуки</string>
+	<string name="preference_enable_earpiece_title">Воспроизведение аудио</string>
+	<string name="preference_enable_earpiece_summary">Использовать приемник для воспроизведения сторонних аудио</string>
 	<string name="preference_scenes">Режим записи</string>
 	<string name="record_list">Список записей</string>
 	<string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>

@@ -555,6 +555,7 @@
 	<string name="national_disable">Национальные новости отключены</string>
 	<string name="national_enable">Национальные новости включены</string>
 	<string name="network_manage_settings">Настройки сети</string>
+	<string name="title_data_settings">Настройки данных</string>
 	<string name="network_message">Сообщение сети</string>
 	<string name="network_query_error">Ошибка поиска сетей</string>
 	<string name="network_settings_sel_sub">Выбор подписи</string>

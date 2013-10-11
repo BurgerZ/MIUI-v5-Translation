@@ -13,7 +13,7 @@
   <string name="a_sensor_title">Горизонтальная калибровка</string>
   <string name="about_settings">О телефоне</string>
   <string name="about_settings_summary">Просмотр правовой информации, состояние устройства и версии программного обеспечения</string>
-  <string name="about_usb_settings_remove_the_cable_popup">USB подключен. Отсоедините кабель</string>
+  <string name="about_usb_settings_remove_the_cable_popup">USB подключено, отсоедините кабель.</string>
   <string name="accelerometer_summary_off">Отключено. Переключение ориентации автоматически при повороте телефона</string>
   <string name="accelerometer_summary_on">Включено. Переключение ориентации автоматически при повороте телефона</string>
   <string name="accelerometer_title">Автоповорот экрана</string>

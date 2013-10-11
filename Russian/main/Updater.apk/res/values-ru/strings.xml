@@ -32,6 +32,9 @@
 	<string name="comment_upload_failed">Ошибка отправки комментария</string>
 	<string name="comment_upload_hint">Спасибо за ваш комментарий.</string>
 	<string name="comment_upload_not_logined">Пожалуйста, войдите в аккаунт.</string>
+	<string name="fourgrid_hint_text">Спасибо, что используете сборки MIUI для разработчиков. Пожалуйста, пишите свои предложения, как сделать MIUI лучше.</string>
+	<string name="fourgrid_notificaiont">Отображать в строке состояния</string>
+	<string name="fourgrid_no_notificaiont">Не отображать в строке состояния</string>
 	<string name="comment_upload_success">Комментарий отправлен!</string>
 	<string name="confirm_download_cancelation_dialog_message">Отменить загрузку обновления?</string>
 	<string name="copy_install_log">Копировать в буфер</string>

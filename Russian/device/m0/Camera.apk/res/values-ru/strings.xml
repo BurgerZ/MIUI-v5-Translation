@@ -202,7 +202,7 @@
   <string name="change_to_device_memory">Недостаточно памяти. Сохранение по умолчанию будет происходить в память устройства.</string>
   <string name="change_to_phone_memory">Недостаточно памяти. Сохранение по умолчанию будет происходить в память телефона.</string>
   <string name="close">Закрыть</string>
-  <string name="close_camera_for_unmounted_memory">Отключите USB хранилище перед использованием Камеры</string>
+  <string name="close_camera_for_unmounted_memory">Отключите USB-хранилище перед использованием камеры</string>
   <string name="close_camera_when_media_mounted">Камера закрыта для сканирования файлов мультимедиа</string>
   <string name="close_camera_when_mmc_inserted">SD-Карта вставлена. %s закрыто для сканирования медиа-файлов с карты памяти</string>
   <string name="confirm_delete_title">Удалить</string>

@@ -14,6 +14,10 @@
     <string name="input_station">Частота радиостанции (МГц)</string>
     <string name="menu_jump">Перейти к станции</string>
     <string name="menu_new_station">Добавить новую станцию</string>
+	<string name="menu_save_station_list">Добавить в список</string>
+	<string name="toast_added_to_list">Добавлено в список</string>
+    <string name="menu_save_station_presets">Добавить пресетов</string>
+    <string name="menu_exit">Выход</string>
     <string name="menu_play">Слушать</string>
     <string name="menu_save_station">Сохранить радиостанцию</string>
     <string name="menu_scan">Сканировать</string>

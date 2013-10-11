@@ -258,7 +258,7 @@
 	<string name="cache_size_label">Кэш</string>
 	<string name="directory_info_divider">"  |  "</string>
 	<string name="directory_no_item">пусто</string>
-	<string name="dlg_error_unmount_text">Невозможно отключить USB-хранилище. Попробуйте позже.</string>
+	<string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель. Попробуйте позже.</string>
 	<string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
 	<string name="empty_dir_cleanup_indication">%s пустые папки</string>
 	<string name="empty_dir_title">Пустые папки</string>
@@ -286,7 +286,7 @@
 	<string name="thumbnail_cleanup_indication">%s эскизы</string>
 	<string name="thumbnail_title">Эскизы изображений</string>
 	<string name="uninstall_app_data">Удалить приложение и все данные</string>
-	<string name="unmount_inform_text">USB-хранилище будет отключено.</string>
+	<string name="unmount_inform_text">USB-накопитель будет отключен.</string>
 	<string name="version_text">Версия %1$s</string>
 	<string name="waiting_for_cleaning">Ожидание очистки</string>
 	<string name="waiting_for_scanning">Ожидание сканирования</string>

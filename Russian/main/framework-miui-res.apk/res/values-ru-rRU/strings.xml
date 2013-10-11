@@ -281,7 +281,7 @@
 	<string name="fools_day">"День дураков"</string>
 	<string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
 	<string name="forget_password_string">Восстановить</string>
-	<string name="format_time_in_12_hours">%1$s %2$s</string>
+	<string name="format_time_in_12_hours">hh:mma</string>
 	<string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, вызовы и заметки будут скрыты, а также редактирование рабочего стола будет недоступно.</string>
 	<string name="global_action_toggle_privacy_mode">Гость</string>
 	<string name="grain_buds">Xiaoman</string>
@@ -456,11 +456,11 @@
 	<string name="volume_icon_description_incall">Разговор</string>
 	<string name="volume_icon_description_media">Медиа</string>
 	<string name="volume_icon_description_notification">Уведомления</string>
-	<string name="volume_icon_description_ringer">Мелодия</string>
+	<string name="volume_icon_description_ringer">Рингтон</string>
 	<string name="wake_alarm_message">Будильник зазвонит\n%s</string>
 	<string name="white_dews">Роса</string>
 	<string name="winter_begins">Начало зимы</string>
 	<string name="winter_solstice" />
 	<string name="yesterday">"Вчера "</string>
-    <string name="volume_ring_description">Мелодия и уведомления</string>
+    <string name="volume_ring_description">Рингтон и уведомления</string>
 </resources>

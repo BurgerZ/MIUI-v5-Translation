@@ -1138,7 +1138,7 @@
   <string name="usb_ptp_notification_title">Подключен как камера</string>
   <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
   <string name="usb_storage_button_mount">Включить USB-накопитель</string>
-  <string name="usb_storage_error_message">При использовании SD-карты в качестве запоминающего устройства USB возникла неполадка</string>
+  <string name="usb_storage_error_message">При использовании SD-карты в качестве USB-хранилища возникла неполадка.</string>
   <string name="usb_storage_message">Телефон подключен к компьютеру через порт USB. Нажмите приведенную ниже кнопку, чтобы скопировать файлы с компьютера на SD-карту устройства Android.</string>
   <string name="usb_storage_notification_message">Выберите копирование файлов на компьютер или с компьютера</string>
   <string name="usb_storage_notification_title">USB-подключение установлено</string>
