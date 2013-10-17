@@ -247,7 +247,7 @@
 	<string name="menu_view_download">Загрузки</string>
 	<string name="move_to_up_folder">Вернуться</string>
 	<string name="clear_search_history">Очистить историю</string>
-	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте вверх для закрытия</string>
+	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте для закрытия</string>
 	<string name="bottom_bar_tabs_long_click_down_tip_txt">Сдвиньте вниз для закрытия</string>
 	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
 	<string name="bookmark_folder_needs_title">Необходимо ввести имя папки</string>	
@@ -440,7 +440,12 @@
 	<string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
 	<string name="preview">Предварительный просмотр</string>
 	<string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
-	<string name="quicklinks_management">Полезные сайты</string>
+	<string name="quicklink_user_define_webpage_title">Имя</string>
+	<string name="quicklink_user_define_webpage_url">URL</string>
+	<string name="quicklinks_group_default_subtitle">Пусто</string>
+	<string name="quicklinks_most_visited">Добавить ссылку на стартовую страницу</string>
+	<string name="quicklinks_most_visited_subtitle">Добавление популярных сайтов на стартовую страницу</string>
+	<string name="quicklinks_management">Популярные сайты</string>
 	<string name="readmode_already_add_to_bookshelf">Подключено к книжной полке</string>
 	<string name="readmode_login">Войти</string>
 	<string name="readmode_login_message">Перед чтением небходимо войти в аккаунт</string>
@@ -538,6 +543,8 @@
 	<string name="uploads_disabled">Добавление файлов отключено</string>
 	<string name="url_copy_done">URL скопирован</string>
 	<string name="url_hint">Введите URL</string>
+	<string name="user_defined_webpage">Добавить ссылку</string>
+	<string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
 	<string name="username">Имя</string>
 	<string name="view_certificate">Сертификат</string>
 	<string name="warning">Внимание</string>

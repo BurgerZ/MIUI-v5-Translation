@@ -66,8 +66,8 @@
     <string name="pref_camera_settings_category">Настройки камеры</string>
     <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
     <string name="pref_camera_picturesize_title">Разрешение</string>
-	<string name="pref_camera_picturesize_entry_4208x2368">16:9</string>
-    <string name="pref_camera_picturesize_entry_4208x3120">13 Мп</string>
+	<string name="pref_camera_picturesize_entry_4208x2368">Широкоформатный 16:9</string>
+    <string name="pref_camera_picturesize_entry_4208x3120">Стандартный 4:3</string>
     <string name="pref_camera_picturesize_entry_3200x2400">8 Мп</string>
     <string name="pref_camera_picturesize_entry_3200x1800">6 Мп</string>
     <string name="pref_camera_picturesize_entry_1920x1080">2 Мп</string>
@@ -474,7 +474,7 @@
     <string name="simple_mode_button_text_audio_capture">Отключить голосовое управление</string>
     <string name="simple_mode_button_text_slow_video">Отключить замедленный режим</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Эффекты</string>
-    <string name="pref_video_slow_speed_title_simple_mode">Замедленный режим съeмки</string>
+    <string name="pref_video_slow_speed_title_simple_mode">Замедление</string>
     <string name="enter_expert_mode_title">Профессиональный режим</string>
     <string name="pref_settings_mode">Режим камеры</string>
     <string name="pref_camera_picturesize_title_simple_mode">Разрешение</string>

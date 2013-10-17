@@ -1,63 +1,6 @@
 {
     "quicklinks":[
         {
-            "title":"WSMproject",
-            "url":"http://burgerz.pro/wsm-project/",
-            "thumbnail":"wsm.png",
-            "logobg":"bg10.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":""
-        },
-        {
-            "title":"Google",
-            "url":"http://www.google.ru/",
-            "thumbnail":"thumb_google.png",
-            "logobg":"bg09.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-			"hidden":"true"
-        },
-        {
-            "title":"Picasa",
-            "url":"http://picasaweb.google.com/",
-            "thumbnail":"thumb_picasa.png",
-            "logobg":"bg07.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":""
-        },
-        {
-            "title":"Yandex",
-            "url":"http://www.yandex.ru/",
-            "thumbnail":"yandex.png",
-            "logobg":"bg02.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":""
-        },
-        {
-            "title":"4PDA",
-            "url":"http://4pda.ru",
-            "thumbnail":"4pda.png",
-            "logobg":"bg12.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":""
-        },
-        {
-            "title":"MIUI English",
-            "url":"http://en.miui.com/",
-            "thumbnail":"en_miui.png",
-            "logobg":"bg10.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":""
-        },
-        {
-            "title":"MI-Droid",
-            "url":"http://www.mi-droid.ru/",
-            "thumbnail":"mi_droid.png",
-            "logobg":"bg13.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":""
-        },
-        {
             "title":"ROMZ.bz",
             "url":"http://www.romz.bz/",
             "thumbnail":"romz.png",
@@ -99,12 +42,123 @@
             "favicon":""
         },
         {
+            "title":"Facebook",
+            "url":"http://m.facebook.com/",
+            "thumbnail":"facebook.png",
+            "logobg":"bg14.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Википедия",
+            "url":"http://ru.m.wikipedia.org/",
+            "thumbnail":"wikipedia.png",
+            "logobg":"bg12.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"MIUI forum",
+            "url":"http://en.miui.com/forum.php",
+            "thumbnail":"miui_forum.png",
+            "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":""
+        },
+		{
+            "title":"4PDA",
+            "url":"http://4pda.ru",
+            "thumbnail":"4pda.png",
+            "logobg":"bg12.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"MIUI Android",
+            "url":"http://xiaomi.eu",
+            "thumbnail":"miui_android.png",
+            "logobg":"bg07.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"DimonVideo",
+            "url":"http://dimonvideo.ru/",
+            "thumbnail":"dimonvideo.png",
+            "logobg":"bg09.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"SamAndroid",
+            "url":"http://samandroid.ru",
+            "thumbnail":"samandroid.png",
+            "logobg":"bg09.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":""
+        },
+		{
+            "title":"WSMproject",
+            "url":"http://burgerz.pro/wsm-project/",
+            "thumbnail":"wsm.png",
+            "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Google",
+            "url":"http://www.google.ru/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg09.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "logobg":"bg07.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"Yandex",
+            "url":"http://www.yandex.ru/",
+            "thumbnail":"yandex.png",
+            "logobg":"bg02.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"MIUI English",
+            "url":"http://en.miui.com/",
+            "thumbnail":"en_miui.png",
+            "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
+            "title":"MI-Droid",
+            "url":"http://www.mi-droid.ru/",
+            "thumbnail":"mi_droid.png",
+            "logobg":"bg13.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+			"hidden":"true"
+        },
+        {
             "title":"YouTube",
             "url":"http://www.youtube.ru/",
             "thumbnail":"youtube.png",
             "logobg":"bg05.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+			"hidden":"true"
         },
         {
             "title":"Одноклассники",
@@ -125,15 +179,6 @@
 			"hidden":"true"
         },
         {
-            "title":"Facebook",
-            "url":"http://m.facebook.com/",
-            "thumbnail":"facebook.png",
-            "logobg":"bg14.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-			"hidden":"true"
-        },
-        {
             "title":"Lit Lib",
             "url":"http://www.litlib.net/",
             "thumbnail":"lit_lib.png",
@@ -143,55 +188,10 @@
 			"hidden":"true"
         },
         {
-            "title":"Википедия",
-            "url":"http://ru.m.wikipedia.org/",
-            "thumbnail":"wikipedia.png",
-            "logobg":"bg12.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-			"hidden":"true"
-        },
-        {
-            "title":"MIUI forum",
-            "url":"http://en.miui.com/forum.php",
-            "thumbnail":"miui_forum.png",
-            "logobg":"bg10.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-			"hidden":"true"
-        },
-        {
             "title":"ПростоПлеер",
             "url":"http://pleer.com/m",
             "thumbnail":"pleer.png",
             "logobg":"bg03.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-			"hidden":"true"
-        },
-        {
-            "title":"DimonVideo",
-            "url":"http://dimonvideo.ru/",
-            "thumbnail":"dimonvideo.png",
-            "logobg":"bg09.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-			"hidden":"true"
-        },
-        {
-            "title":"MIUI Android",
-            "url":"http://xiaomi.eu",
-            "thumbnail":"miui_android.png",
-            "logobg":"bg07.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-			"hidden":"true"
-        },
-        {
-            "title":"SamAndroid",
-            "url":"http://samandroid.ru",
-            "thumbnail":"samandroid.png",
-            "logobg":"bg09.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
 			"hidden":"true"

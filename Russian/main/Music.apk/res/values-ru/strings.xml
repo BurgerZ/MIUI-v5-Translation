@@ -8,7 +8,7 @@
 	<string name="album_display_settings">Показывать обложки</string>
 	<string name="album_display_summary">Показывать обложки альбомов в интерфейсе проигрывателя.</string>
 	<string name="album_download">Загрузка обложки альбома</string>
-	<string name="album_edit">Альбом</string>
+	<string name="album_edit">Альб.</string>
 	<string name="album_picker_not_found">Галерея не найдена на устройстве</string>
 	<string name="album_search_failed">Обложки альбома не найдены!</string>
 	<string name="album_search_local_descript">Телефон | %1$d x %2$d</string>
@@ -20,7 +20,7 @@
 	<string name="android_album_summary">Отображение встроенной обложки альбома, если имеется в треке.</string>
 	<string name="artist_albums">Все альбомы</string>
 	<string name="artist_details_format">%1$s, %2$s</string>
-	<string name="artist_edit">Исполнитель</string>
+	<string name="artist_edit">Исп.</string>
 	<string name="artist_hot_audios">Горячие хиты</string>
 	<string name="artists_title">"Исполнители "</string>
 	<string name="auto_correct_id3_settings">Исправление ID3</string>

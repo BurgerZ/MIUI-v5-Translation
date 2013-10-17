@@ -903,6 +903,7 @@
 	<string name="sum_show_caller_id">Количество отображаемых в исходящих звонках</string>
 	<string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
 	<string name="summary_manage_subscriptions">Управление сетевыми настройками каждой подписки.</string>
+	<string name="suspect_info">Не раздавайте пароли от банковских карт</string>
 	<string name="t9_indexing_method_pinyin">Алфавитный</string>
 	<string name="t9_indexing_method_title_miui">Поиск T9</string>
 	<string name="t9_indexing_method_zhuyin">Китайский</string>

@@ -13,6 +13,7 @@
 	<string name="add_picture">Изображение</string>
 	<string name="add_private_contact">Добавить контакт</string>
 	<string name="add_slide">Добавить слайд</string>
+	<string name="add_slide_before">Добавить слайд перед</string>
 	<string name="add_slide_hint">Нажмите, чтобы добавить</string>
 	<string name="add_smiley">Смайл</string>
 	<string name="add_timing">Время</string>
@@ -69,6 +70,7 @@
 	<string name="confirm_restore_positive">Восстановить</string>
 	<string name="confirm_restore_title">Восстановить выбранные сообщения?</string>
 	<string name="context_menu_add_contact">Добавить в контакты</string>
+	<string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
 	<string name="context_menu_browse_web">Перейти</string>
 	<string name="context_menu_call">Вызов</string>
 	<string name="context_menu_contact">Контакт: %1$s</string>
@@ -252,6 +254,20 @@
 	<string name="play">Воспроизвести</string>
 	<string name="pref_advanced_settings_title">Дополнительно</string>
 	<string name="pref_edit_smsc_address">Номер SMS-центра</string>
+	<string name="pref_forward_title">Вперед</string>
+	<string name="pref_title_card_format">Формат карты</string>
+	<string name="pref_title_fwd_sender_info">Информацию о отправителе</string>
+	<string name="pref_title_miui_card">Отправить через карту MIUI</string>
+	<string name="pref_title_vcard">Отправить через vCard</string>
+	<string name="restore_to_phone_memory_failed">Ошибка восстановления</string>
+	<string name="restored_to_phone_memory">Восстановление​в память телефона завершено</string>
+	<string name="save_to_sim_failed">Ошибка сохранения</string>
+	<string name="saved_to_sim">Сохранено</string>
+	<string name="set_smsc_address_title_miui">Установить номер SMS-центра</string>
+	<string name="sim_card1">SIM Карта 1</string>
+	<string name="sim_card2">SIM Карта 2</string>
+	<string name="sim_card_cloud">%s (облачное сообщение)</string>
+	<string name="type_vcard">vCard</string>
 	<string name="pref_messages_to_save">Установить количество сообщений в диалоге для хранения</string>
 	<string name="pref_mms_settings_title">MMS</string>
 	<string name="pref_notification_settings_title">Уведомления</string>
@@ -428,6 +444,7 @@
 	<string name="wap_push_title">"[Push-сообщение] "</string>
 	<string name="yes">ОК</string>
 	<string name="file_share_message_description">Я поделился с вами файлами</string>
+	<string name="forward_from">От:</string>
     <string name="addBlackList">В черный список</string>
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
 	<string name="batch_adding_progress_message">Добавление…</string>

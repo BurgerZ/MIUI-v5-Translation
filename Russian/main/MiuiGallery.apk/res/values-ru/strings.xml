@@ -29,7 +29,6 @@
 	<string name="albums">Альбомы</string>
 	<string name="albumset_page_title_separator">" | "</string>
 	<string name="alert">Внимание</string>
-	<string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фото и скриншоты только тогда, когда есть Wi-Fi соединение</string>
 	<string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
 	<string name="android_tencent_tencent_weibo">Tencent Weibo</string>
 	<string name="androidesk_wallpapers">Обои Android</string>
@@ -43,8 +42,9 @@
 	<string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
 	<string name="autofix">Авто</string>
 	<string name="big_screen_alertdialog_title">Xiaomi Box</string>
-	<string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
 	<string name="browse_category">Просмотр изображений</string>
+	<string name="bigscreen_slide_exit">Выход из слайд-шоу</string>
+	<string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
 	<string name="get_album_info_in_process">Загрузка информации облачного альбома…</string>
 	<string name="by_email">По электронной почте</string>
 	<string name="by_sms">По SMS</string>
@@ -53,7 +53,6 @@
 	<string name="camera_folder_display_name">Фото с камеры</string>
 	<string name="camera_setas_wallpaper">Обои</string>
 	<string name="camera_view_none_message">Фото будут отображаться здесь</string>
-	<string name="can_modified">Разрешить получателю добавлять картинки</string>
 	<string name="cancel">Отмена</string>
 	<string name="cancel_hint">Действие отменено</string>
 	<string name="fail_hint">Ошибка действия</string>
@@ -90,8 +89,6 @@
 	<string name="context_menu_add_contact">Добавить в контакты</string>
 	<string name="context_menu_copy">Копировать</string>
 	<string name="context_menu_copy_notice">Текст скопирован</string>
-	<string name="context_menu_new_contact">Новый контакт</string>
-	<string name="context_menu_view_contact">Посмотреть контакт</string>
 	<string name="contrast">Контраст</string>
 	<string name="create_new_cloud_folder">Создать облачный альбом</string>
 	<string name="crop">Обрезать</string>
@@ -108,7 +105,6 @@
     <string name="cloudfolder_cannot_start_with">Имя папки не может начинаться с \"%s\"</string>
     <string name="cloudfolder_name_cannot_empty">Введите имя папки</string>
 	<string name="delete">Удалить</string>
-	<string name="delete_fail_too_many_items">Ошибка удаления. Возможно выбрано слишком много пунктов.</string>
 	<string name="delete_file">Удалить выбранные файлы? \n\nФайлов: %1$d</string>
 	<string name="delete_files_and_folders">Удалить выбранные файлы и папки? \n\nФайлов: %1$d \nПапок: %2$d</string>
 	<string name="delete_folder">Удалить выбранные папки? \n\nПапок: %1$d</string>
@@ -225,8 +221,6 @@
 	<string name="mishop_saved_folder_display_name">MiShop</string>
 	<string name="miui_capture_screen_folder_display_name">Скриншоты</string>
 	<string name="model">Модель</string>
-	<string name="modify_allow_hint">Добавление новых фотографий в альбом разрешено</string>
-	<string name="modify_disallow_hint">Добавление новых фотографий в альбом запрещено</string>
 	<string name="more">Еще</string>
 	<string name="move_to_cloud_album">Переместить</string>
 	<string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
@@ -283,7 +277,6 @@
 	<string name="remove_recent_album">Удалить из последних альбомов</string>
 	<string name="rename_failed">Не удалось переименовать</string>
 	<string name="rename_failed_duplicated_name">Имя уже существует</string>
-	<string name="request_qr_code">Получение QR-кода…</string>
 	<string name="request_qr_code_failed">Ошибка получения QR-кода. Повторите еще раз.</string>
 	<string name="request_sms_url_failed">Не удалось запросить URL для обмена по SMS</string>
 	<string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>
@@ -296,10 +289,9 @@
 	<string name="save_photo">Сохранить изменения?</string>
 	<string name="saving_failure">Не удалось сохранить фото</string>
 	<string name="saving_image">Сохранение картинки…</string>
-	<string name="screensaver_activate_mode">Заставка слайдшоу</string>
+	<string name="screensaver_activate_mode">Заставка слайд-шоу</string>
 	<string name="screensaver_activate_only_charging">Только при зарядке</string>
 	<string name="screensaver_category">Заставка</string>
-	<string name="screensaver_no_data">Нет изображений в альбоме.</string>
 	<string name="screensaver_path">"Альбом заставки: "</string>
 	<string name="screensaver_path_not_set">Не задан</string>
 	<string name="sd_not_available">SD-карта отключена или недоступна</string>
@@ -332,9 +324,9 @@
 	<string name="set_lock_or_wallpaper">Как фон</string>
 	<string name="set_lockscreen">Экран блокировки</string>
 	<string name="set_recent_album">Сделать новый альбом</string>
-	<string name="set_screensaver_path_message">Фото из этого альбома будут отображаться в режиме слайдшоу после 5 секунд выключенного экрана.</string>
-	<string name="set_screensaver_path_message_if_only_charging">Фото из этого альбома будут отображаться в режиме слайдшоу во время зарядки.</string>
-	<string name="set_screensaver_path_title">Заставка слайдшоу</string>
+	<string name="set_screensaver_path_message">Фото из этого альбома будут отображаться в режиме слайд-шоу после 5 секунд выключенного экрана.</string>
+	<string name="set_screensaver_path_message_if_only_charging">Фото из этого альбома будут отображаться в режиме слайд-шоу во время зарядки.</string>
+	<string name="set_screensaver_path_title">Заставка слайд-шоу</string>
 	<string name="set_wallpaper">Рабочий стол</string>
 	<string name="settings">Настройки</string>
 	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере.</string>
@@ -356,8 +348,6 @@
     <string name="operation_in_process">Загрузка…</string>
     <string name="operation_failed">Ошибка действия</string>
     <string name="operation_successful">Готово</string>
-    <string name="apply_successfully">Альбом принят</string>
-    <string name="fail_to_apply">Ошибка загрузки альбома</string>
     <string name="invalid_invition_url">Неверная ссылка</string>
     <string name="user_alias_self">Я</string>
     <string name="kick_owner_user_title">Удалить выбранного пользователя?</string>
@@ -397,8 +387,8 @@
 	<string name="slideshow_interval_dialog_title">Интервал слайд-шоу (в секундах)</string>
 	<string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию.</string>
 	<string name="slideshow_repeat_mode">Повторять</string>
-	<string name="slideshow_time_select_title">Длительность слайдшоу</string>
-	<string name="slideshow_time_title">Время слайдшоу</string>
+	<string name="slideshow_time_select_title">Длительность слайд-шоу</string>
+	<string name="slideshow_time_title">Время слайд-шоу</string>
 	<string name="storage_all_volumes">Все накопители</string>
 	<string name="storage_no_space">Не хватает памяти</string>
 	<string name="straighten">Выравнивание</string>
@@ -425,8 +415,7 @@
 	<string name="to_count">Во всех: %d</string>
 	<string name="too_many_recipients">Выбрано слишком много получателей: %1$s. \nМаксимальное количество получателей: %2$s.</string>
 	<string name="try_to_send">Отправить</string>
-	<string name="turn_left">Повернуть</string>
-	<string name="turn_right">Повернуть</string>
+	<string name="there_is_no_image">Нет изображений</string>
 	<string name="unit_mm">мм</string>
 	<string name="untagged">Без тегов</string>
 	<string name="video_err">Не удалось воспроизвести видео</string>

@@ -632,6 +632,7 @@
 	<string name="device_memory">ОЗУ</string>
 	<string name="device_miui_version">Версия MIUI</string>
 	<string name="device_name">Имя устройства</string>
+	<string name="device_name_input_error">Не удалось сохранить имя устройства. Пожалуйста, введите еще раз.</string>
 	<string name="device_name_input_hint">Введите имя устройства</string>
 	<string name="device_name_usage_point">Имя вашего устройства, которое будет отображаться при различных соединениях.</string>
 	<string name="device_picker">Выбор устройства Bluetooth</string>
@@ -642,6 +643,7 @@
 	<string name="dialog_title_font_size">Размер шрифта</string>
 	<string name="dirac_control">Технология \"MI Sound\"</string>
 	<string name="dirac_mode_earbuds">Гарнитура</string>
+	<string name="dirac_mode_general">Общие</string>
 	<string name="dirac_mode_in_ear">Наушники</string>
 	<string name="dirac_mode_off">Отключено</string>
 	<string name="dirac_mode_piston_100">Наушники Xiaomi</string>
@@ -1114,6 +1116,8 @@
 	<string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
 	<string name="oem_radio_info_label">Информация/настройки OEM</string>
 	<string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
+	<string name="open_wifi_connect_summary">Нажмите, чтобы настроить.</string>
+	<string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
 	<string name="other_relative">Другие разрешения</string>
 	<string name="owner_info_settings_edit_text_hint">Введите текст для отображения на экране блокировки</string>
 	<string name="owner_info_settings_title">Сведения о владельце</string>

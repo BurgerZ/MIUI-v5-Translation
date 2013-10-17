@@ -361,11 +361,11 @@
 	<string name="current_account">Активный аккаунт</string>
 	<string name="my_xiaomi_account">Мой активный аккаунт Xiaomi</string>
 	<string name="micloud_intro_01_part_01">Экономия на SMS сообщениях</string>
-	<string name="micloud_intro_01_part_02">Пользователи MIUI могут обмениваться бесплатными сообщения через интернет.</string>
+	<string name="micloud_intro_01_part_02">MIUI бесплатные сообщения через интернет.</string>
 	<string name="micloud_intro_02_part_01">Синхронизация данных</string>
-	<string name="micloud_intro_02_part_02">MiCloud позволяет синхронизировать контакты, фото, сообщения и другие данные с облачным сервисом.</string>
+	<string name="micloud_intro_02_part_02">MiCloud синхронизация данных с облачным сервисом.</string>
 	<string name="micloud_intro_03_part_01">Безопасность в использовании</string>
-	<string name="micloud_intro_03_part_02">Вы можете управлять своими данными, блокировать телефон, просматривать местоположение прямо с компьютера через сайт \"i.xiaomi.com\".</string>
-	<string name="micloud_dspt">MiCloud позволит вам отправлять облачные сообщения, синхронизировать свои данные, просматривать местоположение телефона и управлять данными с компютера в любое время!</string>
+	<string name="micloud_intro_03_part_02">Управление данными на \»i.xiaomi.com\".</string>
+	<string name="micloud_dspt">MiCloud управление данными в любое время!</string>
 	<string name="start_micloud">Старт</string>
 </resources>
