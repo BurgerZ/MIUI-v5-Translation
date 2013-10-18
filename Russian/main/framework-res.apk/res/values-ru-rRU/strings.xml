@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="BaMmi">Запрет вызовов</string>
+	<string name="clipboard_copied_to_clipboard">Текст скопирован в буфер обмена</string>
     <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
     <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
     <string name="CLIRDefaultOnNextCallOff">Идентификация абонента по умолчанию запрещена. След. вызов: разрешена</string>

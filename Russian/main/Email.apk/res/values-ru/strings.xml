@@ -134,10 +134,10 @@
     <string name="message_view_attachment_background_load">Примечание. Несколько прикрепленных файлов в переадресованном сообщении будут загружены перед отправкой</string>
     <string name="message_view_show_message_action">Сообщение</string>
     <string name="message_view_show_invite_action">Пригласить</string>
-    <string name="message_view_show_pictures_action">Показать картинки</string>
+    <string name="message_view_show_pictures_action">Показать изображения</string>
     <string name="message_view_always_show_pictures_button">Всегда показывать</string>
-    <string name="message_view_always_show_pictures_prompt">Всегда показывать картинки с этого адреса</string>
-    <string name="message_view_always_show_pictures_confirmation">Картинки, отправленные с этого адреса, будут всегда показываться</string>
+    <string name="message_view_always_show_pictures_prompt">Всегда показывать изображения с этого адреса</string>
+    <string name="message_view_always_show_pictures_confirmation">Изображения, отправленные с этого адреса, будут всегда отображаться.</string>
     <string name="message_view_invite_view">Посмотреть в Календаре</string>
     <string name="message_view_invite_title">Календарь: приглашение</string>
     <string name="message_view_invite_text">Примете участие?</string>
