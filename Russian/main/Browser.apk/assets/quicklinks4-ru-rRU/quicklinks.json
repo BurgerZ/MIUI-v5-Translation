@@ -6,7 +6,11 @@
             "thumbnail":"romz.png",
             "logobg":"bg04.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "ROMZ.bz",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 0
         },
         {
             "title":"MIUI.su",
@@ -14,16 +18,23 @@
             "thumbnail":"miui_su.png",
             "logobg":"bg15.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "MIUI.su",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 1
         },
-
         {
             "title":"BurgerZ.pro",
             "url":"http://burgerz.pro/",
             "thumbnail":"bz.png",
             "logobg":"bg03.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "BurgerZ.pro",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 2
         },
         {
             "title":"Вконтакте",
@@ -31,7 +42,11 @@
             "thumbnail":"vkontakte.png",
             "logobg":"bg14.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "Вконтакте",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 3
         },
         {
             "title":"Twitter",
@@ -39,23 +54,35 @@
             "thumbnail":"twitter_ru.png",
             "logobg":"bg03.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "Twitter",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 4
         },
         {
-            "title":"Facebook",
-            "url":"http://m.facebook.com/",
-            "thumbnail":"facebook.png",
-            "logobg":"bg14.9.png",
+            "title":"WSMproject",
+            "url":"http://burgerz.pro/wsm-project/",
+            "thumbnail":"wsm.png",
+            "logobg":"bg10.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "WSMproject",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 5
         },
-        {
+		{
             "title":"Википедия",
             "url":"http://ru.m.wikipedia.org/",
             "thumbnail":"wikipedia.png",
             "logobg":"bg12.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "Википедия",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 6
         },
         {
             "title":"MIUI forum",
@@ -63,7 +90,11 @@
             "thumbnail":"miui_forum.png",
             "logobg":"bg10.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "MIUI forum",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 7
         },
 		{
             "title":"4PDA",
@@ -71,7 +102,11 @@
             "thumbnail":"4pda.png",
             "logobg":"bg12.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "4PDA",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 8
         },
         {
             "title":"MIUI Android",
@@ -79,7 +114,11 @@
             "thumbnail":"miui_android.png",
             "logobg":"bg07.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "MIUI Android",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 9
         },
         {
             "title":"DimonVideo",
@@ -87,7 +126,11 @@
             "thumbnail":"dimonvideo.png",
             "logobg":"bg09.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "DimonVideo",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 10
         },
         {
             "title":"SamAndroid",
@@ -95,16 +138,130 @@
             "thumbnail":"samandroid.png",
             "logobg":"bg09.9.png",
 			"nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+		"displayName": "SamAndroid",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 11
+        }
+	],
+"topquicklinks": [
+        {
+            "title":"ROMZ.bz",
+            "url":"http://www.romz.bz/",
+            "thumbnail":"romz.png",
+            "logobg":"bg04.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "ROMZ.bz"
         },
-		{
+        {
+            "title":"MIUI.su",
+            "url":"http://miui.su/",
+            "thumbnail":"miui_su.png",
+            "logobg":"bg15.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "MIUI.su"
+        },
+        {
+            "title":"BurgerZ.pro",
+            "url":"http://burgerz.pro/",
+            "thumbnail":"bz.png",
+            "logobg":"bg03.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "BurgerZ.pro"
+        },
+        {
+            "title":"Вконтакте",
+            "url":"http://www.vk.com",
+            "thumbnail":"vkontakte.png",
+            "logobg":"bg14.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "Вконтакте"
+        },
+        {
+            "title":"Twitter",
+            "url":"http://twitter.com",
+            "thumbnail":"twitter_ru.png",
+            "logobg":"bg03.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "Twitter"
+        },
+        {
             "title":"WSMproject",
             "url":"http://burgerz.pro/wsm-project/",
             "thumbnail":"wsm.png",
             "logobg":"bg10.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+		"displayName": "WSMproject"
+        },
+		{
+            "title":"Википедия",
+            "url":"http://ru.m.wikipedia.org/",
+            "thumbnail":"wikipedia.png",
+            "logobg":"bg12.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "Википедия"
+        },
+        {
+            "title":"MIUI forum",
+            "url":"http://en.miui.com/forum.php",
+            "thumbnail":"miui_forum.png",
+            "logobg":"bg10.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "MIUI forum"
+        },
+		{
+            "title":"4PDA",
+            "url":"http://4pda.ru",
+            "thumbnail":"4pda.png",
+            "logobg":"bg12.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "4PDA"
+        },
+        {
+            "title":"MIUI Android",
+            "url":"http://xiaomi.eu",
+            "thumbnail":"miui_android.png",
+            "logobg":"bg07.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "MIUI Android"
+        },
+        {
+            "title":"DimonVideo",
+            "url":"http://dimonvideo.ru/",
+            "thumbnail":"dimonvideo.png",
+            "logobg":"bg09.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "DimonVideo"
+        },
+        {
+            "title":"SamAndroid",
+            "url":"http://samandroid.ru",
+            "thumbnail":"samandroid.png",
+            "logobg":"bg09.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "SamAndroid"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://m.facebook.com/",
+            "thumbnail":"facebook.png",
+            "logobg":"bg14.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Facebook"
         },
         {
             "title":"Google",
@@ -113,7 +270,7 @@
             "logobg":"bg09.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "Google"
         },
         {
             "title":"Picasa",
@@ -122,7 +279,7 @@
             "logobg":"bg07.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "Picasa"
         },
         {
             "title":"Yandex",
@@ -131,7 +288,7 @@
             "logobg":"bg02.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "Yandex"
         },
         {
             "title":"MIUI English",
@@ -140,7 +297,7 @@
             "logobg":"bg10.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "MIUI English"
         },
         {
             "title":"MI-Droid",
@@ -149,7 +306,7 @@
             "logobg":"bg13.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "MI-Droid"
         },
         {
             "title":"YouTube",
@@ -158,7 +315,7 @@
             "logobg":"bg05.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "YouTube"
         },
         {
             "title":"Одноклассники",
@@ -167,7 +324,7 @@
             "logobg":"bg04.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "Одноклассники"
         },
         {
             "title":"Mail.ru",
@@ -176,7 +333,7 @@
             "logobg":"bg12.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "Mail.ru"
         },
         {
             "title":"Lit Lib",
@@ -185,7 +342,7 @@
             "logobg":"bg09.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "Lit Lib"
         },
         {
             "title":"ПростоПлеер",
@@ -194,7 +351,7 @@
             "logobg":"bg03.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "ПростоПлеер"
         },
         {
             "title":"Самиздат",
@@ -203,7 +360,7 @@
             "logobg":"bg03.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-			"hidden":"true"
+	    "displayName": "Самиздат"
         }
     ]
 }
