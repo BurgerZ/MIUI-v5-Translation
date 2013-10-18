@@ -1117,7 +1117,7 @@
 	<string name="oem_radio_info_label">Информация/настройки OEM</string>
 	<string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
 	<string name="open_wifi_connect_summary">Нажмите, чтобы настроить.</string>
-	<string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
+	<string name="open_wifi_connect_title">Подключение к сети %1$s</string>
 	<string name="other_relative">Другие разрешения</string>
 	<string name="owner_info_settings_edit_text_hint">Введите текст для отображения на экране блокировки</string>
 	<string name="owner_info_settings_title">Сведения о владельце</string>

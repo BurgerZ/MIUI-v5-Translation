@@ -32,7 +32,7 @@
 	<string name="nowifi_alert_dialog_message">Wi-fi сеть недоступна. \nПродолжить воспроизведение через мобильный интернет?</string>
 	<string name="nowifi_alert_dialog_title">Предупреждение</string>
 	<string name="temp_play_history_button_label">История плеера</string>
-	<string name="to_be_play_label_v5">"Загружаемое видео "</string>
+	<string name="to_be_play_label_v5">"Загрузка видео "</string>
 	<string name="toast_back_key_pressed_notice">Нажмите \"Назад\" еще раз для выхода</string>
 	<string name="toast_message_continue_play_from">"Продолжение с "</string>
 	<string name="toast_message_continue_play_hour">ч.</string>

@@ -331,7 +331,7 @@
 	<string name="settings">Настройки</string>
 	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере.</string>
 	<string name="shadow">Затемнение</string>
-	<string name="share_album">Поделиться альбомом</string>
+	<string name="share_album">Обмен альбомами</string>
 	<string name="share_album_owner">Владелец</string>
 	<string name="scan_qr_code_top_text">Облачный альбом</string>
     <string name="scan_qr_code_buttom_text">Сканируйте QR-код для просмотра этого альбома</string>

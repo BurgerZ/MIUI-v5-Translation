@@ -251,7 +251,7 @@
 	<string name="description_voicemail_button">голосовая почта</string>
 	<string name="deselect_all">Снять выделение</string>
 	<string name="device_bluetooth_title">Подготовка</string>
-	<string name="device_brand_title">Выберете марку телефона</string>
+	<string name="device_brand_title">Выберите марку телефона</string>
 	<string name="device_import_account_dialog_title">Выберите аккаунт для импорта</string>
 	<string name="device_import_account_dialog_title_suffix">\n(найдено контактов: %1$s)</string>
 	<string name="device_import_done_toast">Импортировано контактов: %1$d</string>
