@@ -255,7 +255,7 @@
 	<string name="operation_refresh">Обновить</string>
 	<string name="operation_rename">Переименовать</string>
 	<string name="operation_share">Поделиться</string>
-	<string name="operation_set_as_screensaver">Установить на заставку</string>
+	<string name="operation_set_as_screensaver">Установить альбом на заставку</string>
 	<string name="operation_unset_as_screensaver">Отменить заставку</string>
 	<string name="orientation">Ориентация</string>
 	<string name="other_category">Другие настройки</string>
@@ -293,7 +293,7 @@
 	<string name="screensaver_activate_only_charging">Только при зарядке</string>
 	<string name="screensaver_category">Заставка</string>
 	<string name="screensaver_path">"Альбом заставки: "</string>
-	<string name="screensaver_path_not_set">Не задан</string>
+	<string name="screensaver_path_not_set">не задан</string>
 	<string name="sd_not_available">SD-карта отключена или недоступна</string>
 	<string name="seconds">сек.</string>
 	<string name="select_album">Выбрать альбомы</string>

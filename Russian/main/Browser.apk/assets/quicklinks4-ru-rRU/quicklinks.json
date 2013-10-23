@@ -300,15 +300,6 @@
 	    "displayName": "MIUI English"
         },
         {
-            "title":"MI-Droid",
-            "url":"http://www.mi-droid.ru/",
-            "thumbnail":"mi_droid.png",
-            "logobg":"bg13.9.png",
-			"nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "MI-Droid"
-        },
-        {
             "title":"YouTube",
             "url":"http://www.youtube.ru/",
             "thumbnail":"youtube.png",
@@ -316,6 +307,15 @@
 			"nightModeMask": "night.9.png",
             "favicon":"",
 	    "displayName": "YouTube"
+        },
+        {
+            "title":"Apkmania",
+            "url":"http://www.apkmania.co/",
+            "thumbnail":"apkmania.png",
+            "logobg":"bg13.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Apkmania"
         },
         {
             "title":"Одноклассники",
@@ -357,10 +357,37 @@
             "title":"Самиздат",
             "url":"http://samlib.ru/",
             "thumbnail":"samizdat.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg13.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
 	    "displayName": "Самиздат"
+        },
+        {
+            "title":"SoundCloud",
+            "url":"http://m.soundcloud.com/",
+            "thumbnail":"soundcloud.png",
+            "logobg":"bg04.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "SoundCloud"
+        },
+        {
+            "title":"Svetyolka",
+            "url":"http://www.svetyolka.com/",
+            "thumbnail":"svetyolka.png",
+            "logobg":"bg09.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Svetyolka"
+        },
+        {
+            "title":"DeviantART",
+            "url":"http://www.deviantart.com/",
+            "thumbnail":"deviantart.png",
+            "logobg":"bg13.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "DeviantART"
         }
     ]
 }

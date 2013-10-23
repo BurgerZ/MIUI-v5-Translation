@@ -89,4 +89,7 @@
 	<string name="toast_reach_text_limit_truncate">Содержание заметки автоматически сократится по длине.</string>
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку.</string>
 	<string name="widget_under_visit_mode">Не возможно просмотреть заметки в режиме гостя.</string>
+	<string name="format_date_ymd">dd.MM.yyyy</string>
+    <string name="format_datetime_mdhm">dMMM kk:mm</string>
+	<string name="file_name_txt_format">notes_%s.txt</string>
 </resources>
