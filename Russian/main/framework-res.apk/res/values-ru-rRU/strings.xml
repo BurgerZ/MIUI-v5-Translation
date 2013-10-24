@@ -1179,11 +1179,11 @@
     <string name="sync_do_nothing">Ничего не делать сейчас</string>
     <string name="sync_really_delete">Удалить элементы</string>
     <string name="sync_too_many_deletes">Превышен предел удаления</string>
-    <string name="sync_too_many_deletes_desc">Удаленных объектов для %2$s: %1$d, аккаунт %3$s. Что нужно сделать?</string>
+    <string name="sync_too_many_deletes_desc">Удаленных объектов для %2$s: %1$d, аккаунт %3$s. Выберите действие.</string>
     <string name="sync_undo_deletes">Отменить удаления</string>
     <string name="terabyteShort">Tб</string>
     <string name="tethered_notification_message">Нажмите для настройки</string>
-    <string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
+    <string name="tethered_notification_title">Точка доступа активна</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
     <string name="text_copied">Текст скопирован в буфер обмена</string>
     <string name="throttle_warning_notification_message">Нажмите, чтобы узнать больше о мобильной передаче данных</string>
