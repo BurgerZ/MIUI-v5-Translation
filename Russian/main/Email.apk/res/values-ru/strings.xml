@@ -37,6 +37,8 @@
     <string name="mailbox_settings_action">Параметры синхронизации</string>
     <string name="mark_as_unread_action">Не прочитано</string>
     <string name="move_action">Переместить</string>
+	<string name="newer_action">Новые</string>
+    <string name="older_action">Старые</string>
     <string name="plus_cc_label">Добавить копию</string>
     <string name="add_cc_bcc_menu">Копия/скрытая копия</string>
     <string name="add_file_attachment">Прикрепить файл</string>
@@ -149,6 +151,7 @@
     <string name="message_view_invite_toast_no">Приглашение отклонено</string>
     <string name="message_view_show_details">Показать сведения</string>
     <string name="message_view_message_details_dialog_title">Детали</string>
+	<string name="long_string">длинннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннная</string>
     <string name="attachment_info_dialog_default_title">О прикрепленном файле</string>
     <string name="attachment_info_dialog_wifi_title">Требуется Wi-Fi-соединение</string>
     <string name="attachment_info_wifi_settings">Настройки Wi-Fi</string>

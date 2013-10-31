@@ -993,4 +993,6 @@
     <string name="sim_error_email_full">Память для электронной почты заполнена</string>
     <string name="sim_error_anr_full">Память для номеров заполнена</string>
     <string name="sim_error_password_error">Неверный пароль</string>
+	<string name="sdcard_not_mounted_dialog_title">SD-карта отсутствует</string>
+    <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту \n</string>
 </resources>

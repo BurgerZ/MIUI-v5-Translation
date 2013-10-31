@@ -116,4 +116,22 @@
     <string name="express_inquiry_no_result">Нет результатов.</string>
     <string name="express_inquiry_data_owner">Информация отслеживания предоставляется от %s</string>
     <string name="scan">Сканировать</string>
+	<string name="packages_pay">Купить</string>
+    <string name="packages_pay_confirm">Подтвердить покупку</string>
+    <string name="packages_title">Пакеты</string>
+    <string name="select_package_before_buy">Выберите пакет, который хотите купить.</string>
+    <string name="packages_select_to_buy_title">Вы хотите купить:</string>
+    <string name="packages_pay_hint">Отправить бесплатное сообщение</string>
+    <string name="packages_pay_success">Сообщение отправлено</string>
+    <string name="packages_wait_for_op_reply">Пожалуйста, дождитесь сообщения с подтверждением</string>
+    <string name="packages_select_sim_cards_title">Выберите SIM-карту</string>
+    <string name="packages_select_sim_cards_summmary">Система будет рекомендовать пакеты трафиков согласно вашему выбору</string>
+    <string name="packages_no_package">Нет пакетов</string>
+	<string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
+    <string name="express_inquiry_logistics_indication">Курьерская компания</string>
+	<string name="express_inqiury_select_logistics">Курьерская компания</string>
+    <string name="expresss_inquiry_frequently_used_logistics">Общие</string>
+    <string name="expresss_inquiry_all_logistics">Все</string>
+	<string name="balance_inquiry_title">Запрос баланса</string>
+    <string name="balance_inquiry_default_sp_name">Оператор</string>
 </resources>

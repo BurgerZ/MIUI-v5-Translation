@@ -329,14 +329,14 @@
 	<string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
 	<string name="bluetooth_incoming_pairing_msg">Запрос от: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Подключиться к этому устройству?</string>
 	<string name="bluetooth_is_discoverable">Время видимости для устройств Bluetooth: %1$s</string>
-	<string name="bluetooth_is_discoverable_always">Отображать для ближайших устройств Bluetooth</string>
+	<string name="bluetooth_is_discoverable_always">Телефон видим для ближайших устройств в данный момент</string>
 	<string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
 	<string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование Bluetooth телефона, когда экран заблокирован</string>
 	<string name="bluetooth_menu_advanced">Расширенные</string>
 	<string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
 	<string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
 	<string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
-	<string name="bluetooth_not_visible_to_other_devices">Не отображать для других Bluetooth-устройств</string>
+	<string name="bluetooth_not_visible_to_other_devices">Телефон невидим для ближайших устройств в данный момент</string>
 	<string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
 	<string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
 	<string name="bluetooth_notif_title">Запрос на сопряжение</string>
@@ -1720,7 +1720,7 @@
 	<string name="sync_menu_sync_now">Синхронизировать</string>
 	<string name="sync_one_time_sync">Нажмите, чтобы начать синхронизацию\n%1$s"</string>
 	<string name="sync_plug">Добро пожаловать в Google Sync!\nТехнология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства</string>
-	<string name="sync_settings">Аккаунты и синхронизация</string>
+	<string name="sync_settings">Синхронизация</string>
 	<string name="sync_wifi_label">Настройки Wi-Fi</string>
 	<string name="system">Система</string>
 	<string name="screen_color_temperature">Цветовая температура</string>

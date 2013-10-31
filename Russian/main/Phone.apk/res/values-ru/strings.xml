@@ -91,7 +91,7 @@
 	<string name="auto_record_scenario_enteries_whitelist_miui">Выбранные номера</string>
 	<string name="auto_record_scenario_title_miui">Режим</string>
 	<string name="auto_record_whitelist_miui">Управление номерами</string>
-	<string name="auto_record_whitelist_no_item_miui">Нажмите на кнопку внизу, чтобы добавить номера для автоматической записи</string>
+	<string name="auto_record_whitelist_no_item_miui">Нет выбранных номеров</string>
 	<string name="auto_record_whitelist_summary_for_one_miui">Номеров: 1</string>
 	<string name="auto_record_whitelist_summary_miui">Номеров: %d</string>
 	<string name="auto_redial_pref_summary_miui">Перезвонить, если линия занята.</string>
@@ -943,7 +943,7 @@
 	<string name="turn_off_miui">отключено</string>
 	<string name="turnover_mute_summary_miui">Переверните телефон при входящем вызове для выключения мелодии (работает если телефон в горизонтальном положении).</string>
 	<string name="turnover_mute_title_miui">Переворот - \"Без звука\"</string>
-	<string name="undefined_miui">Не назначено</string>
+	<string name="undefined_miui">не назначено</string>
 	<string name="unknown">Неизвестный абонент</string>
 	<string name="unknown_num">Неизвестный номер</string>
 	<string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
@@ -1088,4 +1088,6 @@
     <string name="exportAllcontatsSuccess">Все контакты успешно экспортированы на SIM-карту</string>
     <string name="exportAllcontatsFailed">Не удалось экспортировать контакты на SIM-карту</string>
     <string name="cursorError">Курсор не содержит соответствующих данных!</string>
+	<string name="auto_record_unknown_miui">Неизвестные номера</string>
+	<string name="auto_record_yellowpage_miui">Желтые страницы</string>
 </resources>

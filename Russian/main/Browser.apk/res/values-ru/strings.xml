@@ -183,8 +183,8 @@
 	<string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
 	<string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
 	<string name="geolocation_permissions_prompt_share">Разрешить</string>
-	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\".</string>
-	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\".</string>
+	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы изменить параметры, выберите \"Настройки -> Дополнительно -> Данные веб-сайтов\".</string>
+	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы изменить параметры, выберите \"Настройки -> Дополнительно -> Данные веб-сайтов\".</string>
 	<string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
 	<string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>
 	<string name="geolocation_settings_page_dialog_ok_button">ОК</string>
@@ -341,8 +341,8 @@
 	<string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
 	<string name="pref_extras_reset_default_summary">Восстановить настройки по умолчанию</string>
 	<string name="pref_extras_reset_default_title">Сброс настроек</string>
-	<string name="pref_extras_title">Расширенные</string>
-	<string name="pref_extras_website_settings">Настройки веб-сайтов</string>
+	<string name="pref_extras_title">Дополнительно</string>
+	<string name="pref_extras_website_settings">Данные веб-сайтов</string>
 	<string name="pref_extras_website_settings_summary">Дополнительные настройки для отдельных сайтов</string>
 	<string name="pref_fling_on_border_enabled">Слайд по границе</string>
 	<string name="pref_fling_on_border_enabled_title_summary">Слайд по границе экрана</string>
@@ -378,7 +378,7 @@
 	<string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
 	<string name="pref_link_prefetch_value_never_summary">Запретить браузеру загружать веб-страницы в фоновом режиме.</string>
 	<string name="pref_min_font_size">Минимальный размер шрифта</string>
-	<string name="pref_min_font_size_value">%d pt</string>
+	<string name="pref_min_font_size_value">%d</string>
 	<string name="pref_privacy_clear_cache">Очистить кэш</string>
 	<string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
 	<string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
@@ -599,4 +599,19 @@
     <string name="pref_file_downlaod_save_reset_default_settings">Сброс настроек</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию?</string>
     <string name="pref_file_download_save_modify_default_path">Папка загрузок</string>
+	<string name="already_in_top_level">Эта закладка уже наверху</string>
+	<string name="webapp_app_name">Веб-маркет приложений</string>
+	<string name="webapp_dialog_title">Добавить приложений на рабочий строл</string>
+	<string name="webapp_add_to_desktop">На рабочий стол</string>
+	<string name="webapp_web_goback">Назад</string>
+	<string name="webapp_web_forward">Вперед</string>
+	<string name="webapp_bottom_bar_addtodesk">На рабочий стол</string>
+	<string name="webapp_bottom_bar_hidebar">Скрыть нижний бар</string>
+	<string name="webapp_bottom_bar_showbar">Показать нижний бар</string>
+	<string name="webapp_bottom_bar_openbrowser">Открыть из браузера</string>
+	<string name="webapp_bottom_bar_exit">Выход</string>
+	<string name="webapp_splashview_loading">Загрузка…</string>
+	<string name="webapp_addtodeskpop_append">Добавлено</string>
+	<string name="dialog_geolocation_reject">Отмена</string>
+	<string name="dialog_geolocation_share">ОК</string>
 </resources>

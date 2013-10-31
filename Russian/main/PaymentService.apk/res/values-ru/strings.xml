@@ -215,4 +215,49 @@
     <string name="title_giftcard">Акции</string>
 	<string name="title_discounts">Скидки</string>
 	<string name="pay_record_typeall">Все</string>
+	<string name="button_recharge_pay">Подтвердить</string>
+	<string name="recharge_novalid_method">Неверный способ пополнения</string>
+    <string name="account_detail">Аккаунт Xiaomi: \n%1$s</string>
+	<string name="btn_next">Далее</string>
+	<string name="voucher_error_password">Неверный код</string>
+	<string name="progress_error_recharge_summary">Ошибка платежа. Пожалуйста, попробуйте позже.</string>
+	<string name="progress_error_pay_summary">%1$s Mi-Кредит пополены, но платеж не произведен.</string>
+	<string name="security_setting">Настройки безопасности</string>
+    <string name="lockscreen_forgot_pattern_button_text"><u>Ключ для напоминания пароля</u></string>
+    <string name="lockpattern_recording_intro_header">Создайте ключ разблокировки:</string>
+    <string name="lockpattern_settings_help_how_to_record">Как создать графический ключ</string>
+    <string name="lockpattern_recording_incorrect_too_short">Соедините не менее %d точек.</string>
+    <string name="lockpattern_pattern_entered_header">Графический ключ сохранен</string>
+    <string name="lockpattern_need_to_confirm">Введите повторно:</string>
+    <string name="lockpattern_need_to_confirm_wrong">Ключи не совпадают, создайте новый.</string>
+    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Неверный ключ. Вы можете ввести не более %d раз.&lt;/font></string>
+    <string name="lockpattern_pattern_confirmed_header">Новый графический ключ:</string>
+    <string name="lockpattern_recording_inprogress">Отпустите палец, чтобы завершить.</string>
+    <string name="lockpattern_retry_text"><u>Сброс графического ключа</u></string>
+    <string name="forget_password"><u>Забыли пароль</u></string>
+    <string name="login">Вход</string>
+    <string name="cancel">Отмена</string>
+    <string name="change_security_lock">Другие блокировки</string>
+    <string name="lockpassword_confirm_your_pattern_header">Подтверждение</string>
+    <string name="lockpassword_input_your_pattern_header">Подтвердите пароль</string>
+    <string name="lockpassword_choose_your_pattern_header">Введите пароль</string>
+    <string name="lockpattern_continue_button_text">Продолжить</string>
+    <string name="lockpattern_confirm_button_text">Подтвердить</string>
+    <string name="lockpattern_tutorial_cancel_label">Отмена</string>
+    <string name="lockpattern_tutorial_continue_label">Далее</string>
+    <string name="lockpattern_need_to_unlock_wrong_footer" />
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Пароль введен неверно много раз&lt;/font></string>
+    <string name="lockpattern_need_to_unlock_footer" />
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторите попытку через %d сек.</string>
+    <string name="title_myaccount">Мой аккаунт: %s</string>
+    <string name="title_gesture">Графический ключ</string>
+    <string name="title_lockpattern">Требуется графический ключ</string>
+    <string name="title_visible_pattern">Отображать ключ</string>
+    <string name="summary_lockpattern">Требуется ввести графический ключ для Mi-Кредит</string>
+    <string name="title_change_lockpattern">Настройки графического ключа</string>
+    <string name="title_password">Пароль</string>
+    <string name="title_nopassword">Не запрашивать при небольших платежах</string>
+    <string name="title_password_threshold">Ежедневный лимит = ￥%1$s</string>
+    <string name="title_nopassword_dialog">Ежедневный лимит</string>
+    <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
 </resources>

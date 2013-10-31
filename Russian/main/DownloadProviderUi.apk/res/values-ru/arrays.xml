@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="prefEntries_max_bytes_limit">
+		<item>Без ограничений</item>
 		<item>1 Гб</item>
 		<item>100 Мб</item>
 		<item>50 Мб</item>
@@ -14,7 +15,8 @@
 		<item>Только по Wi-Fi</item>
      </string-array>
      <string-array name="prefValues_max_bytes_limit">
-        <item>1073741824</item>
+        <item>2147483647</item>
+		<item>1073741824</item>
 		<item>104857600</item>
 		<item>52428800</item>
 		<item>31457280</item>

@@ -463,4 +463,9 @@
 	<string name="winter_solstice" />
 	<string name="yesterday">"Вчера "</string>
     <string name="volume_ring_description">Рингтон и уведомления</string>
+	<string name="yellow_page_unable_send_sms">Не удается отправить сообщение</string>
+	<string name="yellow_page_module_sms_sent">Сообщение отправлено</string>
+	<string name="yellow_page_sms_send_failed">Ошибка отправки сообщения</string>
+	<string name="yellow_page_sms_sending">Отправка…</string>
+	<string name="yellow_page_sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
 </resources>
