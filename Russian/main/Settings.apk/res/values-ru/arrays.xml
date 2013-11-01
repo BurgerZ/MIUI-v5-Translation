@@ -295,7 +295,7 @@
      <string-array name="usb_connection_mode_entries">
         <item>Запрос при подключении</item>
         <item>Только зарядка</item>
-        <item>Подключить SD-карту</item>
+        <item>USB-накопитель</item>
      </string-array>
      <string-array name="user_content_ratings_entries">
         <item>Высший разум</item>

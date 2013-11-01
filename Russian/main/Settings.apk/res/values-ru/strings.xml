@@ -906,7 +906,7 @@
 	<string name="launcher_settings_title">Рабочий стол</string>
 	<string name="led_colors_summary">Цвет уведомлений</string>
 	<string name="led_frequence_summary">Интервал между миганиями</string>
-	<string name="led_pulse_summary">Мигать светодиодом при новых уведомлениях</string>
+	<string name="led_pulse_summary">Мигать светодиодом при получении новых уведомлений</string>
 	<string name="led_settings">Индикация</string>
 	<string name="legal_information">Правовая информация</string>
 	<string name="license_title">Лицензия</string>
@@ -1037,7 +1037,7 @@
 	<string name="memory">ОЗУ</string>
 	<string name="memory_apps_usage">Приложения</string>
 	<string name="memory_available">Доступно</string>
-	<string name="memory_calculating_size">Идет подсчет…</string>
+	<string name="memory_calculating_size">Вычисление…</string>
 	<string name="memory_dcim_usage">Изображения и видео</string>
 	<string name="memory_downloads_usage">Загрузки</string>
 	<string name="memory_media_misc_usage">Прочее</string>
