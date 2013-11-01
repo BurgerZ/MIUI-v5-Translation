@@ -77,7 +77,7 @@
 	<string name="bookmark_page">Добавить в закладки последнюю просмотренную страницу</string>
 	<string name="bookmark_saved">Сохранено в закладках</string>
 	<string name="bookmark_this_page">Закладка для этой страницы</string>
-	<string name="bookmark_this_page_to_readmodelist">Добавить страницу с список чтения</string>
+	<string name="bookmark_this_page_to_readmodelist">Добавить в список чтения</string>
 	<string name="bookmark_thumbnail_view">Изображения</string>
 	<string name="bookmark_title">Имя</string>
 	<string name="bookmark_to_readmodelist_not_saved">Невозможно сохранить в список чтения</string>
@@ -492,14 +492,14 @@
 	<string name="search_shipin">Видео</string>
 	<string name="search_sogou">Segou</string>
 	<string name="search_taobao">Taobao</string>
-	<string name="search_the_web">Поиск в Интернете</string>
+	<string name="search_the_web">Поиск в интернете</string>
 	<string name="search_tupian">Фото</string>
 	<string name="search_yahoo">Yahoo</string>
 	<string name="search_yicha">Yicha</string>
 	<string name="security_warning">Угроза безопасности</string>
 	<string name="select_dot">Выбрать текст</string>
 	<string name="selection_all">Выбрать все</string>
-	<string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
+	<string name="send_bookmark_to_home_screen">Ярлык на рабочий стол</string>
 	<string name="send_to_desktop">Ярлык</string>
 	<string name="set_as_homepage">Сделать главной страницей</string>
 	<string name="share_link">Поделиться</string>

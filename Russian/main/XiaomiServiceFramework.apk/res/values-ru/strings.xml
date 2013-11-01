@@ -37,7 +37,6 @@
 	<string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации контактов, сообщений и других данных.</string>
 	<string name="data_wipe_from_phone">Удалить из телефона</string>
 	<string name="disable_find_device_error">%1$s, ошибка выключения поиска</string>
-	<string name="disable_micloud"><u>Не включать MiCloud</u></string>
 	<string name="email_already_be_used">Этот адрес почты уже используется</string>
 	<string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
 	<string name="error_account_changed_summary">Ваш аккаунт изменился. Пожалуйста, проверьте и перезапустите</string>

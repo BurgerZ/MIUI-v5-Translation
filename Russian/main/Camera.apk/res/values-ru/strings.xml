@@ -284,7 +284,7 @@
     <string name="accessibility_shutter_button">Кнопка затвора</string>
     <string name="accessibility_review_thumbnail">Последнее фото</string>
     <string name="accessibility_camera_picker">Переключение камеры</string>
-    <string name="accessibility_zoom_control">Зум</string>
+    <string name="accessibility_zoom_control">Приближение</string>
     <string name="empty">" "</string>
     <string name="pref_camera_autoexposure_default">frame-average</string>
     <string name="pref_camera_autoexposure_title">Режим экспозиции</string>
@@ -365,7 +365,7 @@
     <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
     <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
-    <string name="pref_camera_volumekey_function_entry_zooming">Зум</string>
+    <string name="pref_camera_volumekey_function_entry_zooming">Приближение</string>
     <string name="pref_camera_volumekey_function_title">Клавиши громкости</string>
     <string name="pref_camera_volumekey_function_default">zoom</string>
     <string name="pref_camera_long_pressing_burst_shooting_title">Серийная сьeмка</string>
