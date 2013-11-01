@@ -251,9 +251,9 @@
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторите попытку через %d сек.</string>
     <string name="title_myaccount">Мой аккаунт: %s</string>
     <string name="title_gesture">Графический ключ</string>
-    <string name="title_lockpattern">Требуется графический ключ</string>
+    <string name="title_lockpattern">Графический ключ</string>
     <string name="title_visible_pattern">Отображать ключ</string>
-    <string name="summary_lockpattern">Требуется ввести графический ключ для Mi-Кредит</string>
+    <string name="summary_lockpattern">Установить графический ключ для Mi-Кредит</string>
     <string name="title_change_lockpattern">Настройки графического ключа</string>
     <string name="title_password">Пароль</string>
     <string name="title_nopassword">Не запрашивать при небольших платежах</string>

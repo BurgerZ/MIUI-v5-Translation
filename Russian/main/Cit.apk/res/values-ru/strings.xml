@@ -227,7 +227,20 @@
   <string name="cit_wifi_fail_to_scan">Не удается выполнить сканирование сети</string>
   <string name="cit_wifi_state_refresh">обновление</string>
   <string name="cit_OTG_plugin_check_title">Подключение OTG</string>
-    <string name="cit_OTG_plugout_check_title">Отключение OTG</string>
-	<string name="cit_OTG_plugin_check_summary">Проверка подключения OTG</string>
-    <string name="cit_OTG_plugout_check_summary">Проверка отключения OTG</string>
+  <string name="cit_OTG_plugout_check_title">Отключение OTG</string>
+  <string name="cit_OTG_plugin_check_summary">Проверка подключения OTG</string>
+  <string name="cit_OTG_plugout_check_summary">Проверка отключения OTG</string>
+  <string name="cit_pressure_sensor_check_title">Датчик давления</string>
+  <string name="cit_gyroscope_sensor_check_title">Датчик гироскопа</string>
+  <string name="cit_gyroscope_sensor_check_summary">Датчик гироскопа. Ниже показаны значения: x y z</string>
+  <string name="cit_pressure_sensor_check_summary">Ниже отображаются значения атмосферного давления</string>
+  <string name="cit_camera_sdcard_error">SD-карта заполнена, фото не может быть сохранено.</string>
+  <string name="cit_usb_OTG_in">USB-OTG устройство подключено</string>
+  <string name="cit_OTG_waiting_in">Пожалуйста, подключите USB-OTG устройство.</string>
+  <string name="cit_OTG_waiting_out">Пожалуйста, отключите USB-OTG устройство.</string>
+  <string name="cit_usb_OTG_out">USB-OTG устройство отключено</string>
+  <string name="cit_otg_not_supported">Эта модель телефона не поддерживает тестирование OTG</string>
+  <string name="cit_calibration_pass">Ошибка калибровки</string>
+  <string name="cit_calibration_fail">Не удалось откалибровать</string>
+  <string name="cit_tool_log_no_sdcard">Ошибка операции. Пожалуйста, вставьте SD-карту.</string>
 </resources>

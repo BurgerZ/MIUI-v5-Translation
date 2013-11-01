@@ -430,7 +430,7 @@
 	<string name="keep_local">Сохранить локально</string>
 	<string name="keep_local_btn">В телефон</string>
 	<string name="label_custom_type">Пользовательский</string>
-	<string name="label_no_duplicate_contacts">Отлично! На данный момент нет дубликатов контактов!</string>
+	<string name="label_no_duplicate_contacts">На данный момент нет дубликатов контактов</string>
 	<string name="label_notes">Примечания</string>
 	<string name="label_sip_address">Интернет вызов</string>
 	<string name="launcherDialer">Телефон</string>

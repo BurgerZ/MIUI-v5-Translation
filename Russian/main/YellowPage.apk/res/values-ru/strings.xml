@@ -113,7 +113,7 @@
     <string name="express_inquiry_indication">Номер отслеживания</string>
     <string name="express_inquiry_button_text">Трек</string>
     <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
-    <string name="express_inquiry_no_result">Нет результатов.</string>
+    <string name="express_inquiry_no_result">Нет результатов</string>
     <string name="express_inquiry_data_owner">Информация отслеживания предоставляется от %s</string>
     <string name="scan">Сканировать</string>
 	<string name="packages_pay">Купить</string>
@@ -134,4 +134,5 @@
     <string name="expresss_inquiry_all_logistics">Все</string>
 	<string name="balance_inquiry_title">Запрос баланса</string>
     <string name="balance_inquiry_default_sp_name">Оператор</string>
+	<string name="balance_inquiry_send_sms_hint">Бесплатное сообщение будет отправлено для запроса баланса</string>
 </resources>
