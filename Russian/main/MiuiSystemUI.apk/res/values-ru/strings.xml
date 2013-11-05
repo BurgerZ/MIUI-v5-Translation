@@ -200,6 +200,9 @@
 	<string name="headset_settings">Наушники подключены</string>
 	<string name="headset_info">Настроить функции кнопок</string>
 	<string name="headset_custom">Настроить</string>
+	<string name="audio_effect_settings">Тип наушников</string>
+    <string name="audio_effect_info">Улучшение звука</string>
+    <string name="audio_effect_custom">Настройки</string>
 	<string name="status_bar_settings_airplane">Режим полета</string>
 	<string name="status_bar_settings_auto_brightness_label">Автоматически</string>
 	<string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
