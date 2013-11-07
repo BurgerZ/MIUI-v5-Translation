@@ -468,4 +468,5 @@
 	<string name="yellow_page_sms_send_failed">Ошибка отправки сообщения</string>
 	<string name="yellow_page_sms_sending">Отправка…</string>
 	<string name="yellow_page_sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
+	<string name="toast_lockscreen_glogin_empty_password">Пароль не требуется</string>
 </resources>

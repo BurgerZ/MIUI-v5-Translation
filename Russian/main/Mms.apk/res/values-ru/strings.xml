@@ -85,7 +85,7 @@
 	<string name="conversation_style">bubble</string>
 	<string name="converting_to_picture_message">Преобразование в сообщение MMS…</string>
 	<string name="converting_to_text_message">Преобразование в сообщение SMS…</string>
-	<string name="copy_message_text">Скопировать текст</string>
+	<string name="copy_message_text">Копировать</string>
 	<string name="copy_message_text_success">Текст скопирован</string>
 	<string name="copy_to_sdcard">Сохранить вложение</string>
 	<string name="copy_to_sdcard_fail">Файл не сохранен</string>
@@ -449,4 +449,5 @@
     <string name="addBlackList">В черный список</string>
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
 	<string name="batch_adding_progress_message">Добавление…</string>
+	<string name="invalid_private_contact">Неверный контакт</string>
 </resources>

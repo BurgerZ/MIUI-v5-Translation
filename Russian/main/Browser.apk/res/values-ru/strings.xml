@@ -614,4 +614,9 @@
 	<string name="webapp_addtodeskpop_append">Добавлено</string>
 	<string name="dialog_geolocation_reject">Отмена</string>
 	<string name="dialog_geolocation_share">ОК</string>
+	<string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета вы будете получать уведомления о доступных сетях Wi-Fi.</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
+    <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
 </resources>

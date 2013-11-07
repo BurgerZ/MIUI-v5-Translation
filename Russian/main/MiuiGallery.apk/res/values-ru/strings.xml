@@ -431,4 +431,5 @@
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="scan_barcode_guide">Получение QR-кода альбома</string>
     <string name="confirm">ОК</string>
+	<string name="click_top_right">Нажмите на иконку вверху справа</string>
 </resources>
