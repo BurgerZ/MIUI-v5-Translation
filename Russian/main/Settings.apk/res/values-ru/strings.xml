@@ -772,7 +772,7 @@
 	<string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
 	<string name="error_name_empty">Необходимо указать название</string>
 	<string name="error_title" />
-	<string name="external_code_size_label">USB-накопитель</string>
+	<string name="external_code_size_label">Кэш на SD-карте</string>
 	<string name="external_data_size_label">Данные на SD-карте</string>
 	<string name="factory_reset_summary">Вы можете удалить ваши личные данные в Восстановление и сброс, или выбрать установленные приложения для удаления и отформатировать карту памяти SD до заводских настроек</string>
 	<string name="failed_to_open_app_settings_toast">Ошибка открытия настроек для %1$s</string>
@@ -797,7 +797,7 @@
 	<string name="font_size_preview_text">Miui V5 from Russia :)</string>
 	<string name="font_size_save">OK</string>
 	<string name="font_size_small">Маленький</string>
-	<string name="font_size_summary">Настройка размера шрифта в приложениях (Телефон, Сообщения, Контакты и другие)</string>
+	<string name="font_size_summary">Настройка размера шрифта системы</string>
 	<string name="force_hw_ui">Ускорить работу GPU</string>
 	<string name="force_hw_ui_summary">Использовать аппаратное ускорение 2D в приложениях</string>
 	<string name="force_stop">Остановить</string>
