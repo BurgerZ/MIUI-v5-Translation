@@ -23,9 +23,6 @@
 	<string name="binded">Привязан</string>
 	<string name="btn_activate">Активировать</string>
 	<string name="button_cancel">Отмена</string>
-	<string name="button_pay">Оплатить</string>
-	<string name="button_recharge">Пополнить</string>
-	<string name="button_retry">Повтор</string>
 	<string name="check_phone_error_title">Ошибка синхронизации</string>
 	<string name="check_phone_io_error">Ошибка сети</string>
 	<string name="checking_account">Проверка аккаунта…</string>

@@ -78,13 +78,13 @@
 	<string name="resource_detail">Детали</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>
-	<string name="resource_downloading">Скачивание</string>
+	<string name="resource_downloading">Скачивание…</string>
 	<string name="resource_get_auth_checking">Проверка авторизации…</string>
 	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
 	<string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
 	<string name="resource_get_auth_retrieving">Получение авторизации…</string>
-	<string name="resource_import_successful">Скачивание завершено.</string>
+	<string name="resource_import_successful">Скачивание завершено</string>
 	<string name="resource_importing">Импортирование</string>
 	<string name="resource_list_title">Последние темы</string>
 	<string name="resource_local">Локально %1$s</string>
