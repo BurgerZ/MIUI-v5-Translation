@@ -95,7 +95,7 @@
 	<string name="resource_preview">Просмотр</string>
 	<string name="resource_price_format">(%1$s)</string>
 	<string name="resource_price_free">Бесплатно</string>
-	<string name="resource_price_unit">Mi-Кредит</string>
+	<string name="resource_price_unit">MiCredits</string>
 	<string name="resource_ringtone_default">Мелодии</string>
 	<string name="resource_see_more">Подробнее</string>
 	<string name="resource_select">Выбрать</string>
@@ -199,8 +199,8 @@
     <string name="resource_ranking_purchase">Платные</string>
     <string name="resource_category">Категории</string>
     <string name="resource_my">Локальные</string>
-    <string name="resource_pack_price_info">%1$s оригинал</string>
-    <string name="resource_pack_discount_info">%1$s сохранено!</string>
+    <string name="resource_pack_price_info">Цена: \n%1$s</string>
+    <string name="resource_pack_discount_info">Экономия: \n%1$s</string>
     <string name="resource_pack_confirm">Вы уже купили элементов: %1$d, но эта цена выгоднее чем индивидуальная покупка, продолжить?</string>
     <string name="resource_pack_warning">Вы уже купили элементов: %1$d, выгодней будет купить их индивидуально.</string>
 	<string name="resource_delta_update_total">%1$d обновления сохранены %2$s</string>

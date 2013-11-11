@@ -62,7 +62,7 @@
   <string name="app_weather_friend_title_1">Поделиться погодой с другом</string>
   <string name="app_weather_friend_title_2">将今日天气通过短信或电话转给联系人</string>
   <string name="arrow">&gt;</string>
-  <string name="avg_price">Цена： %1$s ￥</string>
+  <string name="avg_price">Цена: %1$s ￥</string>
   <string name="begin_talk">Поиск</string>
   <string name="begin_talk_web">Поиск в интернете</string>
   <string name="buffering">Буферизация..</string>
@@ -72,7 +72,7 @@
   <string name="calendaring_cancel">Вы отменили напоминание</string>
   <string name="calling">Набрать %1$s %2$s</string>
   <string name="cancel">Отмена</string>
-  <string name="channel_not_support">Поисковая система временно не доступна</string>
+  <string name="channel_not_support">Поисковая система временно недоступна</string>
   <string name="china_date">农历 %1$s年%2$s月%3$s</string>
   <string name="click_download">Нажмите, чтобы скачать</string>
   <string name="confirm">ОК</string>

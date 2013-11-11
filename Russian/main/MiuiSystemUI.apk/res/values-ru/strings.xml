@@ -93,7 +93,7 @@
 	<string name="ext_media_checking_notification_title">Подготовка USB-накопителя</string>
 	<string name="ext_media_mountable_notification_message">Нажмите для просмотра</string>
 	<string name="ext_media_mountable_notification_title">USB-накопитель подключен</string>
-	<string name="ext_media_nofs_notification_message">Возможно USB-накопитель не поддерживается</string>
+	<string name="ext_media_nofs_notification_message">Возможно, USB-накопитель не поддерживается</string>
 	<string name="ext_media_nofs_notification_title">USB-накопитель пуст</string>
 	<string name="ext_media_nomedia_notification_message">Вы можете вставить другой накопитель</string>
 	<string name="ext_media_nomedia_notification_title">USB-накопитель отключен</string>

@@ -108,7 +108,7 @@
   <string name="recorded_files">Записанные файлы</string>
   <string name="recording">Запись…</string>
   <string name="recording_error">Ошибка файла</string>
-  <string name="recording_volume_control">Регулировка громкости не доступна во время записи</string>
+  <string name="recording_volume_control">Регулировка громкости недоступна во время записи</string>
   <string name="recording_will_be_cancelled">Запись будет отменена и файл не будет сохранен</string>
   <string name="recordingfile">Записанные файлы</string>
   <string name="remove">Удалить</string>

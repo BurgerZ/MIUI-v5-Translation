@@ -137,10 +137,10 @@
     <string name="send_share_link">Отправить ссылку на файл</string>
     <string name="generate_share_link_failed">Не удалось получить ссылку</string>
     <string name="generating_share_link">Создание ссылки…</string>
-    <string name="network_not_connected">Сеть не доступна</string>
+    <string name="network_not_connected">Сеть недоступна</string>
     <string name="login_failed">Ошибка авторизации</string>
     <string name="select_file_to_share">Отправить файл</string>
-    <string name="sdcard_invalid">SD-карта не доступна</string>
+    <string name="sdcard_invalid">SD-карта недоступна</string>
     <string name="back">Назад</string>
     <string name="all_history">Вся история</string>
     <string name="share_history">История отправки</string>

@@ -2,8 +2,8 @@
 <resources>
 	<string name="account_abnormal_state">Неверная информация об учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
 	<string name="account_container_title">Из аккаунта</string>
-	<string name="account_default">Телефон</string>
-	<string name="account_phone">Только телефон, без синхронизации</string>
+	<string name="account_default">По умолчанию</string>
+	<string name="account_phone">Телефон</string>
 	<string name="account_sim">SIM-карта</string>
 	<string name="account_type_format">Контакт %1$s</string>
 	<string name="actionIncomingCall">Входящие вызовы</string>
@@ -389,7 +389,7 @@
 	<string name="groups_list_empty">Нет групп</string>
 	<string name="hint_distance">Держать дистанцию</string>
 	<string name="hint_findContacts">Найти контакты</string>
-	<string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
+	<string name="hint_more_contact">использовать объединение контактов</string>
 	<string name="hint_search_contacts">Контактов: %d</string>
 	<string name="hint_search_emails">Адресов эл. почты: %d</string>
 	<string name="hint_search_phone_numbers">Контактов: %d</string>
@@ -653,7 +653,7 @@
 	<string name="preference_others">Другое</string>
 	<string name="preference_phone">Телефон</string>
 	<string name="preference_phone_more_title">Вызовы</string>
-	<string name="preference_remove_duplicate">Слияние дубликатов</string>
+	<string name="preference_remove_duplicate">Объединение дубликатов</string>
 	<string name="preference_simple_mode_description">Не отображать фото, продолжительность разговора и другие данные в журнале вызовов и списке контактов.</string>
 	<string name="preference_simple_mode_title">Простой режим</string>
 	<string name="preference_smart_group_company_summary">Группировка контактов по информации о компании.</string>
@@ -676,7 +676,7 @@
 	<string name="profile_display_name">Мой профиль</string>
 	<string name="profile_name">Мой профиль</string>
 	<string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
-	<string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
+	<string name="quit_dialog_confirm_title">Выйти из режима объединения?</string>
 	<string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
 	<string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
 	<string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
@@ -704,7 +704,7 @@
 	<string name="remind_btn_sync_now">Сейчас</string>
 	<string name="removePhoto">Удалить изображение</string>
 	<string name="remove_blacklist">Удалить из черного списка</string>
-	<string name="remove_duplicate">MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.\n\nНажмите на объединение и немного подождите, пока автоматическое объединение не завершится.</string>
+	<string name="remove_duplicate">Система поможет найти дубликаты контактов и объединить их.\n\nНажмите кнопку \"Объединить\", чтобы продолжить.</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="resource_apply">Применить</string>
@@ -735,7 +735,7 @@
 	<string name="resource_online">Онлайн: %1$s</string>
 	<string name="resource_price_format">(%1$s)</string>
 	<string name="resource_price_free">Беспл.</string>
-	<string name="resource_price_unit">Mi-Кредит</string>
+	<string name="resource_price_unit">MiCredits</string>
 	<string name="resource_ringtone_default">Мелодии</string>
 	<string name="resource_see_more">Подробнее</string>
 	<string name="resource_select">Выбрать</string>

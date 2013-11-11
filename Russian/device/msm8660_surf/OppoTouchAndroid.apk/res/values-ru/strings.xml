@@ -66,5 +66,5 @@
   <string name="volume_button_dialog_title">Функция кнопок</string>
   <string name="volume_button_setting_summary">Определить действие этих кнопок во время будильника</string>
   <string name="volume_button_setting_title">Кнопки громкости</string>
-  <string name="weather_fetch_failure">Информация о погоде сейчас не доступна</string>
+  <string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
 </resources>

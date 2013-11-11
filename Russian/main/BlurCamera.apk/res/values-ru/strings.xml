@@ -84,8 +84,8 @@
   <string name="exposure">Экспозиция</string>
   <string name="externalSDFull">Захват изображения не возможен. SD-карта переполнена.Переключитесь на внутреннюю память</string>
   <string name="externalSDFull_video">Захват видио не возможен. SD-карта переполнена. Переключитесь на внутреннюю память</string>
-  <string name="externalSDMissing">Захват изображения не возможен. SD-карта не доступна. Переключитесь на внутреннюю память</string>
-  <string name="externalSDMissing_video">Захват видио не возможен. SD-карта не доступна. Переключитесь на внутреннюю память</string>
+  <string name="externalSDMissing">Захват изображения не возможен. SD-карта недоступна. Переключитесь на внутреннюю память</string>
+  <string name="externalSDMissing_video">Захват видио не возможен. SD-карта недоступна. Переключитесь на внутреннюю память</string>
   <string name="fastmotion">Быстрое движение</string>
   <string name="fixed_focus">Фиксированный фокус</string>
   <string name="flash">Вспышка</string>

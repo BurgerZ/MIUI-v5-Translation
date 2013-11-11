@@ -130,7 +130,7 @@
 	<string name="reverse_all">Снять все</string>
 	<string name="sc_bad_request">Ошибочный запрос</string>
 	<string name="sc_internal_server_error">Внутренняя ошибка сервера</string>
-	<string name="sc_network_unavailable">Сеть не доступна</string>
+	<string name="sc_network_unavailable">Сеть недоступна</string>
 	<string name="sc_others">Исключение программы</string>
 	<string name="sc_precondition_failed">Ваш акккаунт Xiaomi не связан с любым адресом электронной почты</string>
 	<string name="sc_request_timeout">Тайм-аут запроса</string>

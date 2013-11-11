@@ -263,7 +263,7 @@
 	<string name="people">Люди</string>
 	<string name="photo_page_save_image">Сохранить</string>
 	<string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
-	<string name="photo_page_save_uri_image_ok">Фотография сохранена в директорию камеры</string>
+	<string name="photo_page_save_uri_image_ok">Фотография сохранена в папку камеры</string>
 	<string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
 	<string name="photoeditor_name">Фотостудия</string>
 	<string name="photos">фото</string>

@@ -5,7 +5,7 @@
 	<string name="active_xiaomi_account_msg">Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:\n</string>
 	<string name="active_xiaomi_account_title">Активация аккаунта</string>
 	<string name="app_name">Обновление</string>
-	<string name="apply_buddy_update_info_message">Нажмите «Обновить»</string>
+	<string name="apply_buddy_update_info_message">Нажмите \"Обновить\"</string>
 	<string name="apply_existing_update_md5error_title">Ошибка проверки целостности</string>
 	<string name="apply_later_button_text">Отмена</string>
 	<string name="apply_now_button_text">Обновить</string>
@@ -14,15 +14,15 @@
 	<string name="apply_update_dialog_update_button">Обновление</string>
 	<string name="apply_update_fail">Ошибка обновления</string>
 	<string name="apply_update_timer">Обновление завершено, устройство перезагрузится через %d сек.</string>
-	<string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
+	<string name="apply_upload_info_message">Нажмите \"Обновить\", телефон будет автоматически перезагружен для применения обновлений</string>
 	<string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
 	<string name="applying_rom_message">Применение обновления</string>
 	<string name="applying_update">Применение обновления: %s</string>
 	<string name="best_update">2. Лучшее обновление</string>
 	<string name="boot_recovery">Перезагрузка в Recovery</string>
 	<string name="cancel_download_buton_text">Отмена</string>
-	<string name="check_update">Обновление</string>
-	<string name="check_update_policy">Параметры обновления</string>
+	<string name="check_update">Проверить обновление</string>
+	<string name="check_update_policy">Параметры обновлений</string>
 	<string name="check_update_when_wifi_available">Обновления только по Wi-Fi</string>
 	<string name="checking_for_updates">Проверка обновлений…</string>
 	<string name="choose_recommend">Рекомендуете ли вы данное обновление?</string>
@@ -91,7 +91,7 @@
 	<string name="next">Далее</string>
 	<string name="no_proper_updates">Для текущей версии обновления не найдены</string>
 	<string name="no_updatecheck_executed">Не выполнять проверку обновлений</string>
-	<string name="no_updates_found">Обновление не найдено</string>
+	<string name="no_updates_found">Нет обновлений</string>
 	<string name="no_updates_warning">Нет обновлений</string>
 	<string name="no_updates_warning2">Нет новых версий</string>
 	<string name="not_recommend">Не рекомендую</string>

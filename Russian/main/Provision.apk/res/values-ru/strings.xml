@@ -26,7 +26,7 @@
 	<string name="sim_card_detection_dialog_message">Поиск SIM-карты. Пожалуйста, подождите…</string>
 	<string name="sim_card_detection_info">Для использования сервисов Xiaomi необходима SIM-карта.</string>
 	<string name="sim_card_detection_label">Поиск SIM-карты</string>
-	<string name="sim_card_detection_status_absent">SIM-карта не доступна.\nПожалуйста, вставьте SIM-карту.</string>
+	<string name="sim_card_detection_status_absent">SIM-карта недоступна.\nПожалуйста, вставьте SIM-карту.</string>
 	<string name="traffic_protection_label">Трафик</string>
 	<string name="traffic_protection_summary">Со помощью приложения \"Трафик\" вы сможете установить лимит на мобильную передачу данных.</string>
 	<string name="traffic_protection_text_hint">Введите лимит трафика</string>

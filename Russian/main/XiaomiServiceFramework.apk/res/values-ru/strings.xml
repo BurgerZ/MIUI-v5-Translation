@@ -95,7 +95,7 @@
 	<string name="micloud_via_int_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
 	<string name="micloud_via_sms_alert">An SMS will be sent to validate your phone number. Continue?</string>
 	<string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
-	<string name="mili_center">Mi-Кредит</string>
+	<string name="mili_center">MiCredits</string>
 	<string name="next">Далее</string>
 	<string name="nobind">Не привязан</string>
 	<string name="other_settings">Дополнительные параметры</string>

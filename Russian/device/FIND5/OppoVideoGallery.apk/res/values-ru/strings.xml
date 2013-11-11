@@ -100,7 +100,7 @@
     <string name="unknown_size">Неизвестный</string>
     <string name="search_video">поиск видео</string>
     <string name="notif_file_not_exist">Видеофайл не существует.</string>
-    <string name="usb_mode">Память не доступна</string>
+    <string name="usb_mode">Память недоступна</string>
     <string name="no_video">Нет видео</string>
     <string name="searching_dlna_msg">Поиск DLNA устройства…</string>
     <string name="set_wlan_string">Установить Wi-Fi</string>
