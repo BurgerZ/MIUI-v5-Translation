@@ -291,8 +291,8 @@
 	<string name="pref_summary_show_recent_contacts">Показывать список недавних контактов при создании новых сообщений.</string>
 	<string name="pref_summary_wake_up_screen">Включение экрана при получении новых сообщений.</string>
 	<string name="pref_system_title">Системные</string>
-	<string name="pref_time_auto_group_summary">Группировка сообщений по времени.</string>
-	<string name="pref_time_auto_group_title">Группировать</string>
+	<string name="pref_time_auto_group_summary">Группировать сообщения по дате.</string>
+	<string name="pref_time_auto_group_title">Группировка по дате</string>
 	<string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
 	<string name="pref_title_delivery_reports">Отчeт о доставке</string>
 	<string name="pref_title_hide_festival">Скрыть \"Поздравления\"</string>
@@ -450,4 +450,10 @@
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
 	<string name="batch_adding_progress_message">Добавление…</string>
 	<string name="invalid_private_contact">Неверный контакт</string>
+	<string name="sp_conversation_title">Уведомления сообщений</string>
+    <string name="title_collapse_sp_messages">Группа сервисных сообщений</string>
+    <string name="pref_collapse_sp_messages_summary">Группировать сервисные сообщения в одну категорию.</string>
+    <string name="sp_mark_as_read_title">Отметить как прочитанные</string>
+    <string name="sp_mark_as_read">Отметить все сообщения как прочитанные?</string>
+    <string name="sp_mark_as_read_progress">Чтение сообщений…</string>
 </resources>

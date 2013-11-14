@@ -113,4 +113,10 @@
 	<string name="balance_inquiry_title">Запрос баланса</string>
     <string name="balance_inquiry_default_sp_name">Оператор</string>
 	<string name="balance_inquiry_send_sms_hint">Бесплатное сообщение будет отправлено для запроса баланса</string>
+	<string name="mark_title_null_hint">Поле не может быть пустым</string>
+	<string name="recharge_history_empty">Нет истории</string>
+	<string name="express_inquiry_internal_failure">Ошибка. \nПроверьте номер отслеживания.</string>
+	<string name="express_inquiry_history">История</string>
+    <string name="express_inquiry_delivered">Доставлено</string>
+    <string name="express_inquiry_no_history">Нет истории</string>
 </resources>

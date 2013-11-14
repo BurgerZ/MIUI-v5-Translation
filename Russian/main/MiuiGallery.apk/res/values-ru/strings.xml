@@ -67,7 +67,6 @@
 	<string name="cloud_album_set_create">Новый</string>
 	<string name="cloud_album_set_scan_qr_code">QR-код</string>
     <string name="scan_qr_code_failure">Ошибка сканирования</string>
-	<string name="cloud_albums">Облачные альбомы</string>
 	<string name="cloud_camera_display_name">Фото с камеры</string>
 	<string name="cloud_gallery_no_pictures">Нет изображений</string>
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
@@ -186,7 +185,7 @@
 	<string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
 	<string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
 	<string name="internal_sd_card">Внутренняя SD-карта</string>
-	<string name="invalid_recipient_message">"Исправьте адреса получателей."</string>
+	<string name="invalid_recipient_message">Проверьте адреса получателей</string>
 	<string name="iso">ISO</string>
 	<string name="kick_sharer">Удалить получателя</string>
 	<string name="kick_sharer_failed">Ошибка удаления</string>
@@ -195,7 +194,8 @@
 	<string name="loading">Идет загрузка…</string>
 	<string name="loading_failure">Не удалось загрузить изображение</string>
 	<string name="loading_thumbnail">Загрузка…</string>
-	<string name="local_albums">Локальные альбомы</string>
+	<string name="local_albums">Локальные</string>
+	<string name="cloud_albums">Облачные</string>
 	<string name="location">Место съемки</string>
 	<string name="locations">Места</string>
 	<string name="lomoish">Ломо</string>
@@ -282,7 +282,7 @@
 	<string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>
 	<string name="request_sms_url_title">Совет</string>
 	<string name="rotate">Поворот</string>
-	<string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
+	<string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край.</string>
 	<string name="saturation">Насыщенность</string>
 	<string name="save">Готово</string>
 	<string name="save_error">Изображение не сохранено</string>
@@ -432,4 +432,14 @@
     <string name="scan_barcode_guide">Получение QR-кода альбома</string>
     <string name="confirm">ОК</string>
 	<string name="click_top_right">Нажмите на иконку вверху справа</string>
+	<string name="pick_too_much_tips">Выбрано слишком много фото. Максимум: %d</string>
+	<string name="operation_add_picture">Добавить фото</string>
+	<string name="preparing_data_to_delete">Подготовка к удалению…</string>
+    <string name="picker_tab_camera">Камера</string>
+    <string name="picker_no_items_selected">Фото не выбраны</string>
+    <string name="picker_select_album_title_empty">Выбрать альбом</string>
+    <string name="picker_no_album_selected">Альбомы не выбраны</string>
+    <string name="video_download_start">Скачать видео</string>
+    <string name="video_download_in_process">Загрузка видео…</string>
+    <string name="video_not_exist">Видео не существует</string>
 </resources>
