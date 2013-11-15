@@ -105,6 +105,7 @@
 	<string name="msg_telecom_picker_hint_2_2">Вы получите текст с подтверждением.</string>
 	<string name="msg_telecom_sending">Подключение к мобильному провайдеру…</string>
 	<string name="next">Далее</string>
+	<string name="btn_next">Далее</string>
 	<string name="order_price">MiCredits: %1$s</string>
 	<string name="password_error">Пожалуйста, введите Ваш пароль</string>
 	<string name="password_hint">Пожалуйста, введите Ваш пароль аккаунта Xiaomi:</string>

@@ -302,7 +302,7 @@
 	<string name="my_account_unlogin">выход</string>
 	<string name="my_account_mibi">%s Mibi</string>
 	<string name="download_count">Загрузка: %1$s</string>
-	<string name="welcome_skip_button">далее</string>
+	<string name="welcome_skip_button">Далее</string>
 	<string name="welcome_select_games">Выделите игры для установки</string>
 	<string name="no_network_no_comment">сеть недоступна</string>
 	<string name="no_comment">Нет отзывов</string>
@@ -310,10 +310,10 @@
 	<string name="comment_upload_failed">Ошибка отправки отзыва</string>
 	<string name="comment_upload_success">Отзыв отправлен</string>
 	<string name="comment_upload_hint">Ваш отзыв будет отображаться после проверки</string>
-	<string name="comment_upload_data_invalid">Извините, отзыв недействителен.</string>
+	<string name="comment_upload_data_invalid">Отзыв недействителен</string>
 	<string name="comment_upload_not_logined">Сначала войдите в аккаунт</string>
 	<string name="comment_upload_need_login">Хотите войти на сайт, чтобы оставить отзыв?</string>
-	<string name="comment_upload_login_ok">OK</string>
+	<string name="comment_upload_login_ok">OК</string>
 	<string name="comment_upload_login_cancel">Отмена</string>
 	<string name="comment_upload_account_need_activitied">Ваш аккаунт еще не активирован. Активировать сейчас?</string>
 	<string name="comment_upload_account_not_activitied">Ваш аккаунт еще не активирован. Пожалуйсте, активируйте повторно.</string>

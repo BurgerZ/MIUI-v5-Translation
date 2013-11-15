@@ -399,8 +399,8 @@
     <string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты</string>
     <string name="widget_no_mailboxes">Этот аккаунт не синхронизирован, попробуйте позже.</string>
     <string name="more_than_999">более 999</string>
-    <string name="search_hint">Искать в электронной почте</string>
-    <string name="search_mailbox_hint">Искать в папке \"%1$s\"</string>
+    <string name="search_hint">Поиск в электронной почте</string>
+    <string name="search_mailbox_hint">Поиск в папке \"%1$s\"</string>
     <string name="search_header_text_fmt">Результаты поиска</string>
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени</string>

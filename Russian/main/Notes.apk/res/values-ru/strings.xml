@@ -73,6 +73,7 @@
 	<string name="pref_title_data_export_to_sdcard">Экспортировать на SD-карту</string>
 	<string name="pref_title_note_style">Стиль заметок</string>
 	<string name="preferences_bg_random_appear_title">Случайный цвет</string>
+	<string name="pref_title_font_size">Размер шрифта</string>
 	<string name="preferences_title">Настройки</string>
 	<string name="search">Заметки</string>
 	<string name="search_hint">Поиск заметок</string>

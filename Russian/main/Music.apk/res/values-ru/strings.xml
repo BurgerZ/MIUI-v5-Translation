@@ -264,4 +264,12 @@
 	<string name="unknown_artist_name">Неизвестный исполнитель</string>
 	<string name="use_local_album">Присвоение обложки альбома</string>
 	<string name="use_local_lyric">Присвоение текста песни</string>
+	<string name="account_setting">Аккаунт</string>
+	<string name="account_and_synchronization">Аккаунт и синхронизация</string>
+	<string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
+ 	<string name="bind_baidu_account_setting">Аккаунт Bind Baidu</string>
+	<string name="bind_baidu_account_summary">Загрузите плейлист из своего аккаунта Baidu music</string>
+ 	<string name="synchronize_playlist_setting">Синхронизировать плейлист</string>
+	<string name="synchronize_playlist_summary">Синхронизировать плейлист с облаком</string>
+	<string name="not_login">Вход</string>
 </resources>

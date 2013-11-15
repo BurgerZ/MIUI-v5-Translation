@@ -469,4 +469,6 @@
 	<string name="yellow_page_sms_sending">Отправка…</string>
 	<string name="yellow_page_sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
 	<string name="toast_lockscreen_glogin_empty_password">Пароль не требуется</string>
+	<string name="grant_permissions_apps">Запрос доступа приложения</string>
+	<string name="grant_permissions_account">Запрос доступа аккаунта</string>
 </resources>

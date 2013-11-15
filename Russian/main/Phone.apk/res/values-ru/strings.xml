@@ -1090,4 +1090,5 @@
     <string name="cursorError">Курсор не содержит соответствующих данных!</string>
 	<string name="auto_record_unknown_miui">Неизвестные номера</string>
 	<string name="auto_record_yellowpage_miui">Желтые страницы</string>
+	<string name="antispam_provider">Определено %s</string>
 </resources>

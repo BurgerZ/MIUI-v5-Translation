@@ -147,8 +147,16 @@
 	<string name="updating">Обновление…</string>
 	<string name="used_flux">Трафик</string>
 	<string name="version_label">"Версия: "</string>
-	<string name="warning_settings_toast">%1$d%% %2$d МБ</string>
+	<string name="warning_settings_toast">%1$d%% %2$d Мб</string>
 	<string name="warning_title">Предупреждение</string>
 	<string name="wifi_traffic">Wi-Fi: %s</string>
 	<string name="wifi_type">Wi-Fi</string>
+	<string name="pref_connect_settings_monitor_running_app">Уведомление о запрете</string>
+	<string name="pref_connect_settings_monitor_running_app_summary">Показывать уведомление при запуске приложения с запретом использования соединений.</string>
+	<string name="running_apps_activity_title">Запущенные приложения</string>
+	<string name="network_control_service_notification_text">Нажмите для настройки доступа</string>
+	<string name="network_control_service_notification_title_single">%1$s: запрет сети %2$s</string>
+	<string name="network_control_service_notification_title_mutiple">%1$d: запрет сети %2$s</string>
+	<string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+	<string name="network_control_service_notification_title_nettype_mobile">2G/3G</string>
 </resources>
