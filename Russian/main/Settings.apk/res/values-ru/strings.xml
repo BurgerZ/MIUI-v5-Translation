@@ -2688,7 +2688,6 @@
     <string name="power_consume_total_hardware">Устройство: %1$d%%</string>
     <string name="power_consume_other">Другое</string>
     <string name="battery_desc_other_apps">Общая мощность, которая используется другими приложениями.</string>
-    <string name="power_settings_title">Установить</string>
     <string name="power_settings_category_title">Индикатор батареи</string>
     <string name="power_settings_shape">Графический</string>
     <string name="power_settings_number">Процентный</string>
