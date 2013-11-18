@@ -403,6 +403,7 @@
 	<string name="import_from_other_phone">Из другого телефона</string>
 	<string name="import_from_sdcard">С SD-карты</string>
 	<string name="import_from_sim">С SIM-карты</string>
+	<string name="import_from_sim2">С SIM-карты 2</string>
 	<string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
 	<string name="import_name">имя</string>
 	<string name="import_one_vcard_string">Импорт vCard</string>
@@ -995,4 +996,29 @@
     <string name="sim_error_password_error">Неверный пароль</string>
 	<string name="sdcard_not_mounted_dialog_title">SD-карта отсутствует</string>
     <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту \n</string>
+	<string name="callrecordview_menu_show_sim">Вызовов: %s</string>
+	<string name="callrecordview_menu_delete_sim">Очистить журнал вызовов: %s</string>
+	<string name="menu_dial_ip_number">Совершить IP-вызов</string>
+	<string name="export_to_sim2">На SIM-карту 2</string>
+	<string name="no_connection_dialog_title">Ошибка соединения по Bluetooth</string>
+	<string name="imei_invalid">Неверный IMEI</string>
+	<string name="has_double_phone_number">Номер уже существует</string>
+    <string name="phone_book_busy">Телефонная книга сейчас занята, попробуйте позже.</string>
+    <string name="sim_invalid">Невозможно сохранить контакт, когда SIM-карта недоступна.</string>
+    <string name="cannot_insert_null_number">Для сохранения контакта необходимо ввести имя и номер</string>
+    <string name="AirPlane_mode_on">Невозможно сохранить контакт, когда включен режим полета.</string>
+    <string name="FDNEnabled">Невозможно сохранить контакт, когда включен FDN.</string>
+    <string name="sim_invalid_number">Невозможно сохранить неверный номер</string>
+    <string name="email_invalid">Невозможно сохранить неверную электронную почту</string>
+    <string name="email_2g_invalid">Невозможно сохранить электронную почту на 2G SIM-карту. Пожалуйста, выберите 3G SIM-карту для сохранения.</string>
+    <string name="sim_invalid_fix_number">Невозможно сохранить неверный номер</string>
+    <string name="AirPlane_mode_on_edit">Невозможно редактировать контакт, когда включен режим полета.</string>
+    <string name="msg_loading_sim_contacts_toast">Загрузка контактов SIM-карты в фоновом режиме. Пожалуйста, подождите…</string>
+    <string name="fix_number_too_long">Номер слишком длинный</string>
+    <string name="name_too_long">Имя слишком длинное</string>
+    <string name="storage_full">Память заполнена</string>
+    <string name="number_too_long">Номер слишком длинный</string>
+    <string name="generic_failure">Общий сбой</string>
+    <string name="email_too_long">Адрес электронной почты слишком длинный</string>
+    <string name="error_save_usim_contact_email_lost">Невозможно сохранить адрес электронной почты. Память USIM заполнена.</string>
 </resources>
