@@ -22,7 +22,7 @@
 	<string name="boot_recovery">Перезагрузка в Recovery</string>
 	<string name="cancel_download_buton_text">Отмена</string>
 	<string name="check_update">Проверить обновление</string>
-	<string name="check_update_policy">Параметры обновлений</string>
+	<string name="check_update_policy">Настройки обновлений</string>
 	<string name="check_update_when_wifi_available">Обновления только по Wi-Fi</string>
 	<string name="checking_for_updates">Проверка обновлений…</string>
 	<string name="choose_recommend">Рекомендуете ли вы данное обновление?</string>

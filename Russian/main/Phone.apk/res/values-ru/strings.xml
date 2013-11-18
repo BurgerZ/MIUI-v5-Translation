@@ -190,7 +190,7 @@
 	<string name="card_title_in_call">Входящий вызов</string>
 	<string name="card_title_incoming_call">Входящий вызов</string>
 	<string name="card_title_my_phone_number">Мой номер: %s</string>
-	<string name="card_title_on_hold">Ждет ответа</string>
+	<string name="card_title_on_hold">Удержание</string>
 	<string name="card_title_redialing">Повторная попытка</string>
 	<string name="carrier_related_setting_catory_miui">Настройки оператора</string>
 	<string name="cb_sms_settings">Настройки широковещательных SMS-служб</string>
@@ -613,7 +613,7 @@
 	<string name="oldPinLabel">Прежний PIN</string>
 	<string name="old_pin2_hint_miui">Введите PIN2</string>
 	<string name="old_pin_hint_miui">Текущий PIN-код</string>
-	<string name="onHold">Ждет ответа</string>
+	<string name="onHold">Удержание</string>
 	<string name="onscreenAddCallText">+ вызов</string>
 	<string name="onscreenAudioText">Аудио</string>
 	<string name="onscreenEndCallText">Завершить</string>

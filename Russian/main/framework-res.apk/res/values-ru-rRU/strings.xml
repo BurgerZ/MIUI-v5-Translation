@@ -424,13 +424,13 @@
     <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
     <string formatted="false" name="lockscreen_too_many_failed_attempts_dialog_message">"Количество неудачных попыток ввода графического ключа разблокировки: %d. 
 
-Повторите попытку через %d с."</string>
+Повторите попытку через %d сек."</string>
     <string formatted="false" name="lockscreen_too_many_failed_password_attempts_dialog_message">"Количество неудачных попыток ввода пароля: %d. 
 
-Повторите попытку через %d с."</string>
+Повторите попытку через %d сек."</string>
     <string formatted="false" name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода PIN-кода: %d. 
 
-Повторите попытку через %d с."</string>
+Повторите попытку через %d сек."</string>
     <string name="lockscreen_transport_next_description">Кнопка перехода к следующему треку</string>
     <string name="lockscreen_transport_pause_description">Кнопка паузы</string>
     <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
@@ -782,7 +782,7 @@
     <string name="permgroupdesc_hardwareControls">Прямой доступ к аппаратному обеспечению телефона</string>
     <string name="permgroupdesc_location">Отслеживание физического местоположения</string>
     <string name="permgroupdesc_messages">Считывать и записывать SMS, электронные письма и другие сообщения</string>
-    <string name="permgroupdesc_network">Позволяет приложениям получать доступ к различным сетевым функциям</string>
+    <string name="permgroupdesc_network">Позволяет приложению получать доступ к различным сетевым функциям</string>
     <string name="permgroupdesc_personalInfo">Прямой доступ к контактам и событиям календаря, сохраненным в памяти телефона</string>
     <string name="permgroupdesc_phoneCalls">Отслеживать, записывать и обрабатывать телефонные звонки</string>
     <string name="permgroupdesc_storage">Доступ к SD-карте</string>
@@ -1354,4 +1354,163 @@
     <string name="sim_in_airplane_mode">Пожалуйста, отключить режим полета.</string>
     <string name="volume_warning_message">Прослушивание музыки на большой громкости может повлиять на ваш слух.</string>
     <string name="resolver_guide_title">Настройки по умолчанию</string>
+	<string name="global_action_bug_report">Отчет</string>
+    <string name="bugreport_title">Создать отчет об ошибке</string>
+    <string name="bugreport_message">Будет собрана информация о текущем состоянии устройства и отправлена по электронной почте разработчикам.</string>
+	<string name="permgrouplab_socialInfo">Доступ к соц. информации</string>
+    <string name="permgroupdesc_socialInfo">Позваляет приложениям получать вашу социальную информацию.</string>
+	<string name="permgrouplab_bluetoothNetwork">Доступ к Bluetooth</string>
+    <string name="permgroupdesc_bluetoothNetwork">Позволяет приложению получать доступ к устройствам через Bluetooth.</string>
+    <string name="permgrouplab_audioSettings">Настройки звука</string>
+    <string name="permgroupdesc_audioSettings">Позволяет приложению изменять настройки звука.</string>
+    <string name="permgrouplab_affectsBattery">Влияние на батарею</string>
+    <string name="permgroupdesc_affectsBattery">Некоторые возможности батареи могут быстро посадить батарею.</string>
+    <string name="permgrouplab_calendar">Доступ к календарю</string>
+    <string name="permgroupdesc_calendar">Позволяет приложению получать доступ к событиям календаря.</string>
+    <string name="permgrouplab_dictionary">Чтение словаря</string>
+    <string name="permgroupdesc_dictionary">Позволяет приложению читать словарь пользователя.</string>
+    <string name="permgrouplab_writeDictionary">Редактирование словаря</string>
+    <string name="permgroupdesc_writeDictionary">Позволяет приложению изменять словарь пользователя.</string>
+    <string name="permgrouplab_bookmarks">Доступ к закладкам</string>
+    <string name="permgroupdesc_bookmarks">Позволяет приложению получать доступ к закладкам и истории браузера.</string>
+    <string name="permgrouplab_deviceAlarms">Доступ к будильнику</string>
+    <string name="permgroupdesc_deviceAlarms">Позволяет приложению устанавливать будильник.</string>
+    <string name="permgrouplab_voicemail">Доступ к голосовой почте</string>
+    <string name="permgroupdesc_voicemail">Позволяет приложению получать доступ к голосовой почте.</string>
+    <string name="permgrouplab_microphone">Доступ к микрофону</string>
+    <string name="permgroupdesc_microphone">Позволяет приложению получать доступ к микрофону для записи звука.</string>
+    <string name="permgrouplab_camera">Доступ к камере</string>
+    <string name="permgroupdesc_camera">Позволяет приложению получать доступ к камере для снятия фото и видео.</string>
+    <string name="permgrouplab_appInfo">Чтение информации</string>
+    <string name="permgroupdesc_appInfo">Позволяет приложению получать доступ к другим установленным приложениям для чтения информации.</string>
+    <string name="permgrouplab_wallpaper">Доступ к обоям</string>
+    <string name="permgroupdesc_wallpaper">Позволяет приложению изменять обои рабочего стола.</string>
+    <string name="permgrouplab_systemClock">Доступ к часам</string>
+    <string name="permgroupdesc_systemClock">Позволяет приложению изменять системное время.</string>
+    <string name="permgrouplab_statusBar">Доступ к строке состояния</string>
+    <string name="permgroupdesc_statusBar">Позволяет приложению изменять настройки строки состояния.</string>
+    <string name="permgrouplab_syncSettings">Настройки синхронизации</string>
+    <string name="permgroupdesc_syncSettings">Позволяет приложению получать доступ к настройкам синхронизации.</string>
+	<string name="permgrouplab_display">Доступ к интерфейсу</string>
+    <string name="permgroupdesc_display">Позволяет приложению получать доступ к интерфейсу других приложений.</string>
+	<string name="permlab_interactAcrossUsers">Взаимодействие пользователей</string>
+    <string name="permdesc_interactAcrossUsers">Позволяет приложению выполнять некоторые действия для различных пользователей на устройстве. Вредоносные приложения могут использовать это для нарушения защиты.</string>
+    <string name="permlab_interactAcrossUsersFull">Полное взаимодействие пользователей</string>
+    <string name="permdesc_interactAcrossUsersFull">Позволяет приложению выполнять все действия для различных пользователей на устройстве.</string>
+    <string name="permlab_manageUsers">Управление пользователями</string>
+    <string name="permdesc_manageUsers">Позволяет приложению управлять пользователями на устройстве.</string>
+	<string name="permlab_temporary_enable_accessibility">Временное включение доступа</string>
+    <string name="permdesc_temporary_enable_accessibility">Позволяет приложению временно включать некоторые функции на устройстве.</string>
+    <string name="permlab_retrieve_window_info">Вывод окна информации</string>
+    <string name="permdesc_retrieve_window_info">Позволяет приложению выводить окно информации.</string>
+    <string name="permlab_filter_events">Фильтр событий</string>
+    <string name="permdesc_filter_events">Позволяет приложению фильтровать поток всех событий перед их отправкой.</string>
+    <string name="permlab_magnify_display">Увеличение экрана</string>
+    <string name="permdesc_magnify_display">Позволяет приложению увеличивать отображение деталей.</string>
+	<string name="permlab_updateBatteryStats">Статистика батареи</string>
+    <string name="permdesc_updateBatteryStats">Позволяет приложению изменять статистику батареи. Обычно используется во вредоносных приложениях.</string>
+	<string name="permlab_freezeScreen">Заморозка экрана</string>
+    <string name="permdesc_freezeScreen">Позволяет приложению временно заморозить экран для перехода полноэкранный режим.</string>
+	<string name="permlab_configureWifiDisplay">Wi-Fi Дисплей</string>
+    <string name="permdesc_configureWifiDisplay">Позволяет приложению изменять некоторые настройки Wi-Fi дисплея и подключаться.</string>
+    <string name="permlab_controlWifiDisplay">Управление Wi-Fi Дисплей</string>
+    <string name="permdesc_controlWifiDisplay">Позволяет приложению изменять все настройки Wi-Fi дисплея.</string>
+	<string name="permlab_sdcardAccessAll">Доступ ко внешним накопителям</string>
+    <string name="permdesc_sdcardAccessAll">Позволяет приложению получать доступ ко внешним накопителям для всех пользователей.</string>
+	<string name="policylab_disableKeyguardFeatures">Отключение клавиатуры</string>
+    <string name="policydesc_disableKeyguardFeatures">Позволяет приложению предотвратить использование некоторых функций клавиатуры.</string>
+	<string name="keyguard_accessibility_add_widget">Добавить виджет</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Поле разблокировки расширено</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Поле разблокировки скрыто</string>
+    <string name="keyguard_accessibility_widget">%1$s виджет</string>
+    <string name="keyguard_accessibility_user_selector">Выбор пользователя</string>
+    <string name="keyguard_accessibility_status">Статус</string>
+    <string name="keyguard_accessibility_camera">Камера</string>
+    <string name="keygaurd_accessibility_media_controls">Управление медиа</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Назначение виджета начато</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Назначение виджета закончено</string>
+    <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удален</string>
+    <string name="keyguard_accessibility_expand_lock_area">Развернуть поле разблокировки</string>
+    <string name="keyguard_accessibility_slide_unlock">Слайд разблокировки</string>
+    <string name="keyguard_accessibility_pattern_unlock">Графический ключ</string>
+    <string name="keyguard_accessibility_face_unlock">Разблокировка по лицу</string>
+    <string name="keyguard_accessibility_pin_unlock">PIN-код</string>
+    <string name="keyguard_accessibility_password_unlock">Пароль</string>
+    <string name="keyguard_accessibility_pattern_area">Поле графического ключа</string>
+    <string name="keyguard_accessibility_slide_area">Поле для слайда</string>
+	<string name="network_available_sign_in">Вход в сеть</string>
+	<string name="wifi_p2p_frequency_conflict_message">Телефон будет временно отключен от сети Wi-Fi во время подключения к %1$s</string>
+	<string name="perm_costs_money">Может взыматься плата</string>
+	<string name="vpn_lockdown_connecting">Подключение активного VPN…</string>
+    <string name="vpn_lockdown_connected">Активный VPN подключен</string>
+    <string name="vpn_lockdown_error">Ошибка активного VPN</string>
+    <string name="vpn_lockdown_reset">Нажмите для сброса соединения</string>
+	<string name="find_next">Найти далее</string>
+    <string name="find_previous">Найти предыдущее</string>
+	<string name="media_route_button_content_description">Вывод медиа</string>
+    <string name="media_route_status_scanning">Сканирование…</string>
+    <string name="media_route_status_connecting">Соединение…</string>
+    <string name="media_route_status_available">Доступно</string>
+    <string name="media_route_status_not_available">Не доступно</string>
+    <string name="display_manager_built_in_display_name">Встроенный экран</string>
+    <string name="display_manager_hdmi_display_name">HDMI-экран</string>
+    <string name="display_manager_overlay_display_name">Оверлей #%1$d</string>
+    <string name="wifi_display_notification_title">Беспроводной дисплей подключен</string>
+    <string name="wifi_display_notification_message">Этот экран будет отображаться на других устройствах</string>
+    <string name="wifi_display_notification_disconnect">Отключить</string>
+    <string name="kg_emergency_call_label">Экстренный вызов</string>
+    <string name="kg_forgot_pattern_button_text">Вспомнить графический ключ</string>
+    <string name="kg_wrong_pattern">Неверный графический ключ</string>
+    <string name="kg_wrong_password">Неверный пароль</string>
+    <string name="kg_wrong_pin">Неверный PIN-код</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
+    <string name="kg_pattern_instructions">Ввод графического ключа</string>
+    <string name="kg_sim_pin_instructions">Ввод PIN-кода SIM-карты</string>
+    <string name="kg_pin_instructions">Ввод PIN-кода</string>
+    <string name="kg_password_instructions">Ввод пароля</string>
+    <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Введите PUK-код для разблокировки.</string>
+    <string name="kg_puk_enter_pin_hint">Введите PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Подтвердите PIN-код</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+    <string name="kg_password_wrong_pin_code">Неверный PIN-код</string>
+    <string name="kg_invalid_sim_pin_hint">Введите PIN-код (4 до 8 цифр)</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код должен содержать не менее 4 символов</string>
+    <string name="kg_invalid_puk">Введите корректный PUK-код. Неверные попытки ввода могут заблокировать SIM-карту.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
+    <string name="kg_login_too_many_attempts">Слишком много неверных попыток</string>
+    <string name="kg_login_instructions">Для разблокировки, введите аккаунт Google.</string>
+    <string name="kg_login_username_hint">Имя пользователя (E-mail)</string>
+    <string name="kg_login_password_hint">Пароль</string>
+    <string name="kg_login_submit_button">Вход</string>
+    <string name="kg_login_invalid_input">Неверное имя пользователя или пароль</string>
+    <string name="kg_login_account_recovery_hint">"Забыли имя пользователя или пароль?
+Посетите "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Проверка аккаунта…</string>
+    <string formatted="false" name="kg_too_many_failed_pin_attempts_dialog_message">"Вы неверно ввели PIN-код %d раз(а). 
+
+Повторите попытку через %d сек."</string>
+    <string formatted="false" name="kg_too_many_failed_password_attempts_dialog_message">"Вы неверно ввели пароль %d раз(а).
+
+Повторите попытку через %d сек."</string>
+    <string formatted="false" name="kg_too_many_failed_pattern_attempts_dialog_message">"Вы неверно ввели графический ключ %d раз(а). 
+
+Повторите попытку через %d сек."</string>
+    <string formatted="false" name="kg_failed_attempts_almost_at_wipe">Вы неверно ввели код %d раз(а). После %d неверных попыток, настройки телефона будут сброшены и все данные удалены.</string>
+    <string name="kg_failed_attempts_now_wiping">Вы неверно ввели код %d раз(а). Настройки телефона будут сброшены.</string>
+    <string formatted="false" name="kg_failed_attempts_almost_at_login">"Вы неверно ввели графический ключ %d раз(а). После %d неверных попыток, вы сможете разблокировать телефон с помощью аккаунта электронной почты Google.
+
+ Повторите попытку через %d сек."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">Удалить</string>
+    <string name="continue_to_enable_accessibility">Удерживайте двумя пальцами для включения специальных возможностей.</string>
+    <string name="accessibility_enabled">Спец. возможности включены</string>
+    <string name="enable_accessibility_canceled">Спец. возможности отключены</string>
+    <string name="user_switched">Текущий пользователь %1$s.</string>
+    <string name="owner_name">Владелец</string>
+    <string name="storage_phone">Внутренняя память</string>
+    <string name="storage_external_usb">Внешний USB-накопитель</string>
+    <string name="zz_keyguard_accessibility_voice_unlock">Голосовая разблокировка</string>
+    <string name="sd_accessing_swtich_user_title">Сменить пользователя?</string>
+    <string name="sd_accessing_swtich_user_message">Все несохраненные данные учетной записи владельца будут потеряны или повреждены.</string>
 </resources>

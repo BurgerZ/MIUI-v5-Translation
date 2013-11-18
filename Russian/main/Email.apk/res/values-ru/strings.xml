@@ -34,7 +34,7 @@
     <string name="search_action">Поиск</string>
     <string name="account_settings_action">Настройки аккаунта</string>
     <string name="settings_action">Настройки</string>
-    <string name="mailbox_settings_action">Параметры синхронизации</string>
+    <string name="mailbox_settings_action">Настройки синхронизации</string>
     <string name="mark_as_unread_action">Не прочитано</string>
     <string name="move_action">Переместить</string>
 	<string name="newer_action">Новые</string>
@@ -247,7 +247,7 @@
     <string name="account_setup_exchange_no_certificate">Не используется</string>
     <string name="account_setup_exchange_device_id_label">Идентификатор мобильного устройства</string>
     <string name="account_setup_options_title">Настройки аккаунта</string>
-    <string name="account_setup_options_headline">Параметры аккаунта</string>
+    <string name="account_setup_options_headline">Настройки аккаунта</string>
     <string name="account_setup_options_mail_check_frequency_label">Проверка папки \"Входящие\"</string>
     <string name="account_setup_options_mail_check_frequency_never">Никогда</string>
     <string name="account_setup_options_mail_check_frequency_push">Автоматически (принудительно)</string>
@@ -271,7 +271,7 @@
     <string name="account_setup_options_mail_window_2weeks">Две недели</string>
     <string name="account_setup_options_mail_window_1month">Один месяц</string>
     <string name="account_setup_options_mail_window_all">Все</string>
-    <string name="account_setup_options_mail_window_default">Параметры по умолчанию</string>
+    <string name="account_setup_options_mail_window_default">Настройки по умолчанию</string>
     <string name="account_setup_failed_dlg_auth_message">Неверное имя пользователя или пароль</string>
     <string name="account_setup_failed_dlg_auth_message_fmt">"Неверное имя пользователя или пароль.
 %s"</string>
@@ -348,8 +348,8 @@
     <string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален.</string>
     <string name="account_settings_category_delete_account">Удалить аккаунт</string>
     <string name="account_settings_delete_account_label">Удалить аккаунт</string>
-    <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
-    <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
+    <string name="mailbox_settings_activity_title">Настройки синхронизации</string>
+    <string name="mailbox_settings_activity_title_with_mailbox">Настройки синхронизации (%s)</string>
     <string name="mailbox_preferences_header">Настройки синхронизации</string>
     <string name="mailbox_settings_mailbox_check_frequency_label">Частота проверки</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>

@@ -249,7 +249,7 @@
 	<string name="clear_search_history">Очистить историю</string>
 	<string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиньте для закрытия</string>
 	<string name="bottom_bar_tabs_long_click_down_tip_txt">Сдвиньте вниз для закрытия</string>
-	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
+	<string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Все вкладки закрыты</string>
 	<string name="bookmark_folder_needs_title">Необходимо ввести имя папки</string>	
 	<string name="multi_select_title">Выбрано %1$s закладок</string>
 	<string name="name">Ярлык</string>

@@ -418,7 +418,7 @@
     <string name="summer_solstice">День летнего солнцестояния</string>
 	<string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
 	<string name="teachers_day">День учителя</string>
-	<string name="text_pastelist">" Буфер обмена "</string>
+	<string name="text_pastelist">" Буфер "</string>
 	<string name="the_armys_day">День армии</string>
     <string name="the_double_ninth_festival">Фестиваль Чун Енг</string>
     <string name="the_dragon_boat_festival">Фестиваль драконов</string>
@@ -447,8 +447,8 @@
 	<string name="v5_edit_mode_title_empty">Выберите элементы</string>
 	<string name="v5_icon_menu_bar_more_item_label">Еще</string>
 	<string name="v5_select_all">" Отметить все "</string>
-	<string name="v5_time_picker_label_hour" />
-	<string name="v5_time_picker_label_minute" />
+	<string name="v5_time_picker_label_hour">Ч</string>
+    <string name="v5_time_picker_label_minute">М</string>
 	<string name="valentines_day">День Святого Валентина</string>
 	<string name="vernal_equinox" />
 	<string name="volume_alarm">Будильник</string>
