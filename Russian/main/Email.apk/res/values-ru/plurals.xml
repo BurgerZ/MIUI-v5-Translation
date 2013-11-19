@@ -42,8 +42,8 @@
         <item quantity="one">%1$d сообщение перемещено в папку %2$s</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
-        <item quantity="other">%d Б</item>
-        <item quantity="one">%d Б</item>
+        <item quantity="other">%d б</item>
+        <item quantity="one">%d б</item>
     </plurals>
     <plurals name="message_view_attachment_kilobytes">
         <item quantity="other">%d Кб</item>

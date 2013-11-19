@@ -1513,4 +1513,11 @@
     <string name="zz_keyguard_accessibility_voice_unlock">Голосовая разблокировка</string>
     <string name="sd_accessing_swtich_user_title">Сменить пользователя?</string>
     <string name="sd_accessing_swtich_user_message">Все несохраненные данные учетной записи владельца будут потеряны или повреждены.</string>
+	<string name="default_text_encoding">Автоопределение</string>
+	<string name="unsupportedMmiCode">Набраный MMI код не поддерживается.</string>
+	<string name="CnapMmi">Настройки вызовов</string>
+	<string name="serviceClassAUX">Впомогательный</string>
+	<string name="wifi_p2p_wps_setup">Настройки защиты Wi-Fi</string>
+	<string name="Permission requested">Запрос разрешения</string>
+	<string name="reboot_title">Перезагрузить телефон?</string>
 </resources>

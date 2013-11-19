@@ -456,4 +456,7 @@
     <string name="sp_mark_as_read_title">Отметить как прочитанные</string>
     <string name="sp_mark_as_read">Отметить все сообщения как прочитанные?</string>
     <string name="sp_mark_as_read_progress">Чтение сообщений…</string>
+	<string name="mx_activate_popup_msg">Облачные сообщения позволят пользователям MIUI обмениваться сообщениями бесплатно через интернет.</string>
+    <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств.</string>
+    <string name="mx_btn_enable_now">Включить</string>
 </resources>

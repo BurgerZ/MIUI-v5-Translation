@@ -119,4 +119,6 @@
 	<string name="express_inquiry_history">История</string>
     <string name="express_inquiry_delivered">Доставлено</string>
     <string name="express_inquiry_no_history">Нет истории</string>
+	<string name="express_inquiry_delete_warning_single">Удалить эту запись?</string>
+    <string name="express_inquiry_delete_warning_multiple">Удалить выбранные записи? \n\nЗаписей: %d</string>
 </resources>

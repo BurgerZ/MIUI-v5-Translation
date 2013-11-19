@@ -80,7 +80,8 @@
 	<string name="search_label">Поиск заметок</string>
 	<string name="search_setting_description">Текст в заметках</string>
 	<string name="select_account_prompt">Синхронизация заметок</string>
-	<string name="snippet_image_stub">[Картинка]</string>
+	<string name="snippet_image_stub">[Изображение]</string>
+	<string name="snippet_image_template">[Изображение %1$s]</string>
 	<string name="success_sdcard_export">Экспорт завершен</string>
 	<string name="time_picker_dialog_title">Установка времени напоминания</string>
 	<string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
@@ -91,6 +92,6 @@
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку.</string>
 	<string name="widget_under_visit_mode">Не возможно просмотреть заметки в режиме гостя.</string>
 	<string name="format_date_ymd">dd.MM.yyyy</string>
-    <string name="format_datetime_mdhm">dMMM kk:mm</string>
+    <string name="format_datetime_mdhm">d MMMM kk:mm</string>
 	<string name="file_name_txt_format">notes_%s.txt</string>
 </resources>

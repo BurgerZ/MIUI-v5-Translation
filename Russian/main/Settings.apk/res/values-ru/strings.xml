@@ -2485,12 +2485,12 @@
     <string name="security_settings_premium_sms_desc">Отправить платное SMS</string>
 	<string name="verifier_device_identifier">ID номер устройства</string>
     <string name="verifier_device_identifier_not_available">Информация об устройстве недоступна</string>
-	<string name="cache_manage_title">Очищено кэша: %1$d. Освобождено: %2$s</string>
+	<string name="cache_manage_title">Очистка кэша: %1$d, освободит: %2$s</string>
     <string name="cache_list_empty_hints">Нет кэша</string>
     <string name="optimize_title_cache">Кэш</string>
-    <string name="optimize_title_ad">Файлы с рекламой</string>
+    <string name="optimize_title_ad">Реклама</string>
     <string name="optimize_title_apk">Приложения</string>
-    <string name="optimize_title_residual">Мусор от приложений</string>
+    <string name="optimize_title_residual">Мусор приложений</string>
     <string name="button_text_a_key_clean_up">Очистка</string>
     <string name="button_text_a_key_optimize">Оптимизировать</string>
     <string name="button_text_done">Готово</string>
@@ -2507,16 +2507,16 @@
     <string name="optimize_ad_header_left">Файлов с рекламой: %d</string>
     <string name="optimize_apk_header_left">Приложений apk: %d</string>
     <string name="optimize_large_file_header_left">Больших файлов: %d</string>
-    <string name="optimize_residual_header_left">Мусора от приложений: %d</string>
+    <string name="optimize_residual_header_left">Мусор приложений: %d</string>
     <string name="optimize_cache_list_empty_content">Кэш не найден</string>
     <string name="optimize_ad_list_empty_content">Файлов с рекламой не найдено</string>
     <string name="optimize_apk_list_empty_content">Приложений apk не найдено</string>
     <string name="optimize_residual_list_empty_content">Мусора не найдена</string>
     <string name="optimize_tips_title">Помощь</string>
-    <string name="optimize_tips_ad">iconФайлы с рекламой - это данные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>
+    <string name="optimize_tips_ad">iconРеклама - это данные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>
     <string name="optimize_tips_apk">"iconПриложения apk - это файлы, предназначенные только для установки приложений.</string>
     <string name="optimize_tips_cache">iconКэш - это временные файлы, которые создаются в процессе работы некоторых приложений.</string>
-    <string name="optimize_tips_residual">iconМусор от приложений - это оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
+    <string name="optimize_tips_residual">iconМусор приложений - это оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
     <string name="quick_scan_apk_list_item_version_hit">Версия: %s</string>
     <string name="apk_status_uninstalled">Не установлено</string>
     <string name="apk_status_installed_old">Старая версия</string>
@@ -2524,17 +2524,17 @@
     <string name="apk_status_duplicate">Дубликат приложения</string>
     <string name="apk_status_damage">Повреждено</string>
     <string name="deep_clean_title_cache">Кэш</string>
-    <string name="deep_clean_title_residual">Мусор от приложений</string>
+    <string name="deep_clean_title_residual">Мусор приложений</string>
     <string name="deep_clean_title_large_file">Большие файлы</string>
     <string name="system_cache_title">Системный кэш</string>
     <string name="downloaded_rom_title">Пакеты обновлений</string>
     <string name="optimize_large_file_list_empty_content">Большие файлы не найдены</string>
     <string name="deep_clean_tips_cache">iconНекоторые приложения используют кэш для загрузки ресурсов (например, песен, музыки, изображений). Будьте внимательны при очистке этих файлов.</string>
-    <string name="deep_clean_tips_residual">iconМусор от приложений - это оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
+    <string name="deep_clean_tips_residual">iconМусор приложений - это оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
     <string name="deep_clean_tips_large_file">iconПри очистке будут показаны большие файлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
     <string name="toast_qucik_scan_list_empty">Очистка не требуется!</string>
     <string name="quick_scan_list_loading_hits">Сканирование…</string>
-    <string name="app_uninstall_residual">Очистить мусор от приложений?</string>
+    <string name="app_uninstall_residual">Очистить мусор приложений?</string>
     <string name="residual_cancel">Отмена</string>
     <string name="residual_clean">ОК</string>
     <string name="residual_tips_hints">Мусора от приложений найдено: %s</string>
@@ -2542,7 +2542,7 @@
     <string name="button_text_delete">Удалить</string>
     <string name="opt_clean_garbage">Очищено %d Мб</string>
     <string name="opt_killed_process">Остановлено процессов: %d</string>
-    <string name="opt_freed_ram">Освобождено памяти: %dMBs</string>
+    <string name="opt_freed_ram">Освобождено памяти: %d Мб</string>
     <string name="opt_virus_scan">Сканировать</string>
     <string name="opt_disabled_autorun">Отключено приложений из автозапуска: %d</string>
     <string name="opt_restore_perm">Восстановлено прав приложений: %d</string>
@@ -2663,7 +2663,7 @@
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">Невозвможно удалить режим. \nТелефон настроен на переключение к этому режиму по расписанию. \nНеобходимо изменить параметры перед удалением.</string>
     <string name="power_save_choose_mode">Выбрать режим</string>
     <string name="power_save_low_battery_title">Режим экономии, когда батарея разряжена.</string>
-    <string name="power_save_low_battery_auto_save_title">Режим экономии, когда батарея разряжена.</string>
+    <string name="power_save_low_battery_auto_save_title">Режим экономии</string>
     <string name="power_save_low_battery_seekbar_title">Батарея разряжена, когда заряда менее %1$d%%</string>
     <string name="power_save_low_battery_option_title">Когда батарея разряжена, переключаться в режим.</string>
     <string name="power_save_low_battery_option_summary">Когда батарея разряжена, устройство вернется к недавнему режиму.</string>
@@ -2716,7 +2716,7 @@
     <string name="power_used_mins">мин.</string>
     <string name="power_battery_history_days">%1$d дн. %2$d ч. %3$d мин.</string>
     <string name="power_battery_history_hours">%1$d ч. %2$d мин.</string>
-    <string name="power_battery_history_minutes">%1$ dмин.</string>
+    <string name="power_battery_history_minutes">%1$d мин.</string>
     <string name="power_battery_history_zero_minutes">0 мин.</string>
     <string name="power_autorun_empty">Нет установленных приложений</string>
     <string name="power_autorun_apps_empty">Нет приложений с автозапуском</string>
@@ -2735,7 +2735,7 @@
     <string name="pref_key_virus_install">virusScanInstall</string>
     <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
     <string name="pref_key_virus_lib_version">virusLibVersion</string>
-    <string name="process_manage_title">Остановлено процессов: %1$d, очищено памяти: %2$s</string>
+    <string name="process_manage_title">Остановка процессов: %1$d, очистит памяти: %2$s</string>
     <string name="process_list_empty_hints">Нет кэшированных процессов</string>
     <string name="protection_category_dangerous_title">С риском (%d)</string>
     <string name="protection_category_recommend_title">Для оптимизации (%d)</string>
@@ -2979,8 +2979,8 @@
     <string name="comfirm">ОК</string>
 	<string name="mem_lock">Заблокировать</string>
     <string name="mem_unlock">Разблокировать</string>
-    <string name="last_check_date_today">Последняя проверка: сегодня</string>
-    <string name="last_check_date_yesterday">Последняя проверка: вчера</string>
+    <string name="last_check_date_today">"Последняя проверка: сегодня "</string>
+    <string name="last_check_date_yesterday">"Последняя проверка: вчера "</string>
     <string name="last_check_never_checked">Требуется проверка (первый раз)</string>
     <string name="last_check_canceled">Требуется проверка: предыдущая была отменена до ее завершения.</string>
     <string name="last_checked_default">Требуется проверка: последний раз выполнено %s дн. назад.</string>
@@ -3101,11 +3101,11 @@
     <string name="user_owner">Владелец</string>
     <string name="user_nickname">Ник</string>
     <string name="user_add_user_title">Добавить пользователя</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+    <string name="user_add_user_message_long">"Каждый пользователь имеет определенную память на сервере, которую они могут использовать под свои файлы.
 
-After you create a new user, that person needs to go through a setup process.
+После того, как вы создаете нового пользователя, он должен пройти через процесс установки.
 
-Any user can accept updated app permissions on behalf of all other users."</string>
+Любой пользователь может принять разрешение на обновленное приложение от имени других пользователей."</string>
     <string name="user_add_user_message_short">"После того, как вы создаете нового пользователя, он должен пройти через процесс установки.
 
 Любой пользователь может принять разрешения обновленного приложения от имени других пользователей."</string>

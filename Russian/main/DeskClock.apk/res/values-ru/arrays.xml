@@ -27,6 +27,12 @@
         <item>Будильник зазвонит через %2$s и %3$s</item>
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
      </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>По будням</item>
+        <item>Выбрать дни</item>
+     </string-array>
      <string-array name="auto_silence_entries">
         <item>Выключено</item>
         <item>1 минута</item>
