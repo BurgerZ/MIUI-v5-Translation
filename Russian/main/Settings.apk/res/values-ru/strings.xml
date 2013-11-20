@@ -3201,7 +3201,7 @@
     <string name="about_agps_title">О функции A-GPS</string>
     <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) - это система, которая позволяет ускорить поиск местоположения.
 \u0009 A-GPS ищет местоположение с помощью мобильной сети.
-\u0009 Некоторые операторы могут взымать определенную плату за использование функции, будьте внимательны."</string>
+\u0009 Некоторые операторы могут взимать определенную плату за использование функции, будьте внимательны."</string>
     <string name="epo_auto_download_title">Автозагрузка</string>
     <string name="epo_auto_download_summary">Автоматическая загрузка данных местоположения.</string>
     <string name="epo_info_title">Информация файла EPO</string>
@@ -3222,7 +3222,7 @@
     <string name="MobileNetwork_on_Summary">Для работы A-GPS необходимо подключение к интернету</string>
     <string name="MobileNetwork_SIM_Active">SIM%1$s активна</string>
     <string name="Network_Roaming_dialog_title">Внимание</string>
-    <string name="Network_Roaming_dialog_content">Если вы находитесь в роуминге, за использование A-GPS может взыматься дополнительная плата.</string>
+    <string name="Network_Roaming_dialog_content">Если вы находитесь в роуминге, за использование A-GPS может взиматься дополнительная плата.</string>
     <string name="epo_download">Загрузка</string>
     <string name="epo_error_no_activite_network">Пожалуйста, включите интернет перед загрузкой EPO.</string>
     <string name="epo_cancel_download">Отмена</string>
@@ -3232,7 +3232,7 @@
     <string name="epo_error_dialog_title">Ошибка</string>
     <string name="epo_ok_btn">ОК</string>
     <string name="epo_warning_dialog_title">Внимание</string>
-    <string name="epo_warning_dialog_message">При загрузке данных EPO в роуминге может взыматься дополнительная плата. Продолжить?</string>
+    <string name="epo_warning_dialog_message">При загрузке данных EPO в роуминге может взиматься дополнительная плата. Продолжить?</string>
     <string name="ring_summary">Звонок</string>
     <string name="ring_vibrate_summary">Звук и вибрация</string>
     <string name="silent_summary">Режим \"Без звука\"</string>
@@ -3364,11 +3364,11 @@
     <string name="gemini_wap_push_permission_tail">Принять соглашение?</string>
     <string name="gemini_wap_push_permission_title">Лицензионное соглашение Авто-Push</string>
     <string name="gemini_wap_push_permission">Сервис Авто-Push</string>
-    <string name="gemini_3g_disable_warning_case0">Будет включен роуминг передачи данных на этой SIM-карте. Могут взыматься денежные средства! Включить выбранную SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case0">Будет включен роуминг передачи данных на этой SIM-карте. Могут взиматься денежные средства! Включить выбранную SIM-карту?</string>
     <string name="gemini_3g_disable_warning_case1">3G серивис недоступен на этой SIM-карте. Включить выбранную SIM-карту?</string>
     <string name="gemini_3g_disable_warning_case2">3G серивис недоступен на этой SIM-карте. Включить выбранную SIM-карту?</string>
-    <string name="gemini_3g_disable_warning_case3">Будет включен роуминг передачи данных на этой SIM-карте. Могут взыматься денежные средства! Кроме того, 3G серивис недоступен на этой SIM-карте. Включить выбранную SIM-карту?</string>
-    <string name="gemini_3g_disable_warning_case4">Будет включен роуминг передачи данных на этой SIM-карте. Могут взыматься денежные средства! Кроме того, 3G серивис недоступен на этой SIM-карте. Включить выбранную SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case3">Будет включен роуминг передачи данных на этой SIM-карте. Могут взиматься денежные средства! Кроме того, 3G серивис недоступен на этой SIM-карте. Включить выбранную SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case4">Будет включен роуминг передачи данных на этой SIM-карте. Могут взиматься денежные средства! Кроме того, 3G серивис недоступен на этой SIM-карте. Включить выбранную SIM-карту?</string>
     <string name="gemini_sim_tether_info_title">Контакты и SIM</string>
     <string name="gemini_sim_tether_add_record">Добавить контакты</string>
     <string name="gemini_sim_add_title">Контакты</string>

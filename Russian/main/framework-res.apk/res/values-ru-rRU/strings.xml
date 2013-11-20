@@ -1441,7 +1441,7 @@
     <string name="keyguard_accessibility_slide_area">Поле для слайда</string>
 	<string name="network_available_sign_in">Вход в сеть</string>
 	<string name="wifi_p2p_frequency_conflict_message">Телефон будет временно отключен от сети Wi-Fi во время подключения к %1$s</string>
-	<string name="perm_costs_money">Может взыматься плата</string>
+	<string name="perm_costs_money">Может взиматься плата</string>
 	<string name="vpn_lockdown_connecting">Подключение активного VPN…</string>
     <string name="vpn_lockdown_connected">Активный VPN подключен</string>
     <string name="vpn_lockdown_error">Ошибка активного VPN</string>

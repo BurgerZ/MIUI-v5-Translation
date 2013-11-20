@@ -278,4 +278,10 @@
     <string name="resource_user_know">ОК</string>
     <string name="resource_hint">Сигнал</string>
     <string name="resource_ringtone_volume_mute">Звук мелодии отключен</string>
+	<string name="component_lockstyle_personal_title">Настройки</string>
+	<string name="resource_comment_version_name">(версия: %1$s)</string>
+	<string name="resource_comment_description">%1$s отзыв к %2$s:%3$s:%4$s</string>
+    <string name="resource_comment_count">%1$s оценок %2$s общее колличество отзывов (версия: %3$s)</string>
+	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменен</string>
+    <string name="sdcard_status_changed_dialog_message">Перезапустите приложение для обновления ресурсов.</string>
 </resources>
