@@ -56,10 +56,10 @@
 	<string name="preference_enable_earpiece_summary">Использовать приемник для воспроизведения сторонних аудио</string>
 	<string name="preference_scenes">Режим записи</string>
 	<string name="record_list">Список записей</string>
-	<string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>
+	<string name="record_loading">Загрузка записей…</string>
 	<string name="record_name_hour">.</string>
 	<string name="record_picker_title">Выберите запись</string>
-	<string name="record_saving">Сохранение записи, пожалуйста, подождите.</string>
+	<string name="record_saving">Сохранение записи…</string>
 	<string name="recording">Запись…</string>
 	<string name="recording_stopped">Запись остановлена</string>
 	<string name="rename">Переименовать</string>

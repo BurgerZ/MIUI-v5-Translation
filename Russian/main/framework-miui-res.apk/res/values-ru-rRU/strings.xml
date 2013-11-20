@@ -388,7 +388,7 @@
 	<string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажмите кнопки 'НАЗАД'+'Громкость +'"</string>
 	<string name="screen_on_proximity_sensor_summary">"Не закрывайте верхнюю половину экрана"</string>
 	<string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
-	<string name="sd_not_available">SD-карта недоступна. Вставьте или подключите ее.</string>
+	<string name="sd_not_available">SD-карта недоступна</string>
 	<string name="sd_not_available_low_internal_storage">SD-карта недоступна и отсутствует внутреннее устройство хранения</string>
 	<string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>
 	<string name="sd_not_available_use_internal_storage">SD-карта недоступна, будет использована внутренняя память.</string>

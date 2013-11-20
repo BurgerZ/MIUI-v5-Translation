@@ -369,7 +369,7 @@
     <string name="clear_all_tasks">Очистить все задачи</string>
     <string name="continue_all_tasks">Продолжить все задачи</string>
     <string name="network_not_contected_title">Нет сетевого подключения</string>
-    <string name="network_not_contected_msg">Нет подключения к сети, пожалуйста, подождите</string>
+    <string name="network_not_contected_msg">Нет подключения к сети. Пожалуйста, подождите.</string>
     <string name="network_not_contected_ok">Ок</string>
     <string name="wifi_not_contected_title">Не подключен Wi-Fi</string>
     <string name="wifi_not_contected_msg">Не обнаружено Wi-Fi подключение, возможно потребление большого объема GPRS трафика, продолжить?</string>
@@ -391,7 +391,7 @@
     <string name="empty_image_album_hint">Нет картинок</string>
     <string name="no_storage_hint">Память недоступна</string>
     <string name="folder_phonestorage">Память телефона</string>
-    <string name="task_busy">Телефон занят, пожалуйста, попробуйте позже.</string>
+    <string name="task_busy">Телефон занят. Пожалуйста, попробуйте позже.</string>
     <string name="oppo_cloud_loading_dialog_message">Идет загрузка…</string>
     <string name="wifi_disconnected_title">Wi-fi отключен</string>
     <string name="wifi_disconnected_content">Подключение по сети Wi-fi разорвано, использовать GPRS интернет для передачи альбома?</string>

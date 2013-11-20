@@ -102,7 +102,7 @@
 	<string name="instruction_pre">Обмен файлами с компьютером по FTP через сеть Wi-Fi</string>
 	<string name="kuaipan_over_space">Нет свободного места в вашем KuaiPan</string>
 	<string name="kuaipan_prompt">KuaiPan</string>
-	<string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже…</string>
+	<string name="kuaipan_prompt_message">Идет обслуживание сервиса. Пожалуйста, попробуйте позже.</string>
 	<string name="kuaipan_tech_support">Техническая поддержка: Kingsoft KuaiPan</string>
 	<string name="load_err">Ошибка загрузки</string>
 	<string name="loading">Загрузка…</string>
@@ -169,7 +169,7 @@
 	<string name="operation_unfavorite">Удалить из избранного</string>
 	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="paused">Пауза</string>
-	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
+	<string name="query_bind_state">Запрос состояния. Пожалуйста, подождите…</string>
 	<string name="rename_description">Переименовывается…</string>
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
 	<string name="scanning" formatted="false">Сканирование %d из %d…</string>

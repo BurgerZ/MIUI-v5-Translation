@@ -142,7 +142,7 @@
 	<string name="music_picker_title">Выберите трек</string>
 	<string name="empty_track_list">Нет треков</string>
 	<string name="music_settings">Настройки</string>
-	<string name="network_error">Нет подключения к сети, пожалуйста, проверьте сетевые настройки</string>
+	<string name="network_error">Нет подключения к сети. Пожалуйста, проверьте настройки сети.</string>
 	<string name="new_albums">Новые альбомы</string>
 	<string name="new_equalizer_name_template">Профиль %d</string>
 	<string name="new_playlist">Новый плейлист</string>
@@ -213,7 +213,7 @@
 	<string name="refresh_finish">Обновление завершено</string>
 	<string name="refresh_in_processing">Обновление…</string>
 	<string name="refresh_media_db">Обновить</string>
-	<string name="refresh_start">Началось обновление, пожалуйста, подождите…</string>
+	<string name="refresh_start">Началось обновление. Пожалуйста, подождите…</string>
 	<string name="remove_from_favorite">Убрать из избранных</string>
 	<string name="remove_item">Удалить</string>
 	<string name="rename_album_menu">Переименовать альбом</string>
