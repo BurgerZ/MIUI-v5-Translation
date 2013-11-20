@@ -126,8 +126,8 @@
 	<string name="lyric_display_settings">Показывать тексты</string>
 	<string name="lyric_display_summary">Показывать тексты песен в интерфейсе проигрывателя.</string>
 	<string name="lyric_download">Загрузка текста песни</string>
-	<string name="lyric_open_other_connect">Загрузка текста песен с помощью мобильного интернета</string>
-	<string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
+	<string name="lyric_open_other_connect">Загрузка текстов отключена</string>
+	<string name="lyric_picker_not_found">Файловый менеджер не найден</string>
 	<string name="mediaplaybacklabel">Музыка</string>
 	<string name="mobile_connect_settings">Мобильная сеть</string>
 	<string name="modify_id3_for_list">Будут отредактированы ID3 теги треков из текущего списка.</string>
@@ -138,7 +138,7 @@
 	<string name="music_browser_label">Музыка</string>
 	<string name="music_filter">Фильтрация музыкальных файлов</string>
 	<string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр</string>
-	<string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к Интернету</string>
+	<string name="music_open_other_connect">Загрузка музыки отключена</string>
 	<string name="music_picker_title">Выберите трек</string>
 	<string name="empty_track_list">Нет треков</string>
 	<string name="music_settings">Настройки</string>
@@ -149,7 +149,7 @@
 	<string name="new_playlist_name_template">Новый плейлист %d</string>
 	<string name="no_effect">Отключен</string>
 	<string name="no_song_downloaded">Нет треков для загрузки</string>
-	<string name="not_selected">Пожалуйста, выберите трек.</string>
+	<string name="not_selected">Выберите трек</string>
 	<string name="online_search_hint">Поиск музыки онлайн</string>
 	<string name="online_title">Онлайн</string>
 	<string name="other_settings">Другие</string>

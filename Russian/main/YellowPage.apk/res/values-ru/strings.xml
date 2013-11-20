@@ -121,4 +121,10 @@
     <string name="express_inquiry_no_history">Нет истории</string>
 	<string name="express_inquiry_delete_warning_single">Удалить эту запись?</string>
     <string name="express_inquiry_delete_warning_multiple">Удалить выбранные записи? \n\nЗаписей: %d</string>
+	<string name="module_sms_sent">Сообщение отправлено</string>
+    <string name="sms_send_failed">Не удалось отправить сообщение</string>
+    <string name="sms_sending">Отправка…</string>
+	<string name="unable_send_sms">Не удается отправить сообщение</string>
+    <string name="sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
+	<string name="express_inquiry_indication">Номер отслеживания</string>
 </resources>
