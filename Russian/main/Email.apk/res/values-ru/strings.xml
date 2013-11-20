@@ -388,7 +388,7 @@
     <string name="trusted_senders_cleared">Изображения очищены</string>
     <string name="position_of_count">%1$d из %2$s</string>
     <string name="waitinf_for_sync_message_1">Ожидание синхронизации…</string>
-    <string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся</string>
+    <string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся…</string>
     <string name="widget_other_views">Нажмите, чтобы изменить</string>
     <string name="widget_all_mail">Все входящие</string>
     <string name="widget_unread">Непрочитанные</string>
