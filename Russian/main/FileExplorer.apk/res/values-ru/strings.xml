@@ -87,7 +87,7 @@
 	<string name="finished">Завершено</string>
 	<string name="folder_exist">Папка уже существует</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
-	<string name="ftp_account_req_notice">Имя и пароль, 4~16 знаков, включая цифры, буквы, чувствительны к регистру</string>
+	<string name="ftp_account_req_notice">Имя и пароль, 4~16 символов, включая цифры, буквы. Чувствительно к регистру.</string>
 	<string name="ftp_anonymous_login">Анонимный FTP</string>
 	<string name="ftp_invalid_username_or_password">Ошибка аутентификации</string>
 	<string name="ftp_open_port_error">Невозможно открыть выбранный FTP-порт, проверьте подключение к сети и попробуйте еще раз</string>
