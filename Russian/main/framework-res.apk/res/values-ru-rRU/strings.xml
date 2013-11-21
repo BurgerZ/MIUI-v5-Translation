@@ -256,7 +256,7 @@
     <string name="extmedia_format_button_format">Формат</string>
     <string name="extmedia_format_message">Отформатировать SD-карту? Все данные, находящиеся на карте, будут уничтожены.</string>
     <string name="extmedia_format_title">Очистка SD-карты</string>
-    <string name="extract_edit_menu_button">Изменить…</string>
+    <string name="extract_edit_menu_button">Изменить</string>
     <string name="faceunlock_multiple_failures">Достигнут предел попыток разблокировки</string>
     <string name="factorytest_failed">Не удалось провести стандартный тест</string>
     <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
