@@ -782,7 +782,7 @@
 	<string name="set_default">Установить как основной</string>
 	<string name="share_error">Не удалось передать данные</string>
 	<string name="share_via">Отправить</string>
-	<string name="share_visible_contacts">Все контакты</string>
+	<string name="share_visible_contacts">Отправить контакты</string>
 	<string name="shortcutActivityTitle">Функция ярлыка на рабочем столе</string>
 	<string name="shortcutContact">Контакты</string>
 	<string name="shortcutDialContact">Быстрый звонок</string>

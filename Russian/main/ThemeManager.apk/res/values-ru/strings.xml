@@ -89,7 +89,7 @@
 	<string name="resource_list_title">Последние темы</string>
 	<string name="resource_local">Локально %1$s</string>
 	<string name="resource_mute">Нет</string>
-	<string name="resource_no_result">Нет результата</string>
+	<string name="resource_no_result">Нет результатов</string>
 	<string name="resource_notification_default">Уведомл.</string>
 	<string name="resource_online">Онлайн %1$s</string>
 	<string name="resource_preview">Просмотр</string>
@@ -235,7 +235,7 @@
 	<string name="basic_info">Основная информация</string>
     <string name="account_info">Мой аккаунт</string>
     <string name="payment_info">Центр MiCredits</string>
-	<string name="apply_theme_with_ringtones">Применить с рингтоном</string>
+	<string name="apply_theme_with_ringtones">Применять с рингтоном</string>
     <string name="settings">Настройки</string>
 	<string name="resource_unable_to_access">В данный момент контент не доступен в вашем регионе.</string>
 	<string name="resource_purchase_getting_order">Получение информации заказа…</string>
