@@ -619,4 +619,6 @@
     <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
     <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
+	<string name="pref_content_preload_title">Предварительная загрузка</string>
+    <string name="pref_image_display_control">Загрузка изображений</string>
 </resources>
