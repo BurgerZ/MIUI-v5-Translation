@@ -52,4 +52,9 @@
 	<string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
 	<string name="vp_VideoView_error_text_unknown">Формат видео не поддерживается</string>
 	<string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
+	<string name="episode_prefix">Эпизод</string>
+    <string name="episode_suffix" />
+    <string name="about_version_label">Версия</string>
+    <string name="about_developer_label">Разработчик</string>
+    <string name="about_developer_name">Xiaomi</string>
 </resources>

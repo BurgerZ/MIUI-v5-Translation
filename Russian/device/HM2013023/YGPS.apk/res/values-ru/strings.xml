@@ -45,7 +45,7 @@
     <string name="gps_test_start">Старт</string>
     <string name="gps_test_times">Время от 0 до 999:</string>
     <string name="gps_test_interval">Интервал от 0 до 999(сек.):</string>
-    <string name="no_sdcard">Проверьте SD карту.</string>
+    <string name="no_sdcard">Проверьте SD-карту.</string>
     <string name="gps_test_current_times">Текущее время:</string>
     <string name="need_3d_fix">Требуется 3D Fix</string>
     <string name="last_ttff">Последний TTFF:</string>

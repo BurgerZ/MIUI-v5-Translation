@@ -27,7 +27,7 @@
     <string name="log_unselected">Отключено: %s</string>
     <string name="time_default">0:00:00</string>
     <string name="phone_storage">Память телефона</string>
-    <string name="sd_card">SD карта</string>
+    <string name="sd_card">SD-карта</string>
     <string name="log_path_not_exist">Патч %s не существует!</string>
     <string name="low_storage_warning_dialog_title">Мало памяти!</string>
     <string name="low_storage_warning_dialog_msg">Свободно меньше памяти чем %dM, освободите место, в противном случае процесс скоро будет прерван!</string>
@@ -103,8 +103,8 @@
 Ввседите имя тэга:"</string>
     <string name="taglog_msg_logtool_stopped">Запись остановлена! Хотели бы вы запустить запись отчетов?</string>
     <string name="taglog_msg_zip_log_fail">Ошибка сжатия!</string>
-    <string name="taglog_msg_no_sdcard">"SD карта недоступна!"</string>
-    <string name="taglog_msg_sdcard_not_writtable">Запись на SD карту невозможна!</string>
+    <string name="taglog_msg_no_sdcard">"SD-карта недоступна!"</string>
+    <string name="taglog_msg_sdcard_not_writtable">Запись на SD-карту невозможна!</string>
     <string name="taglog_msg_compress_log">Сжатие отчетов…</string>
     <string name="taglog_run_in_background_button">Запущено в фоне</string>
     <string name="taglog_busy">"Tag Log During compressing log,Tag Log can't handle other exception!"</string>

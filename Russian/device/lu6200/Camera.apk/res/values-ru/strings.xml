@@ -262,7 +262,7 @@
   <string name="sp_eula_popup_dialog_msg_NORMAL">При выборе \"Отметить местоположение\", данное устройство присоединит, встроит и сохранит данные о географическом местоположении в каждое изображение. Будьте осторожны, когда отправляете, даете доступ, распространяете, передаете или копируете эти изображения, поскольку они содержат данные о месте фотографирования.</string>
   <string name="sp_eula_popup_dialog_title_NORMAL">Угроза проникновения</string>
   <string name="sp_eula_popup_do_not_show_this_again_NORMAL">Больше не показывать</string>
-  <string name="sp_ext_sdcard_not_exist_NORMAL">SD карта отсутствует. Сохранение будет переключено на внутреннюю память.</string>
+  <string name="sp_ext_sdcard_not_exist_NORMAL">SD-карта отсутствует. Сохранение будет переключено на внутреннюю память.</string>
   <string name="sp_external_memory_NORMAL">SD-карта</string>
   <string name="sp_external_sd_prepared_NORMAL">SD-карта подготовлена</string>
   <string name="sp_filename_already_exists_NORMAL">Файл уже существует</string>

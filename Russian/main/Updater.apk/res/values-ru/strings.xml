@@ -168,4 +168,5 @@
 	<string name="sina_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста. Повторите привязку.</string>
 	<string name="now">Сейчас</string>
 	<string name="later">Позже</string>
+	<string name="updater_finish_download">Загрузка прошивки завершена</string>
 </resources>

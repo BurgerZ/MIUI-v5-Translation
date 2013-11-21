@@ -11,8 +11,8 @@
     <string name="button_power">Питание</string>
     <string name="rename_playlist_menu">Переименовать</string>
     <string name="htc_new_songs_playlist">Доб.плейлист</string>
-    <string name="sdcard_missing_message">SD карта отсутствует</string>
-    <string name="sdcard_busy_message">SD карта недоступна, потому, что телефон в режиме USB накопителя. Отключите USB для доступа к карте.</string>
+    <string name="sdcard_missing_message">SD-карта отсутствует</string>
+    <string name="sdcard_busy_message">SD-карта недоступна, потому, что телефон в режиме USB накопителя. Отключите USB для доступа к карте.</string>
     <string name="htc_save">Сохранить</string>
     <string name="search_settings_description">Исполнители, альбомы и треки</string>
     <string name="htc_deleting_songs">Удаление песен, пожалуйста подождите…</string>

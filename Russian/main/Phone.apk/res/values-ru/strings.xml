@@ -1162,9 +1162,9 @@
     <string name="vt_pic_replace_local_freezeme">Заморозить меня</string>
     <string name="vt_pic_replace_local_mypic">Моё изображение</string>
     <string name="vt_local_video_display">Отображение локального видео</string>
-    <string name="vt_sd_null">"SD карта
+    <string name="vt_sd_null">"SD-карта
 недоступна"</string>
-    <string name="vt_sd_not_enough">"Память SD карты
+    <string name="vt_sd_not_enough">"Память SD-карты
 переполнена"</string>
     <string name="vt_peer_video_quality_normal">Нормальное</string>
     <string name="vt_peer_video_quality_sharp">Резкое</string>
@@ -1172,7 +1172,7 @@
     <string name="vt_ask_show_local_yes">Да</string>
     <string name="vt_ask_show_local_no">Нет</string>
     <string name="vt_change_my_pic">Изменить</string>
-    <string name="vt_pic_saved_to_sd">Скриншот сохранен на SD карту</string>
+    <string name="vt_pic_saved_to_sd">Скриншот сохранен на SD-карту</string>
     <string name="vt_pic_saved_to_sd_fail">Ошибка сохранения скриншота</string>
     <string name="vt_error_network">Сеть недоступна. Видеовызов был прерван.</string>
     <string name="vt_error_media">Видео не может быть отображено правильно. Видеовызов был прерван.</string>
@@ -1223,7 +1223,7 @@
     <string name="vt_recorder_only_voice">Только голос</string>
     <string name="vt_recorder_only_peer_video">Только видео</string>
     <string name="vt_recording_saved">Запись была сохранена.</string>
-    <string name="vt_recording_saved_sd_full">SD карта заполнена, запись была сохранена.</string>
+    <string name="vt_recording_saved_sd_full">SD-карта заполнена, запись была сохранена.</string>
     <string name="vt_recording_saved_fail">Запись была сохранена с ошибкой.</string>
     <string name="vt_recording_error">Ошибка записи.</string>
     <string name="start_record_vt">Начать запись</string>

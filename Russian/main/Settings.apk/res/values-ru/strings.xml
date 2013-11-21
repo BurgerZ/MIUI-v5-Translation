@@ -1520,7 +1520,7 @@
 	<string name="sdcard_settings_mass_storage_status">SD-карта работает как запоминающее устройство</string>
 	<string name="sdcard_settings_not_present_status">Нет SD-карты</string>
 	<string name="sdcard_settings_read_only_status">SD-карта установлена только для чтения</string>
-	<string name="sdcard_settings_scanning_status">Сканирование SD карты…</string>
+	<string name="sdcard_settings_scanning_status">Сканирование SD-карты…</string>
 	<string name="sdcard_settings_screen_mass_storage_text">Включить запоминающее устройство USB</string>
 	<string name="sdcard_settings_total_bytes_label">Всего байт:</string>
 	<string name="sdcard_settings_unmounted_status">Теперь можно извлечь SD-карту</string>
@@ -2223,7 +2223,7 @@
 	<string name="wifi_wapi_cert_delet_subdir">Выбор папки сертификата</string>
 	<string name="wifi_wapi_cert_install">Установить сертификат</string>
 	<string name="wifi_wapi_cert_install_button">Установить</string>
-	<string name="wifi_wapi_cert_mgmt_as_dont_exist">SD карта не содержит AS сертификатов!</string>
+	<string name="wifi_wapi_cert_mgmt_as_dont_exist">SD-карта не содержит AS сертификатов!</string>
 	<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Формат сертификата неверен! Установите правильный сертификат</string>
 	<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
 	<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания папки</string>

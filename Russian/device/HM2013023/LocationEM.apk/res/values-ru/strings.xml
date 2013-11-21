@@ -15,7 +15,7 @@
     <string name="delete">Удалить</string>
     <string name="ref_latlng">Ref позиция</string>
     <string name="log_nmea">Журнал NMEA</string>
-    <string name="log_to_sdcard">Сохранить журнал на SD карту</string>
+    <string name="log_to_sdcard">Сохранить журнал на SD-карту</string>
     <string name="hot">Горячо</string>
     <string name="warm">Тепло</string>
     <string name="cold">Холодно</string>
@@ -157,7 +157,7 @@
     <string name="epo_stress_on">Стресс Тест (вкл.)</string>
     <string name="epo_stress_off">Стресс Тест (выкл.)</string>
     <string name="menu">Меню</string>
-    <string name="file_sdcard">SD карта</string>
+    <string name="file_sdcard">SD-карта</string>
     <string name="file_location_em">Локация EM</string>
     <string name="msic_goto">Перейти</string>
     <string name="time">Время</string>

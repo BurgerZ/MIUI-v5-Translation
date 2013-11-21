@@ -48,6 +48,7 @@
 	<string name="get_album_info_in_process">Загрузка информации облачного альбома…</string>
 	<string name="by_email">По электронной почте</string>
 	<string name="by_sms">По SMS</string>
+	<string name="by_others">Другие способы</string>
 	<string name="camera_connected">Камера подключена</string>
 	<string name="camera_disconnected">Камера отключена</string>
 	<string name="camera_folder_display_name">Фото с камеры</string>

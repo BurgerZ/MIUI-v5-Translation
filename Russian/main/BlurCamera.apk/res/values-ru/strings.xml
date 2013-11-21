@@ -15,7 +15,7 @@
   <string name="None">Не задано</string>
   <string name="One_time_msg_location_setting">"Выбрав \"%s\", это устройство будет прикреплять, и хранить данные географического местоположения, каждому изображению. Следует соблюдать осторожность при отправке, просмотре, распространении, передачи или копировании этих фотографий, так как они будут содержать данные местоположения, где они были сделаны.
 "</string>
-  <string name="SDCard">SD Карта</string>
+  <string name="SDCard">SD-карта</string>
   <string name="SDlost">SD-карта потеряна, видеозапись прекращена</string>
   <string name="Text_LocationUnknown">Местоположение неизвестно</string>
   <string name="Text_activeKeywordTags">Активные заданные метки(тэги)</string>

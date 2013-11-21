@@ -197,7 +197,7 @@
 	<string name="storage_sd_card">SD-карта</string>
 	<string name="storage_usb">USB-накопитель</string>
 	<string name="storage_warning">Внешний носитель не доступен</string>
-	<string name="tab_category">Обзор</string>
+	<string name="tab_category">Категории</string>
 	<string name="tab_networkdisk">KuaiPan</string>
 	<string name="tab_phone">Телефон</string>
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>

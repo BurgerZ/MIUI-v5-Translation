@@ -288,4 +288,6 @@
 	<string name="pref_list_data_save_mode_always">Никогда</string>
 	<string name="pref_list_data_save_mode_network">Только по Wi-Fi</string>
 	<string name="pref_list_data_save_mode_never">Всегда</string>
+	<string name="resume">Далее</string>
+    <string name="downloading">Пауза</string>
 </resources>
