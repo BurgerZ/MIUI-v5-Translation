@@ -240,7 +240,7 @@
   <string name="cit_OTG_waiting_out">Пожалуйста, отключите USB-OTG устройство.</string>
   <string name="cit_usb_OTG_out">USB-OTG устройство отключено</string>
   <string name="cit_otg_not_supported">Эта модель телефона не поддерживает тестирование OTG</string>
-  <string name="cit_calibration_pass">Ошибка калибровки</string>
+  <string name="cit_calibration_pass">Калибровка выполнена успешно</string>
   <string name="cit_calibration_fail">Не удалось откалибровать</string>
   <string name="cit_tool_log_no_sdcard">Ошибка операции. Пожалуйста, вставьте SD-карту.</string>
 </resources>
