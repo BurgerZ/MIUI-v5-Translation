@@ -180,7 +180,7 @@
 	<string name="transformation_type_rotate">Вращение</string>
 	<string name="transformation_type_stack">Каскад</string>
 	<string name="uninstall">Удалить</string>
-	<string name="uninstall_dialog_message">Приложение будет удалено со всеми данными.</string>
+	<string name="uninstall_dialog_message">Будут очищены все данные.</string>
 	<string name="uninstall_dialog_title_format">Удалить \"%s\"?</string>
 	<string name="unknown_artist_name">Неизвестный артист</string>
 	<string name="unnamed_folder_name">Без имени</string>
