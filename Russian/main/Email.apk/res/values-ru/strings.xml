@@ -174,7 +174,7 @@
     <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
     <string name="forward_download_failed_title">Не удалось переслать вложение</string>
     <string name="login_failed_ticker">Ошибка авторизации %s</string>
-    <string name="login_failed_title">Не удалось войти в аккаунт</string>
+    <string name="login_failed_title">Ошибка авторизации</string>
     <string name="message_view_move_to_newer">Следующее сообщение</string>
     <string name="message_view_move_to_older">Предыдущее сообщение</string>
     <string name="account_setup_basics_title">Добавление аккаунта</string>
@@ -310,8 +310,8 @@
     <string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
     <string name="password_expired_dialog_content_fmt">Данные аккаунта %s удаляются с вашего устройства. Вы можете восстановить их, изменив свой PIN-код или пароль блокировки экрана. Изменить его сейчас?</string>
     <string name="account_settings_exit_server_settings">Отменить несохраненные изменения?</string>
-    <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
-    <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
+    <string name="account_settings_login_dialog_title">Ошибка авторизации</string>
+    <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта \"%s\". Обновить их сейчас?</string>
     <string name="account_settings_default_label">Аккаунт по умолчанию</string>
     <string name="account_settings_default_summary">Сделать аккаунтом по умолчанию для отправки сообщений</string>
     <string name="account_settings_background_attachments_label">Автозагрузка файлов</string>

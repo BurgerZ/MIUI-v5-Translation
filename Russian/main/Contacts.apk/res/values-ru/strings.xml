@@ -968,7 +968,7 @@
     <string name="resource_comment_edit_comment">Добавить отзыв</string>
     <string name="resource_comment_edit_comment_waiting">Загрузка истории…</string>
     <string name="resource_comment_edit_text_default">Оставить отзыв</string>
-    <string name="resource_comment_publish">Отправить</string>
+    <string name="resource_comment_publish">" Отправить "</string>
     <string name="resource_comment_name_default">Пользователь %1$s</string>
     <string name="resource_comment_account_need_activitied">Активируйте свой аккаунт Xiaomi</string>
     <string name="resource_comment_rate">Рейтинг:</string>

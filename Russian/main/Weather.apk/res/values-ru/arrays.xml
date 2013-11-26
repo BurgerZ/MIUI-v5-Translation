@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="act_weather_main_listview_key">
+        <item>Скорость ветра:　　</item>
+        <item>UV индекс:　</item>
+        <item>Индекс одежды:</item>
+        <item>Индекс комфорта:</item>
+        <item>Индекс мойки машины:</item>
+        <item>Индекс влажности:</item>
+        <item>Индекс утренних упражнений:</item>
+        <item>Индекс досуга:</item>
+     </array>
+    <array name="send_item">
+        <item>SMS</item>
+        <item>E-mail</item>
+    </array>
+    <array name="weather_image">
+        <item>Чисто</item>0  晴
+        <item>Облачно</item>1  多云
+        <item>Облачность</item>2  阴
+        <item>Туман</item>3  雾
+        <item>Сильная гроза</item>4  特大暴雨
+        <item>Гроза с сильным проливным дождем</item>5  大暴雨
+        <item>Гроза</item>6  暴雨
+        <item>T-Гроза</item>7  雷阵雨
+        <item>Ливень</item>8  阵雨
+        <item>Сильный ливень</item>9  大雨
+        <item>Дождь</item>0  中雨
+        <item>Морось</item>1  小雨
+        <item>Дождь со снегом</item>2  雨夹雪
+        <item>Метель</item>3   暴雨
+        <item>Снегопад</item>4  阵雪
+        <item>Сильный снегопад</item>5  大雪
+        <item>Снег</item>6  中雪
+        <item>Снег</item>7  小雪
+        <item>Сильная пыльная буря</item>8  强沙尘暴
+        <item>Пыльная буря</item>9  沙尘暴
+        <item>Пыль</item>0  沙尘
+        <item>Песчаная буря</item>1  扬沙
+        <item>Град</item>2  冰雹
+        <item>Floating Dust</item>3  浮尘
+    </array>
+</resources>

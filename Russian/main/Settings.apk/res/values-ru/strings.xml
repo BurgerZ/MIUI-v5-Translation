@@ -1084,7 +1084,7 @@
 	<string name="multi_touch_points_preference">Перезагрузить для применения</string>
 	<string name="musicfx_title">Эквалайзер</string>
 	<string name="nearby_wifi">Доступные сети Wi-Fi</string>
-	<string name="network_detail">Свойства сети %s</string>
+	<string name="network_detail">Свойства сети \"%s\"</string>
 	<string name="network_settings_title">Мобильная сеть</string>
 	<string name="network_state_label">"Состояние Сети: "</string>
 	<string name="networkid_label">"ID сети: "</string>
@@ -1347,11 +1347,11 @@
 	<string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
 	<string name="proxy_error_invalid_host">Введено недействительное имя хоста</string>
 	<string name="proxy_error_invalid_port">Указанный порт недействителен</string>
-	<string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-	<string name="proxy_exclusionlist_label">Не использовать прокси-сервер для:</string>
+	<string name="proxy_exclusionlist_hint">example.com</string>
+	<string name="proxy_exclusionlist_label">Исключения</string>
 	<string name="proxy_hostname_hint">proxy.example.com</string>
-	<string name="proxy_hostname_label">Имя хоста прокси-сервера</string>
-	<string name="proxy_port_label">Порт прокси-сервера</string>
+	<string name="proxy_hostname_label">Имя хоста</string>
+	<string name="proxy_port_label">Порт</string>
 	<string name="proxy_settings_label">Настройки прокси-сервера</string>
 	<string name="proxy_settings_title">Настройки прокси-сервера</string>
 	<string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений</string>
@@ -2081,7 +2081,7 @@
 	<string name="wifi_menu_wps_pbc">Кнопка WPS</string>
 	<string name="wifi_menu_wps_pin">Ввод PIN-кода WPS</string>
 	<string name="wifi_more">Дополнительно</string>
-	<string name="wifi_network_prefix_length">Длина префикса сети</string>
+	<string name="wifi_network_prefix_length">Длина префикса</string>
 	<string name="wifi_not_in_range">Недоступна</string>
 	<string name="wifi_notify_open_networks">Уведомлять о сетях</string>
 	<string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
@@ -2572,7 +2572,7 @@
     <string name="power_center_custom_summary_default">Параметры оптимизации для экономии заряда батареи.</string>
     <string name="power_center_low_battery_title">Авто переключение</string>
     <string name="power_center_low_battery_summary_default">Включение режима экономии, когда батарея разряжена.</string>
-    <string name="power_center_low_battery_summary_dynamic">Когда заряд батареи менее %1$d%% переключиться в режим %2$s.</string>
+    <string name="power_center_low_battery_summary_dynamic">В случае, когда заряд батареи меньше %1$d%%, переключиться в режим %2$s.</string>
     <string name="power_center_on_time_title">Расписание</string>
     <string name="power_center_on_time_summary_default">Включение режима в назначенное время.</string>
     <string name="power_center_on_time_summary_dynamic">С %1$s до %2$s переключиться в режим %3$s.</string>

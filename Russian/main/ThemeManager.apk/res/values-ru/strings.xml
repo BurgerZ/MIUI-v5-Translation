@@ -60,7 +60,7 @@
 	<string name="resource_comment_expand_full_text">Показать весь текст▼</string>
 	<string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить.</string>
 	<string name="resource_comment_name_default">Пользователь %1$s</string>
-	<string name="resource_comment_publish">Отправить</string>
+	<string name="resource_comment_publish">" Отправить "</string>
 	<string name="resource_comment_rate">Рейтинг:</string>
 	<string name="resource_comment_sending">Отправка отзыва…</string>
 	<string name="resource_comment_title">Отзывы к \"%1$s\"</string>
