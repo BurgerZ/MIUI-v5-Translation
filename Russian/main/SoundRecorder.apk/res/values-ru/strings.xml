@@ -78,7 +78,7 @@
 	<string name="status_bar_recording_pause">Пауза</string>
 	<string name="stop_recording">Остановить запись</string>
 	<string name="storage_is_full">Память заполнена</string>
-	<string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s.</string>
+	<string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
 	<string name="toast_uninstall_fileexplorer">Приложение \"Файлы\" не установлено</string>
 	<string name="unknown_caller">Неизвестный вызов</string>
 	<string name="preference_record_type_title">Формат записи</string>
