@@ -621,4 +621,7 @@
     <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
 	<string name="pref_content_preload_title">Предварительная загрузка</string>
     <string name="pref_image_display_control">Загрузка изображений</string>
+	<string name="send_to_popular">На главную</string>
+	<string name="add_quicklink_to_popular">Добавить на главную страницу</string>
+    <string name="quicklink_saved_before">Ссылка уже добавлена на главную страницу</string>
 </resources>
