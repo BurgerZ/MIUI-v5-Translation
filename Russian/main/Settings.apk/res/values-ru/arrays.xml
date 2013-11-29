@@ -454,7 +454,7 @@
         <item>Кино</item>
     </string-array>
 	<string-array name="power_dialog_auto_clean_memory_items">
-        <item>Через 1 мунуту</item>
+        <item>Через 1 минуту</item>
         <item>Через 5 минут</item>
         <item>Через 10 минут</item>
         <item>Никогда</item>
