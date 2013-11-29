@@ -160,7 +160,7 @@
 	<string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
 	<string name="call_record_sd_space_low_miui">Память на SD-карте заполнена</string>
-	<string name="call_record_setting_miui">Запись разговора</string>
+	<string name="call_record_setting_miui">Запись разговоров</string>
 	<string name="call_record_unknown_error">Ошибка записи</string>
 	<string name="call_recording_notification_summary_miui">Уведомление о начале и окончании записи вызова.</string>
 	<string name="call_recording_notification_title_miui">Уведомлять о записи</string>
@@ -1135,7 +1135,7 @@
     <string name="callFailed_dsac_vt_resource_unavailable">Видео вызов не может быть установлен. Устройство на которое вы звоните находится вне зоны 3G, совершить голосовой вызов?</string>
     <string name="callFailed_dsac_vt_bearer_not_avail">Видео вызов не может быть установлен. Совершить голосовой вызов?</string>
     <string name="callFailed_dsac_vt_out_of_3G_yourphone">Ваше устройство находится вне зоны 3G, совершить голосовой вызов?</string>
-    <string name="callFailed_dsac_vt_bear_not_authorized">Видео вызов не может быть установлен. Функция видеовызова не поддерживается или не активна на данной SIM карте, совершить голосовой вызов?</string>
+    <string name="callFailed_dsac_vt_bear_not_authorized">Видео вызов не может быть установлен. Функция видеовызова не поддерживается или не активна на данной SIM-карте, совершить голосовой вызов?</string>
    <string name="notification_voicemail">Голосовая почта</string>
     <string name="turn_on_3g_service_message">3G сеть сейчас отключен, включить?</string>
     <string name="associate_sim_missing_message">%1$s SIM-карта недоступна. Позвонить с SIM-карты %2$s?</string>
@@ -1235,7 +1235,7 @@
     <string name="simlock_retriesleft">"Остаток: "</string>
     <string name="pin_name">PIN</string>
     <string name="pin2_name">PIN2</string>
-    <string name="simlock_newsim">Новая SIM карта</string>
+    <string name="simlock_newsim">Новая SIM-карта</string>
     <string name="simlock_nocard">Нет</string>
     <string name="simlock_emergency">Экстренный вызов.</string>
     <string name="simlock_wrongcode">Неправильный код.</string>
@@ -1244,21 +1244,21 @@
     <string name="simlock_entersimmelock">Введите SIM ME lock</string>
     <string name="simlock_for">для</string>
     <string name="simlock_enterpin2code">Введите PIN2 код</string>
-    <string name="simlock_enterpincode">Введите PIN код</string>
+    <string name="simlock_enterpincode">Введите PIN-код</string>
     <string name="simlock_enterpuk2code">Введите PUK2 код</string>
     <string name="simlock_enternewpin2code">Введите new PIN2</string>
     <string name="simlock_enterconfirmpin2code">Подтвердите новый PIN2</string>
-    <string name="simlock_enterpukcode">Введите PUK код</string>
+    <string name="simlock_enterpukcode">Введите PUK-код</string>
     <string name="simlock_enternewpincode">Введите новый PIN</string>
     <string name="simlock_enterconfirmpincode">Подтвердите новый PIN</string>
     <string name="simlock_pinnotmatched">"Не совпадают."</string>
     <string name="simlock_unlocking">Разблокировка…</string>
     <string name="simlock_returntocall">Вернуться к звонку</string>
-    <string name="simlock_firstsim">Для первой SIM карты</string>
-    <string name="simlock_secondsim">Для второй SIM карты</string>
-    <string name="simlock_newsiminsert">Новая SIM карта вставлена</string>
+    <string name="simlock_firstsim">Для первой SIM-карты</string>
+    <string name="simlock_secondsim">Для второй SIM-карты</string>
+    <string name="simlock_newsiminsert">Новая SIM-карта вставлена</string>
     <string name="simlock_moreinfo">Подробнее</string>
-    <string name="simlock_unlockmardedcard">Разблокировка выбранной SIM карты</string>
+    <string name="simlock_unlockmardedcard">Разблокировка выбранной SIM-карты</string>
     <string name="cannot_answered_Video_Call">Видеовызов не может быть совершен, так как уже совершается голосовой вызов.</string>
     <string name="cannot_answered_Voice_Call">Голосовой вызов не может быть совершен, так как уже совершается видео вызов.</string>
     <string name="callDurationFormat">%1$s мин. %2$s сек.</string>
@@ -1303,8 +1303,8 @@
     <string name="vt_cb_call_description">Настройки запрета видеовызовов</string>
     <string name="vt_addtional_call_description">Номер телефона и ожидание вызова</string>
     <string name="others">Другие настройки</string>
-    <string name="confirm_3g_switch">Установить 3G сеть на эту SIM карту? Эта SIM карта будет автоматически использоваться для видеовызовов.</string>
-    <string name="modem_switching">Смена SIM карт может занять некоторое время. Пожалуйста подождите…</string>
+    <string name="confirm_3g_switch">Установить 3G сеть на эту SIM-карту? Эта SIM-карта будет автоматически использоваться для видеовызовов.</string>
+    <string name="modem_switching">Смена SIM-карт может занять некоторое время. Пожалуйста подождите…</string>
     <string name="confirm_3g_switch_to_off">Отключить 3G сеть? Видеовызовы будут также отключены.</string>
     <string name="service_3g_off">Откл.</string>
     <string name="enable_3G_service">Включить 3G</string>
@@ -1375,7 +1375,7 @@
     <string name="fdn_errorcode_storage_info">Ошибка. Память заполнена.</string>
     <string name="fdn_errorcode_phb_info">Ошибка. Телефонная книга не готова, попробуйте позже.</string>
     <string name="fdn_errorcode_pin2_info">Ошибка. Неверный PIN2 код.</string>
-    <string name="net_or_simcard_busy">Сеть или SIM карта занята, попробуйте позже.</string>
+    <string name="net_or_simcard_busy">Сеть или SIM-карта занята, попробуйте позже.</string>
     <string name="umts_preferred_network_mode_dialogtitle">Сетевой режим</string>
     <string name="voice_call">Голосовой вызов</string>
     <string name="video_call">Видеовызов</string>
@@ -1440,7 +1440,7 @@
 Включить данную функцию?"</string>
     <string name="manual_select_title">Выбрать вручную</string>
     <string name="manual_select_dialog_msg">Мобильный телефон не будет автоматически выбирать оператора в режиме ручного выбора. Иногда необходимо будет заного выбрать, либо вернуться в автоматический режим выбора если устройство потеряет сеть выбранного оператора. Мы рекомендуем вам использовать \ "Выбирать автоматически \". Выбрать сеть вручную?</string>
-    <string name="no_service_msg_gemini">"Нет никакого обслуживания от выбранного оператора \"%s\" SIM карты.
+    <string name="no_service_msg_gemini">"Нет никакого обслуживания от выбранного оператора \"%s\" SIM-карты.
 Мы рекомендуем вам использовать \"Выбирать автоматически\", либо вы можете вручную выбрать другого оператора."</string>
     <string name="no_service_msg">"Нет никакого обслуживания от выбранного оператора.
 Мы рекомендуем вам использовать \"Выбирать автоматически\", либо вы можете вручную выбрать другого оператора."</string>
@@ -1473,9 +1473,9 @@
     <string name="international_dialing_invalid_number">Некорректный номер. Всё равно продолжить вызов?</string>
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Добавить код страны и код города?</string>
     <string name="no_search_result">Нет результатов поиска</string>
-    <string name="gemini_3g_disable_warning_case0">Необходимо включить передачу данных в роуминге для этой SIM карты, которые могут повлечь за собой значительные расходы на услуги связи! Включить передачу данных в роуминге и выбрать эту SIM карту?</string>
-    <string name="gemini_3g_disable_warning_case1">3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки > Беспроводные сети > Мобильные сети. Выбрать эту SIM карту?</string>
-    <string name="gemini_3g_disable_warning_case2">Необходимо включить передачу данных в роуминге для этой SIM карты, которые могут повлечь за собой значительные расходы на услуги связи! Кроме того 3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки > Беспроводные сети > Мобильные сети. Включить передачу данных в роуминге и выбрать эту SIM карту?</string>
+    <string name="gemini_3g_disable_warning_case0">Необходимо включить передачу данных в роуминге для этой SIM-карты, которые могут повлечь за собой значительные расходы на услуги связи! Включить передачу данных в роуминге и выбрать эту SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case1">3G недоступен для выбранной SIM-карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM-карты можно через Настройки > Беспроводные сети > Мобильные сети. Выбрать эту SIM-карту?</string>
+    <string name="gemini_3g_disable_warning_case2">Необходимо включить передачу данных в роуминге для этой SIM-карты, которые могут повлечь за собой значительные расходы на услуги связи! Кроме того 3G недоступен для выбранной SIM-карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM-карты можно через Настройки > Беспроводные сети > Мобильные сети. Включить передачу данных в роуминге и выбрать эту SIM-карту?</string>
     <string name="disable_data_connection_msg">Поиск доступных сетей отключит подключение передачи данных, которая находится в использовании. Вы хотите продолжить?</string>
     <string name="voice_command_notification_ticker" formatted="false">Вы можете сказать \"%s\" или \"%s\" для ответа или отклонения входящего звонка</string>
     <string name="voice_command_notification_title">Голосовое управление</string>

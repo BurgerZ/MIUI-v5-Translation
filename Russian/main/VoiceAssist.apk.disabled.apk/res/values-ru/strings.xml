@@ -165,8 +165,8 @@
   <string name="send_weather_sms_cycle">%1$s未来天气：%2$s</string>
   <string name="send_weather_sms_error">无相关天气信息</string>
   <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
-  <string name="sending">Отправить СМС на %1$s</string>
-  <string name="sending_content">На %1$s：</string>
+  <string name="sending">Отправить SMS на %1$s</string>
+  <string name="sending_content">На %1$s:</string>
   <string name="set_advance_vad_off_sample">增强VAD关闭</string>
   <string name="set_advance_vad_on_sample">增强VAD开启</string>
   <string name="set_vad_off_sample">VAD关闭</string>

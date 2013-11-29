@@ -88,6 +88,7 @@
 	<string name="recharge_history">История пополнения</string>
     <string name="login_ok">Вход</string>
     <string name="login_before_recharging">Необходимо авторизоваться перед пополнением.</string>
+	<string name="login_before_use">Необходимо авторизоваться перед использованием.</string>
     <string name="express_inquiry">Отслеживание</string>
     <string name="express_inquiry_button_text">Трек</string>
     <string name="express_inquiry_serial_number_prefix">"Номер: "</string>

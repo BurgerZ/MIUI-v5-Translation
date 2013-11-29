@@ -448,4 +448,70 @@
         <item>3600</item>
         <item>-1</item>
 	 </string-array>
+	 <string-array name="entries_dolby_control">
+        <item>Нет</item>
+        <item>Музыка</item>
+        <item>Кино</item>
+    </string-array>
+	<string-array name="power_dialog_auto_clean_memory_items">
+        <item>Через 1 мунуту</item>
+        <item>Через 5 минут</item>
+        <item>Через 10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+	<string-array name="power_dialog_sleep_items">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+	<string-array name="power_dialog_cpu_state_items">
+        <item>Производительность</item>
+        <item>Баланс</item>
+        <item>Энергосбережение</item>
+    </string-array>
+	<string-array name="power_dialog_vibration_items">
+        <item>Никогда</item>
+        <item>В режиме \"Без звука\"</item>
+        <item>Всегда</item>
+    </string-array>
+	<string-array name="score_descriptions">
+        <item>Черный список отключен</item>
+        <item>Управление разрешениями отключено</item>
+        <item>Очень много мусора</item>
+        <item>Время ожидания сканирования вирусов истекло</item>
+        <item>Очень много фоновых процессов</item>
+    </string-array>
+	<string-array name="score_suggests">
+        <item>Включить черный список</item>
+        <item>Включите приложение для управления разрешениями</item>
+        <item>Очистите мусор</item>
+        <item>Обновите вирусную базу</item>
+        <item>Контролируйте количество фоновых процессов</item>
+    </string-array>
+	<string-array name="multi_sim_entries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Запрос</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Запрос пользователя</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+	</string-array>
 </resources>

@@ -55,7 +55,7 @@
 	<string name="resource_comment_edit_comment">Добавить отзыв</string>
 	<string name="resource_comment_edit_comment_waiting">Проверка ваших отзывов к этой теме…</string>
 	<string name="resource_comment_edit_text_default">Написать отзыв</string>
-	<string name="resource_comment_edit_title">Отзывы к \"%1$s\"</string>
+	<string name="resource_comment_edit_title">Отзывы к теме \"%1$s\"</string>
 	<string name="resource_comment_entry_tips">Все отзывы</string>
 	<string name="resource_comment_expand_full_text">Показать весь текст▼</string>
 	<string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить.</string>
@@ -63,7 +63,7 @@
 	<string name="resource_comment_publish">" Отправить "</string>
 	<string name="resource_comment_rate">Рейтинг:</string>
 	<string name="resource_comment_sending">Отправка отзыва…</string>
-	<string name="resource_comment_title">Отзывы к \"%1$s\"</string>
+	<string name="resource_comment_title">Отзывы к теме \"%1$s\"</string>
 	<string name="resource_comment_upload_data_invalid">Ошибка отправки отзыва</string>
 	<string name="resource_comment_upload_failed">Ошибка сохранения отзыва</string>
 	<string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, необходимо применить тему.</string>

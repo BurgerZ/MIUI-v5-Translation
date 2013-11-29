@@ -23,7 +23,7 @@
     <string name="T_card_test">Карта памяти</string>
     <string name="Bluetooth_test">Bluetooth</string>
     <string name="no_bt">Нет Bluetooth</string>
-    <string name="SimCard_test">SIM карта</string>
+    <string name="SimCard_test">SIM-карта</string>
     <string name="Vibrator_test">Вибро</string>
     <string name="RTC_test">RTC</string>
     <string name="Ringtone_test">Рингтон</string>
@@ -105,7 +105,7 @@
     <string name="touchpanel_test">Тест сенсорного экрана</string>
     <string name="tflash_test">Тест карт памяти</string>
     <string name="bluetooth_test">Тест Bluetooth</string>
-    <string name="simcard_test">Тест SIM карты</string>
+    <string name="simcard_test">Тест SIM-карты</string>
     <string name="backlight_test_min">Темная</string>
     <string name="backlight_test_half">Средняя</string>
     <string name="backlight_test_max">Яркая</string>
