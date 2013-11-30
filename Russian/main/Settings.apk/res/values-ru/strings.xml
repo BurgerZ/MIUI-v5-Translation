@@ -2613,7 +2613,7 @@
     <string name="power_mode_cpu_state_save">Экономия</string>
     <string name="power_mode_cpu_state_save_desc">Приоритет для батареи над производительностью.</string>
     <string name="power_mode_auto_clean_memory">Автоматическая очистка памяти</string>
-    <string name="power_mode_auto_clean_memery_lock_screen">Блокировать экран после %1$d мин.</string>
+    <string name="power_mode_auto_clean_memery_lock_screen">Очистка после %1$d мин.</string>
     <string name="power_mode_auto_clean_memory_in_one_minute">После 1 мин.</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">После 5 мин.</string>
     <string name="power_mode_auto_clean_memory_in_ten_minutes">После 10 мин.</string>
@@ -2621,9 +2621,9 @@
     <string name="power_mode_screen_brightness">Яркость</string>
     <string name="power_mode_screen_brightness_manual">Ручная: %1$d%%</string>
     <string name="power_mode_screen_brightness_automatic">Авто: %1$d%%</string>
-    <string name="power_mode_sleep">Сон</string>
-    <string name="power_mode_sleep_in_seconds">Режим сна после %1$d сек. бездействия.</string>
-    <string name="power_mode_sleep_in_minutes">Режим сна после %1$d мин. бездействия.</string>
+    <string name="power_mode_sleep">Режим сна</string>
+    <string name="power_mode_sleep_in_seconds">Сон после %1$d сек.</string>
+    <string name="power_mode_sleep_in_minutes">Сон после %1$d мин.</string>
     <string name="power_mode_sleep_never">Никогда</string>
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_mode_internet">2G/3G</string>

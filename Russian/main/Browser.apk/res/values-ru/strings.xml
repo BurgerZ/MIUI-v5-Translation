@@ -420,7 +420,7 @@
 	<string name="pref_text_zoom">Масштабирование текста</string>
 	<string name="pref_ua_string">Агент пользователя</string>
 	<string name="pref_ua_mione_entry">Телефон Xiaomi</string>
-	<string name="pref_ua_title">Настройки UserAgent</string>
+	<string name="pref_ua_title">Настройки агента</string>
 	<string name="pref_use_instant_search">Google Живой поиск</string>
 	<string name="pref_use_instant_search_summary">В живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
 	<string name="pref_video_preload_dialogtitle">Загрузка видео</string>
