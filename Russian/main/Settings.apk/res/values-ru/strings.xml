@@ -1279,7 +1279,7 @@
 	<string name="permission_detail_info">Разрешения</string>
 	<string name="permission_detail_info_summary">безопасные: %1$d, приватные: %2$d, другие: %3$d.</string>
 	<string name="permission_manage">Управление разрешениями</string>
-	<string name="permission_manage_summary">Автоматический запуск, конфиденциальность, безопасное управление правами</string>
+	<string name="permission_manage_summary">Автоматический запуск, конфиденциальность, безопасное управление правами.</string>
 	<string name="permission_manage_title">Разрешения %s</string>
 	<string name="permissions_label">Информация о разрешениях</string>
 	<string name="personal_data_section_title">Возврат к заводским настройкам</string>
