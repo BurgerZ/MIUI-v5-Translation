@@ -53,8 +53,8 @@
 		<item quantity="one">Результатов: %d</item>
 	</plurals>
      <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">Треков на SD-карте: %d</item>
-        <item quantity="one">Треков на SD-карте: 1</item>
+        <item quantity="other">Треков: %d</item>
+        <item quantity="one">Треков: 1</item>
      </plurals>
      <plurals name="Ntracks">
         <item quantity="other">треки</item>

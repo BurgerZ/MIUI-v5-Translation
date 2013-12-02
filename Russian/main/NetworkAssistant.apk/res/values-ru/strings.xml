@@ -73,7 +73,7 @@
 	<string name="menu_settings">Настройки</string>
 	<string name="menu_sort">Сортировка</string>
 	<string name="menu_sort_by_all_traffic">По общему трафику</string>
-	<string name="menu_sort_by_disabled">По откл. приложениям</string>
+	<string name="menu_sort_by_disabled">По приложениям с запретами</string>
 	<string name="menu_sort_by_mobile_traffic">По 2G/3G трафику</string>
 	<string name="menu_sort_by_name">По имени приложений</string>
 	<string name="menu_traffic_adjust">Регулировка трафика</string>
