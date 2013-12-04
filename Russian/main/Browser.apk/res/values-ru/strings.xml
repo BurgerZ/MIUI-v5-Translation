@@ -431,7 +431,7 @@
 	<string name="pref_save_bandwidth_mode_summary">Запретить загрузку изображений при использовании мобильного интернета.</string>
 	<string name="menu_enable_save_bandwidth_mode">Включить мобильный трафик</string>
 	<string name="menu_disable_save_bandwidth_mode">Отключить мобильный трафик</string>
-	<string name="menu_save_bandwidth_mode_first_clicked_txt">Не загружать изображения при использовании мобильного интернета</string>
+	<string name="menu_save_bandwidth_mode_first_clicked_txt">При использовании мобильного интернета загрузка изображений будет отключена.</string>
 	<string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">ОК</string>
 	<string name="menu_save_bandwidth_mode_open_toast">Ограничение мобильного трафика включено</string>
 	<string name="menu_save_bandwidth_mode_close_toast">Ограничение мобильного трафика отключено</string>
