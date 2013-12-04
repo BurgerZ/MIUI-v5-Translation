@@ -39,7 +39,7 @@
 	<string name="download_succ_line5">Файл получен</string>
 	<string name="download_succ_ok">Открыть</string>
 	<string name="download_success">Получено: %1$s</string>
-	<string name="download_title">Передача файла</string>
+	<string name="download_title">Передача файлов</string>
 	<string name="enabling_progress_content">Включение Bluetooth…</string>
 	<string name="enabling_progress_title">Подождите…</string>
 	<string name="hello">Hello, World! (проверка связи)</string>
@@ -52,7 +52,7 @@
 	<string name="incoming_file_confirm_ok">Принять</string>
 	<string name="incoming_file_confirm_timeout_content">В процессе приема файла от \"%1$s\" произошел тайм-аут</string>
 	<string name="incoming_file_confirm_timeout_ok">ОК</string>
-	<string name="incoming_file_confirm_title">Передача файла</string>
+	<string name="incoming_file_confirm_title">Передача файлов</string>
 	<string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что хотите загрузить его.</string>
 	<string name="insert_record">Вставить запись</string>
 	<string name="localPhoneName">Мое название</string>
@@ -89,7 +89,7 @@
 	<string name="status_forbidden">Пользователь отклонил запрос на прием файла.</string>
 	<string name="status_no_sd_card">USB-накопитель не найден</string>
 	<string name="status_not_accept">Контент не поддерживается</string>
-	<string name="status_pending">Передача файла еще не удалась.</string>
+	<string name="status_pending">Ошибка передачи файлов</string>
 	<string name="status_protocol_error">Невозможно правильно обработать запрос</string>
 	<string name="status_running">Выполняется передача файла</string>
 	<string name="status_success">Передача файла успешно завершена</string>
@@ -109,7 +109,7 @@
 	<string name="upload_fail_line1">Файл не был отправлен на устройство \"%1$s\"</string>
 	<string name="upload_fail_line1_2">Файл: %1$s</string>
 	<string name="upload_fail_ok">Повторить</string>
-	<string name="upload_line1">Куда: \"%1$s\"</string>
+	<string name="upload_line1">Куда: %1$s</string>
 	<string name="upload_line3">Тип файла: %1$s (%2$s)</string>
 	<string name="upload_line5">Отправка файла…</string>
 	<string name="upload_succ_line5">Файл отправлен</string>

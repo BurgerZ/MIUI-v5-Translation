@@ -136,10 +136,10 @@
 	<string name="disable_autofill">Отключить автозаполнение</string>
 	<string name="do_not_save">Отмена</string>
 	<string name="download_complete">Загрузка завершена</string>
-	<string name="download_dialog_file_length_hint_txt">Размер файла</string>
-	<string name="download_dialog_file_length_lessthan1kb">Менее 1 Кб</string>
-	<string name="download_dialog_file_length_nolength_error_txt">Не удалось получить данные</string>
-	<string name="download_dialog_file_length_nolength_txt">Получение…</string>
+	<string name="download_dialog_file_length_hint_txt">Размер файла:</string>
+	<string name="download_dialog_file_length_lessthan1kb">менее 1 Кб</string>
+	<string name="download_dialog_file_length_nolength_error_txt">неизвестно</string>
+	<string name="download_dialog_file_length_nolength_txt">получение…</string>
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
 	<string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
@@ -197,7 +197,7 @@
 	<string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
 	<string name="history">История</string>
 	<string name="history_browsed">История просмотра</string>
-	<string name="history_most_visited">Часто посещаемые</string>
+	<string name="history_most_visited">Популярные</string>
 	<string name="history_saved_webpage">Сохраненные страницы</string>
 	<string name="history_track">История</string>
 	<string name="homepage_set">Главная страница установлена</string>
@@ -268,7 +268,7 @@
 	<string name="open_all_in_new_window">Открыть все в новых вкладках</string>
 	<string name="open_bookmark">Открыть</string>
 	<string name="open_history_group_in_new_window">Открыть всю историю</string>
-	<string name="open_history_most_visited_group_in_new_window">Открыть все часто посещаемые сайты</string>
+	<string name="open_history_most_visited_group_in_new_window">Открыть все популярные сайты</string>
 	<string name="other_bookmarks">Другие закладки</string>
 	<string name="page_info">Информация</string>
 	<string name="page_info_address">Адрес:</string>
@@ -443,8 +443,8 @@
 	<string name="quicklink_user_define_webpage_title">Имя</string>
 	<string name="quicklink_user_define_webpage_url">URL</string>
 	<string name="quicklinks_group_default_subtitle">Пусто</string>
-	<string name="quicklinks_most_visited">Добавить ссылку на стартовую страницу</string>
-	<string name="quicklinks_most_visited_subtitle">Добавление популярных сайтов на стартовую страницу</string>
+	<string name="quicklinks_most_visited">Добавить ссылку в популярные</string>
+	<string name="quicklinks_most_visited_subtitle">Добавление популярных ссылок</string>
 	<string name="quicklinks_management">Популярные сайты</string>
 	<string name="readmode_already_add_to_bookshelf">Подключено к книжной полке</string>
 	<string name="readmode_login">Войти</string>
@@ -501,7 +501,7 @@
 	<string name="selection_all">Выбрать все</string>
 	<string name="send_bookmark_to_home_screen">Ярлык на рабочий стол</string>
 	<string name="send_to_desktop">Ярлык</string>
-	<string name="set_as_homepage">Сделать главной страницей</string>
+	<string name="set_as_homepage">Назначить домашней страницей</string>
 	<string name="share_link">Поделиться</string>
 	<string name="share_page">Поделиться</string>
 	<string name="shortcut_bookmark">Закладка</string>
@@ -528,7 +528,7 @@
 	<string name="tab_bookmarks">Закладки</string>
 	<string name="tab_closed">Вкладка закрыта</string>
 	<string name="tab_history">История</string>
-	<string name="tab_most_visited">Часто посещаемые</string>
+	<string name="tab_most_visited">Популярные</string>
 	<string name="tab_opened_background">Вкладка открыта в фоне</string>
 	<string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
 	<string name="tab_quicklinks">Ссылки</string>
@@ -624,4 +624,5 @@
 	<string name="send_to_popular">На главную</string>
 	<string name="add_quicklink_to_popular">Добавить на главную страницу</string>
     <string name="quicklink_saved_before">Ссылка уже добавлена на главную страницу</string>
+	<string name="quicklinks_most_visited_title">Добавить в популярные</string>
 </resources>

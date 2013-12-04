@@ -6,7 +6,7 @@
     <string name="alert_title_save_station">Сохранить радиостанцию</string>
     <string name="app_name">Радио</string>
     <string name="edit_station">Редактировать</string>
-    <string name="fmradio_clear_confirm_msg">Сохраненные радиостанции будут удалены, продолжить сканирование?</string>
+    <string name="fmradio_clear_confirm_msg">Сохраненные станции будут удалены. Продолжить сканирование?</string>
     <string name="frequency_already_exist">Частота уже существует</string>
     <string name="frequency_out_of_range">Частота вне диапозона (%1$s~%2$s)</string>
     <string name="frequency_should_not_null">Частота не может быть пустой</string>
@@ -16,12 +16,12 @@
     <string name="menu_new_station">Добавить новую станцию</string>
 	<string name="menu_save_station_list">Добавить в список</string>
 	<string name="toast_added_to_list">Добавлено в список</string>
-    <string name="menu_save_station_presets">Добавить пресетов</string>
+    <string name="menu_save_station_presets">Добавить в избранное</string>
     <string name="menu_exit">Выход</string>
     <string name="menu_play">Слушать</string>
     <string name="menu_save_station">Сохранить радиостанцию</string>
     <string name="menu_scan">Сканировать</string>
-    <string name="station_freq_format">%sМГц</string>
+    <string name="station_freq_format">%s МГц</string>
     <string name="station_name_already_used">Такое имя уже используется. Пожалуйста, выберите другое название станции.</string>
     <string name="stations_list">Список радиостанций</string>
     <string name="stations_list_empty">Список пуст</string>
@@ -47,7 +47,7 @@
     <string name="msg_scanning">Сканирование станций…</string>
     <string name="msg_scanning_pty">Сканирование по %s…</string>
     <string name="msg_search_title">FM - %1$s</string>
-    <string name="msg_searching">Поиск станций для создания заданного списка…</string>
+    <string name="msg_searching">Поиск станций для создания списка…</string>
     <string name="msg_searching_title">Автоматический выбор станций</string>
     <string name="msg_weak_searching">Поиск частот…</string>
     <string name="msg_headsetpluggedin">Отключите наушники</string>
@@ -60,20 +60,20 @@
     <string name="preset_delete">Удалить</string>
     <string name="stat_notif_frequency">%1$s МГц</string>
     <string name="stat_notif_tx_frequency">FM частота: %1$s</string>
-    <string name="sel_band_menu">Переключение региональные группы (удаляет избранное)</string>
+    <string name="sel_band_menu">Выбор регионального диапазона (станции будут удалены)</string>
     <string name="test_menu">Выбрать тест</string>
     <string name="settings_menu">Настройки</string>
     <string name="regional_band">Региональные группы</string>
     <string name="auto_select_af">Альтернативная частота</string>
     <string name="auto_select_af_summary">Когда сигнал радио становится слишком слабым, устанавливается альтернативная частота, с которой будет работать та же станция.</string>
-    <string name="settings_revert_confirm_msg">Избранные станции удалены</string>
+    <string name="settings_revert_confirm_msg">Избранные станции будут удалены</string>
     <string name="settings_revert_defaults_title">Сбросить настройки радио?</string>
     <string name="audio_type_stereo">Стерео</string>
     <string name="audio_type_mono">Моно</string>
     <string name="default_band">США</string>
     <string name="default_audio">Стерео</string>
     <string name="factory_reset_dialog_title">Сбросить настройки радио?</string>
-    <string name="factory_reset_dialog_message">Все избранные станции будут удалены.</string>
+    <string name="factory_reset_dialog_message">Все избранные станции будут удалены</string>
     <string name="station_move">Переместить</string>
     <string name="station_edit">Редактировать</string>
     <string name="no_storage">Вставьте SD-карту перед записью.</string>
@@ -114,7 +114,7 @@
     <string name="enter_rssi">Ввести RMSSI Delta</string>
     <string name="enter_sigth">Ввести сигнал Th</string>
     <string name="set">ОК</string>
-	<string name="msg_noantenna_message">Подключите наушники</string>
+	<string name="msg_noantenna_message">Подключите наушники для лучшего качества приема</string>
     <string name="msg_do_not_support_fm">FM радио не поддерживается на этом устройстве</string>
 	<string name="toast_sleep_mode">Радио будет отключено через %s</string>
     <string name="status_recording">Запись: %s</string>
@@ -238,4 +238,9 @@
     <string name="FMR_Patch_Version">Нет</string>
     <string name="FMR_DSP_Version_text">DSP Версия</string>
     <string name="FMR_DSP_Version">Нет</string>
+	<string name="toast_sleep_mode_exit">Спящий режим отключен</string>
+	<string name="station_check_favorite">Добавить в избранное</string>
+    <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
+    <string name="toast_fm_recorder_storage_full">Ошибка записи. Память заполнена.</string>
+    <string name="toast_fm_not_stated">Радио не указано</string>
 </resources>
