@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="channel_tabs">
-        <item>Хиты</item>
+     <string-array name="channel_featured_tabs">
+        <item>Лучшие</item>
         <item>Топ</item>
-        <item>Последние</item>
-    </string-array>
-    <string-array name="channel_featured_tabs">
-        <item>Хиты</item>
+        <item>Новые</item>
+     </string-array>
+     <string-array name="channel_tabs">
+        <item>Лучшие</item>
         <item>Топ</item>
-        <item>Последние</item>
-    </string-array>
-    <string-array name="series_detail_tabs">
-        <item>剧集</item>
-        <item>Введение</item>
-    </string-array>
+        <item>Новые</item>
+     </string-array>
+     <string-array name="home_tabs">
+        <item>Онлайн</item>
+        <item>Телефон</item>
+     </string-array>
+     <string-array name="series_detail_tabs">
+        <item>Эпизод</item>
+        <item>Описание</item>
+     </string-array>
 </resources>
