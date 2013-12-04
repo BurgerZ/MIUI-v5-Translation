@@ -150,7 +150,7 @@
     <string name="toast_removed_from_presets">Удалено из избранного</string>
     <string name="toast_fm_starting">Радио запускается…</string>
     <string name="toast_fm_stoping">Радио выключается…</string>
-    <string name="toast_fm_seeking">Поиск станций…</string>
+    <string name="toast_fm_seeking">Поиск станции…</string>
 	<string name="favorite_manager">Список станций</string>
     <string name="add_to_favorite">Добавить в избранное</string>
     <string name="add_to_favorite1">Добавить в сохраненные радиостанции</string>
