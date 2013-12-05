@@ -192,7 +192,7 @@
 	<string name="kick_sharer_failed">Ошибка удаления</string>
 	<string name="kick_sharer_successfully">Получатель удален</string>
 	<string name="photo_page_always_rotate">Автоповорот</string>
-	<string name="loading">Идет загрузка…</string>
+	<string name="loading">Загрузка…</string>
 	<string name="loading_failure">Не удалось загрузить изображение</string>
 	<string name="loading_thumbnail">Загрузка…</string>
 	<string name="local_albums">Локальные</string>

@@ -1584,10 +1584,10 @@
 	<string name="settings_button">Настройки</string>
 	<string name="settings_label">Настройки</string>
 	<string name="settings_label_launcher">Настройки</string>
-	<string name="settings_license_activity_loading">Идет загрузка…</string>
+	<string name="settings_license_activity_loading">Загрузка…</string>
 	<string name="settings_license_activity_title">Лицензии открытого ПО</string>
 	<string name="settings_license_activity_unavailable">При загрузке лицензий возникла неполадка</string>
-	<string name="settings_safetylegal_activity_loading">Идет загрузка…</string>
+	<string name="settings_safetylegal_activity_loading">Загрузка…</string>
 	<string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
 	<string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
 	<string name="settings_safetylegal_title">Сведения о безопасности</string>

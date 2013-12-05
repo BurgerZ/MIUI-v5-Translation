@@ -71,7 +71,7 @@
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
   <string name="iso">ISO</string>
-  <string name="loading">Идет загрузка…</string>
+  <string name="loading">Загрузка…</string>
   <string name="loading_account">Загрузка аккаунта…</string>
   <string name="loading_failure">Не удалось загрузить фото</string>
   <string name="loading_image">Загрузка изображения…</string>
