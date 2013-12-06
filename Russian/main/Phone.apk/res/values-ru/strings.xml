@@ -495,8 +495,8 @@
 	<string name="label_puk2_code">Введите код PUK2</string>
 	<string name="label_puk2_code_miui">Введите PUK2-код</string>
 	<string name="label_puk_code_miui">Введите PUK-код</string>
-	<string name="label_rcdp">RUIM corporate unlock PIN</string>
-	<string name="label_rdp">RUIM RUIM unlock PIN</string>
+	<string name="label_rcdp">PIN для разблоркировки корпоративной RUIM</string>
+	<string name="label_rdp">PIN для разблокировки RUIM RUIM</string>
 	<string name="label_puk">Ввод PUK-кода</string>
 	<string name="label_rhrpd">PIN для разблокировки hrpd RUIM</string>
 	<string name="label_rn1dp">PIN для разблокировки сети1 RUIM</string>
@@ -583,13 +583,13 @@
 	<string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
 	<string name="notification_action_end_call">Завершить вызов</string>
 	<string name="notification_incoming_call">Входящий вызов</string>
-	<string name="notification_missedCallTicker">Пропущенные вызовы от контакта %s</string>
+	<string name="notification_missedCallTicker">Пропущенные вызовы от контакта \"%s\"</string>
 	<string name="notification_missedCallTitle">Пропущенный вызов</string>
 	<string name="notification_missedCall_call_back">Вызов</string>
 	<string name="notification_missedCall_message">SMS</string>
 	<string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
 	<string name="notification_missedCallsTitle">Пропущенные вызовы</string>
-	<string name="notification_network_selection_text">Выбранная сеть (%s) недоступна</string>
+	<string name="notification_network_selection_text">Выбранная сеть \"%s\" недоступна</string>
 	<string name="notification_network_selection_title">Сеть не найдена</string>
 	<string name="notification_on_hold">На удержании</string>
 	<string name="notification_ongoing_call">Текущий вызов</string>
@@ -682,8 +682,8 @@
 	<string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: ​​Вы ввели неверный ПИН-код или слишком длинное имя</string>
 	<string name="pin2_lock_warning_miui">\nФункционал, касающийся PIN2, будет заблокирован при неудачной попытке!</string>
 	<string name="pin2_locked_message_miui">Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2</string>
-	<string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
-	<string name="pin_attempts_miui">Осталось %d попыток</string>
+	<string name="pin2_or_fdn_invalid">FDN не обновлен. PIN2 неверный или номер телефона был отклонен.</string>
+	<string name="pin_attempts_miui">Осталось попыток: %d</string>
 	<string name="pin_changed">PIN SIM-карты успешно изменен</string>
 	<string name="pin_changed_miui">PIN SIM-карты успешно изменен</string>
 	<string name="pin_failed">Введен неверный PIN</string>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Антиспам</string>
+    <string name="app_name">Черный список</string>
     <string name="bl_block_info" formatted="false">Вызовов: %d, Сообщений: %d</string>
     <string name="bl_no_blacklist">Черный список отсутствует</string>
     <string name="bl_no_block_call">Все заблокированные вызовы будут храниться в этом журнале</string>
     <string name="bl_no_block_sms">Все заблокированные сообщения будут храниться в этом журнале</string>
     <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
-    <string name="dlg_add_keyword">Ключевое слово</string>
+    <string name="dlg_add_keyword">Ключевые слова</string>
     <string name="dlg_add_manual_hint">Введите номер телефона</string>
     <string name="dlg_add_manual_ok">Добавить</string>
     <string name="dlg_bl_add_manual">Добавить номер в черный список</string>
@@ -29,7 +29,7 @@
     <string name="dlg_remove_blacklist_ok">ОК</string>
     <string name="dlg_retore">Восстановить в сообщения?</string>
     <string name="dlg_retore_ok">ОК</string>
-    <string name="fw_blocked">Антиспам</string>
+    <string name="fw_blocked">Черный список</string>
     <string name="fw_blocked_count" formatted="false">Вызовы: %d, SMS: %d</string>
     <string name="marked_by_others">%d пользователи отметили как</string>
     <string name="marked_by_user">вы отметили как</string>
@@ -55,7 +55,7 @@
     <string name="menu_sms">Отправить сообщения</string>
     <string name="st_block_all">Блокировать вызовы и сообщения</string>
     <string name="st_block_mute">Блокировать вызовы и не уведомлять о сообщениях</string>
-    <string name="st_block_private_call_button">Блокировать неизвестные</string>
+    <string name="st_block_private_call_button">Блокировать скрытые номера</string>
     <string name="st_block_title">Блокировать</string>
     <string name="st_call_group">Вызовы</string>
     <string name="st_common_setting_group">Общие</string>
@@ -68,7 +68,7 @@
 	<string name="tab_block_log_unKnowNumber">Неизвестный номер</string>
     <string name="st_filter_keywords_setting_title">Ключевые слова</string>
     <string name="st_filter_keywords_title">Ключевые слова для сообщений</string>
-    <string name="st_filter_sms_button">Фильтр спам-сообщений</string>
+    <string name="st_filter_sms_button">Фильтр сообщений</string>
     <string name="st_mute_all">Не уведомлять о вызовах и сообщениях</string>
     <string name="st_mute_block">Не уведомлять о вызовах и блокировать сообщения</string>
     <string name="st_mute_title">Не уведомлять</string>
@@ -77,11 +77,11 @@
 	<string name="st_block_setting_title">Вызовы и сообщения</string>
 	<string name="st_show_block_notification">Показывать уведомления</string>
     <string name="st_sms_group">Сообщения</string>
-    <string name="tab_blacklist">Черный список</string>
+    <string name="tab_blacklist">Контакты</string>
     <string name="tab_block_log">Журнал</string>
     <string name="tab_call">Вызовы</string>
     <string name="tab_sms">Сообщения</string>
-    <string name="tab_title">Антиспам</string>
+    <string name="tab_title">Черный список</string>
     <string name="toast_keyword_blank">Вы не ввели ключевые слова</string>
     <string name="toast_keyword_exist">Ключевое слово \"%s\" уже существует</string>
 	<string name="toast_keyword_invalid">Неверное ключевое слово</string>

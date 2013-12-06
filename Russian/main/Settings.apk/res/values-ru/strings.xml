@@ -1774,14 +1774,14 @@
 	<string name="tts_default_rate_title">Скорость речи</string>
 	<string name="tts_default_settings_section">Настройки по умолчанию</string>
 	<string name="tts_default_synth_summary">Выбор системы синтеза речи по умолчанию</string>
-	<string name="tts_default_synth_title">Система по умолчанию</string>
-	<string name="tts_engine_error">Выбранная система не может быть запущена</string>
+	<string name="tts_default_synth_title">По умолчанию</string>
+	<string name="tts_engine_error">Выбранная система синтеза не может быть запущена</string>
 	<string name="tts_engine_error_config">Настроить</string>
 	<string name="tts_engine_error_reselect">Выбрать другую систему</string>
 	<string name="tts_engine_name_is_disabled_summary">%s: отключено</string>
 	<string name="tts_engine_name_is_enabled_summary">%s включен</string>
 	<string name="tts_engine_name_settings">Настройки %s</string>
-	<string name="tts_engine_preference_section_title">Система по умолчанию</string>
+	<string name="tts_engine_preference_section_title">Предпочтения</string>
 	<string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
 	<string name="tts_engine_settings_button">Настройки синтеза речи</string>
 	<string name="tts_engine_settings_section">Настройки синтеза</string>
@@ -2770,7 +2770,7 @@
     <string name="valuation">Рекомендуется очистка</string>
     <string name="virus_scan">Антивирус</string>
     <string name="network_assistant">Трафик</string>
-    <string name="anti_spam">Антиспам</string>
+    <string name="anti_spam">Черный список</string>
     <string name="permission_mgr">Разрешения</string>
     <string name="cleaner">Очистка</string>
     <string name="power_mgr">Батарея</string>
