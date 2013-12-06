@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="virus_scan_install"><u>Все равно установить</u></string>
+    <string name="virus_scan_is_virus">Приложение содержит вирус</string>
+    <string name="virus_scan_is_risk">Это приложение представляет угрозу безопасности вашему устройству.</string>
+    <string name="virus_scan_clear">Удалить</string>
+</resources>
