@@ -954,10 +954,10 @@
     <string name="resource_comment_no_comment">Нет отзывов</string>
     <string name="resource_comment_current_version">Текущая версия</string>
     <string name="resource_comment_date">%1$02d.%2$02d</string>
-    <string name="resource_comment_upload_hint">Ваш отзыв будет отображаться после небольшой проверки</string>
+    <string name="resource_comment_upload_hint">Ваш отзыв будет отображаться после проверки модераторов.</string>
 	<string name="resource_comment_sending">Отправка отзыва…</string>
     <string name="resource_comment_upload_failed">Ошибка отправки отзыва</string>
-    <string name="resource_comment_upload_success">Отзыв отправлен! Ваш отзыв будет отображаться после небольшой проверки.</string>
+    <string name="resource_comment_upload_success">Отзыв отправлен! Ваш отзыв будет отображаться после проверки модераторов.</string>
     <string name="resource_comment_upload_data_invalid">Неверный отзыв</string>
     <string name="resource_comment_upload_not_logined">Сначала необходимо авторизироваться</string>
     <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, необходимо применить тему.</string>
@@ -1053,7 +1053,7 @@
     <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы преобреди для темы %1$sis: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
     <string name="resource_exchange_share_code_content">Вы получили подарочный код для темы %1$s. Код темы: %2$s. Нажмите для использования: %3$s.</string>
     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
-	<string name="resource_comment_score_count">Пользователей: %1$s</string>
+	<string name="resource_comment_score_count">Оценок: %1$s</string>
 	<string name="resource_comment_loading_list">Загрузка…</string>
 	<string name="account_unactivated">Аккаунт Xiaomi не активирован</string>
     <string name="to_activate_the_account">Активируйте аккаунт Xiaomi</string>

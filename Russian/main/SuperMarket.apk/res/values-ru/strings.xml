@@ -28,7 +28,7 @@
 	<string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
 	<string name="comment_name_default">Пользователь %1$s</string>
 	<string name="comment_publish">Отправить</string>
-	<string name="comment_score_count">Пользователей: %1$s</string>
+	<string name="comment_score_count">Оценок: %1$s</string>
 	<string name="comment_sending">Отправка…</string>
 	<string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован, включить его сейчас?</string>
 	<string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован, пожалуйста, активируйте и попробуйте еще раз</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (найдено: %1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (найдено: %1$s)</item>
+    </plurals>
+</resources>

@@ -3,7 +3,7 @@
 	<string name="app_label">Диспетчер загрузки</string>
 	<string name="auto_restart_under_wifi">Автоматически загрузить файл через Wi-Fi</string>
 	<string name="button_cancel_download">Отмена</string>
-	<string name="button_queue_for_wifi">Добавить в очередь</string>
+	<string name="button_queue_for_wifi">Позже</string>
 	<string name="button_start_now">Загрузить</string>
 	<string name="dialog_insufficient_space_on_cache">Не хватает памяти на внутренней памяти</string>
 	<string name="dialog_insufficient_space_on_external">Не хватает памяти на SD-карте</string>
