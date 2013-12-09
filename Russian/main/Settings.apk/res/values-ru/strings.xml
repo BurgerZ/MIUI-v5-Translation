@@ -102,7 +102,7 @@
 	<string name="apn_mms_port">Порт MMS</string>
 	<string name="apn_mms_proxy">Прокси-сервер MMS</string>
 	<string name="apn_name">Имя</string>
-	<string name="apn_new">Новая точка доступа</string>
+	<string name="apn_new">Добавить</string>
 	<string name="apn_not_set">Не задано</string>
 	<string name="apn_password">Пароль</string>
 	<string name="apn_protocol">Протокол APN</string>
@@ -1048,7 +1048,7 @@
 	<string name="menu_delete">Удалить</string>
 	<string name="menu_key">Клавиша \"Меню\"</string>
 	<string name="menu_new">Новая точка доступа</string>
-	<string name="menu_restore">Настройки по умолчанию</string>
+	<string name="menu_restore">По умолчанию</string>
 	<string name="menu_save">Сохранить</string>
 	<string name="menu_stats_last_unplugged">С последнего отключения %1$s</string>
 	<string name="menu_stats_refresh">Обновить</string>
