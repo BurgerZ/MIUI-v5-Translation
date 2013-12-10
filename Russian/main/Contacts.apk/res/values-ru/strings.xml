@@ -32,7 +32,7 @@
 	<string name="all_list_empty">Нет контактов</string>
 	<string name="all_resources">Все</string>
 	<string name="antispam_mark_my_contribution">Метка</string>
-	<string name="antispam_provider_format">Техническая поддержка: %s</string>
+	<string name="antispam_provider_format">Поддержка: %s</string>
 	<string name="attach_photo_dialog_title">Фото контакта</string>
 	<string name="audio_chat">Голосовой чат</string>
 	<string name="auto_nickname">Авто</string>

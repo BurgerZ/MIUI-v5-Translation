@@ -51,7 +51,7 @@
 	<string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
 	<string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск при загрузке телефона</string>
 	<string name="privacy_relative">Опасные разрешения</string>
-	<string name="safe_guard_support">Техническая поддержка: %1$s</string>
+	<string name="safe_guard_support">Поддержка: %1$s</string>
 	<string name="safe_relative">Безопасные разрешения</string>
 	<string name="security_settings_desc">Разрешить этому приложению:</string>
 	<string name="settings">Настройки</string>

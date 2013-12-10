@@ -171,7 +171,7 @@
 	<string name="playlist_recently_played">Недавние</string>
 	<string name="playlist_renamed_message">Плейлист переименован</string>
 	<string name="playlists_title">"Плейлисты "</string>
-	<string name="powered_by">Техническая поддержка:</string>
+	<string name="powered_by">Поддержка:</string>
 	<string name="project_device">Xiaomi Box</string>
 	<string name="mi_effect">MiSound</string>
     <string name="headphone_settings">Тип наушников</string>

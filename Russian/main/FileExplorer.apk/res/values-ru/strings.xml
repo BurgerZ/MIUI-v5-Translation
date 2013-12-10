@@ -103,7 +103,7 @@
 	<string name="kuaipan_over_space">Нет свободного места в вашем KuaiPan</string>
 	<string name="kuaipan_prompt">KuaiPan</string>
 	<string name="kuaipan_prompt_message">Идет обслуживание сервиса. Пожалуйста, попробуйте позже.</string>
-	<string name="kuaipan_tech_support">Техническая поддержка: Kingsoft KuaiPan</string>
+	<string name="kuaipan_tech_support">Поддержка: Kingsoft KuaiPan</string>
 	<string name="load_err">Ошибка загрузки</string>
 	<string name="loading">Загрузка…</string>
 	<string name="local_cache_size">Размер локального кэша: %s</string>
