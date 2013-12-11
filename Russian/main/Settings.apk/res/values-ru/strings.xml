@@ -102,7 +102,7 @@
 	<string name="apn_mms_port">Порт MMS</string>
 	<string name="apn_mms_proxy">Прокси-сервер MMS</string>
 	<string name="apn_name">Имя</string>
-	<string name="apn_new">Добавить</string>
+	<string name="apn_new">Новая точка доступа</string>
 	<string name="apn_not_set">Не задано</string>
 	<string name="apn_password">Пароль</string>
 	<string name="apn_protocol">Протокол APN</string>
@@ -1047,7 +1047,7 @@
 	<string name="menu_cancel">Отменить</string>
 	<string name="menu_delete">Удалить</string>
 	<string name="menu_key">Клавиша \"Меню\"</string>
-	<string name="menu_new">Новая точка доступа</string>
+	<string name="menu_new">Добавить</string>
 	<string name="menu_restore">По умолчанию</string>
 	<string name="menu_save">Сохранить</string>
 	<string name="menu_stats_last_unplugged">С последнего отключения %1$s</string>
@@ -2590,7 +2590,7 @@
     <string name="power_chooser_standby_summary">Отключение интернет сервисов.</string>
     <string name="power_chooser_sleep_title">Режим сна</string>
     <string name="power_chooser_sleep_summary">Отключение всех функций (телефон, сообщения, интернет) за исключением будильника.</string>
-    <string name="power_chooser_mine_title">Свой режим</string>
+    <string name="power_chooser_mine_title">Базовый режим</string>
     <string name="power_chooser_mine_summary">Сохранение параметров системы по умолчанию</string>
     <string name="power_chooser_user_define_title">Добавить свой режим</string>
     <string name="power_chooser_user_define_summary">Пользовательский режим</string>
@@ -2599,7 +2599,7 @@
     <string name="power_customizer_sleep_mode">Сон</string>
     <string name="power_customizer_my_mode">Свой</string>
     <string name="power_customizer_user_define_mode">"Название: "</string>
-    <string name="power_customizer_user_define_name">Свой режим</string>
+    <string name="power_customizer_user_define_name">Мой режим</string>
     <string name="power_customizer_user_define_summary">Пользовательские параметры</string>
     <string name="power_customizer_delete">Удалить</string>
     <string name="power_customizer_save">Сохранить</string>
@@ -2997,12 +2997,12 @@
     <string name="virus_scan_start">Сканирование вирусов</string>
     <string name="virus_scan_support">Поддержка: Tencent</string>
     <string name="virus_scan_last_time">Последняя проверка: %s</string>
-    <string name="virus_scan_safe">Вирусов нет</string>
+    <string name="virus_scan_safe">Система защищена</string>
     <string name="virus_scan_dangerous">Угрозы</string>
     <string name="virus_scan_find">Найдено угроз: %d</string>
     <string name="virus_scan_parpare">Запуск сканирования…</string>
     <string name="virus_scan_is_scanning">Сканирование…</string>
-    <string name="virus_scan_stop">Пауза</string>
+    <string name="virus_scan_stop">Остановить</string>
     <string name="virus_scan_finish">Готово</string>
     <string name="virus_scan_clear">Очистка</string>
     <string name="virus_scan_never_scaned">Требуется сканирование</string>
@@ -3602,4 +3602,13 @@
     <string name="alert_show_screensaver_when_not_charging_title">Предупреждение</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Батарея будет садиться гораздо быстрее во время показа заставки, если зарядка не подключена. \nОтключить этот пункт?</string>
 	<string name="cleaner_support_hints">Поддержка: Clean Master</string>
+	<string name="preferred_application_title">По умолчанию: %s</string>
+    <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
+    <string name="preferred_application_warning_message">Замена стандартного приложения \"%1$s\" может увеличить потребление энергии, снизить скорость работы устройства и подвергнуть систему риску. \nРекомендуется использовать стандартное приложение \"%2$s\".</string>
+    <string name="preferred_application_warning_replace">Заменить</string>
+    <string name="preferred_application_warning_use_system">Отмена</string>
+	<string name="preferred_app_settings">Приложения по умолчанию</string>
+    <string name="preferred_app_settings_default">MIUI</string>
+    <string name="preferred_app_settings_reset">Восстановить по умолчанию</string>
+    <string name="preferred_app_settings_reset_message">Использовать все стандартные приложения по умолчанию?</string>
 </resources>

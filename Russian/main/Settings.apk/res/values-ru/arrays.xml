@@ -514,4 +514,15 @@
         <item>Подписка 1</item>
         <item>Подписка 2</item>
 	</string-array>
+	<string-array name="preferred_app_entries">
+        <item>Рабочий стол</item>
+        <item>Телефон</item>
+        <item>Сообщения</item>
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Почта</item>
+    </string-array>
 </resources>
