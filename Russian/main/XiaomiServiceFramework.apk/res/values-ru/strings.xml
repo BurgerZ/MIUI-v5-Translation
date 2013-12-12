@@ -303,7 +303,7 @@
     <string name="btn_pay_large">Оплатить сейчас</string> 
     <string name="recharge_other">Выбрать другие методы пополнения</string>
     <string name="paytool_picker_hint">Укажите сумму MiCredit для зачисления</string>
-    <string name="paytool_edit_hint">>Сумма зачисления (RMB)</string>
+    <string name="paytool_edit_hint">Сумма зачисления (RMB)</string>
     <string name="paytool_edit_limit">Меньше чем %1$s</string>
     <string name="btn_recharge_success">Пополнение выполнено</string>
     <string name="btn_recharge_success_quick">Пополнение выполнено</string>

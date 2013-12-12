@@ -2,7 +2,7 @@
 <resources>
 	<string name="account_contact_backup_info">Данные аккаунтов и контакты</string>
 	<string name="account_login">Войти в систему</string>
-	<string name="account_summary">- Настройки аккаунта</string>
+	<string name="account_summary">" (настройки аккаунта)</string>
 	<string name="already_enable_encrypt">Включить шифрование</string>
 	<string name="app_name">Бэкап</string>
 	<string name="auto_backup">Автоматически</string>
@@ -30,11 +30,11 @@
 	<string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
 	<string name="backup_finished">Копирование завершено</string>
 	<string name="backup_hint">Не выключайте телефон!</string>
-	<string name="backup_items_app_tailer">" - данные приложений "</string>
-	<string name="backup_items_sysdata_tailer">" - системные данные, "</string>
+	<string name="backup_items_app_tailer">" (данные приложений) "</string>
+	<string name="backup_items_sysdata_tailer">" (системные данные) "</string>
 	<string name="backup_new">Новый</string>
 	<string name="backup_progress">Выполняется резервная копия…</string>
-	<string name="backup_recently">(Последний)</string>
+	<string name="backup_recently">(последний)</string>
 	<string name="backup_report">Отчет</string>
 	<string name="backup_update">Обновить</string>
 	<string name="batch_delete_backup_confirm">Удалить резервные копии? \n\nКопий: %d</string>
@@ -44,7 +44,7 @@
 	<string name="button_next">Вперед</string>
 	<string name="button_ok">OК</string>
 	<string name="button_return">Назад</string>
-	<string name="call_title">Звонки</string>
+	<string name="call_title">Вызовы</string>
 	<string name="cancel">Отмена</string>
 	<string name="cancel_backup">Отмена</string>
 	<string name="cancel_restore">Отменить</string>
@@ -122,12 +122,12 @@
 	<string name="restore_data">Восстановление</string>
 	<string name="restore_failed">Ошибка восстановления</string>
 	<string name="restore_finished">Восстановление завершено</string>
-	<string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
+	<string name="restore_launcher_layout_hit">Восстановить расположение иконок</string>
 	<string name="restore_progress">Идет восстановление данных…</string>
 	<string name="restore_report">Журнал восстановления</string>
 	<string name="restore_telephony_hit">Примечание: Процесс восстановления перезагрузит приложение</string>
 	<string name="retry">Повторить</string>
-	<string name="reverse_all">Снять все</string>
+	<string name="reverse_all">" Снять все "</string>
 	<string name="sc_bad_request">Ошибочный запрос</string>
 	<string name="sc_internal_server_error">Внутренняя ошибка сервера</string>
 	<string name="sc_network_unavailable">Сеть недоступна</string>
@@ -143,7 +143,7 @@
 	<string name="select_all">Все</string>
 	<string name="select_backup_item">Выбор копии</string>
 	<string name="service_stoped">Служба остановилась</string>
-	<string name="settings_summary">- Настройки телефона и сообщений</string>
+	<string name="settings_summary">" (настройки телефона и сообщений)</string>
 	<string name="sms_title">Сообщения</string>
 	<string name="software_backup_info">Пользовательские приложения с данными</string>
 	<string name="start_backup">Начать</string>
@@ -163,7 +163,7 @@
 	<string name="task_finished">Завершено</string>
 	<string name="task_local_backup_cancel_dialog">Резервное копирование не было завершено.\nНажмите кнопку OK, чтобы удалить эту резервную копию</string>
 	<string name="task_pending">В ожидании</string>
-	<string name="task_post_running">Пост-обработка…</string>
+	<string name="task_post_running">Обработка…</string>
 	<string name="task_pre_running">Подготовка</string>
 	<string name="task_progress">Прогресс</string>
 	<string name="task_restore_cancel_dialog">Вы собираетесь отменить операцию.\nЭто может привести к потере данных!</string>
@@ -226,4 +226,25 @@
 	<string name="customization"><u>Настроить</u></string>
 	<string name="customization_under_wifi_prompt">Поддерживается только при подключенном Wi-Fi соединении</string>
 	<string name="my_phone">Мой телефон</string>
+	<string name="button_continue">Продолжить</string>
+	<string name="cloud_app_invalid_op_when_removing">Невозможно просмотреть облачные данные во время удаления</string>
+	<string name="cloud_app_wait_wifi">Ожидание сети Wi-Fi</string>
+    <string name="cloud_app_backup_cancel">Отмена копирования…</string>
+    <string name="cloud_app_restore_cancel">Отмена восстановления…</string>
+    <string name="cloud_app_remove_cancel">Отмена удаления…</string>
+    <string name="cloud_app_backup_cancel_prompt_title">Остановить копирование</string>
+    <string name="cloud_app_restore_cancel_prompt_title">Остановить восстановление</string>
+    <string name="cloud_app_remove_cancel_prompt_title">Остановить удаление</string>
+    <string name="cloud_app_backup_cancel_prompt_message">Копирование не завершено. \nОстановить копирование?</string>
+    <string name="cloud_app_restore_cancel_prompt_message">Восстановление не завершено. \nОстановить восстановление?</string>
+    <string name="cloud_app_remove_cancel_prompt_message">Удаление не завершено. \nОстановить удаление?</string>
+    <string name="cloud_app_check_data">Запрос данных с сервера…</string>
+    <string name="cloud_app_check_data_timeout">Превышено время ожидания запроса данных</string>
+    <string name="cloud_app_load_data">Запрос списка резервных копий…</string>
+    <string name="cloud_app_load_data_timeout">Превышено время ожидания запроса данных</string>
+    <string name="cloud_app_check_data_fail">Ошибка запроса данных с сервера</string>
+    <string name="cloud_app_no_network">Сеть недоступна</string>
+    <string name="cloud_app_no_wifi">Сеть Wi-Fi недоступна</string>
+    <string name="cloud_app_no_wifi_connect">Нет сетей Wi-Fi</string>
+    <string name="cloud_app_loading_with_mobile_network_prompt">Использовать мобильный интернет для передачи данных?</string>
 </resources>

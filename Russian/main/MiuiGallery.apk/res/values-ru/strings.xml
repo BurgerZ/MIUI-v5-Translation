@@ -51,7 +51,7 @@
 	<string name="by_others">Другие способы</string>
 	<string name="camera_connected">Камера подключена</string>
 	<string name="camera_disconnected">Камера отключена</string>
-	<string name="camera_folder_display_name">Фото с камеры</string>
+	<string name="camera_folder_display_name">Камера</string>
 	<string name="camera_setas_wallpaper">Обои</string>
 	<string name="camera_view_none_message">Фото будут отображаться здесь</string>
 	<string name="cancel">Отмена</string>
@@ -183,7 +183,7 @@
 	<string name="initial_cloud_text">Создавайте облачные альбомы и синхронизируйте изображения.</string>
 	<string name="initializing_cloud">Загрузка облачного альбома…</string>
 	<string name="input_cloudfolder_name">Название облачного альбома</string>
-	<string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
+	<string name="internal_camera_folder_display_name">Камера</string>
 	<string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
 	<string name="internal_sd_card">Внутренняя SD-карта</string>
 	<string name="invalid_recipient_message">Проверьте адреса получателей</string>

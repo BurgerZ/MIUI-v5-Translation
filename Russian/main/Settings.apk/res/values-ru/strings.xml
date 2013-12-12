@@ -2936,7 +2936,7 @@
     <string name="cancel_scan">Отмена</string>
     <string name="cancel_optimize">Отмена</string>
     <string name="quick_optimize">Оптимизировать</string>
-    <string name="restore_default_settings">Восстановить по умолчанию</string>
+    <string name="restore_default_settings">Сброс настроек</string>
     <string name="quick_clean">Очистка</string>
     <string name="realtime_protection">Защита</string>
     <string name="free_ram">Память</string>
@@ -3609,6 +3609,6 @@
     <string name="preferred_application_warning_use_system">Отмена</string>
 	<string name="preferred_app_settings">Приложения по умолчанию</string>
     <string name="preferred_app_settings_default">MIUI</string>
-    <string name="preferred_app_settings_reset">Восстановить по умолчанию</string>
+    <string name="preferred_app_settings_reset">Сброс настроек</string>
     <string name="preferred_app_settings_reset_message">Использовать все стандартные приложения по умолчанию?</string>
 </resources>
