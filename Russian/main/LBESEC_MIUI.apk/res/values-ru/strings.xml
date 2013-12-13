@@ -27,7 +27,7 @@
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/development.html/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешение ROOT доступа</string>
-	<string name="Dashboard_Su_Enable_Content">Включение этой функции позволит приложениям запрашивать доступ к системе от имени администратора.\nВнимание: приложения с разрешениями могут вызвать нестабильность в работе системы, а также потерю личных данных.\n\nВы уверены, что хотите включить ROOT доступ?</string>
+	<string name="Dashboard_Su_Enable_Content">Включение этой функции позволит приложениям запрашивать доступ к системе от имени администратора.\nВнимание: приложения с ROOT доступом могут вызвать нестабильность в работе системы, а также потерю личных данных.\n\nВы уверены, что хотите включить ROOT доступ?</string>
 	<string name="Dashboard_Su_Enable_Title">Разрешения ROOT</string>
 	<string name="Generic_Canceling">Отмена…</string>
 	<string name="Generic_Check">Проверка</string>
@@ -178,7 +178,7 @@
 	<string name="Privacy_App_Trust_Summary_On">Доверие этому приложению</string>
 	<string name="Privacy_App_Uninstall">Удаление</string>
 	<string name="Privacy_Perm_Count">Разрешено: %1$d | Запрещено: %2$d</string>
-	<string name="Su_Enable_Dialog">Приложение \"%1$s\" пытается получить ROOT доступ. \nПо умолчанию ROOT доступ отключен для обеспечения безопасности системы. Если вам необходимо включить его из приложения \"Разрешения\", и активируйте пункт \"ROOT доступ\".</string>
+	<string name="Su_Enable_Dialog">Приложение \"%1$s\" пытается получить ROOT доступ. \nПо умолчанию доступ отключен для обеспечения безопасности системы. Если вам необходимо получить его, войдите в приложение \"Безопасность\", пункт \"Разрешения\" и активируйте функцию \"ROOT доступ\".</string>
 	<string name="Su_Unavailable">Права администратора не доступны в стабильной версии MIUI. Пожалуйста, установите версию для разработчиков.</string>
 	<string name="SysOpt_Boost_AutoStart">Разрешения автозагрузки</string>
 	<string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>

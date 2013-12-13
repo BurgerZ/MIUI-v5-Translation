@@ -74,7 +74,7 @@
 	<string name="unknown_installer">Неизвестный установщик ПК</string>
 	<string name="install_failed_system_incompatible">Это приложение не совместимо с системой MIUI</string>
 	<string name="virus_scan_install">" "<u>Установить</u>" "</string>
-	<string name="virus_scan_is_virus">Это приложение содержит вирус, рекомендуется его удалить!</string>
-	<string name="virus_scan_is_risk">Я понимаю опасность, продолжить установку.</string>
+	<string name="virus_scan_is_virus">Приложение содержит вирус, рекомендуется удалить!</string>
+	<string name="virus_scan_is_risk">Приложение содержит угрозу, продолжить установку?</string>
 	<string name="virus_scan_clear">Удалить</string>
 </resources>
