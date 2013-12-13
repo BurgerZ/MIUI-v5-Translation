@@ -467,4 +467,12 @@
 	<string name="context_menu_new_contact">Новый контакт</string>
 	<string name="modify_allow_hint">Добавление новых изображений в альбом разрешено</string>
 	<string name="modify_disallow_hint">Добавление новых изображений в альбом запрещено</string>
+	<string name="file_not_exist_message">Файл не существует</string>
+	<string name="download">Загрузка</string>
+    <string name="confirm_download">Загрузить файл \"%s\"? \nПодсказка больше не будет отображаться.</string>
+    <string name="download_fail">Ошибка загрузки</string>
+    <string name="download_fail_confirm_continue">Ошибка загрузки \"%s\". Продолжить?</string>
+    <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
+    <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
+    <string name="new_device_tips">Доступно новое устройство. Нажмите для просмотра.</string>
 </resources>
