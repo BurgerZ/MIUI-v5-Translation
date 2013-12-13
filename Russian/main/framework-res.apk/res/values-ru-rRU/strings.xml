@@ -484,8 +484,8 @@
     <string name="data_setup_toast">Сейчас подключено 3G/4G соединение.</string>
     <string name="data_setup_complete_toast">Сейчас подключено 3G/4G соединение.</string>
     <string name="data_blocked_dun">Этот телефон не поддерживает Dial-up соединение.</string>
-    <string name="data_enable_wifi_to_3g_transition_toast">Wi-Fi сеть недоступна. Подклюение через 3G/4G соединение. Ваши расходы на связь увеличатся, если вы не используете оптимальный тариф.</string>
-    <string name="data_disable_wifi_to_3g_transition_toast">Wi-Fi сеть недоступна. Разрешите Wi-Fi или 3G/4G соединение.</string>
+    <string name="data_enable_wifi_to_3g_transition_toast">Сеть Wi-Fi недоступна. Подклюение через 3G/4G соединение. Ваши расходы на связь увеличатся, если вы не используете оптимальный тариф.</string>
+    <string name="data_disable_wifi_to_3g_transition_toast">Сеть Wi-Fi недоступна. Разрешите Wi-Fi или 3G/4G соединение.</string>
     <string name="data_allowed_toast">Обновление строки data_allowed_toast</string>
     <string name="data_blocked_toast">Обновление строки data_blocked_toast</string>
     <string name="volume_system">Прослушивание при настройке уровня звука</string>

@@ -198,7 +198,7 @@
     <string name="resource_ranking_free">Бесплатные</string>
     <string name="resource_ranking_purchase">Платные</string>
     <string name="resource_category">Категории</string>
-    <string name="resource_my">Локальные</string>
+    <string name="resource_my">Телефон</string>
     <string name="resource_pack_price_info">Цена: \n%1$s</string>
     <string name="resource_pack_discount_info">Экономия: \n%1$s</string>
     <string name="resource_pack_confirm">Вы уже купили элементов: %1$d, но эта цена выгоднее чем индивидуальная покупка, продолжить?</string>

@@ -68,12 +68,12 @@
         <item quantity="one">завтра</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Доступны Wi-Fi сети</item>
-        <item quantity="one">Доступна Wi-Fi сеть</item>
+        <item quantity="other">Доступны сети Wi-Fi</item>
+        <item quantity="one">Доступна сеть Wi-Fi</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Найдены Wi-Fi сети</item>
-        <item quantity="one">Найдена Wi-Fi сеть</item>
+        <item quantity="other">Найдены сети Wi-Fi</item>
+        <item quantity="one">Найдена сеть Wi-Fi</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d из %2$d</item>

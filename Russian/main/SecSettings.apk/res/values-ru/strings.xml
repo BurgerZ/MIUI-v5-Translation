@@ -1587,7 +1587,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="tts_settings_title">Преобразование текста в речь</string>
     <string name="use_default_tts_settings_title">Всегда использовать мои параметры</string>
     <string name="use_default_tts_settings_summary">Параметры по умолчанию переопределяют параметры приложения</string>
-    <string name="tts_default_settings_section">Параметры по умолчанию</string>
+    <string name="tts_default_settings_section">Сброс настроек</string>
     <string name="tts_default_synth_title">Модуль по умолчанию</string>
     <string name="tts_default_synth_summary">Задает модуль синтеза речи, который будет использоваться для произнесения текста</string>
     <string name="tts_default_rate_title">Скорость речи</string>
@@ -1616,7 +1616,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="pico_installed">Установлено</string>
     <string name="pico_not_installed">Не установлено</string>
     <string name="pico_voice_summary_female">Женский</string>
-    <string name="pico_voice_summary_male">"Женщина' or 'Мужской'"</string>
+    <string name="pico_voice_summary_male">"'Женский' или 'Мужской'"</string>
     <string name="tts_notif_engine_install_title">Установлен модуль синтеза речи</string>
     <string name="tts_notif_engine_install_message">Включите модуль перед использ.</string>
     <string name="tts_engine_settings_button">Открыть параметры модуля TTS</string>

@@ -115,7 +115,7 @@
 	<string name="login_first_install_title">Вход в аккаунт Xiaomi</string>
 	<string name="login_ok">Войти</string>
 	<string name="login_skip">Далее</string>
-	<string name="management_tag">Локальные</string>
+	<string name="management_tag">Телефон</string>
 	<string name="megabytes_unit">%1$s Мб</string>
 	<string name="menu_account">Аккаунт</string>
 	<string name="menu_clear_search_history">Очистить историю поиска</string>

@@ -352,7 +352,7 @@
     <string name="notification_down_start">Вы можете контролировать процесс загрузки файлов с помощью менеджера передачи файлов</string>
     <string name="notification_down_success">Изображение было успешно загружено. Сохранено в \"我的图片\"</string>
     <string name="notfication_down_failed">Загрузка не выполнена</string>
-    <string name="auto_upload_warning">При подключении к Wi-Fi сети автоматически выкладывает фотографии, сделанные вами</string>
+    <string name="auto_upload_warning">При подключении к сети Wi-Fi автоматически загружаются фотографии с вашего устройства.</string>
     <string name="auto_upload_dialog_title">Автоматически отправлять фотографии</string>
     <string name="status_download">Загрузка…</string>
     <string name="status_upload">Загрузка</string>

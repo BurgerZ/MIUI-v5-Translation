@@ -129,7 +129,7 @@
 	<string name="no_file">Нет файлов</string>
 	<string name="no_more_space">Не хватает места на диске</string>
 	<string name="no_tasks">Нет загрузок</string>
-	<string name="no_wifi">Нет Wi-Fi сети</string>
+	<string name="no_wifi">Нет сети Wi-Fi</string>
 	<string name="no_wifi_hint">Нет Wi-Fi соединения</string>
 	<string name="notif_server_starting">Синхронизация включена</string>
 	<string name="notif_title">FTP сеть активна</string>

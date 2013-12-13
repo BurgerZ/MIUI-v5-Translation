@@ -149,7 +149,7 @@
 	<string name="HIPS_Perm_SilenceRinger">Звонок без звука</string>
 	<string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Desc">Доступ в Интернет по Wi-Fi</string>
-	<string name="HIPS_Perm_WIFINetwork_Hint">Приложений: %1$s\nДоступ в интернет по Wi-Fi сети.</string>
+	<string name="HIPS_Perm_WIFINetwork_Hint">Приложений: %1$s\nДоступ в интернет по сети Wi-Fi.</string>
 	<string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
 	<string name="HIPS_SecurityPrompt_AcceptROOT">Да</string>
 	<string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>

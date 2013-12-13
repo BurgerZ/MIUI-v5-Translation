@@ -217,8 +217,8 @@
   <string name="cit_vibrator_play_touch_pattern">(не нажимать)</string>
   <string name="cit_vibrator_short">Короткая</string>
   <string name="cit_vibrator_show_advanced">Расширенные параметры</string>
-  <string name="cit_wifi_address_check_summary">Информация о Wi-Fi сети</string>
-  <string name="cit_wifi_address_check_title">Wi-Fi сеть</string>
+  <string name="cit_wifi_address_check_summary">Информация о сети Wi-Fi</string>
+  <string name="cit_wifi_address_check_title">Сеть Wi-Fi</string>
   <string name="cit_wifi_address_error">Не удается получить адрес Wi-Fi. Пожалуйста, убедитесь, что вы подключены к точке доступа Wi-Fi.</string>
   <string name="cit_wifi_ap_scan_check_summary">Wi-Fi информация</string>
   <string name="cit_wifi_ap_scan_check_title">Сканирование Wi-Fi</string>
