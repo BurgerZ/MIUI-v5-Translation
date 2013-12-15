@@ -3611,4 +3611,16 @@
     <string name="preferred_app_settings_default">MIUI</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
     <string name="preferred_app_settings_reset_message">Использовать все стандартные приложения по умолчанию?</string>
+	<string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
+    <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал.</string>
+    <string name="bt_trace_log">Журнал трассировки Bluetooth</string>
+    <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
+	<string name="touch_sensitive_turn_off_confirm">ОК</string>
+    <string name="touch_sensitive_turn_off_cancel">Отмена</string>
+	<string name="restrict_background_data_title">Запрет фоновых данных</string>
+    <string name="restrict_background_data_dialog_summary">Приложения не смогут получать данные в фоновом режиме. \nЗапретить передачу данных в фоне?</string>
+    <string name="restrict_background_data_notification_summary">Приложения не смогут подключаться к сети, если установлен запрет на передачу данных в фоновом режиме.</string>
+	<string name="se_route_ese">Встроенный безопасный элемент</string>
+    <string name="se_route_uicc">Безопасный элемент на SIM-карте</string>
+	<string name="wifi_available_title">Подключение к Wi-Fi</string>
 </resources>
