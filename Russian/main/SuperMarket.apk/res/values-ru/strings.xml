@@ -204,7 +204,7 @@
 	<string name="update_date">%3$s.%2$s.%1$s</string>
 	<string name="update_date_label">"Обновлено: "</string>
 	<string name="update_info">Изменения</string>
-	<string name="verifying">Проверка на вирусы…</string>
+	<string name="verifying">Проверка…</string>
 	<string name="version_label">"Версия: "</string>
 	<string name="version_name">Версия: %1$s</string>
 	<string name="menu_clear_update_history">Очистить историю обновлений</string>

@@ -84,7 +84,7 @@
 	<string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить выбранные альбомы и изображения? \n\nИзображений:%s \nАльбомов: %s</string>
 	<string name="confirm_delete_pictures">Изображений: %s</string>
 	<string name="confirm_delete_system_album">Удалить системный альбом \"%s\"?</string>
-	<string name="confirm_delete_videos">%s видео</string>
+	<string name="confirm_delete_videos">Видео: %s</string>
 	<string name="contact_photo">Фото контакта</string>
 	<string name="context_menu_add_contact">Добавить в контакты</string>
 	<string name="context_menu_copy">Копировать</string>
@@ -475,4 +475,7 @@
     <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
     <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
     <string name="new_device_tips">Доступно новое устройство. Нажмите для просмотра.</string>
+	<string name="confirm_delete_this_picture">Удалить выбранное изображение?</string>
+    <string name="confirm_delete_this_video">Удалить выбранное видео?</string>
+	<string name="loading_members">Загрузка пользователей…</string>
 </resources>

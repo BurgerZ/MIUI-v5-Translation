@@ -180,4 +180,23 @@
 	<string name="work_day_indication">:(</string>
 	<string name="yearly">Ежегодно (%s)</string>
 	<string name="yearly_plain">Ежегодно</string>
+	<string name="button_day">Д</string>
+	<string name="button_month">М</string>
+	<string name="account_and_calendar">Аккаунт и календарь</string>
+	<string name="account_and_calendar_to_display">Аккаунт и календарь для отображения</string>
+	<string name="default_reminder_mode">Режим уведомлений по умолчанию</string>
+	<string name="time_zone">Часовой пояс</string>
+	<string name="show_all_lunar">Показывать лунный календарь</string>
+	<string name="event_all_day_label">Все дни</string>
+	<string name="event_account">Аккаунт календаря</string>
+	<string name="event_show_more">Показать</string>
+	<string name="event_hide_more">Скрыть</string>
+	<string name="event_info_when">"Когда: "</string>
+	<string name="event_info_repeat">"Повтор: "</string>
+	<string name="event_info_where">"Где: "</string>
+	<string name="event_info_descrip">"Описание: "</string>
+	<string name="lunar_date">Лунная дата</string>
+ 	<string name="widget_select_style">Выберите стиль</string>
+ 	<string name="widget_events">Следующие события</string>
+ 	<string name="widget_no_events">Далее, нет повестки</string>
 </resources>

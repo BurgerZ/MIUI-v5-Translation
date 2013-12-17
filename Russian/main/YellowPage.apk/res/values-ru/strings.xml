@@ -128,4 +128,15 @@
 	<string name="unable_send_sms">Не удается отправить сообщение</string>
     <string name="sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
 	<string name="express_inquiry_indication">Номер отслеживания</string>
+	<string name="provider">Идентифицировано от %s</string>
+	<string name="express_inquiry_data_owner_prefix">Информация предоставлена от</string>
+	<string name="navigation_search_automatically_positioned_city">Текущий город</string>
+    <string name="navigation_search_positioning">Поиск местоположения…</string>
+    <string name="navigation_search_positioning_failed">Выберите город</string>
+    <string name="navigation_search_no_city_list">Нет результатов</string>
+    <string name="navigation_search_hot_cities">Популярные</string>
+    <string name="navigation_search_all_cities">Все города</string>
+    <string name="order_empty_hint">Нет заказов</string>
+    <string name="order_merchant_title">Мои заказы - %s</string>
+    <string name="order_id">ID заказа: %s</string>
 </resources>

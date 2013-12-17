@@ -91,6 +91,24 @@
         <item>за 2 дня</item>
         <item>за 1 неделю</item>
      </string-array>
+	 <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
      <string-array name="response_labels1">
         <item>(Нет ответа)</item>
         <item>Да</item>
@@ -187,5 +205,9 @@
         <item>По умолчанию</item>
         <item>Закрытое</item>
         <item>Для всех</item>
+     </string-array>
+     <string-array name="widget_style_list">
+        <item>Прозрачный черный</item>
+        <item>Белый</item>
      </string-array>
 </resources>
