@@ -310,4 +310,6 @@
     <string name="vip_recommend_exchange">Использовать подарочный код</string>
     <string name="synchronize_to_baidu_cloud">Резервное копирование плейлистов онлайн через сервис Baidu Cloud.</string>
     <string name="synchronize_guide_toast">Для включения синхронизации зайдите в \"Настройки\" > \"Синхронизировать плейлист\".</string>
+	<string name="find_ktv">Поиск музыки в KTV</string>
+	<string name="playlist_my_ktv">Плейлист KTV</string>
 </resources>
