@@ -472,4 +472,6 @@
 	<string name="grant_permissions_apps">Запрос доступа приложения</string>
 	<string name="grant_permissions_account">Запрос доступа аккаунта</string>
 	<string name="v5_date_time_picker_dialog_title">Время напоминания</string>
+	<string name="text_copied">Текст скопирован</string>
+	<string name="text_cut">Текст вырезан</string>
 </resources>

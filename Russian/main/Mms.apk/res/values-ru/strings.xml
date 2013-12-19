@@ -459,4 +459,13 @@
 	<string name="mx_activate_popup_msg">Облачные сообщения позволят пользователям MIUI обмениваться сообщениями бесплатно через интернет.</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств.</string>
     <string name="mx_btn_enable_now">Включить</string>
+    <string name="refill_now">Пополнить</string>
+    <string name="toast_feedback_start">Сбор данных журнала…</string>
+    <string name="toast_feedback_finish">Отчет будет отправлен автоматически при подключении к сети Wi-Fi</string>
+    <string name="toast_feedback_max">Вы можете отправлять не более трех отчетов в день</string>
+    <string name="toast_description_required">Невозможно отправить пустое сообщение</string>
+    <string name="pref_key_mx_feedback">Отправить отчет</string>
+    <string name="pref_summary_mx_feedback">Помогите сделать MIUI лучше! \nОтправляйте отчеты о багах разработчикам напрямую.</string>
+    <string name="feedback_description_hint">Введите отчет</string>
+    <string name="feedback_submit">Отправить</string>
 </resources>

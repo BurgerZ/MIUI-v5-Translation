@@ -1185,7 +1185,7 @@
     <string name="tethered_notification_message">Нажмите для настройки</string>
     <string name="tethered_notification_title">Точка доступа активна</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
-    <string name="text_copied">Текст скопирован в буфер обмена</string>
+    <string name="text_copied">Текст скопирован</string>
     <string name="throttle_warning_notification_message">Нажмите для получения информации</string>
     <string name="throttle_warning_notification_title">Активная передача данных</string>
     <string name="throttled_notification_message">Нажмите для получения информации</string>

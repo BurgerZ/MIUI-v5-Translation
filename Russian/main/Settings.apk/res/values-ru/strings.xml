@@ -3623,4 +3623,22 @@
 	<string name="se_route_ese">Встроенный безопасный элемент</string>
     <string name="se_route_uicc">Безопасный элемент на SIM-карте</string>
 	<string name="wifi_available_title">Подключение к Wi-Fi</string>
+	<string name="button_text_quick_scan">Сканировать</string>
+	<string name="quick_scan_done_title">Сканирование завершено</string>
+	<string name="optimize_tips_ad_title">Реклама:</string>
+    <string name="optimize_tips_ad_content">Изображения, текстовые файлы и другие данные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>
+    <string name="optimize_tips_apk_title">Apk:</string>
+    <string name="optimize_tips_apk_content">Файлы, предназначенные только для установки приложений.</string>
+    <string name="optimize_tips_cache_title">Кэш:</string>
+    <string name="optimize_tips_cache_content">Временные файлы, которые создаются в процессе работы некоторых приложений.</string>
+    <string name="optimize_tips_residual_title">Мусор:</string>
+    <string name="optimize_tips_residual_content">Оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
+	<string name="deep_clean_tips_cache_title">Кэш:</string>
+    <string name="deep_clean_tips_cache_content">Временные файлы, которые создаются в процессе работы некоторых приложений.</string>
+    <string name="deep_clean_tips_residual_title">Мусор:</string>
+    <string name="deep_clean_tips_residual_content">Оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов</string>
+    <string name="deep_clean_tips_large_file_title">Большие файлы</string>
+    <string name="deep_clean_tips_large_file_content">Файлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
+	<string name="perm_root_manage_empty">Установленные приложения не имеют ROOT прав</string>
+    <string name="perm_app_manage_empty">Нет отслеживаемых приложений</string>
 </resources>

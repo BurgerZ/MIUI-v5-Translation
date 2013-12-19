@@ -276,7 +276,7 @@
 	<string name="scan_barcode_to_connect">Сканируйте QR-код консоли KTV</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="i_know">ОК</string>
-    <string name="ktv_alert_title">Добавление треков доступно только поддерживаемых устройств.</string>
+    <string name="ktv_alert_title">Добавление треков доступно только для поддерживаемых устройств.</string>
     <string name="ktv_alert_message">Нажмите \"Использовать телефон для добавления треков\" на главной странице консоли KTV, чтобы просмотреть соответствующий QR-код.</string>
     <string name="ktv_connected_alert_titel">Подключиться к \"%1$s\"</string>
     <string name="ktv_connected_alert_message">Выбранный трек будет добавлен в плейлист KTV</string>
