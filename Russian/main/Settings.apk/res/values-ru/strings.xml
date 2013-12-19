@@ -3637,7 +3637,7 @@
     <string name="deep_clean_tips_cache_content">Временные файлы, которые создаются в процессе работы некоторых приложений.</string>
     <string name="deep_clean_tips_residual_title">Мусор:</string>
     <string name="deep_clean_tips_residual_content">Оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов</string>
-    <string name="deep_clean_tips_large_file_title">Большие файлы</string>
+    <string name="deep_clean_tips_large_file_title">Большие файлы:</string>
     <string name="deep_clean_tips_large_file_content">Файлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
 	<string name="perm_root_manage_empty">Установленные приложения не имеют ROOT прав</string>
     <string name="perm_app_manage_empty">Нет отслеживаемых приложений</string>

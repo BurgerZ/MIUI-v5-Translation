@@ -243,4 +243,27 @@
     <string name="title_password_threshold">Ежедневный лимит = ￥%1$s</string>
     <string name="title_nopassword_dialog">Ежедневный лимит</string>
     <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
+    <string name="button_confirm">ОК</string>
+    <string name="button_next">Далее</string>
+	<string name="detail_consume_account">ID покупки</string>
+	<string name="detail_consume_amount">Количество</string>
+	<string name="detail_consume_name">Продукт</string>
+	<string name="detail_consume_order">ID платежа</string>
+	<string name="detail_consume_time">Время</string>
+	<string name="detail_consume_title">Записи оплаты</string>
+	<string name="detail_giftcard_activity">Подарочные карты</string>
+	<string name="detail_giftcard_expired_time">Дата окончания</string>
+	<string name="detail_giftcard_theme">Покупка тем</string>
+	<string name="detail_giftcard_title">Сведения о карте</string>
+	<string name="detail_giftcard_total">Всего карт</string>
+	<string name="detail_pay_account">ID платежа</string>
+	<string name="detail_recharge_account">ID пополнения</string>
+	<string name="detail_recharge_amount">Сумма</string>
+	<string name="detail_recharge_method">Метод</string>
+	<string name="detail_recharge_order">Номер заказа пополнения</string>
+	<string name="detail_recharge_time">Время</string>
+	<string name="detail_recharge_title">Записи поплнения</string>
+	<string name="scan_prompt_number">Сканировать номер карты %1$s</string>
+	<string name="scan_prompt_password">Сканировать пароль карты %1$s</string>
+	<string name="scan_prompt_voucher">Сканировать пароль MiCredits</string>
 </resources>
