@@ -199,4 +199,5 @@
  	<string name="widget_select_style">Выберите стиль</string>
  	<string name="widget_events">Следующие события</string>
  	<string name="widget_no_events">Далее, нет повестки</string>
+ 	<string name="show_almanac">Показывать альманах</string>
 </resources>
