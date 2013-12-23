@@ -3,25 +3,11 @@
 
     <VariableBinders>
         <ContentProviderBinder 
-			name="city_binder"
-            uri="content://pro.burgerz.weather/cities"  
-            columns="location,isHome"  
-			where="isHome=1 OR isGPS=1"	
-            order="isHome DESC, isGPS DESC"
-            countName="hasHomeCity" >
-            <Variable name="cities_location" type="string" column="location" row="0"/>
-			<Variable name="cities_ishome" type="int" column="isHome" row="0"/>
-        </ContentProviderBinder>
-		<ContentProviderBinder 
-			name="weather_binder" 
-            dependency="city_binder" 
             uri="content://pro.burgerz.weather/weather" 
-            columns="station,temp,weatherID"  
-			whereFormat="station='%s'"
-            whereParas="@cities_location" 
+            columns="station,temp,weatherID" 
             countName="hasweather" >
             <Variable name="weather_temperature" type="int" column="temp" row="0"/>
-			<Variable name="weather_temperature_str" type="string" column="temp" row="0"/>
+            <Variable name="weather_temperature_str" type="string" column="temp" row="0"/>
             <Variable name="weather_id" type="int" column="weatherID" row="0"/> 
         </ContentProviderBinder>
     </VariableBinders>
