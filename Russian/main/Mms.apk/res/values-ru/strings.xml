@@ -461,7 +461,7 @@
     <string name="mx_btn_enable_now">Включить</string>
     <string name="refill_now">Пополнить</string>
     <string name="toast_feedback_start">Сбор данных журнала…</string>
-    <string name="toast_feedback_finish">Отчет будет отправлен автоматически при подключении к сети Wi-Fi</string>
+    <string name="toast_feedback_finish">Отчет отправлен</string>
     <string name="toast_feedback_max">Вы можете отправлять не более трех отчетов в день</string>
     <string name="toast_description_required">Невозможно отправить пустое сообщение</string>
     <string name="pref_key_mx_feedback">Отправить отчет</string>

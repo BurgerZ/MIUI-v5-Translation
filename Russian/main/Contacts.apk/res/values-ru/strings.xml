@@ -1074,4 +1074,10 @@
  	<string name="refresh">Обновить</string>
 	<string name="yellowpage_navigation_search_city_name_hint">Город</string>
 	<string name="yellowpage_navigation_search_select_city">Выберите город</string>
+	<string name="t9_search_guide_zhuyin">Введите номер телефона или найдите контакт с помощью T9</string>
+	<string name="type_mx_msg">Облачные сообщения</string>
+	<string name="yellowpage_navigation_search_result_no_more">Больше результатов нет</string>
+    <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>
+    <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
+    <string name="yellowpage_navigation_search_result_unknown_error">Неизвестная ошибка</string>
 </resources>

@@ -625,4 +625,9 @@
 	<string name="add_quicklink_to_popular">Добавить на главную страницу</string>
     <string name="quicklink_saved_before">Ссылка уже добавлена на главную страницу</string>
 	<string name="quicklinks_most_visited_title">Добавить в популярные</string>
+	<string name="pref_content_block_float_popups">Блокировать плавающие окна</string>
+    <string name="miui_search_notification_title">Поиск в браузере</string>
+    <string name="miui_search_notification_message">Нажмите, чтобы открыть.</string>
+    <string name="miui_quicksearch_enable_pref_title">Быстрый поиск</string>
+    <string name="miui_quicksearch_enable_pref_summary">Включить быстрый поиск в панели уведомлений.</string>
 </resources>

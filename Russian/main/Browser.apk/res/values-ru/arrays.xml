@@ -61,8 +61,7 @@
      </string-array>
      <string-array name="pref_homepage_choices">
         <item>Начальная страница</item>
-        <item>Часто посещаемые веб-сайты</item>
-        <item>Другая</item>
+        <item>Другое</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
         <item>Никогда</item>
