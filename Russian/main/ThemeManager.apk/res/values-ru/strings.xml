@@ -73,7 +73,7 @@
 	<string name="resource_default_name">Ресурс</string>
 	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
 	<string name="resource_delete_confirm">Удалить выбранное?</string>
-	<string name="resource_delta_update_failed">Ошибка обновления.</string>
+	<string name="resource_delta_update_failed">Ошибка обновления</string>
 	<string name="resource_delta_update_successful">Обновление завершено</string>
 	<string name="resource_detail">Детали</string>
 	<string name="resource_download">Скачать</string>

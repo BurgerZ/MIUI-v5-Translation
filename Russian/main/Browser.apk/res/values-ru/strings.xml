@@ -380,8 +380,8 @@
 	<string name="pref_min_font_size">Минимальный размер шрифта</string>
 	<string name="pref_min_font_size_value">%d</string>
 	<string name="pref_privacy_clear_cache">Очистить кэш</string>
-	<string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
-	<string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
+	<string name="pref_privacy_clear_cache_dlg">Очистить кэш браузера?</string>
+	<string name="pref_privacy_clear_cache_summary">Удалить временные файлы браузера</string>
 	<string name="pref_privacy_clear_cookies">Удалить cookie</string>
 	<string name="pref_privacy_clear_cookies_dlg">Удалить все файлы cookie?</string>
 	<string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>

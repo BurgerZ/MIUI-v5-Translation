@@ -68,7 +68,7 @@
 	<string name="cloud_album_set_create">Новый</string>
 	<string name="cloud_album_set_scan_qr_code">QR-код</string>
     <string name="scan_qr_code_failure">Ошибка сканирования</string>
-	<string name="cloud_camera_display_name">Фото с камеры</string>
+	<string name="cloud_camera_display_name">Камера</string>
 	<string name="cloud_gallery_no_pictures">Нет изображений</string>
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
 	<string name="cloud_gallery_space_full">Ошибка отправки. Облачное хранилище заполнено.</string>
@@ -180,7 +180,7 @@
 	<string name="import_complete">Импорт завершен</string>
 	<string name="import_fail">Сбой импорта</string>
 	<string name="initial_cloud_button_text">Начать использование</string>
-	<string name="initial_cloud_text">Создавайте облачные альбомы и синхронизируйте изображения.</string>
+	<string name="initial_cloud_text">Создавайте облачные альбомы и синхронизируйте фото и видео.</string>
 	<string name="initializing_cloud">Загрузка облачного альбома…</string>
 	<string name="input_cloudfolder_name">Название облачного альбома</string>
 	<string name="internal_camera_folder_display_name">Камера</string>
@@ -329,7 +329,7 @@
 	<string name="set_screensaver_path_title">Заставка слайд-шоу</string>
 	<string name="set_wallpaper">Рабочий стол</string>
 	<string name="settings">Настройки</string>
-	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере.</string>
+	<string name="settings_i_xiaomi_com">Зайдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные фото и видео на компьютере.</string>
 	<string name="shadow">Затемнение</string>
 	<string name="share_album">Обмен альбомами</string>
 	<string name="share_album_owner">Владелец</string>
@@ -392,8 +392,8 @@
 	<string name="storage_no_space">Не хватает памяти</string>
 	<string name="straighten">Выравнивание</string>
 	<string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
-	<string name="sync_album">Синхронизация фото</string>
-	<string name="sync_album_error">Не удалось загрузить фото. Повторите попытку позже.</string>
+	<string name="sync_album">Синхронизация фото и видео</string>
+	<string name="sync_album_error">Ошибка загрузки. Повторите попытку позже.</string>
 	<string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
 	<string name="sync_album_summary">Синхронизировать фото с облачными альбомами. \nПоследняя:</string>
 	<string name="sync_history_power_on">Синхр. во время зарядки</string>

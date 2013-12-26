@@ -68,7 +68,7 @@
 	<string name="receive_finish_tip">Получено файлов: $1%d </string>
 	<string name="receive_from">Прием файла от:</string>
 	<string name="receive_store">Сохранить файл в:</string>
-	<string name="receive_tip">Для быстрого спаривания и получения очереди передачи.</string>
+	<string name="receive_tip">Для быстрого сопряжения и получения очереди передачи.</string>
 	<string name="receive_uncompleted">Прием не завершен</string>
 	<string name="received">Принято</string>
 	<string name="recv_sound">Получить музыку</string>
