@@ -185,7 +185,7 @@
 	<string name="voucher_input_password_prompt">Введите пароль</string>
 	<string name="voucher_edit_hint">Пароль</string>
 	<string name="voucher_edit_limit">только цифры</string>
-	<string name="label_balance">Баланс:</string>
+	<string name="label_balance">"Баланс: "</string>
 	<string name="button_call">Вызов</string>
 	<string name="balance_payment">%1$s MiCredits</string>
     <string name="balance_giftcard_payment">%1$s MiCredits (подарочная карта на %2$s MiCredits)</string>
