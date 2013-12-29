@@ -24,7 +24,7 @@
 	<string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
 	<string name="add_wait">Добавить ожидание</string>
 	<string name="add_xiaomi_account_dialog_btn">В аккаунт Xiaomi</string>
-	<string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в аккаунт Xiaomi. Аккаунт Xiaomi позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на Вашем компьютере.</string>
+	<string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в аккаунт Xiaomi. Аккаунт Xiaomi позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на вашем компьютере.</string>
 	<string name="add_xiaomi_account_dialog_title">Выберите аккаунт</string>
 	<string name="aggregation_suggestion_edit_dialog_message">Переключиться на редактирование выбранного контакта? Введенная информация будет скопирована.</string>
 	<string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
@@ -559,7 +559,7 @@
 	<string name="no_contact_details">Нет других данных об этом контакте</string>
 	<string name="no_contact_in_other_phone">Нет контактов</string>
 	<string name="sina_weibo">Sina Weibo</string>
-	<string name="no_contacts_dialog_message">Человек не найден в Ваших контактах. Возможно он находится в списке контактов на SIM-карте. Для поиска , сделайте импорт всех контактов с SIM-карты.</string>
+	<string name="no_contacts_dialog_message">Человек не найден в ваших контактах. Возможно он находится в списке контактов на SIM-карте. Для поиска , сделайте импорт всех контактов с SIM-карты.</string>
 	<string name="no_contacts_dialog_title">Контакт не найден</string>
 	<string name="no_contacts_selected">Контакты не выбраны</string>
 	<string name="no_sdcard_message">SD-карта не обнаружена</string>
@@ -722,7 +722,7 @@
 	<string name="resource_downloaded_title">Скачанные</string>
 	<string name="resource_downloading">Скачивание</string>
 	<string name="resource_get_auth_checking">Проверка…</string>
-	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
+	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
 	<string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
 	<string name="resource_get_auth_retrieving">Получение авторизации…</string>

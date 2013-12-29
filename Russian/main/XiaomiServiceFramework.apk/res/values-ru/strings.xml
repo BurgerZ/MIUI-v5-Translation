@@ -232,14 +232,14 @@
 	<string name="error_server">Ошибка сервера</string>
 	<string name="error_sim_not_ready">SIM-карта не готова</string>
 	<string name="error_unknown">Неизвестная ошибка</string>
-	<string name="error_invalid_dev_id">Неверный id устройства</string>
+	<string name="error_invalid_dev_id">Неверный ID устройства</string>
 	<string name="label_order_name">Название:</string>
     <string name="label_order_price">Цена:</string>
     <string name="order_price">%1$s MiCredits</string>
     <string name="password_hint">Введите пароль от аккаунта Xiaomi:</string>
-    <string name="password_error">Введите пароль от Вашего аккаунта</string>
+    <string name="password_error">Введите пароль от аккаунта</string>
     <string name="progress_creating">Получаю информацию о заказе…</string>
-    <string name="progress_loading">Обрабатываю, подождите…</string>
+    <string name="progress_loading">Обработка…</string>
     <string name="progress_connecting">Соединение…</string>
 	<string name="button_retry">Повтор</string>
     <string name="button_pay">Подтвердить</string>

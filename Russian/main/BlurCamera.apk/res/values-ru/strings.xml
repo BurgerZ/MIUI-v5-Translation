@@ -120,8 +120,8 @@
   <string name="mode_camcorder_unsupported">Видеокамера не поддерживается в этом режиме</string>
   <string name="mode_camera_unsupported">Камера не поддерживается в этом режиме</string>
   <string name="modes">Переключиться на</string>
-  <string name="motocast">MotoCast авто загрузка</string>
-  <string name="motocast_summary">Автоматически загружать фотографии и видео на Ваш компьютер</string>
+  <string name="motocast">MotoCast автозагрузка</string>
+  <string name="motocast_summary">Автоматически загружать фотографии и видео на ваш компьютер</string>
   <string name="moveDown">Вниз</string>
   <string name="moveLeft">Влево</string>
   <string name="moveRight">Вправо</string>

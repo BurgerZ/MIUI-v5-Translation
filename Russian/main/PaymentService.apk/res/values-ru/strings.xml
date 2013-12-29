@@ -107,8 +107,8 @@
 	<string name="next">Далее</string>
 	<string name="btn_next">Далее</string>
 	<string name="order_price">MiCredits: %1$s</string>
-	<string name="password_error">Пожалуйста, введите Ваш пароль</string>
-	<string name="password_hint">Пожалуйста, введите Ваш пароль аккаунта Xiaomi:</string>
+	<string name="password_error">Пожалуйста, введите ваш пароль</string>
+	<string name="password_hint">Пожалуйста, введите ваш пароль аккаунта Xiaomi</string>
 	<string name="pay_record_empty">Нет истории платежей</string>
 	<string name="paytool_alipay">Alipay</string>
 	<string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
@@ -118,7 +118,7 @@
 	<string name="prepaid_edit_limit">символов</string>
 	<string name="prepaid_error_card_length">Пожалуйста, введите корректный номер карты предоплаты или пароль.</string>
 	<string name="prepaid_error_card_number">Введите корректную сумму пополнения счета</string>
-	<string name="prepaid_error_carrier">Пожалуйста, выберите Вашего оператора</string>
+	<string name="prepaid_error_carrier">Пожалуйста, выберите вашего оператора</string>
 	<string name="prepaid_error_denomination">Выберите сумму пополнения</string>
 	<string name="prepaid_error_password">Неверный пароль карты предоплаты</string>
 	<string name="prepaid_number_edit_hint">Номер карты</string>

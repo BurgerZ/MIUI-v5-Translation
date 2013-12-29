@@ -270,9 +270,9 @@
 	<string name="experimental_validate_progress">Проверка. Пожалуйста, подождтите…</string>
 	<string name="experimental_validate_thanks">Спасибо!</string>
 	<string name="experimental_validate_username">Логин Xiaomi</string>
-	<string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
+	<string name="experimental_validate_warning">Каждое ваше тестирование помогает стать MIUI лучше!</string>
 	<string name="find_device_check_sim">Проверка SIM…</string>
-	<string name="find_device_sim_change_instructions">"Ваше устройство заблокировано. Вставьте SIM-карту или введите Ваш пароль для аккаунта Xiaomi."</string>
+	<string name="find_device_sim_change_instructions">Ваше устройство заблокировано. Вставьте SIM-карту или введите ваш пароль от аккаунта Xiaomi.</string>
 	<string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано. Пожалуйста, вставьте оригинальную SIM-карту."</string>
 	<string name="find_device_turn_off_flight_mode">Отключите режим полета</string>
 	<string name="find_device_turn_off_flight_mode_instructions">"Ваше устройство заблокировано. Пожалуйста, отключите режим полета."</string>

@@ -90,7 +90,7 @@
 	<string name="plate_traffic_already_used">Использовано</string>
 	<string name="plate_traffic_exceed">Превышено</string>
 	<string name="plate_traffic_remain">Осталось</string>
-	<string name="powered_by">Поддержка: Xiaomi</string>
+	<string name="powered_by">Поддержка: WALL-E</string>
 	<string name="pref_category_adjust_traffic">Регулировка трафика</string>
 	<string name="pref_connect_settings_enable_backgroung">Фоновые службы</string>
 	<string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети приложениям, которые работают в фоновом режиме.</string>

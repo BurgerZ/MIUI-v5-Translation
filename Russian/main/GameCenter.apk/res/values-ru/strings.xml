@@ -19,8 +19,8 @@
 	<string name="card_recharge_hint">1) Покупка должна пополнена в полном объеме</string>
 	<string name="card_recharge_hint2">2) Убедитесь, что баланс платежной карты соответствует выбранному значению, чтобы избежать потери средств</string>
 	<string name="card_recharge_hint31">3) Если ваша кредитная карточка</string>
-	<string name="card_recharge_hint32">не равна %dRMB</string>
-	<string name="card_recharge_hint33">то Ваш платеж не удастся, и приведет к потере денежных средств</string>
+	<string name="card_recharge_hint32">не равна %d RMB</string>
+	<string name="card_recharge_hint33">то ваш платеж не удастся, и приведет к потере денежных средств</string>
 	<string name="card_recharge_title">Пополнение через телефон:</string>
 	<string name="category_header">Все (%1$s)</string>
 	<string name="category_info_invalid">Неверная информация о категории</string>
@@ -156,10 +156,10 @@
 	<string name="no_download_task">В настоящее время загрузок нет</string>
 	<string name="no_local_apps">Нет установленных приложений</string>
 	<string name="no_local_game">Вы еще не установили ни одну игру</string>
-	<string name="no_purchase_record">Нет записей о Ваших покупках</string>
+	<string name="no_purchase_record">Нет записей о покупках</string>
 	<string name="no_sd_card">SD-карта недоступна</string>
 	<string name="no_search">Приложения не найдены</string>
-	<string name="no_search_game">"Sorry, can't find that. Try again?"</string>
+	<string name="no_search_game">Ничего не найдено. Повторить поиск?</string>
 	<string name="no_subject_info">К сожалению, нет никакой информации по этой теме</string>
 	<string name="no_update">Нет обновлений</string>
 	<string name="no_url">Не удалось найти адрес загрузки</string>
@@ -175,7 +175,7 @@
 	<string name="permission_button">Разрешения (%1$s)</string>
 	<string name="permissions_expand_title">Все разрешения</string>
 	<string name="permissions_title">%1$s - разрешения</string>
-	<string name="pref_clear_search_history_summary">Удалить Вашу историю поиска игр</string>
+	<string name="pref_clear_search_history_summary">Удалить историю поиска игр</string>
 	<string name="pref_clear_search_history_title">Очистить историю поиска</string>
 	<string name="pref_client_update_notify_summary">Уведомлять меня о новой версии Game Center</string>
 	<string name="pref_client_update_notify_title">Уведомление о обновлении</string>
@@ -228,9 +228,9 @@
 	<string name="start_game">Играть</string>
 	<string name="status_downloading">Загрузка: %1$s%%</string>
 	<string name="subject_lists">Список тем игр</string>
-	<string name="system_app_sign_not_match_fail">%1$s установка не удалась из-за конфликта подписей</string>
-	<string name="this_month_no_purchase_record">нет записей о Ваших покупках в этом месяце</string>
-	<string name="today_no_purchase_record">Нет записей о Ваших сегодняшних покупках</string>
+	<string name="system_app_sign_not_match_fail">%1$s: установка не удалась из-за конфликта подписей</string>
+	<string name="this_month_no_purchase_record">Нет записей о покупках в этом месяце</string>
+	<string name="today_no_purchase_record">Нет записей о сегодняшних покупках</string>
 	<string name="txt_alipay_recharge_invalid_number">Пожалуйста, выберите количество</string>
 	<string name="txt_card_hint">% значный номер</string>
 	<string name="txt_card_no">Номер карты:</string>

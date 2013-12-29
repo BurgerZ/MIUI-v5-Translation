@@ -17,8 +17,8 @@
 	<string name="holiday_data_update_failed">Ошибка обновления</string>
 	<string name="holiday_data_update_succeed">Обновление завершено</string>
 	<string name="holiday_data_updating">Обновление…</string>
-	<string name="holiday_update_summary">Проверить обновление базы данных рабочих дней.</string>
-	<string name="holiday_update_title">Обновление базы</string>
+	<string name="holiday_update_summary">Нажмите для проверки обновлений</string>
+	<string name="holiday_update_title">База праздников</string>
 	<string name="provider_label">Календарь</string>
 	<string name="upgrade_msg">Обновление базы данных календаря…</string>
 </resources>
