@@ -2501,7 +2501,7 @@
     <string name="storage_size_content">Использовано: %1$s | Доступно: %2$s</string>
     <string name="quick_scan_doing_title">Сканирование…</string>
     <string name="quick_scan_cleaning_title">Очистка…</string>
-    <string name="quick_scan_result_title">Найдено файлов: %s</string>
+    <string name="quick_scan_result_title">Найдено мусора: %s</string>
     <string name="quick_scan_result_summary">Очистка начнется через %d сек.</string>
     <string name="optimize_cache_header_left">Кэш файлов: %d</string>
     <string name="optimize_ad_header_left">Файлов с рекламой: %d</string>
