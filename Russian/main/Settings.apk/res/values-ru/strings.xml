@@ -2679,7 +2679,7 @@
     <string name="power_save_on_time_end_time_summary">Окончание</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Выбор режима</string>
-    <string name="power_save_on_time_option_summary">По окончанию периода, устройство вернется в недавний режим.</string>
+    <string name="power_save_on_time_option_summary">По окончании периода устройство вернется в недавний режим.</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_consume_rank_title">Использование батареи</string>
     <string name="power_consume_rank_software">Приложения</string>
