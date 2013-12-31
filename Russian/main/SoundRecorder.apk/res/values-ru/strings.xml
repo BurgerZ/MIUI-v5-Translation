@@ -53,7 +53,7 @@
 	<string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
 	<string name="preference_silent_mode">Выключать все звуки</string>
 	<string name="preference_enable_earpiece_title">Воспроизведение аудио</string>
-	<string name="preference_enable_earpiece_summary">Использовать приемник для воспроизведения сторонних аудио</string>
+	<string name="preference_enable_earpiece_summary">Использовать разговорный динамик для воспроизведения записей</string>
 	<string name="preference_scenes">Режим записи</string>
 	<string name="record_list">Список записей</string>
 	<string name="record_loading">Загрузка записей…</string>
