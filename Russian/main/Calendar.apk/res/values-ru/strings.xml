@@ -187,7 +187,7 @@
 	<string name="default_reminder_mode">Уведомления</string>
 	<string name="time_zone">Часовой пояс</string>
 	<string name="show_all_lunar">Показывать лунный календарь</string>
-	<string name="event_all_day_label">Все дни</string>
+	<string name="event_all_day_label">Весь день</string>
 	<string name="event_account">Аккаунт</string>
 	<string name="event_show_more">Дополнительно</string>
 	<string name="event_hide_more">Скрыть</string>
