@@ -485,4 +485,8 @@
     <string name="confirm_download_video_message">Для просморта видео необходимо полностью загрузить его. Загрузка будет продолжена при подключении к сети Wi-Fi.</string>
     <string name="image_download_item_title">Скачать изображение (%s)</string>
     <string name="folder_holder_file">Необходимо удалить этот файл позже</string>
+	<string name="move">Переместить</string>
+	<string name="internal_sd_card_hm">Память телефона</string>
+	<string name="external_usb_device_hm">USB-накопитель</string>
+	<string name="item_not_sync">Этот файл не был синхронизирован с облаком и не может быть загружен</string>
 </resources>

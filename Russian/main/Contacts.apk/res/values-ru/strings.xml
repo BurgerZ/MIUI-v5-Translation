@@ -262,7 +262,7 @@
 	<string name="device_import_progress_end_message">Импорт завершен!</string>
 	<string name="device_import_progress_message">Импортирование…</string>
 	<string name="device_import_progress_toast">%1$d контактов импортировано</string>
-	<string name="device_import_title">Импортирование</string>
+	<string name="device_import_title">Импортирование…</string>
 	<string name="device_list_title">Выберите телефон для сопряжения</string>
 	<string name="device_other_guide">Если вашей марки телефона нет в списке, попробуйте воспользоваться этой инструкцией.</string>
 	<string name="device_other_title">Другой телефон</string>
@@ -1050,7 +1050,7 @@
     <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
     <string name="resource_exchange_success">Готово!</string>
     <string name="resource_exchange_share_code_dlg_title">Отправка…</string>
-    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы преобреди для темы %1$sis: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
+    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы приобрели для темы %1$sis: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
     <string name="resource_exchange_share_code_content">Вы получили подарочный код для темы %1$s. Код темы: %2$s. Нажмите для использования: %3$s.</string>
     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
 	<string name="resource_comment_score_count">Оценок: %1$s</string>

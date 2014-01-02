@@ -88,4 +88,15 @@
         <item quantity="other">%1$s, %2$d треков</item>
         <item quantity="one">%1$s, %2$d трек</item>
      </plurals>
+	 <plurals name="Nexpired_remind">
+        <item quantity="other">Осталось дней: %d</item>
+        <item quantity="one">Осталось дней: %d</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Заканичвается срок действия доступа к музыке высокого качества (осталось дней: %d)</item>
+    </plurals>
+	<plurals name="Nexpiration_reminder">
+        <item quantity="other">Срок действия заканчивается через %d дн.</item>
+        <item quantity="one">Срок действия заканчивается через %d дн.</item>
+    </plurals>
 </resources>
