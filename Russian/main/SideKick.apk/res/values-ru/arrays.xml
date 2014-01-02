@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="report_method_entries">
+        <item>Когда подключена гарнитура</item>
+        <item>Всегда</item>
+        <item>Закрыт</item>
+    </string-array>
+	<string-array name="voice_effect_descs">
+        <item>Китайско-Английский женский голос</item>
+        <item>Китайский женский голос</item>
+        <item>Сычуаньский женский голос</item>
+        <item>Кантонский женский голос</item>
+        <item>Китайско-Английский девичий голос</item>
+        <item>Китайско-английский мужской голос</item>
+        <item>Хунаньский мужской голос</item>
+        <item>Хэнаньский мужской голос</item>
+        <item>Кантонский мужской голос</item>
+        <item>Мультяшный голос</item>
+    </string-array>
+</resources>

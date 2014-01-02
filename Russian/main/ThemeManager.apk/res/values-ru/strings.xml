@@ -250,7 +250,7 @@
     <string name="resource_account_login_before_action">Сначала необходимо авторизироваться в аккаунте Xiaomi</string>
     <string name="resource_send">Отправить</string>
     <string name="resource_save_to_note">Сохранить в заметки</string>
-    <string name="resource_present">Подарок</string>
+    <string name="resource_present">Подарить</string>
     <string name="resource_exchange">Выкупить</string>
     <string name="resource_exchange_confirm">Подтвердить</string>
     <string name="resource_exchange_hint">Введите подарочный код</string>

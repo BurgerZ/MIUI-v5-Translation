@@ -215,13 +215,13 @@
   <string name="user_upload_success">Адресная книга успешно загружена</string>
   <string name="voice_choosed">Успешно выбрано</string>
   <string name="voice_effect">Голосовой эффект</string>
-  <string name="voice_report">Voice report</string>
-  <string name="voice_support">Тех. поддержка iflytek</string>
+  <string name="voice_report">Отчет</string>
+  <string name="voice_support">Поддержка: iflytek</string>
   <string name="voiceassist_settings">Настройки</string>
   <string name="voiceassist_settings_title">Настройки голосового помощника</string>
   <string name="weather_no_city">无当地的天气信息</string>
   <string name="weather_no_date">无当天的天气信息</string>
   <string name="widget_loading">Нет информации о погоде</string>
-  <string name="year">年</string>
+  <string name="year">Год</string>
   <string name="you_can_say_so">Вы можете сказать, что это:</string>
 </resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="voiceassist_settings_title">Настройки голосового помощника</string>
+    <string name="voiceassist_settings">Настройки голосового помощника</string>
+    <string name="quick_launch_settings">Быстрый запуск</string>
+    <string name="menu_long_press_launch">Удерживайте клавишу \"Меню\" для запуска</string>
+    <string name="phone_by_ear_launch">Поднесите телефон к уху</string>
+    <string name="voice_report">Голосовой отчет</string>
+    <string name="report_method">Голосовой отчет</string>
+    <string name="phone_report">Отчет вызовом</string>
+    <string name="sms_report">Отчет сообщением</string>
+    <string name="invert_stop_report">Переверните, чтобы остановить отчет.</string>
+    <string name="voice_support">Поддержка: iflytek</string>
+    <string name="voice_engine">Методы</string>
+    <string name="engine_settings_button">Настройки методов</string>
+    <string name="more_engines">Еще методы от Xiaomi</string>
+    <string name="need_tts_set">Необходимо установить метод по умолчанию TTS, установить сейчас?</string>
+	<string name="tts_voice_effect">Эффект голоса TTS</string>
+    <string name="voice_effect">Эффект голоса</string>
+    <string name="voice_choosed">Готово</string>
+    <string name="download_failed">Ошибка загрузки</string>
+</resources>

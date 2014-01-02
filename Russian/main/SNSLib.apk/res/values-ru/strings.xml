@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sina_share_pendding">Отправка…</string>
+    <string name="sina_share_success">Отправка завершена!</string>
+    <string name="sina_share_fail">Ошибка отправки!</string>
+    <string name="sina_token_expired_warning">Время ожидания ответа от сервера истекло, попробуйте еще раз.</string>
+    <string name="sina_token_invalid_warning">Аккаунт Weibo недействителен, попробуйте еще раз.</string>
+</resources>
