@@ -297,7 +297,6 @@
     <string name="in_download">Кэширование</string>
     <string name="in_waiting">Ожидание</string>
     <string name="in_pause">Приостановлено</string>
-    <string name="paused">Приостановлено</string>
 	<string name="offline_continue">Продолжить</string>
     <string name="offline_media_more">Кэшировать больше</string>
     <string name="media_source_unavailable">Файл недоступен</string>
