@@ -926,7 +926,7 @@
     <string name="resource_pack_discount_info">%1$s сохранено!</string>
     <string name="resource_pack_confirm">Куплено элементов: %1$d, но эта цена выгоднее чем индивидуальная покупка, продолжить?</string>
     <string name="resource_pack_warning">Куплено элементов: %1$d, выгодней будет купить их индивидуально.</string>
-	<string name="resource_delta_update_total">%1$d обновления сохранены %2$s</string>
+	<string name="resource_delta_update_total">Обновлений: %1$d (%2$s)</string>
 	<string name="resource_detail_window_title">%1$s инфо</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_comment_title">Отзывы</string>
