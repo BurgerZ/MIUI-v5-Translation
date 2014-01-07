@@ -1081,4 +1081,15 @@
     <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Неизвестная ошибка</string>
     <string name="yellowpage_navigation_menu_order">Мой заказ</string>
+	<string name="resource_import_failed">Ошибка импортирования</string>
+	<string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
+	<string name="resource_download_trial">Пробная версия</string>
+    <string name="resource_apply_trial">Применить</string>
+    <string name="resource_on_trial">Применение пробной версии: %1$s</string>
+    <string name="resource_trial_time">(пробное время: %1$d мин.)</string>
+    <string name="resource_trial_end_title">Пробное время вышло</string>
+    <string name="resource_trial_end_message">Пробный период %1$s окончен. Если вам понравилось, вы можете приобрести полную версию.</string>
+    <string name="resource_trial_end_restore">Отмена</string>
+    <string name="resource_trial_end_purchase">Приобрести</string>
+	<string name="group_name">Группы</string>
 </resources>

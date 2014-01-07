@@ -141,7 +141,7 @@
 	<string name="forward_prefix">"От: "</string>
 	<string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
 	<string name="found_old_messages_title">Загрузка сообщений</string>
-	<string name="found_wild_messages">В облаке найдено %s сообщений с других SIM-карт. Вы хотите загрузить их?</string>
+	<string name="found_wild_messages">Загрузить облачные сообщения с других SIM-карт?</string>
 	<string name="found_wild_messages_title">Скачка сообщений</string>
 	<string name="from_label">"От: "</string>
 	<string name="group_message">Групповое сообщение</string>
@@ -325,7 +325,6 @@
 	<string name="prvate_contact">Приватные контакты</string>
 	<string name="rate_limit_surpassed">Подтвердить</string>
 	<string name="received_label">"Получено: "</string>
-	<string name="recipient_editor_count_format">%d</string>
 	<string name="recipient_label">"Получатель: "</string>
 	<string name="refresh">Обновить</string>
 	<string name="refresh_failed">Обновление не выполнено</string>
@@ -367,8 +366,8 @@
 	<string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
 	<string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
 	<string name="send_sms">Отправить сообщение</string>
-	<string name="send_to">Для: %1$s</string>
-	<string name="send_to_count">Успешно отправлено для %1$s</string>
+	<string name="send_to">"Кому: "</string>
+	<string name="send_to_count">Отправлено сообщений: %1$s</string>
 	<string name="send_to_index_contact">Отправлено %1$s из %2$s</string>
 	<string name="sent_label">"Отправлено: "</string>
 	<string name="service_message_not_found">Срок действия сообщения истек или оно не доступно</string>

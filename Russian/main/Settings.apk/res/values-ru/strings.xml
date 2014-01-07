@@ -807,7 +807,7 @@
 	<string name="frequently_fragment_delete">Удалить</string>
 	<string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
 	<string name="gadget_picker_title">Выбор гаджета</string>
-	<string name="gadget_title">Упр. питанием</string>
+	<string name="gadget_title">Питание</string>
 	<string name="gadget_toggle_bluetooth">Обновление настроек Bluetooth</string>
 	<string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
 	<string name="game_controller_settings_category">Игровой контроллер</string>
@@ -2661,7 +2661,7 @@
     <string name="power_dialog_delete_dialog_cannot_delete_default">Невозможно удалить активный режим пользователя</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Невозвможно удалить режим. \nТелефон настроен на переключение к этому режиму, когда батарея разряжена. \nНеобходимо изменить параметры перед удалением.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">Невозвможно удалить режим. \nТелефон настроен на переключение к этому режиму по расписанию. \nНеобходимо изменить параметры перед удалением.</string>
-    <string name="power_save_choose_mode">Выбрать режим</string>
+    <string name="power_save_choose_mode">Режим</string>
     <string name="power_save_low_battery_title">Автопереключение</string>
     <string name="power_save_low_battery_auto_save_title">Автопереключение</string>
 	<string name="power_save_low_battery_seekbar_title">Переключать режим, когда заряда менее %1$d%%</string>
@@ -3641,4 +3641,28 @@
     <string name="deep_clean_tips_large_file_content">Файлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
 	<string name="perm_root_manage_empty">Установленные приложения не имеют ROOT прав</string>
     <string name="perm_app_manage_empty">Нет отслеживаемых приложений</string>
+	<string name="empty_folder_title">Пустые папки (%d)</string>
+	<string name="list_sub_view_item_view">Информация</string>
+    <string name="list_sub_view_item_clean">Очистить</string>
+    <string name="list_sub_view_item_install">Установить</string>
+    <string name="list_sub_view_item_lock">Заблокировать</string>
+    <string name="list_sub_view_item_unlock">Разблокировать</string>
+	<string name="power_save_on_time_goout_title">Восстановить</string>
+    <string name="power_save_choose_recovery_mode">Режим</string>
+    <string name="power_new_choose_mode">Выбор режима</string>
+    <string name="power_save_low_battery_option_recovery_title">Режим при зарядке</string>
+    <string name="power_save_on_time_option_recovery_title">Режим по окончании периода</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Невозможно удалить. \nТелефон использует этот режим во время зарядки. Необходимо изменить настройки экономии батареи перед удалением этого режима.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Невозможно удалить. \nТелефон использует этот режим по окончании периода экономии батареи по расписанию. Необходимо изменить настройки экономии батареи перед удалением этого режима.</string>
+    <string name="power_mode_chooser_button_text">Применить</string>
+	<string name="menu_item_about_summary">Версия: %s</string>
+    <string name="menu_item_shortcut">Создать ярлыки</string>
+    <string name="menu_item_shortcut_uninstall">Удалить ярлыки</string>
+    <string name="menu_item_shortcut_title">Ярлыки</string>
+    <string name="menu_item_shortcut_summary">Добавление ярлыков для быстрого доступа к функциям безопасности.</string>
+    <string name="menu_item_settings_title">Настройки</string>
+    <string name="activity_title_create_shortcut">Ярлыки</string>
+    <string name="activity_title_settings">Настройки</string>
+    <string name="toast_shortcut_install">Ярлык добавлен</string>
+    <string name="toast_shortcut_uninstall">Ярлык удален</string>
 </resources>

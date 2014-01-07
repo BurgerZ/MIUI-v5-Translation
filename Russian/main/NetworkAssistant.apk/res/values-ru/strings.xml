@@ -136,7 +136,7 @@
 	<string name="traffic_used_status">%s\nИспользовано</string>
 	<string name="unknown">Нет данных</string>
 	<string name="unknown_free_traffic_hint">Если вы не знаете сколько предоставляется трафика на вашем тарфином плане, пожалуйста, обратитесь к оператору мобильной связи для выяснения подробностей.</string>
-	<string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
+	<string name="unknown_free_traffic_text">Информация о трафике</string>
 	<string name="unknown_free_traffic_title">Предупреждение</string>
 	<string name="unknown_location">Неизвестное местоположение</string>
 	<string name="unknown_traffic_hint">Лимит трафика не установлен. Хотите установить его прямо сейчас?</string>
@@ -159,4 +159,15 @@
 	<string name="network_control_service_notification_title_mutiple">%1$d: запрет сети %2$s</string>
 	<string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
 	<string name="network_control_service_notification_title_nettype_mobile">2G/3G</string>
+	<string name="traffic_bought">Покупка трафика</string>
+	<string name="sync_traffic_no_cmd_detail_custom_config">Для настройки SMS-шаблона перейдите в Настройки > Тарифный план > Информация о трафике.</string>
+	<string name="custom_adjust_title">Настройки синхронизации</string>
+    <string name="custom_adjust_sender">Номер отправителя</string>
+    <string name="custom_adjust_command">Сообщение</string>
+    <string name="custom_adjust_receiver">Номер получателя</string>
+    <string name="custom_adjust_sender_hint">Сообщение должно содержать запрос информации о тарифном плане</string>
+    <string name="custom_adjust_command_hit">Сообщение</string>
+    <string name="custom_adjust_receiver_hint">Номер телефона, с которого оператор связи отправит пользователю сообщение с информацией о тарифном плане.</string>
+    <string name="custom_adjust_recevier_same_with_sender">Номера получателя и отправителя практически идентичны.</string>
+    <string name="custom_adjust_is_empty">%s: пусто</string>
 </resources>

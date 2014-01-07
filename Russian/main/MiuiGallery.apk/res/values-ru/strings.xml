@@ -35,7 +35,7 @@
 	<string name="aperture">Диафрагма</string>
 	<string name="app_name">Галерея</string>
 	<string name="appwidget_empty_text">Нет фотографий</string>
-	<string name="appwidget_title">Фотогалерея</string>
+	<string name="appwidget_title">Галерея</string>
 	<string name="auto">Авто</string>
 	<string name="auto_create_recent_album">Автосоздание избр. альбома</string>
 	<string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы, установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом</string>
