@@ -34,7 +34,7 @@
 	<string name="channel">FM</string>
 	<string name="channel_format" formatted="false">"%s %s МГц"</string>
 	<string name="channel_postfix">МГц</string>
-	<string name="click_to_shuffle">Перемешать все</string>
+	<string name="click_to_shuffle">Перемешать</string>
 	<string name="complete">Готово</string>
 	<string name="confirm">ОК</string>
 	<string name="correct_id3_by_internet">Исправление ID3 через интернет</string>

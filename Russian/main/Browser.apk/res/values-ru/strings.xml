@@ -630,4 +630,7 @@
     <string name="miui_search_notification_message">Нажмите, чтобы открыть.</string>
     <string name="miui_quicksearch_enable_pref_title">Быстрый поиск</string>
     <string name="miui_quicksearch_enable_pref_summary">Включить быстрый поиск в панели уведомлений.</string>
+	<string name="network_alert_message">Сеть Wi-Fi недоступна, использовать мобильный интернет?</string>
+    <string name="yes">ОК</string>
+    <string name="no">Отмена</string>
 </resources>
