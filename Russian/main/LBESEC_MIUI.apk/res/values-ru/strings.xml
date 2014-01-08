@@ -185,4 +185,5 @@
 	<string name="SysOpt_Boost_Boot">Загрузка</string>
 	<string name="SysOpt_Boost_Receiver">Фоновые</string>
 	<string name="app_name">Разрешения</string>
+	<string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
 </resources>
