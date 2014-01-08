@@ -139,5 +139,14 @@
     <string name="order_empty_hint">Нет заказов</string>
     <string name="order_merchant_title">Мои заказы</string>
     <string name="order_id">ID заказа: %s</string>
-	
+	<string name="balance_inquiry_send_sms_summmary">Проверить баланс</string>
+	<string name="general_yellow_page_title">Общие</string>
+    <string name="general_recent_title">Последние</string>
+    <string name="general_favorite_title">Избранные</string>
+    <string name="general_no_yellow_page">Список пуст</string>
+    <string name="general_menu_favorite">Избранное</string>
+    <string name="general_menu_unfavorite">Удалить из избранного</string>
+    <string name="general_menu_delete_recent">Удалить последние</string>
+    <string name="general_cancel_favorite_ok">Удалено из избранного</string>
+    <string name="general_delete_recent_ok">Последние удалены</string>
 </resources>
