@@ -137,7 +137,7 @@
 	<string name="sc_service_unavailable">Возможно сервис недоступен</string>
 	<string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
 	<string name="sc_unauthorized">Сертификация не действительна</string>
-	<string name="sdcard_no_enough_space">Не хватает памяти на SD-карте</string>
+	<string name="sdcard_no_enough_space">SD-карте заполнена</string>
 	<string name="sdcard_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на SD-карте</string>
 	<string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
 	<string name="select_all">Все</string>

@@ -6,7 +6,7 @@
 	<string name="button_queue_for_wifi">Позже</string>
 	<string name="button_start_now">Загрузить</string>
 	<string name="dialog_insufficient_space_on_cache">Не хватает памяти на внутренней памяти</string>
-	<string name="dialog_insufficient_space_on_external">Не хватает памяти на SD-карте</string>
+	<string name="dialog_insufficient_space_on_external">SD-карта заполнена</string>
 	<string name="download_unknown_title">&lt;без названия></string>
 	<string name="notification_download_complete">Загрузка завершена</string>
 	<string name="notification_download_failed">Не удалось загрузить файл</string>
