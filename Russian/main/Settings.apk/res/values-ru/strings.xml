@@ -3665,4 +3665,5 @@
     <string name="activity_title_settings">Настройки</string>
     <string name="toast_shortcut_install">Ярлык добавлен</string>
     <string name="toast_shortcut_uninstall">Ярлык удален</string>
+	<string name="perm_support_hints">Поддержка: LBE</string>
 </resources>
