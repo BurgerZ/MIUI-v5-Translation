@@ -812,7 +812,16 @@
 	<string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен</string>
 	<string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга</string>
 	<string name="rsp_unlock_failed">Ошибка разблокировки служб RUIM</string>
+	<string name="sp_unlock_failed">Ошибка разблокировки служб SIM</string>
 	<string name="ruim_unlock_failed">Ошибка разблокировки RUIM</string>
+	<string name="sim_unlock_failed">Ошибка разблокировки SIM</string>
+	<string name="sp_unlock_success">SIM-сервис успешно разблокирован</string>
+	<string name="sim_unlock_success">SIM успешно разблокирована</string>
+	<string name="rnw1_unlock_success">RUIM Сеть 1 успешно разблокирована</string>
+	<string name="rnw2_unlock_success">RUIM Сеть 2 успешно разблокирована</string>
+	<string name="rhrpd_unlock_success">RUIM Hrpd успешно разблокирован</string>
+	<string name="ruim_unlock_success">RUIM разблокирован</string>
+    <string name="rsp_unlock_success">RUIM-сервис успешно разблокирован</string>
 	<string name="save">Сохранить</string>
 	<string name="saving_account">Сохранение аккаунта…</string>
 	<string name="search_networks">Поиск сетей</string>
