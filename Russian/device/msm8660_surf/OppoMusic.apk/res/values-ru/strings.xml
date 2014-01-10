@@ -46,7 +46,7 @@
   <string name="delet_album">Delet album cover</string>
   <string name="delete_album_desc">Delete all tracks of album \"%s?\"</string>
   <string name="delete_artist_desc">Delete all tracks of \"%s?\"</string>
-  <string name="delete_confirm_button_text">OK</string>
+  <string name="delete_confirm_button_text">ОК</string>
   <string name="delete_item">Delete</string>
   <string name="delete_playlist_menu">Delete</string>
   <string name="delete_selected">Delete Selected</string>
@@ -151,7 +151,7 @@
   <string name="notif_track_exist">File name already exist, please enter again</string>
   <string name="notification_sound_seted">Notification is set</string>
   <string name="nowplaying_title">Current play list</string>
-  <string name="ok">OK</string>
+  <string name="ok">ОК</string>
   <string name="onesong">1 song</string>
   <string name="opened">ON</string>
   <string name="oppo_btn_select_all">Select all</string>
@@ -239,7 +239,7 @@
   <string name="send_via_mms">Via MMS</string>
   <string name="sequence_all_notif">"Sequence all tracks "</string>
   <string name="server_refuse">no access to server</string>
-  <string name="service_start_error_button">OK</string>
+  <string name="service_start_error_button">ОК</string>
   <string name="service_start_error_msg">Unable to play this track</string>
   <string name="service_start_error_title">Play error</string>
   <string name="set_as_alarmclock_ringtone">Alarm ring</string>

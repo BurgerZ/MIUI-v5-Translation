@@ -430,7 +430,7 @@
 	<string name="tomorrow">"Завтра "</string>
 	<string name="unknown">Неизвестный номер</string>
 	<string name="unknown_caller">Неизвестный абонент</string>
-	<string name="unlock_string">OK</string>
+	<string name="unlock_string">ОК</string>
 	<string name="unlocking_sim_card">Разблокировка SIM-карты</string>
 	<string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
 	<string name="unlockscreen_recharge_completed">Зарядка завершена</string>

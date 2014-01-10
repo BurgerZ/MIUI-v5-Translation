@@ -51,7 +51,7 @@
   <string name="M_SPOT">Точечный замер</string>
   <string name="MaxRecordingSizeMMS">295K</string>
   <string name="NORMAL">Обычный</string>
-  <string name="OK_STRING">OK</string>
+  <string name="OK_STRING">ОК</string>
   <string name="OPTION_OFF">Выкл</string>
   <string name="OPTION_ON">Вкл</string>
   <string name="OnScreen_HelpTextTouchAF">Нажмите на экран для фокусировки</string>
@@ -368,7 +368,7 @@ Direct connected"</string>
   <string name="wifi_dialog_text">Необходимо Wi-Fi соединение</string>
   <string name="wifi_dialog_text_chn">Необходимо WLAN соединение.</string>
   <string name="wifi_dialog_title">Поделиться снимками</string>
-  <string name="wifi_dialog_yes">OK</string>
+  <string name="wifi_dialog_yes">ОК</string>
   <string name="wifi_direct_dialog_text">Позволяет поделиться снимком, обмениваться фотографиями с другими пользователями через Wi-Fi Direct. Необходимо соединение Wi-Fi Direct.</string>
   <string name="wifi_direct_dialog_text_chn">Позволяет поделиться снимком, обмениваться фотографиями с другими пользователями через WLAN Direct. Необходимо соединение WLAN Direct.</string>
   <string name="wifi_direct_dialog_title">Поделиться снимком</string>

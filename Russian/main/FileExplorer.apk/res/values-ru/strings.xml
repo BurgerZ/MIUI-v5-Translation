@@ -35,7 +35,7 @@
 	<string name="compress_fail">Ошибка создания архива. Такое имя уже существует.</string>
 	<string name="compress_title">Создание архива</string>
 	<string name="confirm">OК</string>
-	<string name="confirm_know">OK</string>
+	<string name="confirm_know">ОК</string>
 	<string name="copy_failed">Ошибка копирования</string>
 	<string name="count_down_time">Отмена (%d)</string>
 	<string name="create_kuaipan_shortcut_pref">Ярлык на рабочий стол</string>

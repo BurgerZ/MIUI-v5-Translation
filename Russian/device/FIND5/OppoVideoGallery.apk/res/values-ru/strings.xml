@@ -109,7 +109,7 @@
     <string name="cannot_find_dlna_device">DLNA-совместимое устройство не найдено</string>
     <string name="stop_dlna_msg">Остановить подключение через DLNA?</string>
     <string name="rename_dialog_title">Переименовать</string>
-    <string name="rename_dialog_btn_ok">OK</string>
+    <string name="rename_dialog_btn_ok">ОК</string>
     <string name="rename_dialog_btn_cancel">Отмена</string>
     <string name="oppo_menu_select_all">Выбрать все</string>
     <string name="oppo_menu_cancel_all">Отменить все</string>

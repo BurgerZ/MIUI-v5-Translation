@@ -25,8 +25,8 @@
   <string name="cannot_connect_mhl">Для того, чтобы обеспечить нормальное использование MHL, пожалуйста, покиньте камеру</string>
   <string name="change_camera_facing">переключение</string>
   <string name="click_again">Нажмите снова, чтобы начать снимать</string>
-  <string name="delete">OK</string>
-  <string name="details_ok">OK</string>
+  <string name="delete">ОК</string>
+  <string name="details_ok">ОК</string>
   <string name="developing">Developing</string>
   <string name="exposure_off">Flash lamp off</string>
   <string name="exposure_on">Flash lamp on</string>
@@ -66,7 +66,7 @@
   <string name="nosdcard">Не удалось найти карту памяти</string>
   <string name="nospace">Not enough storage space</string>
   <string name="off">ВЫКЛ</string>
-  <string name="ok">OK</string>
+  <string name="ok">ОК</string>
   <string name="on">ВКЛ</string>
   <string name="panorama_generated">Сгенерировано</string>
   <string name="panorama_tips_text">"Нажмите кнопку спуска затвора

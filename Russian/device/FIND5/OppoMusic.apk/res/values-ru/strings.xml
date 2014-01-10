@@ -52,7 +52,7 @@
     <string name="create_playlist_create_text">Сохранить</string>
     <string name="service_start_error_title">Ошибка воспроизведения</string>
     <string name="service_start_error_msg">Невозможно воспроизвести трек</string>
-    <string name="service_start_error_button">OK</string>
+    <string name="service_start_error_button">ОК</string>
     <string name="save_as_playlist">Сохранить как плей-лист</string>
     <string name="clear_playlist">Очистить плей-лист</string>
     <string name="musicbrowserlabel">Музыка</string>
@@ -153,7 +153,7 @@
     <string name="whole_track_text">Полный трек</string>
     <string name="part_track_text">Обрезка</string>
     <string name="failed_to_send_email">Недоступен аккаунт электронной почты, установите снова.</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="set_as_phone_ringtone">Сигнал вызова</string>
     <string name="set_as_sms_ringtone">Сигнал сообщения</string>
     <string name="set_as_alarmclock_ringtone">Сигнал будильника</string>
@@ -228,7 +228,7 @@
     <string name="detail_musictype">Формат:</string>
     <string name="detail_artist">Исполнитель:</string>
     <string name="detail_album">Альбом:</string>
-    <string name="detail_confirm">OK</string>
+    <string name="detail_confirm">ОК</string>
     <string name="title_null">название песни не может быть пустым, повторите ввод</string>
     <string name="songtitle">Песня</string>
     <string name="singertitle">Исполнитель</string>
@@ -277,7 +277,7 @@
     <string name="not_find_music">Нет данных</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="rename_dialog_title">Переименовать</string>
-    <string name="rename_dialog_btn_ok">OK</string>
+    <string name="rename_dialog_btn_ok">ОК</string>
     <string name="rename_dialog_btn_cancel">Отмена</string>
     <string name="oppo_menu_select_all">Выбрать все</string>
     <string name="oppo_menu_cancel_all">Снять все</string>

@@ -28,7 +28,7 @@
 	<string name="app_name">Трафик</string>
 	<string name="app_traffic_detail">" трафик(%s)"</string>
 	<string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. (%s)</string>
-	<string name="apply_rules_failed_known">OK</string>
+	<string name="apply_rules_failed_known">ОК</string>
 	<string name="batch_connect_control">Управление соединениями</string>
 	<string name="cancel_txt">Отмена</string>
 	<string name="cannot_find_sms_cmd">Не удается найти SMS команду</string>

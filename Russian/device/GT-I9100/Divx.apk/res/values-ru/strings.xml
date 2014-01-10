@@ -9,10 +9,10 @@
   <string name="dialog_cancel_button">Отменить</string>
   <string name="dialog_cancel_registration_button">Отменить</string>
   <string name="dialog_deregister_confirmation_message">Устройство уже зарегистрировано. Вы уверены, что хотите удалить?</string>
-  <string name="dialog_deregistration_button">OK</string>
-  <string name="dialog_ok_button">OK</string>
-  <string name="dialog_ok_registration_button">OK</string>
-  <string name="dialog_registration_button">OK</string>
+  <string name="dialog_deregistration_button">ОК</string>
+  <string name="dialog_ok_button">ОК</string>
+  <string name="dialog_ok_registration_button">ОК</string>
+  <string name="dialog_registration_button">ОК</string>
   <string name="divx_deregister_website">Отмена регистрации на %s</string>
   <string name="divx_deregistration">Выйти</string>
   <string name="divx_deregistration_code">Удалить регистрационный код: %s</string>

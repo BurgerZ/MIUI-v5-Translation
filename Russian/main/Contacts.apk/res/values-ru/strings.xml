@@ -563,7 +563,7 @@
 	<string name="no_contacts_dialog_title">Контакт не найден</string>
 	<string name="no_contacts_selected">Контакты не выбраны</string>
 	<string name="no_sdcard_message">SD-карта не обнаружена</string>
-	<string name="non_phone_add_to_contacts">Добавить номер к контакту</string>
+	<string name="non_phone_add_to_contacts">Добавить к контакту</string>
 	<string name="non_phone_caption">Номер телефона</string>
 	<string name="non_phone_close">Закрыть</string>
 	<string name="none_found">Устройства не найдены</string>

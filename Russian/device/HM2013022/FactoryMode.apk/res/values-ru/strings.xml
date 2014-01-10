@@ -68,7 +68,7 @@
     <string name="headset_testting">Тест наушников:</string>
     <string name="headset_button_testting">Тестирование кнопки наушников:</string>
     <string name="headset_not_plug">Не готово</string>
-    <string name="headset_button_press">OK</string>
+    <string name="headset_button_press">ОК</string>
     <string name="led_testting">LED индикатор</string>
     <string name="led_test_start">Старт</string>
     <string name="led_test_stop">Стоп</string>

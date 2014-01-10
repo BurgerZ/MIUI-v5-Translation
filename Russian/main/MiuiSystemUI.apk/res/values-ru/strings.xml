@@ -85,7 +85,7 @@
 	<string name="dlg_confirm_kill_storage_users_text">При включении режима накопителя некоторые прилжения будут недоступны</string>
 	<string name="dlg_confirm_kill_storage_users_title">Включить USB-накопитель</string>
 	<string name="dlg_error_title">USB операция неудачна</string>
-	<string name="dlg_ok">OK</string>
+	<string name="dlg_ok">ОК</string>
 	<string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
 	<string name="ext_media_badremoval_notification_message">Перед извлечением необходимо безопасно отключить</string>
 	<string name="ext_media_badremoval_notification_title">USB-накопитель отключен</string>

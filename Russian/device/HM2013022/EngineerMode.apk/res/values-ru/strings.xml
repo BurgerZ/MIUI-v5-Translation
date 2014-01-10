@@ -472,7 +472,7 @@
     <string name="Camera">Камера</string>
     <string name="Camera_Preview">Camera_Preview</string>
     <string name="start_preview_failed">Начать предварительный просмотр не удалось.</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">ОК</string>
     <string name="af_mode_dailog_title">Установить Режим AF</string>
     <string name="step_dailog_title">Задать шаг</string>
     <string name="capture_mode_dailog_title">Задать режим съемки</string>
@@ -512,7 +512,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_dialog_input_file_name">Введите имя файла</string>
     <string name="wifi_toast_select_error">Ошибка выбора</string>
     <string name="wifi_toast_packet_error">Не устанавливайте счетчик пакетов = 0, неограничено на Android</string>
-    <string name="wifi_ok">OK</string>
+    <string name="wifi_ok">ОК</string>
     <string name="wifi_empty" />
     <string name="wifi_zero">0</string>
     <string name="wifi_tx">WLAN_Tx</string>
@@ -576,7 +576,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_mcr_writebtn">Записать</string>
     <string name="wifi_eeprom_save_dialog_title">Сохранить как</string>
     <string name="wifi_eeprom_save_dir">Введите имя файла</string>
-    <string name="wifi_eeprom_save_dir_done">OK</string>
+    <string name="wifi_eeprom_save_dir_done">ОК</string>
     <string name="file_list_title">Выберите файл для записи</string>
     <string name="wifi_dpd_text">DPD калибровка:</string>
     <string name="wifi_dpd_calibration">Калибровка</string>
@@ -705,7 +705,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="device_mgr_sms_auto_reg">SMS Авто-регистрация</string>
     <string name="YGPS">YGPS</string>
     <string name="AGPS">AGPS</string>
-    <string name="OK">OK</string>
+    <string name="OK">ОК</string>
     <string name="Error">Ошибка</string>
     <string name="Success">Завершено</string>
     <string name="BT_turn_bt_off">Сначала отключите Bluetooth</string>
@@ -868,7 +868,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="log_filter_group_10">Group_10</string>
     <string name="service_raw">Service(Raw)</string>
     <string name="mal_supported_format">MAL(Supported Format)</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="menu_set_to_default">Set to default</string>
     <string name="h263_only">H263 only</string>
     <string name="set_default_success">Set date to default success!</string>
@@ -988,7 +988,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="fd_textView">Turn On/Off SCRI/FD</string>
     <string name="fd_turn_on">Turn On</string>
     <string name="fd_turn_off">Turn Off</string>
-    <string name="fd_ok">OK</string>
+    <string name="fd_ok">ОК</string>
     <string name="fd_simcard_text">SIM Card:</string>
     <string name="fd_sim1_text">SIM1</string>
     <string name="fd_sim2_text">SIM2</string>
@@ -1052,12 +1052,12 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="sdcard_format">Erase SD card</string>
     <string name="small_font">Small</string>
     <string name="font_size_preview_text">Servez ce monsieur une bière et des kiwis.</string>
-    <string name="font_size_save">OK</string>
+    <string name="font_size_save">ОК</string>
     <string name="cfu_textView">CFU Setting:</string>
     <string name="cfu_default">Default</string>
     <string name="cfu_turn_on">Always query</string>
     <string name="cfu_turn_off">Always not query</string>
-    <string name="cfu_ok">OK</string>
+    <string name="cfu_ok">ОК</string>
     <string name="radio_info_signal_location_label">Location:</string>
     <string name="radio_info_neighboring_location_label">Neighboring CID:</string>
     <string name="radio_info_data_attempts_label">Data attempts:</string>
@@ -1097,7 +1097,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="settings_fs_small_bound">(default 0.85)</string>
     <string name="settings_fs_large_bound">(default 1.15)</string>
     <string name="settings_fs_extralarge_bound">(default 1.30)</string>
-    <string name="settings_fs_ok">OK</string>
+    <string name="settings_fs_ok">ОК</string>
     <string name="bandmodesim1_GSM">GSM Mode</string>
     <string name="bandmodesim1_GSM_EGSM900">EGSM900</string>
     <string name="bandmodesim1_GSM_DCS1800">DCS1800</string>
@@ -1147,7 +1147,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="query_current_message">Query Current Mode Failed.</string>
     <string name="query_btn_text">Close</string>
     <string name="set_success_message">Set OK</string>
-    <string name="set_ok_text">OK</string>
+    <string name="set_ok_text">ОК</string>
     <string name="set_fail_title">Failed</string>
     <string name="set_fail_message">Set Failed</string>
     <string name="set_fail_text">Close</string>
@@ -1166,7 +1166,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="open_file_fail">Open URC File Fail</string>
     <string name="io_exception_title">Fail</string>
     <string name="io_exception_fail">Write File Fail</string>
-    <string name="network_btn_text">OK</string>
+    <string name="network_btn_text">ОК</string>
     <string name="send_at_fail">NW INFO AT cmd failed.</string>
     <string name="networkinfo_sim1">SIM1</string>
     <string name="networkinfo_sim2">SIM2</string>

@@ -52,7 +52,7 @@
 	<string name="forget_password">(вспомнить)</string>
 	<string name="get_back_pwd">Получить пароль учетной записи</string>
 	<string name="header_data_and_synchronization">Данные и синхронизация</string>
-	<string name="i_know">OK</string>
+	<string name="i_know">ОК</string>
 	<string name="input_password_hint">Введите пароль</string>
 	<string name="int_phone_user_notice">При авторизации в Xiaomi аккаунте с помощью мобильного номера, указывайте код страны. Например: +7</string>
 	<string name="login">Войти</string>

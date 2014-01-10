@@ -36,7 +36,7 @@
 	<string name="comment_upload_failed">Ошибка отправки</string>
 	<string name="comment_upload_hint">Ваш отзыв появится после проверки</string>
 	<string name="comment_upload_login_cancel">Отмена</string>
-	<string name="comment_upload_login_ok">OK</string>
+	<string name="comment_upload_login_ok">ОК</string>
 	<string name="comment_upload_need_login">Войти в аккаунт, чтобы оставить отзыв?</string>
 	<string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
 	<string name="comment_upload_success">Отзыв отправлен!</string>

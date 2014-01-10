@@ -482,7 +482,7 @@
   <string name="bt_enable_line2">Включить Bluetooth?</string>
   <string name="bt_enable_ok">Включить</string>
   <string name="bt_enable_title">Bluetooth</string>
-  <string name="bt_error_btn_ok">OK</string>
+  <string name="bt_error_btn_ok">ОК</string>
   <string name="bt_pref_bpp_svc">Basic printing</string>
   <string name="bt_pref_fm_svc">FM радио</string>
   <string name="bt_pref_fmtx_svc">FM-передатчик</string>
@@ -706,7 +706,7 @@
   <string name="dlg_confirm_unmount_title">Unmount SD card?</string>
   <string name="dlg_error_unmount_text">Unable to unmount SD card. Try later</string>
   <string name="dlg_error_unmount_title" />
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_ok">ОК</string>
   <string name="do_not_show_again">Не показывать снова</string>
   <string name="dock_audio_settings_title">Аудио</string>
   <string name="dock_audio_summary_car">Audio settings while docked in car</string>
@@ -770,7 +770,7 @@
   <string name="flight_mode_disable_popup">Airplane mode will be disabled</string>
   <string name="flight_mode_enable_popup">Airplane mode will be enabled</string>
   <string name="font_size_preview_text">Miui V4 mod by MS :)</string>
-  <string name="font_size_save">OK</string>
+  <string name="font_size_save">ОК</string>
   <string name="font_size_summary">Change text size in following applications:</string>
   <string name="font_size_title">Font size</string>
   <string name="font_size_toast">Мелкие и мельчайшие размеры шрифта будут применены только к электронной почте и сообщениям</string>
@@ -1051,14 +1051,14 @@
   <string name="menu_stats_refresh">Refresh</string>
   <string name="menu_stats_unplugged">%s since unplugged</string>
   <string name="message">Message</string>
-  <string name="message_Ok">OK</string>
+  <string name="message_Ok">ОК</string>
   <string name="message_network_unavailable">Network not available. When network available, weather will be displayed on lock screen</string>
   <string name="message_notification_summary">"Read out senders' information and message contents when new messages arrive"</string>
   <string name="misc_files">Miscellaneous files</string>
   <string name="misc_files_selected_count">%1$d out of %2$d selected</string>
   <string name="misc_files_selected_count_bytes">%1$s out of %2$s</string>
   <string name="mobileap">Portable Wi-Fi hotspot</string>
-  <string name="mobileap_dig_ok">OK</string>
+  <string name="mobileap_dig_ok">ОК</string>
   <string name="mobileap_notification_dialog_title">Notification</string>
   <string name="model_number">Модель:</string>
   <string name="mono_audio_summary">Provides mono audio for listening with one earphone</string>
@@ -1242,7 +1242,7 @@
   <string name="proxy_clear_text">Очистить</string>
   <string name="proxy_defaultView_text">Восстановить настройки по умолчанию</string>
   <string name="proxy_error">Внимание!</string>
-  <string name="proxy_error_dismiss">OK</string>
+  <string name="proxy_error_dismiss">ОК</string>
   <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
   <string name="proxy_error_empty_port">Необходимо заполнить поле порта.</string>
   <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
@@ -1263,7 +1263,7 @@
   <string name="quick_launch_clear_cancel_button">Cancel</string>
   <string name="quick_launch_clear_dialog_message">Your shortcut for %1$s (%2$s) will be deleted</string>
   <string name="quick_launch_clear_dialog_title">Clear</string>
-  <string name="quick_launch_clear_ok_button">OK</string>
+  <string name="quick_launch_clear_ok_button">ОК</string>
   <string name="quick_launch_display_mode_applications">Applications</string>
   <string name="quick_launch_display_mode_shortcuts">Shortcuts</string>
   <string name="quick_launch_no_shortcut">No shortcut</string>
@@ -1520,7 +1520,7 @@
   <string name="sim_enable_sim_lock">Lock SIM card</string>
   <string name="sim_enter_cancel">Отмена</string>
   <string name="sim_enter_new">New SIM PIN</string>
-  <string name="sim_enter_ok">OK</string>
+  <string name="sim_enter_ok">ОК</string>
   <string name="sim_enter_old">Old SIM PIN</string>
   <string name="sim_enter_pin">SIM PIN</string>
   <string name="sim_lock_failed">Unable to change SIM card lock state. Possibly incorrect PIN</string>
@@ -2015,7 +2015,7 @@ Credential storage might not enable"</string>
   <string name="wimax_notify_open_networks">Network notification</string>
   <string name="wimax_notify_open_networks_summary">Notify me when 4G is connected</string>
   <string name="wimax_obtaining_ip">Obtaining IP address…</string>
-  <string name="wimax_ok_button">OK</string>
+  <string name="wimax_ok_button">ОК</string>
   <string name="wimax_quick_toggle_summary">Включить 4G</string>
   <string name="wimax_settings" />
   <string name="wimax_settings_category">4G settings</string>

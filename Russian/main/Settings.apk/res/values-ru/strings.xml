@@ -781,7 +781,7 @@
 	<string name="filter_apps_all">Все</string>
 	<string name="filter_apps_cached">Кэш</string>
 	<string name="filter_apps_onsdcard">На SD-карте</string>
-	<string name="filter_apps_running">Работающие</string>
+	<string name="filter_apps_running">Запущенные</string>
 	<string name="filter_apps_third_party">Сторонние</string>
 	<string name="filter_dlg_title">Выберите параметры фильтра</string>
 	<string name="finish_application">Завершить</string>
@@ -795,7 +795,7 @@
 	<string name="font_size_normal">Нормальный</string>
 	<string name="font_size_preview">MIUI</string>
 	<string name="font_size_preview_text">Miui V5 from Russia :)</string>
-	<string name="font_size_save">OK</string>
+	<string name="font_size_save">ОК</string>
 	<string name="font_size_small">Маленький</string>
 	<string name="font_size_summary">Настройка размера шрифта системы</string>
 	<string name="force_hw_ui">Ускорить работу GPU</string>
@@ -996,7 +996,7 @@
 	<string name="lte_ram_dump_off">Не очищать ОЗУ</string>
 	<string name="lte_ram_dump_on">Очищать ОЗУ</string>
 	<string name="macaddr_label">"MAC адрес: "</string>
-	<string name="main_running_process_description">Основной используемый процесс</string>
+	<string name="main_running_process_description">Основной запущенный процесс</string>
 	<string name="man_add_application">Добавить</string>
 	<string name="manage_device_admin">Администраторы устройства</string>
 	<string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
@@ -1070,7 +1070,7 @@
 	<string name="msd_help_summary">Проблемы с доступом к мобильному устройству с помощью компьютера? Пожалуйста, выберите операционную систему вашего компьютера:</string>
 	<string name="msd_help_title">Помощь</string>
 	<string name="msd_install">Установить драйвер</string>
-	<string name="msd_install_finish">OK</string>
+	<string name="msd_install_finish">ОК</string>
 	<string name="msd_install_next">Далее</string>
 	<string name="msd_install_retry_linux">Если ваш компьютер не распознает устройство,\nПопробуйте следующее:\n1) Используйте инструменты в командной строке: sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Создайте папку: mkdir /media/mtp\n3) Подтвердите права групп пользователей в текущей группе пользователей\n4) Перезайдите в учетную запись\n5) Получите доступ к смонтированному устройству mtpfs /media/mtp через файловый менеджер, как в локальную папку\n6) Удаление устройства: fusermount -u /media/mtp\nЗаметка: Для ubuntu 8.04</string>
 	<string name="msd_install_retry_mac">Если компьютер не обнаружит устройство правильно, попробуйте следующее:</string>
@@ -1450,10 +1450,10 @@
 	<string name="roaming_turn_it_on_button">Включить</string>
 	<string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга</string>
 	<string name="rssi_label">"RSSI: "</string>
-	<string name="running_processes_item_description_p_p">Процессов: %1$d; служб: %2$d</string>
-	<string name="running_processes_item_description_p_s">Процессов: %1$d; служб: %2$d</string>
-	<string name="running_processes_item_description_s_p">Процессов: %1$d; служб: %2$d</string>
-	<string name="running_processes_item_description_s_s">Процессов: %1$d; служб: %2$d</string>
+	<string name="running_processes_item_description_p_p">Процессов: %1$d | служб: %2$d</string>
+	<string name="running_processes_item_description_p_s">Процессов: %1$d | служб: %2$d</string>
+	<string name="running_processes_item_description_s_p">Процессов: %1$d | служб: %2$d</string>
+	<string name="running_processes_item_description_s_s">Процессов: %1$d | служб: %2$d</string>
 	<string name="runningservicedetails_processes_title">Процессы</string>
 	<string name="runningservicedetails_services_title">Службы</string>
 	<string name="runningservicedetails_settings_title">Запущенное приложение</string>
@@ -1578,7 +1578,7 @@
 	<string name="service_restarting">Перезапуск</string>
 	<string name="service_started_by_app">Запущено приложением</string>
 	<string name="service_stop">Остановить</string>
-	<string name="service_stop_description">Эта служба была запущена соответствующим приложением, в котором может произойти сбой, если ее остановить</string>
+	<string name="service_stop_description">Эта служба запущена соответствующим приложением. Остановка может вызвать сбой.</string>
 	<string name="settings_backup">Создать резервную копию настроек</string>
 	<string name="settings_backup_summary">Резервная копия настроек</string>
 	<string name="settings_button">Настройки</string>
@@ -1882,7 +1882,7 @@
 	<string name="user_confirm_remove_title">Удалить пользователя?</string>
 	<string name="user_details_title">Редактировать детали</string>
 	<string name="user_dict_multiple_settings_title">Пользовательские словари</string>
-	<string name="user_dict_settings_add_dialog_confirm">OK</string>
+	<string name="user_dict_settings_add_dialog_confirm">ОК</string>
 	<string name="user_dict_settings_add_dialog_less_options">Меньше</string>
 	<string name="user_dict_settings_add_dialog_more_options">Больше</string>
 	<string name="user_dict_settings_add_dialog_title">Добавление в словарь</string>
@@ -2605,7 +2605,7 @@
     <string name="power_customizer_save">Сохранить</string>
     <string name="power_customizer_cancel">Отмена</string>
     <string name="power_customizer_ok">ОК</string>
-    <string name="power_mode_cpu_state">Использование ЦП</string>
+    <string name="power_mode_cpu_state">Режим ЦП</string>
     <string name="power_mode_cpu_state_performance">Производительность</string>
     <string name="power_mode_cpu_state_performance_desc">Приоритет для производительности над батареей.</string>
     <string name="power_mode_cpu_state_balance">Баланс</string>
@@ -2639,7 +2639,7 @@
     <string name="power_mode_airplane_mode">Режим полета</string>
     <string name="power_mode_switch_on">Вкл.</string>
     <string name="power_mode_switch_off">Выкл.</string>
-    <string name="power_dialog_cpu_state_title">Использование ЦП</string>
+    <string name="power_dialog_cpu_state_title">Режим ЦП</string>
     <string name="power_dialog_cpu_state_performance">Производительность</string>
     <string name="power_dialog_cpu_state_performance_desc">Приоритет для производительности над батареей.</string>
     <string name="power_dialog_cpu_state_balance">Баланс</string>

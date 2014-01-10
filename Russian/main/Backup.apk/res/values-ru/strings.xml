@@ -76,7 +76,7 @@
 	<string name="enable_encrypt">Включить сейчас</string>
 	<string name="enable_encrypt_fail">Включение шифрования не удалось</string>
 	<string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажмите здесь, чтобы включить шифрование.</string>
-	<string name="enable_encrypt_ok">OK</string>
+	<string name="enable_encrypt_ok">ОК</string>
 	<string name="enable_encrypt_summery1">Система зашифрует локальные резервные копии через аккаунт Xiaomi. \nПотребуется войти в аккаунт Xiaomi для управления резервными копиями.</string>
 	<string name="enable_encrypt_summery2">Новые резервные копии будет автоматически шифроваться. Требуется войти в аккаунт Xiaomi для управления резервными копиями.</string>
 	<string name="enable_encrypt_title">Включить шифрование</string>

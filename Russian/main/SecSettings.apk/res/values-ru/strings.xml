@@ -1344,7 +1344,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="runningservicedetails_processes_title">Процессы</string>
     <string name="service_stop">Стоп</string>
     <string name="service_manage">Настройки</string>
-    <string name="service_stop_description">Служба, запущенная приложением. При остановке службы может произойти сбой приложения</string>
+    <string name="service_stop_description">Служба запущена соответствующим приложением. Остановка может вызвать сбой.</string>
     <string name="heavy_weight_stop_description">Это приложение невозможно безопасно остановить. При его остановке может быть потеряна часть данных</string>
     <string name="background_process_stop_description">Старый процесс приложения, который хранится для повышения быстродействия при повторном использовании. Обычно его не нужно останавливать</string>
     <string name="service_manage_description">Используется: %s. Для изменения выберите пункт \"Настройки\"</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="PSButton">OK</string>
+	<string name="PSButton">ОК</string>
 	<string name="PSFail">Не возможно подключиться к PC</string>
 	<string name="PSMsg">Если вы не можете подключиться к Интернету через сквозной интернет, пожалуйста, убедитесь, что ваши настройки вашего брандмауэра позволяют этот тип подключения. Сквозной интернет поддерживает только TCP соединения, если ваш компьютер подключается к Интернету через PPP (например, Dial Up, XDSL, или VPN)</string>
 	<string name="PSPass">Сквозной интернет</string>

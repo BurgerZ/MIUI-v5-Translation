@@ -29,7 +29,7 @@
     <string name="menu_delete_one">Удалить</string>
 	<string name="menu_correct_yellow_page">Корректировка</string>
 	<string name="remind_another_time">Не вводите этот номер</string>
-	<string name="remind_user_confirm">OK</string>
+	<string name="remind_user_confirm">ОК</string>
 	<string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить. \n\nОрганы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах.</string>
 	<string name="remind_user_suspect_number_title">Остерегайтесь мошенничества</string>
     <string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>

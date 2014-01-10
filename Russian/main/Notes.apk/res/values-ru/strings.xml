@@ -60,7 +60,7 @@
 	<string name="note_link_email">Отправить E-mail</string>
 	<string name="note_link_other">Посмотреть на карте</string>
 	<string name="note_link_select">Выделить текст</string>
-	<string name="note_link_tel">Позвонить</string>
+	<string name="note_link_tel">Вызов</string>
 	<string name="note_link_web">Открыть в браузере</string>
 	<string name="notealert_enter">Посмотреть</string>
 	<string name="notealert_ok">Готово</string>

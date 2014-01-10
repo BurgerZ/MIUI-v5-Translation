@@ -74,7 +74,7 @@
 	<string name="install_btn_cancel">отмн.</string>
 	<string name="install_btn_continue">прдл.</string>
 	<string name="install_btn_download_manager">Менеджер загрузок</string>
-	<string name="install_btn_ok">OK</string>
+	<string name="install_btn_ok">ОК</string>
 	<string name="install_fail">%1$s - сбой установки</string>
 	<string name="install_hash_fail">%1$s - установка не удалась: пакет не прошел проверку</string>
 	<string name="install_inconsistent_fail">%1$s - установка не удалась: несоотвествие подписей</string>
