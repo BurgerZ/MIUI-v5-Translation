@@ -57,4 +57,7 @@
     <string name="about_version_label">Версия</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">Xiaomi</string>
+	<string name="menu_item_enable_audio_enhance">Включить усилитель звука</string>
+    <string name="menu_item_disable_audio_enhance">Выключить усилитель звука</string>
+    <string name="toast_message_set_misound">Включите MiSound</string>
 </resources>
