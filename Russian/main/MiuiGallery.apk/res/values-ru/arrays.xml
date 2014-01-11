@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slideshow_time_entries">
+        <item>1 минута</item>
+		<item>3 минуты</item>
+		<item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>Бесконечно</item>
+	</string-array>
+	<string-array name="slideshow_time_entryValues">
+        <item>60</item>
+		<item>180</item>
+		<item>300</item>
+        <item>900</item>
+        <item>1800</item>
+        <item>3600</item>
+        <item>-1</item>
+    </string-array>
+</resources>
