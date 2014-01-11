@@ -845,8 +845,8 @@
 	<string name="success_message_import_from_account">Импорт завершен</string>
 	<string name="summary_kind_title">Основная информация</string>
 	<string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
-	<string name="take_new_photo">Сделать фотографию</string>
-	<string name="take_photo">Сделать фотографию</string>
+	<string name="take_new_photo">Снять фото</string>
+	<string name="take_photo">Снять фото</string>
 	<string name="titleJoinContactDataWith">Объединить контакты</string>
 	<string name="title_other_devices">Другие доступные устройства</string>
 	<string name="title_paired_devices">Сопряжение устройств</string>
@@ -870,7 +870,7 @@
 	<string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
 	<string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
 	<string name="use_photo_as_primary">Использовать данное изображение</string>
-	<string name="use_photo_as_primary2">Использовать как фото контакта к %s</string>
+	<string name="use_photo_as_primary2">Установить как фото: %s</string>
 	<string name="user_profile_contacts_list_header">Я</string>
 	<string name="vcard_export_request_rejected_message">Запрос на экспорт данных vCard отклонен. Повторите попытку позже.</string>
 	<string name="vcard_export_will_start_message">Экспорт файла %s…</string>

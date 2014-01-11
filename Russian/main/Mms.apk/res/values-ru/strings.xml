@@ -28,7 +28,7 @@
 	<string name="attach_slideshow">Слайд-шоу</string>
 	<string name="attach_sound">Аудио</string>
 	<string name="attach_subject">Тема</string>
-	<string name="attach_take_photo">Сделать фото</string>
+	<string name="attach_take_photo">Снять фото</string>
 	<string name="attach_video">Видео</string>
 	<string name="back_to_message_list">Вернутся к списку сообщений</string>
 	<string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения (%1$s)?</string>
@@ -39,8 +39,8 @@
 	<string name="bookmark_confirm_delete_message">Убрать сообщение из списка избранных?</string>
 	<string name="bookmark_empty">Нет сообщений</string>
 	<string name="bookmark_list_title">Избранные</string>
-	<string name="cannot_add_picture_and_video">Нельзя добавить на слайд и картинку, и видео</string>
-	<string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов.</string>
+	<string name="cannot_add_picture_and_video">Нельзя добавить на слайд одновременно картинку и видео</string>
+	<string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов</string>
 	<string name="cannot_forward_drm_obj">Нельзя переслать DRM-объект из этого сообщения</string>
 	<string name="cannot_get_details">Не удалось загрузить данные</string>
 	<string name="cannot_send_message">Не удалось отправить сообщение</string>

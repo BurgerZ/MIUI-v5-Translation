@@ -1450,10 +1450,10 @@
 	<string name="roaming_turn_it_on_button">Включить</string>
 	<string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга</string>
 	<string name="rssi_label">"RSSI: "</string>
-	<string name="running_processes_item_description_p_p">Процессов: %1$d | служб: %2$d</string>
-	<string name="running_processes_item_description_p_s">Процессов: %1$d | служб: %2$d</string>
-	<string name="running_processes_item_description_s_p">Процессов: %1$d | служб: %2$d</string>
-	<string name="running_processes_item_description_s_s">Процессов: %1$d | служб: %2$d</string>
+	<string name="running_processes_item_description_p_p">Процессов: %1$d | Служб: %2$d</string>
+	<string name="running_processes_item_description_p_s">Процессов: %1$d | Служб: %2$d</string>
+	<string name="running_processes_item_description_s_p">Процессов: %1$d | Служб: %2$d</string>
+	<string name="running_processes_item_description_s_s">Процессов: %1$d | Служб: %2$d</string>
 	<string name="runningservicedetails_processes_title">Процессы</string>
 	<string name="runningservicedetails_services_title">Службы</string>
 	<string name="runningservicedetails_settings_title">Запущенное приложение</string>
