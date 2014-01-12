@@ -2496,8 +2496,8 @@
     <string name="button_text_done">Готово</string>
     <string name="button_text_cancel">Отмена</string>
     <string name="deep_cleaning">Дополнительно</string>
-    <string name="rubbish_cleaning">Очистка системы</string>
-    <string name="storage_size_title">Память</string>
+    <string name="rubbish_cleaning">Очистка</string>
+    <string name="storage_size_title">Очистка памяти</string>
     <string name="storage_size_content">Использовано: %1$s | Доступно: %2$s</string>
     <string name="quick_scan_doing_title">Сканирование…</string>
     <string name="quick_scan_cleaning_title">Очистка…</string>

@@ -703,7 +703,7 @@
 	<string name="relationLabelsGroup">Отношения</string>
 	<string name="remind_btn_ignore">Позже</string>
 	<string name="remind_btn_sync_now">Сейчас</string>
-	<string name="removePhoto">Удалить изображение</string>
+	<string name="removePhoto">Удалить фото</string>
 	<string name="remove_blacklist">Удалить из черного списка</string>
 	<string name="remove_duplicate">Система поможет найти дубликаты контактов и объединить их.\n\nНажмите кнопку \"Объединить\", чтобы продолжить.</string>
 	<string name="resource_alarm_default">Будильник</string>
