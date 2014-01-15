@@ -2592,7 +2592,7 @@
     <string name="power_chooser_sleep_summary">Отключение всех функций (телефон, сообщения, интернет) за исключением будильника.</string>
     <string name="power_chooser_mine_title">Базовый режим</string>
     <string name="power_chooser_mine_summary">Сохранение параметров системы по умолчанию</string>
-    <string name="power_chooser_user_define_title">Добавить свой режим</string>
+    <string name="power_chooser_user_define_title">Добавить режим</string>
     <string name="power_chooser_user_define_summary">Пользовательский режим</string>
     <string name="power_customizer_smart_mode">По умолчанию</string>
     <string name="power_customizer_standby_mode">Марафон</string>
