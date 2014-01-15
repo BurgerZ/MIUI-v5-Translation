@@ -207,4 +207,16 @@
 	<string name="gou_piao_item3">Купка билетов по телефону 12306</string>
 	<string name="gou_piao_website_start_time">Покупка %s онлайн или по телефону</string>
 	<string name="gou_piao_window_start_time">Билеты можно приобрести на станции %s</string>
+	<string name="month_medium_january">Январь</string>
+    <string name="month_medium_february">Февраль</string>
+    <string name="month_medium_march">Март</string>
+    <string name="month_medium_april">Апрель</string>
+    <string name="month_medium_may">Май</string>
+    <string name="month_medium_june">Июнь</string>
+    <string name="month_medium_july">Июль</string>
+    <string name="month_medium_august">Август</string>
+    <string name="month_medium_september">Сентябрь</string>
+    <string name="month_medium_october">Октябрь</string>
+    <string name="month_medium_november">Ноябрь</string>
+    <string name="month_medium_december">Декабрь</string>
 </resources>

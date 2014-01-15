@@ -60,4 +60,6 @@
 	<string name="menu_item_enable_audio_enhance">Включить усилитель звука</string>
     <string name="menu_item_disable_audio_enhance">Выключить усилитель звука</string>
     <string name="toast_message_set_misound">Включите MiSound</string>
+	<string name="menu_item_enable_3d_mode">Включить 3D</string>
+    <string name="menu_item_disable_3d_mode">Отключить 3D</string>
 </resources>

@@ -18,7 +18,7 @@
 	<string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
 	<string name="applying_rom_message">Применение обновления</string>
 	<string name="applying_update">Применение обновления: %s</string>
-	<string name="best_update">2. Лучшее обновление</string>
+	<string name="best_update">2. Лучшее изменение</string>
 	<string name="boot_recovery">Перезагрузка в Recovery</string>
 	<string name="cancel_download_buton_text">Отмена</string>
 	<string name="check_update">Проверить обновление</string>
@@ -53,7 +53,7 @@
 	<string name="edit_text_default">Написать комментарий</string>
 	<string name="emegency_build">Сборка:</string>
 	<string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
-	<string name="expect">4. Ожидания</string>
+	<string name="expect">4. Ожидание</string>
 	<string name="experimental_build">Экспериментальная сборка</string>
 	<string name="file_not_found_error_message">Файл не существует или к нему нет доступа, попробуйте еще раз</string>
 	<string name="finish">Готово</string>
@@ -145,11 +145,11 @@
 	<string name="update_comment_title">У меня есть что сказать</string>
 	<string name="update_feedback">Отзывы о прошивке</string>
 	<string name="update_feedback_expired">Жаль, что вы пропустили возможность участия в отзывах о прошивке!\nПожалуйста, попробуйте опрос в следующий вторник</string>
-	<string name="update_feel">1. Что вы ощущаете?</string>
-	<string name="update_general">Более-менее</string>
-	<string name="update_happy">Счастливый</string>
+	<string name="update_feel">1. Оцените обновление</string>
+	<string name="update_general">Среднее</string>
+	<string name="update_happy">Отличное</string>
 	<string name="update_monthly_build_only">Только ежемесячные обновления</string>
-	<string name="update_sad">Грустный</string>
+	<string name="update_sad">Плохое</string>
 	<string name="update_success">Обновление успешно завершено!</string>
 	<string name="update_success_body">%s</string>
 	<string name="update_success_title">Обновление</string>
@@ -163,10 +163,12 @@
 	<string name="weekly_build">еженедельная</string>
 	<string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
 	<string name="wifi_not_available_title">Wi-Fi не подключен</string>
-	<string name="worst_update">3. Худшее обновление</string>
+	<string name="worst_update">3. Худшее изменение</string>
 	<string name="sina_token_expired_warning">Срок действия аккаунта Weibo истек. Повторите привязку.</string>
 	<string name="sina_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста. Повторите привязку.</string>
 	<string name="now">Сейчас</string>
 	<string name="later">Позже</string>
-	<string name="updater_finish_download">Загрузка прошивки завершена</string>
+	<string name="updater_finish_download">Загрузка завершена</string>
+	<string name="sytemt_backup_helper">При обновлении прошивки данные приложений не будут очищены, тем не менее, рекомендуется создать резервную копию данных перед обновлением.</string>
+	<string name="install_sina">Установить Sina Weibo</string>
 </resources>
