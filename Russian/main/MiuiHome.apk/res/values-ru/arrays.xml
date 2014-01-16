@@ -20,4 +20,31 @@
         <item>Выключена (обои слева)</item>
         <item>Выключена (обои справа)</item>
      </string-array>
+	 <string-array name="gadget_weather_image">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Облачно</item>
+        <item>Туман</item>
+        <item>Сильный дождь</item>
+        <item>Ливень</item>
+        <item>Ливень с ураганом</item>
+        <item>Местами грозы</item>
+        <item>Ливни</item>
+        <item>Сильный дождь</item>
+        <item>Умеренный дождь</item>
+        <item>Небольшой дождь</item>
+        <item>Дождь со снегом</item>
+        <item>Метель</item>
+        <item>Ливни со снегом</item>
+        <item>Сильный снегопад</item>
+        <item>Умеренный снег</item>
+        <item>Небольшой снег</item>
+        <item>Сильная пыльная буря</item>
+        <item>Пыльная буря</item>
+        <item>Пыль</item>
+        <item>Песчаная буря</item>
+        <item>Град</item>
+        <item>Грязь</item>
+        <item>Смог</item>
+    </string-array>
 </resources>

@@ -283,4 +283,6 @@
 	<string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей.</string>
 	<string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
 	<string name="usb_share_net_info">Использовать интернет компьютера</string>
+	<string name="torch_opened">Фонарик запущен</string>
+    <string name="torch_closed">Фонарик закрыт</string>
 </resources>

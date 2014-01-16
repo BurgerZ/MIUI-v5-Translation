@@ -83,7 +83,7 @@
     <string name="tip_weather">Уведомления MIUI погоды</string>
     <string name="tip_weather_info_title_1">%1$s ожидаемая разница в температуре %2$d градусов</string>
     <string name="tip_weather_info_content_1">Выходя на улицу, одевайте подходящую одежду.</string>
-    <string name="tip_weather_info_title_2">%1$s сегодня температура будет %2$s</string>
+    <string name="tip_weather_info_title_2">%1$s: %2$s</string>
     <string name="alert_provider_title">Уведомление о местоположении</string>
     <string name="alert_provider_message">Для определения местоположения, необходимо включить определение местоположения по беспроводной сети. Подтверждение откроет диалог включения определения местоположения. Откройте диалог включения меслоположения по сети.</string>
     <string name="button_allow">Согласен</string>
@@ -115,4 +115,7 @@
     <string name="act_weather_find_city_searching">Поиск…</string>
     <string name="act_init_dialog_finish">Добавлена информация о глобальной погоде</string>
     <string name="loading_weather">Загрузка…</string>
+	<string name="act_weather_cycle_link_china">WeatherChina</string>
+    <string name="menu_add">Добавить</string>
+    <string name="menu_more">Информация</string>
 </resources>

@@ -540,7 +540,7 @@
 	<string name="wifi_connecting">Подключение к Wi-Fi…</string>
 	<string name="wifi_open_fail">Невозможно подключиться к Wi-Fi</string>
 	<string name="wifi_connect_fail">Время ожидания истекло</string>
-	<string name="wifi_connect_success">Wi-Fi сеть успешно подключена</string>
+	<string name="wifi_connect_success">Сеть Wi-Fi успешно подключена</string>
 	<string name="find_wechat_qrcode">Поиск в WeChat по QR-коду</string>
 	<string name="wechat_details">Информация WeChat:</string>
 	<string name="launch_wechat">Запустить WeChat</string>
@@ -593,4 +593,6 @@
     <string name="pref_scan_qrcode_default">on</string>
     <string name="pref_scan_qrcode_value_off">off</string>
     <string name="pref_scan_qrcode_value_on">on</string>
+	<string name="wifi_connect_not_found">Нет доступных сетей Wi-Fi</string>
+    <string name="wifi_connect_current_connetion">Сеть Wi-Fi подключена</string>
 </resources>
