@@ -110,7 +110,7 @@
 %s писал:
 
 "</string>
-    <string name="message_compose_quoted_text_label">Цитируемый текст</string>
+    <string name="message_compose_quoted_text_label">Цитировать</string>
     <string name="message_compose_include_quoted_text_checkbox_label">Включить исходный текст в ответ</string>
     <string name="message_compose_error_no_recipients">Получатель не указан</string>
     <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми</string>

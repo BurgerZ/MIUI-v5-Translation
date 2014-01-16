@@ -2183,7 +2183,7 @@
      <string name="wifi_share_notification_summary">MIUI позволит вам подключиться к сети Wi-Fi с паролем.</string>
      <string name="wifi_share_other_network">Другие сети</string>
      <string name="wifi_share_qrcode_finish">ОК</string>
-     <string name="wifi_share_qrcode_summary">Используйте MIUI камеру для сканирования QR кода</string>
+     <string name="wifi_share_qrcode_summary">Используйте MIUI камеру для сканирования QR-кода</string>
      <string name="wifi_share_qrcode_title">Поделиться Wi-Fi</string>
      <string name="wifi_share_show_network">Показать сети</string>
      <string name="wifi_share_summary1">Пользователи MIUI могут обмениваться защищенными Wi-Fi сетями.</string>
