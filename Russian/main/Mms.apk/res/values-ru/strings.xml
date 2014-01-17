@@ -9,7 +9,7 @@
 	<string name="add_music">Добавить музыку</string>
 	<string name="add_nickname">Ник</string>
 	<string name="add_nickname_title">Добавить ник</string>
-	<string name="add_number_to_sender">Добавить номер в %s</string>
+	<string name="add_number_to_sender">Добавить номер к контакту \"%s\"</string>
 	<string name="add_picture">Изображение</string>
 	<string name="add_private_contact">Добавить контакт</string>
 	<string name="add_slide">Добавить слайд</string>
@@ -18,7 +18,7 @@
 	<string name="add_smiley">Смайл</string>
 	<string name="add_timing">Время</string>
 	<string name="add_video">Добавить видео</string>
-	<string name="adding_attachments">Добавление. Подождите…</string>
+	<string name="adding_attachments">Добавление…</string>
 	<string name="adding_attachments_title">Добавление вложений</string>
 	<string name="adding_recipients">Добавление получателей…</string>
 	<string name="app_label">Сообщения</string>
