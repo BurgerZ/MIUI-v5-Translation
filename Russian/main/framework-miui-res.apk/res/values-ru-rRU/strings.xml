@@ -258,9 +258,9 @@
 	<string name="days">%d дн.</string>
 	<string name="delete">Удалить</string>
 	<string name="double_seventh_day">"Танабата"</string>
-	<string name="emergency_call_string">Экстренные</string>
-	<string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
-	<string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
+	<string name="emergency_call_string">Экстренный вызов</string>
+	<string name="error_forbidden">Ошибка аккаунта. Синхронизация отключена.</string>
+	<string name="error_not_acceptable">Ошибка сервера. Синхронизация отключена.</string>
 	<string name="error_title">Ошибка синхронизации для %s</string>
 	<string name="error_unauthorized">Слишком много попыток авторизации. Синхронизация отключена.</string>
 	<string name="every_day">Каждый день</string>
@@ -331,7 +331,7 @@
 	<string name="miui_copyright_title">Авторское право</string>
 	<string name="miui_mibi_license_title">Лицензионное соглашение MiCredits</string>
 	<string name="miui_privacy_policy_title">Политика конфиденциальности</string>
-	<string name="miui_unlockscreen_password_wrong">Повторить попытку</string>
+	<string name="miui_unlockscreen_password_wrong">Повторите попытку</string>
 	<string name="miui_user_agreement_title">Пользовательское соглашение</string>
 	<string name="miui_user_manual_title">Инструкция</string>
 	<string name="month_of_april">Апр</string>
@@ -434,7 +434,7 @@
 	<string name="unlocking_sim_card">Разблокировка SIM-карты</string>
 	<string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
 	<string name="unlockscreen_recharge_completed">Зарядка завершена</string>
-	<string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
+	<string name="unlockscreen_recharging_message">Зарядка батареи: %d%%</string>
 	<string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>
 	<string name="user_agreement2">Пользовательское соглашение</string>
 	<string name="user_agreement3">" и "</string>

@@ -421,7 +421,7 @@
 	<string name="micloud_storage_space">Память</string>
 	<string name="micloud_user_space_usage">Занято памяти</string>
 	<string name="micloud_web_discription_01">Посетите сайт i.xiaomi.com </string>
-	<string name="micloud_web_discription_02">для просмотра и управления файлами</string>
+	<string name="micloud_web_discription_02">для просмотра и управления данными</string>
 	<string name="micloud_gallery_image">Изображения</string>
 	<string name="micloud_gallery_video">Видео</string>
 	<string name="micloud_app_data">Резервные копии приложений</string>

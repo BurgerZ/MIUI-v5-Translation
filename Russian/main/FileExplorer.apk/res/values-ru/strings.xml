@@ -171,7 +171,7 @@
 	<string name="paused">Пауза</string>
 	<string name="query_bind_state">Запрос состояния. Пожалуйста, подождите…</string>
 	<string name="rename_description">Переименовывается…</string>
-	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
+	<string name="rename_failed">Переименование \"%1$s\" не удалось</string>
 	<string name="scanning" formatted="false">Сканирование %d из %d…</string>
 	<string name="sd_card_available">Свободно: %1$s</string>
 	<string name="sd_card_size">Всего: %1$s</string>
@@ -294,4 +294,5 @@
 	<string name="header_text_scanned">Найдено мусора</string>
     <string name="header_text_cleaning">Очистка…</string>
     <string name="header_text_cleaned">Мусор очищен</string>
+	<string name="category_mirouter">Mi-Роутер</string>
 </resources>

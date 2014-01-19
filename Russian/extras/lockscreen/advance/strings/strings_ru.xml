@@ -3,4 +3,5 @@
 	<string name="long_date_format" value="d MMMM yyyy" />
 	<string name="date_format" value="E, d MMMM yyyy" />
 	<string name="emergency_call" value="Экстренный вызов" />
+	<string name="unknown_number" value="Неизвестный номер" />
 </strings>

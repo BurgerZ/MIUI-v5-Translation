@@ -73,4 +73,7 @@
 	<string name="select_operation_items">Пожалуйста выберите</string>
 	<string name="selected_count">Выбрано %1$d из %2$d</string>
 	<string name="xunlei_brand">Поддержка: Xunlei</string>
+	<string name="xunlei_switch">Движок загрузки Xunlei</string>
+    <string name="turn_off_xunlei_title">Отключить движкок загрузки Xunlei?</string>
+    <string name="turn_off_xunlei_message">После отключения возможна более низкая скорость загрузки файлов.</string>
 </resources>
