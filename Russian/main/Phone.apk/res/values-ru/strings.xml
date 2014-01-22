@@ -46,7 +46,7 @@
 	<string name="answer_widget_title_miui">Жест ответа</string>
 	<string name="antispam_marked_count">Отклонено: %1$d</string>
 	<string name="antispam_marked_title">%1$s</string>
-	<string name="antispam_notification_title">Определен неизвестный номер</string>
+	<string name="antispam_notification_title">Неизвестный номер</string>
 	<string name="apn_settings">Точки доступа</string>
 	<string name="areacode_required_accept_miui">ОК</string>
 	<string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>

@@ -149,4 +149,10 @@
     <string name="general_menu_delete_recent">Удалить последние</string>
     <string name="general_cancel_favorite_ok">Удалено из избранного</string>
     <string name="general_delete_recent_ok">Последние удалены</string>
+	<string name="locating_fail">Ошибка определения местоположения, проверьте параметры службы.</string>
+	<string name="recharge_my_phone_number">Мой номер</string>
+    <string name="recharge_unknown_number">Неизвестный</string>
+	<string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки SMS. Проверьте состояние SIM-карты.</string>
+	<string name="nearby_yellow_page_title">Поблизости</string>
+    <string name="nearby_no_yellow_page">Нет результатов</string>
 </resources>

@@ -57,4 +57,36 @@
         <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
      </plurals>
+	<plurals name="pick_favorites_list_title">
+        <item quantity="other">Избранных: %1$d</item>
+        <item quantity="one">Избранных: %1$d</item>
+    </plurals>
+	<plurals name="pick_recent_list_title">
+        <item quantity="other">Недавних контактов: %1$d</item>
+        <item quantity="one">Недавних контактов: 1</item>
+    </plurals>
+	<plurals name="hint_search_contacts">
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: %1$d</item>
+    </plurals>
+	<plurals name="hint_search_phone_numbers">
+        <item quantity="other">Номеров: %1$d</item>
+        <item quantity="one">Номеров: %1$d</item>
+    </plurals>
+	<plurals name="hint_search_emails">
+        <item quantity="other">Электронных почт: %1$d</item>
+        <item quantity="one">Электронных почт: 1</item>
+    </plurals>
+	<plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Избранных: %1$d</item>
+        <item quantity="one">Избранных: %1$d</item>
+    </plurals>
+	<plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Недавних контактов: %1$d</item>
+        <item quantity="one">Недавних контактов: %1$d</item>
+    </plurals>
+	<plurals name="device_import_done_toast">
+        <item quantity="other">Импортировано контактов: %1$d</item>
+        <item quantity="one">Импортировано контактов: %1$d</item>
+    </plurals>
 </resources>
