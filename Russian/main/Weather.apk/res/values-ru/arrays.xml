@@ -15,12 +15,12 @@
         <item>E-mail</item>
     </array>
     <array name="weather_image">
-        <item>Чисто</item>0  晴
+        <item>Ясно</item>0  晴
         <item>Облачно</item>1  多云
         <item>Облачность</item>2  阴
         <item>Туман</item>3  雾
         <item>Сильная гроза</item>4  特大暴雨
-        <item>Гроза с сильным проливным дождем</item>5  大暴雨
+        <item>Гроза с дождем</item>5  大暴雨
         <item>Гроза</item>6  暴雨
         <item>T-Гроза</item>7  雷阵雨
         <item>Ливень</item>8  阵雨

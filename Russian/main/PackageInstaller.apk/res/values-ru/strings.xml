@@ -8,7 +8,7 @@
 	<string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
 	<string name="app_not_found_dlg_title">Приложение не найдено</string>
 	<string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
-	<string name="caller_app">Запрос от %1$s</string>
+	<string name="caller_app">Запрос: %1$s</string>
 	<string name="cancel">Отмена</string>
 	<string name="dlg_app_replacement_statement">Приложение, которое вы устанавливаете, заменит уже существующее.\n\nВсе пользовательские данные будут сохранены.</string>
 	<string name="dlg_app_replacement_statement_with_version">Приложение: %1$s \nУстановленная версия: %3$s \nВерсия обновления: %2$s  \n\nВсе пользовательские данные будут сохранены.\nПродолжить установку?</string>

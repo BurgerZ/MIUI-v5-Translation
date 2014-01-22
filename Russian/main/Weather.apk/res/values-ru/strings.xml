@@ -115,7 +115,8 @@
     <string name="act_weather_find_city_searching">Поиск…</string>
     <string name="act_init_dialog_finish">Добавлена информация о глобальной погоде</string>
     <string name="loading_weather">Загрузка…</string>
-	<string name="act_weather_cycle_link_china">WeatherChina</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_more">Информация</string>
+	<string name="share_button_text">Поделиться</string>
+    <string name="share_choice_titile">Поделиться</string>
 </resources>

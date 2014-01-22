@@ -97,7 +97,7 @@
 	<string name="install_title">Установка приложения</string>
 	<string name="install_today">Сегодня</string>
 	<string name="install_verification_fail">Установка не завершена. Не удался процессе проверки.</string>
-	<string name="installed">устан.</string>
+	<string name="installed">Установлено</string>
 	<string name="installing">Установка</string>
 	<string name="kilobytes_unit">%1$s Кб</string>
 	<string name="launch">Запустить</string>
@@ -141,7 +141,7 @@
 	<string name="no_description">Нет приложений</string>
 	<string name="no_fitness">Нет подходящих программ, попробуйте найти вручную.</string>
 	<string name="no_local_apps">Нет установленных приложений</string>
-	<string name="no_network">Нет доступа в Интернет. Пожалуйста, проверьте настройки и попробуйте обновить :)</string>
+	<string name="no_network">Нет доступа в интернет</string>
 	<string name="no_search">Приложений не найдено</string>
 	<string name="no_update">Обновлений нет</string>
 	<string name="notif_auto_update_failed">Ошибка обновления приложений</string>
