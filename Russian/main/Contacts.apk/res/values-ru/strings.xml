@@ -1095,4 +1095,5 @@
 	<string name="toast_finish_delete_selected_call_log">Удаление завершено</string>
 	<string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
     <string name="delete_call_log_selected_title">Удалить выбранные вызовы?</string>
+	<string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
 </resources>

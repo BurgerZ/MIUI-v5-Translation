@@ -129,7 +129,7 @@
     <string name="title_createfolder">Создать новую папку</string>
     <string name="hint_createfolder">Имя папки</string>
     <string name="defalut_nameofnewfile">Новая папка</string>
-    <string name="title_selectfile_num">Выберите файл %s</string>
+    <string name="title_selectfile_num">Выбрано: %s</string>
     <string name="confirm">Подтвердить</string>
     <string name="error_info_cant_send_folder">Не удается отправить папку</string>
     <string name="error_nofile_selected">Выберите файл</string>
@@ -205,8 +205,8 @@
     <string name="retry_to_load_file_info">Загрузить сведения еще раз?</string>
     <string name="download_succeed">Успешно загружено</string>
     <string name="received_fileinfo">Всего файлов: %2$s</string>
-    <string name="history_received_fileinfo">%1$s | от %2$s</string>
-    <string name="download_complete">%1$s | %2$s от %3$s</string>
+    <string name="history_received_fileinfo">%1$s | %2$s</string>
+    <string name="download_complete">%1$s | %2$s из %3$s</string>
     <string name="upload_complete">%1$s | %2$s завершено</string>
     <string name="received_files">Полученные файлы</string>
     <string name="can_not_find_explorer">Невозможно найти файловый менеджер</string>
