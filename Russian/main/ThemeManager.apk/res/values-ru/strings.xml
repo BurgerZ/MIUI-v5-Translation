@@ -201,7 +201,7 @@
     <string name="resource_my">Телефон</string>
     <string name="resource_pack_price_info">Цена: \n%1$s</string>
     <string name="resource_pack_discount_info">Экономия: \n%1$s</string>
-    <string name="resource_pack_confirm">Вы уже купили некоторые из этих тем (%1$d), но эта цена все равно выгоднее, чем покупка по отдельности, продолжить?</string>
+    <string name="resource_pack_confirm">Вы уже купили некоторые из этих тем (%1$d), но эта цена все равно выгоднее, чем покупать остальные темы по отдельности. Продолжить?</string>
     <string name="resource_pack_warning">Вы уже купили некоторые из этих тем (%1$d), выгодней будет купить остальные по отдельности.</string>
 	<string name="resource_delta_update_total">Обновлений: %1$d (%2$s)</string>
 	<string name="resource_detail_window_title">Информация</string>
