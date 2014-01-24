@@ -285,4 +285,6 @@
 	<string name="usb_share_net_info">Использовать интернет компьютера</string>
 	<string name="torch_opened">Фонарик запущен</string>
     <string name="torch_closed">Фонарик закрыт</string>
+	<string name="oldman_airplane_mode_text">Режим полета</string>
+    <string name="oldman_incall_text">incall</string>
 </resources>
