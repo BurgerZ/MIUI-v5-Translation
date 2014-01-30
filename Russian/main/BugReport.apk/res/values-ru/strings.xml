@@ -42,6 +42,6 @@
 	<string name="user_feedback">Отзывы</string>
 	<string name="wlan_unavailable_dialog_button_ok">ОК</string>
 	<string name="wlan_unavailable_dialog_button_sent">Отправить сейсас</string>
-	<string name="wlan_unavailable_dialog_content">%s требуется (2G/3G), нажмите OK для отправки только с помощью сетей Wi-Fi</string>
-	<string name="wlan_unavailable_dialog_title">WLAN подключение отсутствует</string>
+	<string name="wlan_unavailable_dialog_content">%s требуется (2G/3G), нажмите \"ОК\" для отправки только с помощью сетей Wi-Fi</string>
+	<string name="wlan_unavailable_dialog_title">Wi-Fi подключение отсутствует</string>
 </resources>

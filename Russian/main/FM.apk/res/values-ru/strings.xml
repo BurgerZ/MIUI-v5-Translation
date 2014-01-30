@@ -34,8 +34,8 @@
 	<string name="menu_settings">Настройки</string>
     <string name="menu_record_start">Начать запись</string>
     <string name="menu_record_stop">Остановить запись</string>
-    <string name="menu_sleep">Спящий режим</string>
-    <string name="menu_sleep_cancel">Отключить спящий режим</string>
+    <string name="menu_sleep">Таймер сна</string>
+    <string name="menu_sleep_cancel">Отключить таймер сна</string>
     <string name="menu_record_list">Записи</string>
     <string name="menu_scan_start">Сканировать станции</string>
     <string name="menu_scan_stop">Остановить сканирование</string>
@@ -52,7 +52,7 @@
     <string name="msg_weak_searching">Поиск частот…</string>
     <string name="msg_headsetpluggedin">Отключите наушники</string>
     <string name="msg_callactive">Невозможно прослушивать радио во время вызова</string>
-    <string name="dialog_sleep_title">Спящий режим</string>
+    <string name="dialog_sleep_title">Таймер сна</string>
     <string name="presetlist_autoselect_title">Автоматический выбор</string>
     <string name="fmtx_autoselect_name">Все избранные станции будут удалены</string>
     <string name="preset_replace">Заменить</string>
@@ -238,7 +238,7 @@
     <string name="FMR_Patch_Version">Нет</string>
     <string name="FMR_DSP_Version_text">DSP Версия</string>
     <string name="FMR_DSP_Version">Нет</string>
-	<string name="toast_sleep_mode_exit">Спящий режим отключен</string>
+	<string name="toast_sleep_mode_exit">Таймер сна отключен</string>
 	<string name="station_check_favorite">Добавить в избранное</string>
     <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
     <string name="toast_fm_recorder_storage_full">Ошибка записи. Память заполнена.</string>
@@ -246,7 +246,7 @@
 	<string name="record_completed">Запись завершена</string>
 	<string name="alert_title_input_station">Введите название станции</string>
 	<string name="cancel">Отмена</string>
-	<string name="cancel_sleep_mode">Отключить спящий режим</string>
+	<string name="cancel_sleep_mode">Отключить таймер сна</string>
 	<string name="clear">Очистить</string>
 	<string name="close">Закрыть</string>
 	<string name="default_time">Через 30 минут</string>
@@ -274,7 +274,7 @@
 	<string name="scan">Скариновать</string>
 	<string name="select_quit_time">Время до отключения (в минутах)</string>
 	<string name="service_start_error_msg">Ошибка приложения</string>
-	<string name="sleep_mode">Спящий режим</string>
+	<string name="sleep_mode">Таймер сна</string>
 	<string name="station_format_error">Ошибка форматирования</string>
 	<string name="station_name">Название станции</string>
 	<string name="toast_delete_station_fail">Ошибка удаления станции</string>

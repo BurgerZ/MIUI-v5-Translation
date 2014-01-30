@@ -747,7 +747,7 @@
 	<string name="resource_title">Сведения</string>
 	<string name="resource_title_select_ringtone">Выберите мелодию</string>
 	<string name="resource_update">Обн.</string>
-	<string name="resource_waiting_download">Ожидание</string>
+	<string name="resource_waiting_download">Ожидание…</string>
 	<string name="restore_nickname">Восстановить</string>
 	<string name="ret_sign">\n</string>
 	<string name="returnCall">Обратный вызов</string>

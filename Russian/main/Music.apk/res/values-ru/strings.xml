@@ -29,8 +29,8 @@
 	<string name="billboard">Анонсы</string>
 	<string name="buffering">Кэширование…</string>
 	<string name="cancel">Отмена</string>
-	<string name="cancel_sleep_mode">Отключить спящий режим</string>
-	<string name="cancle_warining">Спящий режим отключен</string>
+	<string name="cancel_sleep_mode">Отключить таймер сна</string>
+	<string name="cancle_warining">Таймер сна отключен</string>
 	<string name="channel">FM</string>
 	<string name="channel_format" formatted="false">"%s %s МГц"</string>
 	<string name="channel_postfix">МГц</string>
@@ -67,7 +67,7 @@
 	<string name="download_processing">Загрузка</string>
 	<string name="empty_edit_hint">Информация о треке недоступна</string>
 	<string name="emptyplaylist">Плейлист пуст</string>
-	<string name="enter_sleep_mode">Спящий режим</string>
+	<string name="enter_sleep_mode">Таймер сна</string>
 	<string name="equalizer">Эквалайзер</string>
 	<string name="equalizer_delete">Сбросить</string>
 	<string name="equalizer_delete_success">Профиль удален</string>

@@ -106,7 +106,7 @@
 	<string name="resource_title">Информация</string>
 	<string name="resource_title_select_ringtone">Выберите мелодию</string>
 	<string name="resource_update">Обновить</string>
-	<string name="resource_waiting_download">Ожидание</string>
+	<string name="resource_waiting_download">Ожидание…</string>
 	<string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы, перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
 	<string name="maml_component_customization_title">Настройки</string>
 	<string name="default_name">По умолчанию</string>
