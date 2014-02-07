@@ -45,8 +45,8 @@
     <string name="menu_call">Вызов</string>
     <string name="menu_clear_all_call">Очистить журнал вызовов</string>
     <string name="menu_clear_all_sms">Очистить журнал сообщений</string>
-    <string name="menu_clear_current_call">Удалить все заблокированные вызовы от этого номера</string>
-    <string name="menu_clear_current_sms">Удалить все заблокированные сообщения от этого номера</string>
+    <string name="menu_clear_current_call">Удалить вызовы этого номера</string>
+    <string name="menu_clear_current_sms">Удалить сообщения этого номера</string>
     <string name="menu_edit">Изменить</string>
     <string name="menu_mark">Отметить</string>
     <string name="menu_no_block">Не блокировать</string>

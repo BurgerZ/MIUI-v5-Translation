@@ -287,4 +287,12 @@
     <string name="torch_closed">Фонарик закрыт</string>
 	<string name="oldman_airplane_mode_text">Режим полета</string>
     <string name="oldman_incall_text">incall</string>
+	<string name="status_bar_and_notification_bar">Панель уведомлений</string>
+	<string name="settings_show_screenshot_notification">Уведомление о скриншоте</string>
+	<string name="settings_show_carrier">Имя оператора</string>
+	<string name="settings_custom_carrier">Изменить имя оператора</string>
+	<string name="settings_no_carrier">Пусто</string>
+	<string name="settings_show_carrier_summary">Только на экране блокировки</string>
+	<string name="settings_basic_settings">Основные</string>
+	<string name="settings_advanced">Дополнительно</string>
 </resources>

@@ -40,7 +40,7 @@
 	<string name="loading_resource_detail_fail">Ошибка загрузки</string>
 	<string name="loading_resource_detail_info">Загрузка…</string>
 	<string name="lockscreen_wallpaper">Экран блокировки</string>
-	<string name="lockstyle_personal_settings">Изменить</string>
+	<string name="lockstyle_personal_settings">Настройки</string>
 	<string name="long_ringtone_resource">Длинные</string>
 	<string name="menu_refresh">Обновить</string>
 	<string name="mi_wallpaper">Mi обои</string>

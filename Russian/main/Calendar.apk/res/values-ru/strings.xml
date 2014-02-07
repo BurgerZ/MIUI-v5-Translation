@@ -102,7 +102,6 @@
 	<string name="monthly">Ежемесячно</string>
 	<string name="monthly_on_day">Ежемесячно (%s числа)</string>
 	<string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
-	<string name="more_string">еще %1$s…</string>
 	<string name="new_event_dialog_label">Новое мероприятие</string>
 	<string name="new_event_dialog_option">Новое мероприятие</string>
 	<string name="no_calendars_found">Добавить мероприятие можно только в видимый календарь, связанный с аккаунтом Google. Нажмите \"Добавить аккаунт\" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
@@ -219,4 +218,6 @@
     <string name="month_medium_october">Октябрь</string>
     <string name="month_medium_november">Ноябрь</string>
     <string name="month_medium_december">Декабрь</string>
+	<string name="today_no_events">Сегодня мероприятий нет</string>
+	<string name="more_string">Еще %1$s…</string>
 </resources>

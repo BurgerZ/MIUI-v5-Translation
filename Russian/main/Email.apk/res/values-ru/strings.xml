@@ -429,7 +429,7 @@
     <string name="account_setup_index_title">Руководство настройки эл. почты</string>
     <string name="account_setup_index_label">Пожалуйста, выберите и добавьте вашего поставщика услуг эл. почты:</string>
     <string name="account_setup_index_other_mails">Другая эл. почта</string>
-    <string name="account_setup_basic_label">Пожалуйста, заполните информацию для %s почтового ящика :</string>
+    <string name="account_setup_basic_label">Введите данные электронной почты \"%s\"</string>
     <string name="account_setup_basic_name_label">Ваше имя (по желанию)</string>
     <string name="account_setup_basic_description_label">Имя акаунта (по желанию)</string>
     <string name="add_quick_responses_action">Создать новый</string>
