@@ -1,64 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="eq_preset_entries">
-        <item>Выключить</item>
-        <item>По умолчанию</item>
-        <item>Поп</item>
-        <item>Классика</item>
-        <item>Рок</item>
+    <string-array name="equalizer_presents">
+        <item>Стандартная</item>
+        <item>Классическая</item>
+        <item>Танцевальная</item>
+        <item>Легкая</item>
+        <item>Тяжелый метал</item>
+        <item>Хип-хоп</item>
         <item>Джаз</item>
-        <item>Блюз</item>
-        <item>Электронная</item>
-        <item>Латина</item>
-        <item>Выбрать</item>
+        <item>Поп</item>
+        <item>Рок</item>
     </string-array>
-    <string-array name="repeat_modes_entries">
-        <item>Выключить</item>
-        <item>Один раз</item>
-        <item>Все</item>
+    <string-array name="weeklist">
+        <item>1 неделя</item>
+        <item>2 недели</item>
+        <item>3 недели</item>
+        <item>4 недели</item>
+        <item>5 недель</item>
+        <item>6 недель</item>
+        <item>7 недель</item>
+        <item>8 недель</item>
+        <item>9 недель</item>
+        <item>10 недель</item>
+        <item>11 недель</item>
+        <item>12 недель</item>
     </string-array>
-    <string-array name="stop_playing_entries">
-        <item>Выключено</item>
-        <item>30 минут</item>
-        <item>60 минут</item>
-        <item>90 минут</item>
-        <item>настроить выключение времени вручную</item>
-    </string-array>
-    <string-array name="pref_ssh_entries">
-        <item>Выключить</item>
-        <item>Уровень 1</item>
-        <item>Уровень 2</item>
-        <item>Уровень 3</item>
-    </string-array>
-    <string-array name="pref_natural_bass_entries">
-        <item>Выключить</item>
-        <item>Нормальный</item>
-        <item>Средний</item>
-        <item>Сильный</item>
-    </string-array>
-    <string-array name="pref_hfe_entries">
-        <item>Выключить</item>
-        <item>Нормальный</item>
-        <item>Средний</item>
-        <item>Сильный</item>
-    </string-array>
-    <string-array name="menu_more">
-        <item>Добавить в плей-лист</item>
-        <item>Отправить</item>
-        <item>Установить как сигнал вызова</item>
-    </string-array>
-    <string-array name="pref_dolby_entries">
-        <item>Выключено</item>
-        <item>Dolby Mobile</item>
-    </string-array>
-    <string-array name="pref_dirac_entries">
-        <item>Выключено</item>
-        <item>Dolby Mobile</item>
-        <item>Dirac effect</item>
-    </string-array>
-    <string-array name="skin_entries">
-        <item>Тема1</item>
-        <item>Тема2</item>
-        <item>Тема3</item>
+    <string-array name="alphabet_table">
+        <item>" "</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
     </string-array>
 </resources>

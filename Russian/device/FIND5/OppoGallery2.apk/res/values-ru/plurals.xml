@@ -20,8 +20,8 @@
         <item quantity="one">Выбрано %1$d</item>
     </plurals>
     <plurals name="make_albums_available_offline">
-        <item quantity="other">Загрузка альбомов для офлайн-доступа.</item>
-        <item quantity="one">Загрузка альбома для офлайн-доступа</item>
+        <item quantity="other">Загрузка альбомов для оффлайн-доступа.</item>
+        <item quantity="one">Загрузка альбома для оффлайн-доступа</item>
     </plurals>
     <plurals name="number_of_items_in_slot">
         <item quantity="other">%1$d изобр.</item>

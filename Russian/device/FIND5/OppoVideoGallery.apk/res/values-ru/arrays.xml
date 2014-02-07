@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="send_method">
         <item>По MMS</item>
         <item>По Email</item>
