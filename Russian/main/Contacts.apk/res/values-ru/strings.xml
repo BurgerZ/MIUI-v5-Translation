@@ -1061,7 +1061,7 @@
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_user_know">ОК</string>
     <string name="resource_hint">Сигнал</string>
-    <string name="resource_ringtone_volume_mute">Звук мелодии отключен</string>
+    <string name="resource_ringtone_volume_mute">Звук отключен</string>
 	<string name="t9_search_guide_pinyin">Введите номер телефона или найдите контакт с помощью T9</string>
 	<string name="sim_contact_invalid">Некорректный контакт SIM-карты</string>
 	<string name="yellowPageNavigationLabel">Сервисы</string>

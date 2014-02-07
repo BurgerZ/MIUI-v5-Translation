@@ -69,7 +69,7 @@
     <string name="st_filter_keywords_setting_title">Ключевые слова</string>
     <string name="st_filter_keywords_title">Ключевые слова для сообщений</string>
     <string name="st_filter_sms_button">Фильтр сообщений</string>
-    <string name="st_mute_all">Не уведомлять о вызовах и сообщениях</string>
+    <string name="st_mute_all">Уведомления отключены</string>
     <string name="st_mute_block">Не уведомлять о вызовах и блокировать сообщения</string>
     <string name="st_mute_title">Не уведомлять</string>
     <string name="st_settings_name">Настройки</string>
@@ -87,12 +87,12 @@
 	<string name="toast_keyword_invalid">Неверное ключевое слово</string>
 	<string name="menu_add_vip_custom">Добавить исключения</string>
 	<string name="quiet_mode">Тихий режим</string>
-    <string name="qm_notification">Тихий режим включен</string>
+    <string name="qm_notification">Тихий режим</string>
     <string name="qm_open">Тихий режим</string>
     <string name="qm_summary">При включении тихого режима уведомления входящих вызовов и сообщений будут отключены.</string>
-    <string name="qm_auto_setting_group">По расписанию</string>
-    <string name="qm_auto_button_title">Время</string>
-    <string name="qm_auto_time_setting">Настройки времени</string>
+    <string name="qm_auto_setting_group">Время</string>
+    <string name="qm_auto_button_title">По расписанию</string>
+    <string name="qm_auto_time_setting">Установка времени</string>
     <string name="qm_auto_time_setting_summary">С %1$s до %2$s</string>
     <string name="qm_auto_time_turn_on">Начало</string>
     <string name="qm_auto_time_turn_on_title">Автоматическое включение тихого режима</string>

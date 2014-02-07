@@ -254,7 +254,7 @@
 	<string name="battery_sugg_apps_settings">В программе могут быть настройки режима энергосбережения</string>
 	<string name="battery_sugg_bluetooth_basic">Отключите канал Bluetooth, если он не используется</string>
 	<string name="battery_sugg_bluetooth_headset">Попробуйте подключиться к другому Bluetooth-устройству</string>
-	<string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
+	<string name="battery_sugg_display">Уменьшить яркость экрана или время до отключения экрана</string>
 	<string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
 	<string name="battery_sugg_wifi">Отключить модуль Wi-Fi, когда он не используется или сеть недоступна</string>
 	<string name="bearer">Владелец</string>
@@ -264,7 +264,7 @@
 	<string name="bluetooth">Bluetooth</string>
 	<string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
 	<string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-	<string name="bluetooth_advanced_titlebar">Расш. настройки Bluetooth</string>
+	<string name="bluetooth_advanced_titlebar">Дополнительно</string>
 	<string name="bluetooth_ask_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
 	<string name="bluetooth_ask_enablement">Приложение запрашивает разрешение включить Bluetooth. Разрешить?</string>
 	<string name="bluetooth_ask_enablement_and_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Включить Bluetooth?</string>
@@ -3687,8 +3687,8 @@
 	<string name="menu_item_notification_title">Виджет в панели уведомлений</string>
 	<string name="menu_item_notification_garbage_text_error">Ошибка</string>
 	<string name="menu_item_notification_power_text">Заряд</string>
-	<string name="menu_item_notification_antispam_text_normal">Спас</string>
-	<string name="menu_item_notification_antispam_text_avail">Спас</string>
+	<string name="menu_item_notification_antispam_text_normal">Спам</string>
+	<string name="menu_item_notification_antispam_text_avail">Спам</string>
 	<string name="button_text_view_power">Показать заряд</string>
 	<string name="notification_title_firewall_blocked">Заблокировано</string>
 </resources>
