@@ -2495,10 +2495,10 @@
     <string name="button_text_a_key_optimize">Оптимизировать</string>
     <string name="button_text_done">Готово</string>
     <string name="button_text_cancel">Отмена</string>
-    <string name="deep_cleaning">Дополнительно</string>
+    <string name="deep_cleaning">Файлы</string>
     <string name="rubbish_cleaning">Очистка</string>
     <string name="storage_size_title">Очистка памяти</string>
-    <string name="storage_size_content">Использовано: %1$s | Доступно: %2$s</string>
+    <string name="storage_size_content">Занято: %1$s | Доступно: %2$s</string>
     <string name="quick_scan_doing_title">Сканирование…</string>
     <string name="quick_scan_cleaning_title">Очистка…</string>
     <string name="quick_scan_result_title">Найдено мусора: %s</string>
@@ -3668,7 +3668,7 @@
 	<string name="perm_support_hints">Поддержка: LBE</string>
 	<string name="quick_cleanup">Очистка</string>
 	<string name="memory_suffix">Гб</string>
-	<string name="memory_used_suffix">Использовано</string>
+	<string name="memory_used_suffix">Занято</string>
 	<string name="memory_available_suffix">Доступно</string>
 	<string name="scanning_prefix">Сканирование: %s</string>
 	<string name="cleanning_prefix">Очистка: %s</string>
@@ -3677,7 +3677,7 @@
 	<string name="pref_title_auto_update_cleanup_db">Автообновление</string>
 	<string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
 	<string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
-	<string name="msg_cleanup_db_update_checking">Проверка…</string>
+	<string name="msg_cleanup_db_update_checking">Проверка обновлений…</string>
 	<string name="msg_update_error_code_success">Успешно обновлено</string>
 	<string name="msg_update_error_code_no_newer_db">Нет обновлений</string>
 	<string name="msg_update_error_code_already_running">Обновление</string>

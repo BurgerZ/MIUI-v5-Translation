@@ -155,4 +155,5 @@
 	<string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки SMS. Проверьте состояние SIM-карты.</string>
 	<string name="nearby_yellow_page_title">Поблизости</string>
     <string name="nearby_no_yellow_page">Нет результатов</string>
+	<string name="call">Вызов</string>
 </resources>
