@@ -1096,4 +1096,8 @@
 	<string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
     <string name="delete_call_log_selected_title">Удалить выбранные вызовы?</string>
 	<string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
+	<string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
+    <string name="yellowpage_navigation_network_location_enable">Включить</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
 </resources>
