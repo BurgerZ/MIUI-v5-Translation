@@ -47,4 +47,16 @@
         <item>Грязь</item>
         <item>Смог</item>
     </string-array>
+	<string-array name="editing_mode_entries">
+        <item>Сортировка</item>
+        <item>Виджеты</item>
+        <item>Обои</item>
+        <item>Эффекты</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 </resources>

@@ -3693,4 +3693,5 @@
 	<string name="notification_title_firewall_blocked">Заблокировано</string>
 	<string name="title_show_notification_yes">Отображение уведомлений включено</string>
     <string name="title_show_notification_no">Отображение уведомлений отключено</string>
+	<string name="virus_scan_clean_dialog_message">Очистка…</string>
 </resources>
