@@ -24,7 +24,7 @@
 	<string name="add_account">Добавить аккаунт</string>
 	<string name="agenda_today">Сегодня, %1$s</string>
 	<string name="agenda_tomorrow">Завтра, %1$s</string>
-	<string name="agenda_view">Повестка дня</string>
+	<string name="agenda_view">Календарь</string>
 	<string name="agenda_yesterday">Вчера, %1$s</string>
 	<string name="alert_title">Уведомления календаря</string>
 	<string name="app_label">Календарь</string>

@@ -184,7 +184,7 @@
 	<string name="cancel">Отмена</string>
 	<string name="card_title_call_ended">Вызов завершен</string>
 	<string name="card_title_conf_call">Конференц-вызов</string>
-	<string name="card_title_dialing">Набор номера…</string>
+	<string name="card_title_dialing">Вызов…</string>
 	<string name="card_title_forwarded_incoming_call_miui">Переадресация вызова</string>
 	<string name="card_title_hanging_up">Завершение разговора</string>
 	<string name="card_title_in_call">Входящий вызов</string>
@@ -292,7 +292,7 @@
 	<string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
 	<string name="description_call_recording_miui">Запись текущего разговора.</string>
 	<string name="description_delete_button">возврат</string>
-	<string name="description_dial_button">набор номера</string>
+	<string name="description_dial_button">Набор номера</string>
 	<string name="description_direction_left">Налево для %s</string>
 	<string name="description_direction_left_miui">Налево для %s</string>
 	<string name="description_direction_right">Направо для %s</string>
@@ -1084,7 +1084,7 @@
     <string name="editContact">Правка</string>
     <string name="sendSms">Отправить SMS</string>
     <string name="delete">Удалить</string>
-    <string name="dial">Набор номера</string>
+    <string name="dial">Вызов</string>
     <string name="enterName">Введите имя:</string>
     <string name="enterNumber">Введите номер телефона:</string>
     <string name="contactAddSuccess">Контакт добавлен на SIM-карту</string>
@@ -1104,7 +1104,7 @@
 	<string name="default_notification_description">Звук по умолчанию (%1$s)</string>
 	<string name="description_search_button">поиск</string>
 	<string name="notification_ongoing_call_format">Текущий вызов (%s)</string>
-	<string name="notification_dialing">Набор номера…</string>
+	<string name="notification_dialing">Вызов…</string>
 	<string name="caller_manage_manage_done_text">Вернуться к вызову</string>
 	<string name="vm_save_number">Сохранить номер голосовой почты</string>
 	<string name="fdn_only_error">Можно совершать вызовы только на разрешенные номера</string>

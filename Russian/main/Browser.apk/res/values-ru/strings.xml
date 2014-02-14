@@ -110,7 +110,7 @@
 	<string name="contextmenu_add_contact">Добавить контакт</string>
 	<string name="contextmenu_copy">Копировать</string>
 	<string name="contextmenu_copylink">Копировать URL ссылки</string>
-	<string name="contextmenu_dial_dot">Набор номера…</string>
+	<string name="contextmenu_dial_dot">Вызов…</string>
 	<string name="contextmenu_download_image">Сохранить изображение</string>
 	<string name="contextmenu_download_image_as">Сохранить изображение как…</string>
 	<string name="contextmenu_map">Карта</string>
