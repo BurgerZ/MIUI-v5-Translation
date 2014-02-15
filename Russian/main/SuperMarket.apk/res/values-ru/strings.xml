@@ -297,7 +297,7 @@
 	<string name="pref_title_about">О приложении</string>
     <string name="pref_title_feature_intro">Возможности</string>
     <string name="pref_title_web_market">Web маркет</string>
-    <string name="pref_title_web_dev">Разработчик</string>
+    <string name="pref_title_web_dev">Для разработчиков</string>
     <string name="pref_title_version">Версия</string>
 	<string name="pref_title_slient_install">При нажатии \"Установить\", выбранное приложение установится без всплывающих окон и уведомлений.</string>
     <string name="pref_title_auto_update">Когда доступны обновления приложений и подключена сеть Wi-Fi, приложения будут обновлены автоматически.</string>

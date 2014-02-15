@@ -90,8 +90,8 @@
     <string name="qm_notification">Режим \"Не беспокоить\"</string>
     <string name="qm_open">Не беспокоить</string>
     <string name="qm_summary">При включении режима \"Не беспокоить\" уведомления входящих вызовов и сообщений будут отключены.</string>
-    <string name="qm_auto_setting_group">По расписанию</string>
-    <string name="qm_auto_button_title">Время</string>
+    <string name="qm_auto_setting_group">Время</string>
+    <string name="qm_auto_button_title">По расписанию</string>
     <string name="qm_auto_time_setting">Установка времени</string>
     <string name="qm_auto_time_setting_summary">С %1$s до %2$s</string>
     <string name="qm_auto_time_turn_on">Начало</string>

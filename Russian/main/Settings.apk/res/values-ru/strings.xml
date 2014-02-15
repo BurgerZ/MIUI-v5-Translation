@@ -2320,8 +2320,8 @@
     <string name="safe_relative">Связанные с безопасностью</string>
 	<string name="wifi_share_uploading">Загрузка…</string>
 	<string name="wifi_share_list_empty">Нет доступных Wi-Fi</string>
-	<string name="dndm_auto_button_title">Время</string>
-	<string name="dndm_auto_setting_group">По расписанию</string>
+	<string name="dndm_auto_button_title">По расписанию</string>
+	<string name="dndm_auto_setting_group">Время</string>
 	<string name="dndm_auto_time_setting">Настройки времени</string>
 	<string name="dndm_auto_time_setting_summary">С %1$s до %2$s</string>
 	<string name="dndm_auto_time_turn_off">Окончание</string>
