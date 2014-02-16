@@ -129,7 +129,7 @@
 	<string name="HIPS_Perm_ROOT">ROOT доступ</string>
 	<string name="HIPS_Perm_ROOT_Desc">Доступ от имени администратора</string>
 	<string name="HIPS_Perm_ROOT_Desc_Stable">Не доступно в стабильной версии MIUI</string>
-	<string name="HIPS_Perm_ROOT_Hint">Приложения с ROOT доступом: %1$s.</string>
+	<string name="HIPS_Perm_ROOT_Hint">Нет приложений</string>
 	<string name="HIPS_Perm_ROOT_Title">Получить ROOT доступ</string>
 	<string name="HIPS_Perm_RejectAll">Запретить все</string>
 	<string name="HIPS_Perm_SMS">SMS</string>
