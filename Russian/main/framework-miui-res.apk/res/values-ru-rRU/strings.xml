@@ -383,10 +383,10 @@
 	<string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
 	<string name="reverse_all">Очистить выделение</string>
 	<string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
-	<string name="screen_button_notification_text">"Нажмите 'Home'+'Power' для включения"</string>
-	<string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
-	<string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажмите кнопки 'НАЗАД'+'Громкость +'"</string>
-	<string name="screen_on_proximity_sensor_summary">"Не закрывайте верхнюю половину экрана"</string>
+	<string name="screen_button_notification_text">Нажмите для включения</string>
+	<string name="screen_button_notification_title">Клавиши отключены</string>
+	<string name="screen_on_proximity_sensor_hint">Принудительный выход: нажмите кнопки \"Назад\"+\"Громкость +\"</string>
+	<string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю половину экрана</string>
 	<string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
 	<string name="sd_not_available">SD-карта недоступна</string>
 	<string name="sd_not_available_low_internal_storage">SD-карта недоступна и отсутствует внутреннее устройство хранения</string>

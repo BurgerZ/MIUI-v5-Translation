@@ -678,7 +678,7 @@
 	<string name="equalizer">Эквалайзер</string>
 	<string name="disable_overlays">Отключить наложения</string>
 	<string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
-	<string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>
+	<string name="disable_power_key_long_press_under_keyguard">Отключить меню питания</string>
 	<string name="disable_text">Отключить</string>
 	<string name="disabled">Отключено</string>
 	<string name="display_font_size_label">Размер шрифта:</string>

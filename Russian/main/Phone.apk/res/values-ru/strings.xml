@@ -318,7 +318,7 @@
 	<string name="description_target_send_sms">Отправить SMS</string>
 	<string name="description_target_send_sms_miui">Отправить SMS</string>
 	<string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
-	<string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
+	<string name="dial_emergency_error">Номер \"%s\" не является экстренным!</string>
 	<string name="dial_related_setting_catory_miui">Набор номера</string>
 	<string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
 	<string name="disable">Отключить</string>
@@ -449,9 +449,9 @@
 	<string name="in_calling">Вызов</string>
 	<string name="in_sms">Сообщение</string>
 	<string name="incall_call_type_label_sip">Интернет-вызов</string>
-	<string name="incall_error_call_failed">Вызов не осуществляется</string>
+	<string name="incall_error_call_failed">Вызов недоступен</string>
 	<string name="incall_error_emergency_only">Нет регистрации в сети</string>
-	<string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
+	<string name="incall_error_no_phone_number_supplied">Вызов недоступен. Номер телефона не указан.</string>
 	<string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
 	<string name="incall_error_power_off">Перед тем как звонить, отключите режим полета</string>
 	<string name="incall_error_supp_service_conference">Не удается создать конференц-вызов</string>

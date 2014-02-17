@@ -1183,7 +1183,7 @@
     <string name="sync_undo_deletes">Отменить удаления</string>
     <string name="terabyteShort">Tб</string>
     <string name="tethered_notification_message">Нажмите для настройки</string>
-    <string name="tethered_notification_title">Точка доступа активна</string>
+    <string name="tethered_notification_title">Точка доступа Wi-Fi активна</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
     <string name="text_copied">Текст скопирован</string>
     <string name="throttle_warning_notification_message">Нажмите для получения информации</string>
