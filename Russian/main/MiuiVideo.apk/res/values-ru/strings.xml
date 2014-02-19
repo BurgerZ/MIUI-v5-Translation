@@ -311,4 +311,12 @@
     <string name="alert_ignore">Не показывать снова</string>
     <string name="offline_no_source">Источник кэширования недоступен</string>
     <string name="offline_select_better_source">Переключено на доступный источник кэширования</string>
+	<string name="app_recommendation">Рекомендации</string>
+	<string name="to_play_airekan">В ролях</string>
+	<string name="quarter_bell_alert_message">После бронирования вы получите напоминание перед началом сеанса</string>
+    <string name="quarter_bell_alert_message_cancel">После отмены бронирования вы не получите напоминание перед началом сеанса</string>
+    <string name="quarter_bell_alert_title">Напоминание</string>
+    <string name="quarter_bell_alert_button_cancel">Отмена</string>
+    <string name="quarter_bell_alert_button_makeappointment">Бронирование</string>
+    <string name="quarter_bell_alert_button_cancelappointment">Удалить бронирование</string>
 </resources>

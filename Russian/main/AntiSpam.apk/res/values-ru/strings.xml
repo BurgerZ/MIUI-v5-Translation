@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Черный список</string>
     <string name="bl_block_info" formatted="false">Вызовов: %d, Сообщений: %d</string>
-    <string name="bl_no_blacklist">Черный список отсутствует</string>
+    <string name="bl_no_blacklist">Нет контактов</string>
     <string name="bl_no_block_call">Нет заблокированных вызовов</string>
     <string name="bl_no_block_sms">Нет заблокированных сообщений</string>
     <string name="dlg_add_blacklist">Добавить номер в черный список?</string>

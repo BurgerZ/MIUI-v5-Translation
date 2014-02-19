@@ -662,7 +662,7 @@
 	<string name="preference_smart_group_frequency_summary">Группировка контактов по последним вызовам или SMS.</string>
 	<string name="preference_smart_group_frequency_title">По последним вызовам</string>
 	<string name="preference_smart_group_location_summary">Группировка контактов по коду оператора.</string>
-	<string name="preference_smart_group_location_title">По месторасположению</string>
+	<string name="preference_smart_group_location_title">По местоположению</string>
 	<string name="preference_smart_group_title">Умная группировка</string>
 	<string name="preference_telocation_summary_countrycode_off">не добавлять автоматически код страны.</string>
 	<string name="preference_telocation_summary_countrycode_on">автоматически добавлять код страны.</string>
@@ -807,7 +807,7 @@
 	<string name="smart_group_frequency_label">По последним вызовам</string>
 	<string name="smart_group_label">Умная группировка</string>
 	<string name="smart_group_loading">Загрузка групп…</string>
-	<string name="smart_group_location_label">По месторасположению</string>
+	<string name="smart_group_location_label">По местоположению</string>
 	<string name="smart_group_location_unavailable">Другие</string>
 	<string name="sms">Текстовое сообщение</string>
 	<string name="sms_assistant">Отправить текстовое сообщение на номер %s</string>

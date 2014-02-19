@@ -43,7 +43,7 @@
 	<string name="lockstyle_personal_settings">Настройки</string>
 	<string name="long_ringtone_resource">Длинные</string>
 	<string name="menu_refresh">Обновить</string>
-	<string name="mi_wallpaper">Mi обои</string>
+	<string name="mi_wallpaper">Mi-обои</string>
 	<string name="online_no_network">Не удается подключиться к сети</string>
 	<string name="online_search_hint">Введите ключевые слова</string>
 	<string name="resource_alarm_default">Будильник</string>
@@ -134,7 +134,7 @@
 	<string name="theme_component_title_launcher">Рабочий стол</string>
 	<string name="theme_component_title_lockstyle">Локскрин</string>
 	<string name="theme_component_title_lockwallpaper">Обои локскрина</string>
-	<string name="theme_component_title_miwallpaper">Mi обои</string>
+	<string name="theme_component_title_miwallpaper">Mi-обои</string>
 	<string name="theme_component_title_mms">Сообщения</string>
 	<string name="theme_component_title_notification">Уведомл.</string>
 	<string name="theme_component_title_others">Прочее</string>
