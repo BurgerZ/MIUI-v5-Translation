@@ -3645,8 +3645,8 @@
 	<string name="list_sub_view_item_view">Просмотр</string>
     <string name="list_sub_view_item_clean">Очистка</string>
     <string name="list_sub_view_item_install">Установка</string>
-    <string name="list_sub_view_item_lock">Блок.</string>
-    <string name="list_sub_view_item_unlock">Разблок.</string>
+    <string name="list_sub_view_item_lock">Всегда очищать</string>
+    <string name="list_sub_view_item_unlock">Всегда очищать</string>
 	<string name="power_save_on_time_goout_title">Режим по окончании периода</string>
     <string name="power_save_choose_recovery_mode">Режим</string>
     <string name="power_new_choose_mode">Выбор режима</string>

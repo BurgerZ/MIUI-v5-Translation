@@ -156,4 +156,5 @@
 	<string name="nearby_yellow_page_title">Поблизости</string>
     <string name="nearby_no_yellow_page">Нет результатов</string>
 	<string name="call">Вызов</string>
+	<string name="no_more_result">Ничего не найдено</string>
 </resources>

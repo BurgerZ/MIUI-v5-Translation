@@ -270,4 +270,11 @@
 	<string name="balance_no_giftcard_payment">%1$s MiCredits (невозможно использовать подарочную карту MiCredit для этого заказа)</string>
 	<string name="format_time">d MMMM yyyy hh:mmaa</string>
     <string name="format_date">d MMMM yyyy</string>
+	<string name="error_cert_date_summary">Ошибка данных сертификата. \nПроверьте локальные данные и повторите попытку.</string>
+	<string name="error_cert_date_title">Ошибка сертификата</string>
+	<string name="msg_order_hint_1_1">После нажатия кнопки купить, устройство</string>
+	<string name="msg_order_hint_1_2">автоматически свяжется с поставщиком услуг</string>
+	<string name="msg_progress_hint_2_1">Поставщик услуг успешно ответил</string>
+	<string name="msg_progress_hint_2_2">Скоро поступит текстовое подтверждение</string>
+	<string name="scan_prompt_retry">Держите карту так, чтобы не было бликов, затем повторите попытку.</string>
 </resources>
