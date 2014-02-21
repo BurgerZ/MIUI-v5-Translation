@@ -10,7 +10,6 @@
 	<string name="button_refresh">Обновить</string>
 	<string name="button_search">Поиск</string>
 	<string name="button_search_in_market">Поиск в маркете</string>
-	<string name="bytes">%1$s/%2$s</string>
 	<string name="bytes_unit">%1$s б</string>
 	<string name="cancel">Отмена</string>
 	<string name="category_recommend_tag">Рекомендации</string>
@@ -24,7 +23,7 @@
 	<string name="comment_average_score">Оценка</string>
 	<string name="comment_cannot_comment">Чтобы оставить отзыв, сначала необходимо скачать это приложение.</string>
 	<string name="comment_current_version">Текущая версия</string>
-	<string name="comment_date">%1$02d-%2$02d</string>
+	<string name="comment_date">%1$02d.%2$02d</string>
 	<string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
 	<string name="comment_name_default">Пользователь %1$s</string>
 	<string name="comment_publish">Отправить</string>
@@ -53,7 +52,7 @@
 	<string name="delta_update">Обновление: %1$s</string>
 	<string name="description_info">Описание</string>
 	<string name="developer_button">От автора</string>
-	<string name="download_fail">%1$s установка не выполнена: ошибка загрузки</string>
+	<string name="download_fail">Ошибка загрузки</string>
 	<string name="download_start_fail">Ошибка загрузки</string>
 	<string name="edit_comment">Отзыв</string>
 	<string name="edit_comment_title">Отправить отзыв %1$s</string>
@@ -73,13 +72,13 @@
 	<string name="install_btn_continue">Далее</string>
 	<string name="install_btn_ok">ОК</string>
 	<string name="install_earlier">Ранее</string>
-	<string name="install_fail">%1$s - ошибка установки</string>
+	<string name="install_fail">Ошибка установки</string>
 	<string name="upgrade_all_title">Обновить все</string>
 	<string name="upgrade_all_description">Обновить приложения: %1$s и %2$s?</string>
 	<string name="install_google_base_message">“%1$s” для запуска требует сервисы Google</string>
 	<string name="install_google_base_title">Установить сервисы Google</string>
-	<string name="install_hash_fail">%1$s - ошибка установки</string>
-	<string name="install_inconsistent_fail">%1$s - ошибка установки</string>
+	<string name="install_hash_fail">Ошибка установки</string>
+	<string name="install_inconsistent_fail">Ошибка установки. Подписи несовместимы.</string>
 	<string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
 	<string name="install_no_network_description">Нет сетевого подключения, подключитесь и попробуйте еще раз</string>
 	<string name="install_on_data_description">Загрузка по 2G/3G может чрезмерно потреблять трафик, продолжить загрузку приложений %1$s и %2$s?</string>
@@ -176,8 +175,6 @@
 	<string name="pref_title_hotsubjects_notification">Коллекции</string>
 	<string name="pref_title_silent_install">Установка без уведомлений</string>
 	<string name="pref_title_use_staging">Использование промежуточного сервера</string>
-	<string name="price">￥%1$s</string>
-	<string name="progress">%1$s%%</string>
 	<string name="publish_info">%1$s %2$s %3$s</string>
 	<string name="quicksearchbox_description">Поиск маркета для приложений</string>
 	<string name="rank_app_name">%1$s. %2$s</string>

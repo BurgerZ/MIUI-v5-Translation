@@ -72,7 +72,7 @@
 	<string name="event_delete">Удалить мероприятие</string>
 	<string name="event_edit">Изменить мероприятие</string>
 	<string name="event_info_organizer">Организатор:</string>
-	<string name="event_info_reminders_label">Напоминания</string>
+	<string name="event_info_reminders_label">Напоминание</string>
 	<string name="event_info_title">Просмотр мероприятия</string>
 	<string name="event_info_title_invite">Приглашение на встречу</string>
 	<string name="event_view">Просмотр мероприятия</string>

@@ -230,7 +230,7 @@
     <string name="resource_comment_footer">Пустые отзывы не отображаются</string>
     <string name="resource_comment_no_comment">Нет отзывов</string>
     <string name="resource_comment_current_version">Текущая версия</string>
-    <string name="resource_comment_date">%1$02d-%2$02d</string>
+    <string name="resource_comment_date">%1$02d.%2$02d</string>
     <string name="resource_comment_upload_hint">Ваш отзыв будет отображаться после проверки модераторов.</string>
 	<string name="basic_info">Основная информация</string>
     <string name="account_info">Мой аккаунт</string>
