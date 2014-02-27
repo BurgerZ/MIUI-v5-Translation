@@ -90,7 +90,7 @@
 	<string name="HIPS_Perm_Call_Number">Вызов %1$s</string>
 	<string name="HIPS_Perm_CancelMissedCalls">Очистка информации о непринятых звонках</string>
 	<string name="HIPS_Perm_Contact">Контакты</string>
-	<string name="HIPS_Perm_Contact_Access">Читать ваш список контактов</string>
+	<string name="HIPS_Perm_Contact_Access">читать ваш список контактов</string>
 	<string name="HIPS_Perm_Contact_Desc">Доступ к списку контактов</string>
 	<string name="HIPS_Perm_Contact_Hint">Приложений: %1$s\nДоступ к списку контактов.</string>
 	<string name="HIPS_Perm_EndCall">отклонить текущий звонок</string>

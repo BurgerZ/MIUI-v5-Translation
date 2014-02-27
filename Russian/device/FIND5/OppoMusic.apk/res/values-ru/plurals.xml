@@ -6,7 +6,7 @@
     </plurals>
 	<plurals name="Ntracks_remove_from_playlist">
 		<item quantity="other">Треков удалено из плейлиста: %d</item>
-		<item quantity="one">Треков удалено из плейлиста: 1</item>
+		<item quantity="one">Треков удалено из плейлиста: %d</item>
 	</plurals>
     <plurals name="Ntracks_total">
         <item quantity="other">%d треков</item>
