@@ -2,11 +2,13 @@
 <resources>
 	<string name="alphabet">Алфавит</string>
 	<string name="app_name">SIM-сервис</string>
+	<string name="app_name2">SIM-сервис 2</string>
+    <string name="app_name3">SIM-сервис 3</string>
 	<string name="button_cancel">Отмена</string>
 	<string name="button_no">Нет</string>
 	<string name="button_ok">ОК</string>
 	<string name="button_yes">Да</string>
-	<string name="default_call_setup_msg">Посылка вызова…</string>
+	<string name="default_call_setup_msg">Вызов…</string>
 	<string name="default_close_channel_msg">Канал закрыт</string>
 	<string name="default_open_channel_msg">Открыть канал?</string>
 	<string name="default_receive_data_msg">Прием данных…</string>
@@ -19,8 +21,10 @@
 	<string name="menu_end_session">Закончить сеанс</string>
 	<string name="service_name">Название службы</string>
 	<string name="stk_app_state">Состояние приложения</string>
-	<string name="stk_dialog_accept">ДА</string>
-	<string name="stk_dialog_reject">НЕТ</string>
+	<string name="stk_dialog_accept">ОК</string>
+	<string name="stk_dialog_reject">Отмена</string>
 	<string name="stk_dialog_title">SIM-сервис</string>
 	<string name="stk_no_service">Вне зоны обслуживания</string>
+	<string name="default_setup_call_msg">Установка соединения</string>
+	<string name="default_tone_dialog_msg">Воспроизведение рингтона</string>
 </resources>

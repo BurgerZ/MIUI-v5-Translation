@@ -383,7 +383,7 @@
   <string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
   <string name="bluetooth_lock_voice_dialing_summary">Предотвратить использование телефона Bluetooth, когда экран заблокирован</string>
   <string name="bluetooth_map_acceptance_dialog_text">%s запрашивает разрешение на подключение к сообщениям</string>
-  <string name="bluetooth_map_remember_choice">Больше не спрашивать</string>
+  <string name="bluetooth_map_remember_choice">Запомнить</string>
   <string name="bluetooth_map_request">Запрос разрешения на включение Bluetooth</string>
   <string name="bluetooth_menu_advanced">Расширенные</string>
   <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
@@ -419,7 +419,7 @@
   <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа к Интернету</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Используется интернет-подключение другого устройства</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s хочет получить доступ к контактам и журналу вызавов. Разрешить %2$s доступ?</string>
-  <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
+  <string name="bluetooth_pb_remember_choice">Запомнить</string>
   <string name="bluetooth_pbs_pull_pb">%1$s is requesting permission to connect to retrieve contacts information</string>
   <string name="bluetooth_pbs_pull_vcard_entry">%1$s is requesting permission to connect to retrieve contact</string>
   <string name="bluetooth_pbs_pull_vcard_list">%1$s is requesting permission to connect to retrieve contacts</string>

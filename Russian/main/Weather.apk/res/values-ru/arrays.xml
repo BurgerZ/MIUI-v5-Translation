@@ -2,7 +2,7 @@
 <resources>
     <array name="send_item">
         <item>SMS</item>
-        <item>E-mail</item>
+        <item>Email</item>
     </array>
     <array name="act_weather_main_listview_key">
         <item>Скорость ветра:</item>
@@ -41,6 +41,24 @@
         <item>Пыль</item>
         <item>Дымка</item>
     </string-array>
+	<string-array name="act_weather_main_listview_json_key">
+        <item>Скорость ветра:</item>
+        <item>УФ-индекс:</item>
+        <item>Одежда:</item>
+        <item>Комфорт:</item>
+        <item>Мытье машины:</item>
+        <item>Сушка белья:</item>
+        <item>Утренняя зарядка:</item>
+        <item>Досуг:</item>
+    </string-array>
+	<string-array name="weather_info_fl">
+        <item></item>
+        <item>Холодно</item>
+        <item>Ветер</item>
+        <item>Комфортно</item>
+        <item>Н/д</item>
+        <item>Недоступно</item>
+     </string-array>
     <string-array name="weather_details_key">
         <item>Недоступно</item>
         <item>Благоприятная</item>

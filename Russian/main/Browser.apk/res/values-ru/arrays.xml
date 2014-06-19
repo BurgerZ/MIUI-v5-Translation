@@ -3,33 +3,21 @@
      <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
-        <item>ROMZ.bz</item>
-        <item>http://romz.bz/</item>
-        <item>Yahoo!</item>
-        <item>http://www.yahoo.com/</item>
-        <item>4PDA</item>
-        <item>http://www.4pda.ru/</item>
+        <item>MIUI.SU</item>
+        <item>http://miui.su/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
+        <item>VK</item>
+        <item>http://www.vk.com/</item>
         <item>Facebook</item>
         <item>http://www.facebook.com/</item>
         <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
+        <item>http://www.ru.wikipedia.org/</item>
         <item>eBay</item>
         <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
         <item>Amazon</item>
         <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
-     </string-array>
+    </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>
@@ -51,17 +39,17 @@
         <item>Корейская (EUC-KR)</item>
      </string-array>
      <string-array name="pref_default_zoom_choices">
-        <item>Мелкий</item>
+        <item>Маленький</item>
         <item>Средний</item>
-        <item>Крупный</item>
+        <item>Большой</item>
      </string-array>
      <string-array name="pref_fling_on_border_choices">
         <item>Переключение страниц</item>
         <item>Переключение вкладок</item>
      </string-array>
      <string-array name="pref_homepage_choices">
-        <item>Начальная страница</item>
-        <item>Другое</item>
+        <item>Главная страница</item>
+        <item>Установить свою</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
         <item>Никогда</item>
@@ -89,16 +77,6 @@
         <item>Прокрутка страницы</item>
         <item>Переключение вкладок</item>
      </string-array>
-     <string-array name="search_engines">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
-     </string-array>
 	 <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
@@ -117,8 +95,49 @@
         <item>" "</item>
     </string-array>
 	<string-array name="search_bar_search_engines_default">
-		<item>google</item>
-		<item>yandex_ru</item>
-		<item>bing</item>
-	</string-array>
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="search_engines">
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="search_engines_default">
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="dianping">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+     </string-array>
+     <string-array name="dianping_in_list">
+        <item>search_dianping</item>
+        <item>ic_search_engine_dianping</item>
+        <item>dianping</item>
+     </string-array>
+	 <string-array name="search_engines_rCN">
+		<item>baidu</item>
+        <item>google</item>
+        <item>dianping</item>
+        <item>bing</item>
+    </string-array>
+	<string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Компьютер</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+	<string-array name="pre_webapp_text_sizes">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Нормальный</item>
+        <item>Мелкий</item>
+    </string-array>
 </resources>

@@ -46,7 +46,7 @@
 	<string name="default_ringtone_setting_title">Мелодия и тема</string>
 	<string name="delelte_selected_timezone">Удалить выбранный часовой пояс?</string>
 	<string name="delete">Удалить</string>
-	<string name="delete_alarm">Удалить будильник</string>
+	<string name="delete_alarm">Удалить</string>
 	<string name="delete_alarm_confirm">Удалить будильник?</string>
 	<string name="delete_timezone_title">Удалить часовой пояс</string>
 	<string name="desk_clock_button_description">Вид часов</string>
@@ -129,4 +129,5 @@
 	<string name="workday_alarm_clock">По рабочим дням</string>
 	<string name="worldclock_empty_text">Нет часовых поясов</string>
 	<string name="worldclock_title">Часы</string>
+	<string name="timer_message_with_seconds">%1$d сек.</string>
 </resources>

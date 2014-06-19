@@ -137,13 +137,13 @@
     <string name="bluetooth_connection_dialog_text">Подключиться к %1$s?</string>
     <string name="bluetooth_phonebook_request">Запрос контактов</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s хочет получить доступ к вашим контактам и журналу вызовов. Предоставить %2$s доступ?</string>
-    <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
+    <string name="bluetooth_pb_remember_choice">Запомнить</string>
     <string name="bluetooth_available">Bluetooth включен</string>
     <string name="bluetooth_available_detailed">Открыть доступные устройства Bluetooth</string>
     <string name="bluetooth_map_request">Запрос MAP</string>
     <string name="bluetooth_map_acceptance_dialog_text">%s запрашивает разрешение на подключение к вашим сообщениям</string>
-    <string name="bluetooth_map_remember_choice">Больше не спрашивать</string>
-    <string name="bluetooth_sap_remember_choice">Больше не спрашивать</string>
+    <string name="bluetooth_map_remember_choice">Запомнить</string>
+    <string name="bluetooth_sap_remember_choice">Запомнить</string>
     <string name="bluetooth_sap_request">Запрос на разрешение подключения Bluetooth</string>
     <string name="bluetooth_sap_connect_message">%s запрашивает разрешение на подключение для доступа к SIM-карте</string>
     <string name="date_and_time">Параметры даты и времени</string>
@@ -1149,7 +1149,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="location_pdr">Использовать датчики</string>
     <string name="location_use_pdr">Улучшение точности определения положения и экономия энергии с помощью датчиков</string>
     <string name="location_pdr_diag_desc">Датчики улучшают точность определения положения пешеходов и позволяют экономить заряд батареи. В помещении или под землей датчики работают лучше всего, если телефон направлен в сторону движения. На качество работы функции влияют магнитные поля</string>
-    <string name="location_pdr_diag_dont_ask">Больше не спрашивать</string>
+    <string name="location_pdr_diag_dont_ask">Запомнить</string>
     <string name="location_logs">Журналы поиска местоположения</string>
     <string name="summary_location_logs">Сохранять не более 100 последних местоположений</string>
     <string name="gps_notification_sounds_title">Уведомления GPS</string>

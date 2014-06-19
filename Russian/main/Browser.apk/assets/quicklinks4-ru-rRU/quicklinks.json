@@ -73,13 +73,13 @@
 	    "position": 5
         },
 		{
-            "title":"Википедия",
-            "url":"http://ru.m.wikipedia.org/",
-            "thumbnail":"wikipedia.png",
-            "logobg":"bg12.9.png",
+            "title":"Google+",
+            "url":"https://plus.google.com/app/basic/stream?source=apppromo",
+            "thumbnail":"thumb_google_plus.png",
+            "logobg":"bg07.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-		"displayName": "Википедия",
+		"displayName": "Google+",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 6
@@ -201,13 +201,13 @@
 		"displayName": "WSMproject"
         },
 		{
-            "title":"Википедия",
-            "url":"http://ru.m.wikipedia.org/",
-            "thumbnail":"wikipedia.png",
-            "logobg":"bg12.9.png",
+            "title":"Google+",
+            "url":"https://plus.google.com/app/basic/stream?source=apppromo",
+            "thumbnail":"thumb_google_plus.png",
+            "logobg":"bg07.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-		"displayName": "Википедия"
+		"displayName": "Google+"
         },
         {
             "title":"MIUI forum",
@@ -380,6 +380,15 @@
             "favicon":"",
 	    "displayName": "Svetyolka"
         },
+		{
+            "title":"Википедия",
+            "url":"http://ru.m.wikipedia.org/",
+            "thumbnail":"wikipedia.png",
+            "logobg":"bg12.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "Википедия"
+        },
         {
             "title":"DeviantART",
             "url":"http://www.deviantart.com/",
@@ -388,6 +397,15 @@
 			"nightModeMask": "night.9.png",
             "favicon":"",
 	    "displayName": "DeviantART"
+        },
+        {
+            "title":"Backly",
+            "url":"http://backly.ru/",
+            "thumbnail":"backly.png",
+            "logobg":"bg09.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Backly"
         }
     ]
 }

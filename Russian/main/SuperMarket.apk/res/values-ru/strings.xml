@@ -308,4 +308,12 @@
     <string name="signature_inconsistent_message">Это приложение имеет несовместимую подпись, продолжить обновление?</string>
 	<string name="notif_title_auto_update_on">Автообновление приложений включено</string>
     <string name="notif_summary_auto_update_on">Mi-Маркет будет обновлять приложения автоматически</string>
+	<string name="pref_title_delete_package">Автоудаление Apk</string>
+	<string name="pref_summary_delete_package">Удалять установочные файлы Apk после установки.</string>
+	<string name="bad_comment_reason_dialog_title">Выберите причину</string>
+	<string name="bad_comment_reason_dialog_button_text">Пропустить</string>
+	<string name="holding">Удерживание…</string>
+	<string name="tab_download_history">История</string>
+	<string name="no_download_history">Нет загруженных приложений</string>
+	<string name="download_history_login_hint">Войдите в аккаунт Xiaomi для просмотра истории установленных приложений.</string>
 </resources>

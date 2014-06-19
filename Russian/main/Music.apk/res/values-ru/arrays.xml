@@ -30,11 +30,11 @@
         <item>Z</item>
      </string-array>
      <string-array name="equalizer_presents">
-        <item>Стандартная</item>
-        <item>Классическая</item>
+        <item>Стандарт</item>
+        <item>Классика</item>
         <item>Танцевальная</item>
-        <item>Лeгкая</item>
-        <item>Тяжелый метал</item>
+        <item>Фолк</item>
+        <item>Металл</item>
         <item>Хип-хоп</item>
         <item>Джаз</item>
         <item>Поп</item>

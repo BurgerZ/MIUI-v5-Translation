@@ -75,5 +75,6 @@
 	<string name="xunlei_brand">Поддержка: Xunlei</string>
 	<string name="xunlei_switch">Движок загрузки Xunlei</string>
     <string name="turn_off_xunlei_title">Отключить движкок загрузки Xunlei?</string>
-    <string name="turn_off_xunlei_message">После отключения возможна более низкая скорость загрузки файлов.</string>
+    <string name="turn_off_xunlei_message">После отключения возможна более низкая скорость загрузки файлов</string>
+	<string name="paused_insufficient_space">Ожидание свободного места</string>
 </resources>

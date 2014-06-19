@@ -24,7 +24,7 @@
 	<string name="network_unavailable_dialog_button_ok">ОК</string>
 	<string name="network_unavailable_dialog_content">Ваш отчет будет отправлен, как только сеть будет доступна</string>
 	<string name="network_unavailable_dialog_title">Сеть недоступна</string>
-	<string name="packaging_dialog_content">Создание отчета, пожалуйста, подождите…</string>
+	<string name="packaging_dialog_content">Создание отчета…</string>
 	<string name="bugreport_feedback_from">От: %s</string>
 	<string name="report_miui">Отчет MIUI</string>
 	<string name="section_description">Описание</string>
@@ -35,7 +35,7 @@
 	<string name="toast_description_required">Отзыв пользователя не может быть пустым</string>
 	<string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен, когда сеть WLAN будет готова</string>
 	<string name="toast_feedback_submitted">Ваш отчет успешно отправлен</string>
-	<string name="toast_pending_log_collection">Сбор логов, пожалуйста, подождите</string>
+	<string name="toast_pending_log_collection">Сбор логов…</string>
 	<string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
 	<string name="toast_report_sent_failed">Ошибка отправки отчета</string>
 	<string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервис Wfd</string>
+    <string name="perm_label">Wi-Fi дисплей</string>
+    <string name="perm_desc">API доступа для Wi-Fi дисплея</string>
+</resources>

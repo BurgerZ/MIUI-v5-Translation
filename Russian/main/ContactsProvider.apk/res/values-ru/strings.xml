@@ -18,4 +18,16 @@
 	<string name="upgrade_out_of_memory_notification_ticker">Для обновления контакта требуется больше памяти</string>
 	<string name="upgrade_out_of_memory_notification_title">Обновление хранилища контактов</string>
 	<string name="voicemail_from_column">"Голосовое сообщение от контакта "</string>
+	<string name="group_name_contacts">Контакты</string>
+	<string name="group_name_friends">Друзья</string>
+	<string name="group_name_family">Семья</string>
+	<string name="group_name_coworkers">Коллеги</string>
+	<string name="unknown">Неизвестный номер</string>
+	<string name="debug_dump_title">Копирование базы контактов</string>
+    <string name="debug_dump_database_message">Вы собираетесь сделать копию вашей базы контактов, которая включает в себя все данные контактов и журналы вызовов, и отправить ее по электронной почте. Не забудьте удалить копию после отправки.</string>
+    <string name="debug_dump_delete_button">Удалить</string>
+    <string name="debug_dump_start_button">Начать</string>
+    <string name="debug_dump_email_sender_picker">Способ отправки</string>
+    <string name="debug_dump_email_subject">База контактов</string>
+    <string name="debug_dump_email_body">Это база моих контактов со всеми данными.</string>
 </resources>

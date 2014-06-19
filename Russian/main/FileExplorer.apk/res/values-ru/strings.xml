@@ -3,7 +3,7 @@
 	<string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nваш аккаунт временно будет недоступен, пожалуйста подождите…</string>
 	<string name="add_task">Добавить файлы</string>
 	<string name="adding_upload_tasks">Добавление файлов.</string>
-	<string name="app_name">Файлы</string>
+	<string name="app_name">Проводник</string>
 	<string name="background">Скрыть</string>
 	<string name="bind_account">Привязка к аккаунту KuaiPan</string>
 	<string name="bind_account_summary">Вы можете объединить аккаунт Xiaomi с KuaiPan для удобства синхронизации.</string>
@@ -83,7 +83,7 @@
 	<string name="file_info_size">Размер:</string>
 	<string name="file_loading">Загрузка…</string>
 	<string name="give_up_cleaning">Отмена</string>
-	<string name="file_too_large">"Этот файл слишком большой для загрузки на сервер"</string>
+	<string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
 	<string name="finished">Завершено</string>
 	<string name="folder_exist">Папка уже существует</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
@@ -151,7 +151,7 @@
 	<string name="operation_download_link">Ссылка для скачивания</string>
 	<string name="operation_favorite">Добавить в избранное</string>
 	<string name="operation_hide_sys">Скрыть системные</string>
-	<string name="operation_info">Сведения</string>
+	<string name="operation_info">Информация</string>
 	<string name="operation_move">Переместить</string>
 	<string name="operation_moving">Перемещение…</string>
 	<string name="operation_moving_detail">Перенос файлов (%1$d/%2$d)</string>
@@ -169,7 +169,7 @@
 	<string name="operation_unfavorite">Удалить из избранного</string>
 	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="paused">Пауза</string>
-	<string name="query_bind_state">Запрос состояния. Пожалуйста, подождите…</string>
+	<string name="query_bind_state">Запрос состояния…</string>
 	<string name="rename_description">Переименовывается…</string>
 	<string name="rename_failed">Переименование \"%1$s\" не удалось</string>
 	<string name="scanning" formatted="false">Сканирование %d из %d…</string>
@@ -224,7 +224,7 @@
 	<string name="ui_main_toast_favorite_removed">Избранное удалено</string>
 	<string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>
 	<string name="upload_failed">Ошибка загрузки</string>
-	<string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами.</string>
+	<string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены</string>
 	<string name="uploading">Загрузка</string>
 	<string name="used">"Занято: "</string>
 	<string name="user_guide">Руководство пользователя</string>
@@ -248,7 +248,7 @@
 	<string name="app_garbage_path">Путь:</string>
 	<string name="app_garbage_title">Мусор от приложений</string>
 	<string name="application_size_label">Приложение</string>
-	<string name="big5_summary">Стандартная кодировка в традиционной китайской версии Windows.</string>
+	<string name="big5_summary">Стандартная кодировка в традиционной китайской версии Windows</string>
 	<string name="big5_title">BIG5</string>
 	<string name="cancel_app_garbage_cleanup">Не очищать</string>
 	<string name="cancel_with_count_down">Отмена (%d)</string>
@@ -258,7 +258,7 @@
 	<string name="cache_size_label">Кэш</string>
 	<string name="directory_info_divider">"  |  "</string>
 	<string name="directory_no_item">пусто</string>
-	<string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель. Попробуйте позже.</string>
+	<string name="dlg_error_unmount_text">Невозможно отключить USB-накопитель</string>
 	<string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
 	<string name="empty_dir_cleanup_indication">%s пустые папки</string>
 	<string name="empty_dir_title">Пустые папки</string>
@@ -295,4 +295,24 @@
     <string name="header_text_cleaning">Очистка…</string>
     <string name="header_text_cleaned">Мусор очищен</string>
 	<string name="category_mirouter">Mi-Роутер</string>
+	<string name="my_app">Данные приложений</string>
+    <string name="my_bak">Бэкап</string>
+    <string name="my_doc">Документы</string>
+    <string name="my_music">Музыка</string>
+    <string name="my_photo">Фото</string>
+    <string name="my_video">Видео</string>
+    <string name="mobile_photo">Фото</string>
+    <string name="my_camera_album">Альбомы</string>
+    <string name="my_bakup">Бэкап</string>
+    <string name="my_bakup_app">Приложения</string>
+    <string name="my_bakup_pic">Фото</string>
+    <string name="my_bakup_video">Видео</string>
+    <string name="my_bakup_music">Музыка</string>
+    <string name="my_bakup_doc">Документы</string>
+    <string name="my_bakup_other">Другие</string>
+    <string name="share_box">Переданные</string>
+    <string name="share_box_send">Отправленные</string>
+    <string name="share_box_receive">Принятые</string>
+	<string name="file_not_exist">Файл не существует</string>
+	<string name="open_file_failed">Не удалось открыть файл</string>
 </resources>

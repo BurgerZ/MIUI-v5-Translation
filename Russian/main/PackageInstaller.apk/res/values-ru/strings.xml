@@ -23,7 +23,7 @@
 	<string name="install_failed">Приложение не установлено</string>
 	<string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
 	<string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
-	<string name="install_failed_inconsistent_certificates">Подпись обновления не совпадает с подписью установленного приложения. Перед установкой удалите старую версию приложения.</string>
+	<string name="install_failed_inconsistent_certificates">Подпись обновления не совпадает с подписью установленного приложения. Перед установкой удалите старую версию.</string>
 	<string name="install_failed_invalid_apk">Файл поврежден</string>
 	<string name="install_failed_msg">Установить приложение %1$s не удалось</string>
 	<string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
@@ -56,7 +56,7 @@
 	<string name="security_settings_desc">Разрешить этому приложению:</string>
 	<string name="settings">Настройки</string>
 	<string name="trust_switch_dialog_msg">Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.\n\nДоверять этому приложению?</string>
-	<string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
+	<string name="uninstall_activity_text">\"%1$s\" является частью выбранного приложения.</string>
 	<string name="uninstall_application_text">Приложение будет удалено</string>
 	<string name="uninstall_application_title">Удаление приложения</string>
 	<string name="uninstall_confirm_question">Удалить это приложение?</string>
@@ -77,4 +77,10 @@
 	<string name="virus_scan_is_virus">Приложение содержит вирус, рекомендуется удалить!</string>
 	<string name="virus_scan_is_risk">Приложение содержит угрозу, продолжить установку?</string>
 	<string name="virus_scan_clear">Удалить</string>
+	<string name="virus_scan_caller_unknown">Неизвестно</string>
+	<string name="ad_block_button_title">Блокировать рекламу</string>
+	<string name="ad_relative">Реклама</string>
+	<string name="adware_count">Файлов рекламы: %d</string>
+	<string name="adware_hint">Эти файлы используются сторонними приложениями для отображения рекламы</string>
+	<string name="adware_title">Реклама</string>
 </resources>

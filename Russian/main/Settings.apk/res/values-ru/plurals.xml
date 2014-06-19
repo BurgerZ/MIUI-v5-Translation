@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
-     </plurals>
-     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
-     </plurals>
-     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
-     </plurals>
-     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
-     </plurals>
-     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
-     </plurals>
-     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
-     </plurals>
-	 <plurals name="power_center_battery_day">
+    <plurals name="power_center_battery_day">
         <item quantity="other">%d дн.</item>
         <item quantity="one">%d дн.</item>
     </plurals>
@@ -39,5 +15,49 @@
     <plurals name="show_dev_countdown">
         <item quantity="other">Вы в %1$d шагах от того, чтобы стать разработчиком.</item>
         <item quantity="one">Вы в %1$d шаге от того, чтобы стать разработчиком.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
+        <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
+    </plurals>
+	<plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Приложений: %d \nДоступ к чтению уведомлений.</item>
+        <item quantity="one">Приложений: %d \nДоступ к чтению уведомлений.</item>
+    </plurals>
+	<plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Найдено принтеров: %1$s</item>
+        <item quantity="one">Найдено принтеров: %1$s</item>
+    </plurals>
+	<plurals name="show_cit_countdown">
+        <item quantity="other">После %1$d шагов откроется доступ к инженерному меню Cit</item>
+        <item quantity="one">После %1$d шага откроется доступ к инженерному меню Cit</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">После %1$d шагов появится возможность отправлять отзывы об ошибках</item>
+        <item quantity="one">После %1$d шага появится возможность отправлять отзывы об ошибках</item>
     </plurals>
 </resources>

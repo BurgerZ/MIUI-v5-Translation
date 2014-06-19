@@ -47,11 +47,11 @@
 	<string name="btn_split_contact">Разделить контакт</string>
 	<string name="button_cancel_scan">Остановить</string>
 	<string name="button_scan">Cканировать</string>
-	<string name="caching_vcard_message">Выполняется кэширование файлов vCard в локальное временное хранилище. Импорт скоро начнется.</string>
+	<string name="caching_vcard_message">Выполняется кэширование файлов vCard в локальное временное хранилище, скоро начнется импортирование.</string>
 	<string name="caching_vcard_title">Кэширование</string>
 	<string name="callAgain">Позвонить еще раз</string>
 	<string name="callBack">Перезвонить</string>
-	<string name="callDetailTitle">Сведения о вызове</string>
+	<string name="callDetailTitle">Информация о вызове</string>
 	<string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
 	<string name="callShortcutActivityTitle">Выберите номер для вызова</string>
 	<string name="call_assistant">Вызов: %s</string>
@@ -98,7 +98,7 @@
 	<string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
 	<string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
 	<string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
-	<string name="callrecordview_menu_delete_new">Удалить из журнала новые контакты</string>
+	<string name="callrecordview_menu_delete_new">Удалить журнал вызовов новых контактов</string>
 	<string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
 	<string name="callrecordview_menu_delete_stranger">Открыть непринятые вызовы</string>
 	<string name="callrecordview_menu_paste">Вставить</string>
@@ -128,11 +128,11 @@
 	<string name="chat_yahoo">Чат через Yahoo</string>
 	<string name="check_unsynchronized_accounts">Частота обновления контактов</string>
 	<string name="checkhint">Проверить другой телефон</string>
-	<string name="clearCallLogConfirmation">Все ваши записи о вызовах будут удалены.</string>
+	<string name="clearCallLogConfirmation">Все ваши записи о вызовах будут удалены</string>
 	<string name="clearCallLogConfirmation_title">Очистить список вызовов?</string>
 	<string name="clearCallLogProgress_title">Очистка списка вызовов…</string>
-	<string name="clearFrequentsConfirmation">Вы очистите все часто используемые контакты в приложениях Контакты и Телефон. Почтовые приложения будут собирать информацию с нуля.</string>
-	<string name="clearFrequentsConfirmation_title">Очистить частые контакты?</string>
+	<string name="clearFrequentsConfirmation">Будут очищены все часто используемые контакты</string>
+	<string name="clearFrequentsConfirmation_title">Очистить популярные контакты?</string>
 	<string name="clearFrequentsProgress_title">Очистка контактов…</string>
 	<string name="clear_default">Удалить настройки по умолчанию</string>
 	<string name="clear_digits">Очистить номер телефона</string>
@@ -165,7 +165,7 @@
 	<string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
 	<string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s</string>
 	<string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
-	<string name="contact_is_readOnly">Не удается отредактировать контакт только для чтения.</string>
+	<string name="contact_is_readOnly">Не удается отредактировать контакт только для чтения</string>
 	<string name="contact_list_loading">Загрузка…</string>
 	<string name="contact_pick_photo">Фото</string>
 	<string name="contact_read_only">Контакт только для чтения</string>
@@ -192,7 +192,7 @@
 	<string name="date_year_toggle">Указать год</string>
 	<string name="default_ringtone">Мелодия по умолчанию</string>
 	<string name="deleteConfirmation">Этот контакт будет удален</string>
-	<string name="deleteConfirmationDetail">\"%s\" будет удален</string>
+	<string name="deleteConfirmationDetail">Контакт \"%s\" будет удален</string>
 	<string name="deleteConfirmation_title">Удаление контакта</string>
 	<string name="delete_call_log_title">Выбрать журналы для удаления?</string>
 	<string name="delete_contact_calllog_title">Записи удалены</string>
@@ -249,7 +249,7 @@
 	<string name="description_view_contact">Просмотреть данные: %1$s</string>
 	<string name="description_view_contact_detail">Данные контакта</string>
 	<string name="description_voicemail_button">голосовая почта</string>
-	<string name="deselect_all">Снять выделение</string>
+	<string name="deselect_all">Снять выбор</string>
 	<string name="device_bluetooth_title">Подготовка</string>
 	<string name="device_brand_title">Выберите марку телефона</string>
 	<string name="device_import_account_dialog_title">Выберите аккаунт для импорта</string>
@@ -292,8 +292,8 @@
 	<string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключите режим полета</string>
 	<string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейдите в Меню > Настройки</string>
 	<string name="directory_search_label">Каталог</string>
-	<string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
-	<string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
+	<string name="dirty_contacts_notification_description">Контактов, не синхронизированных с аккаунтом Xiaomi: %d</string>
+	<string name="dirty_contacts_notification_message">\n(вы можете отключить напоминание в настройках)</string>
 	<string name="dirty_contacts_notification_title">Синхронизировать контакты?</string>
 	<string name="display_all_contacts">Все контакты</string>
 	<string name="display_more_groups">Другие группы…</string>
@@ -391,7 +391,7 @@
 	<string name="hint_findContacts">Найти контакты</string>
 	<string name="hint_more_contact">использовать объединение контактов</string>
 	<string name="hint_search_contacts">Контактов: %d</string>
-	<string name="hint_search_emails">Адресов эл. почты: %d</string>
+	<string name="hint_search_emails">Электронных адресов: %d</string>
 	<string name="hint_search_phone_numbers">Контактов: %d</string>
 	<string name="ic_menu_back">Назад</string>
 	<string name="ic_menu_done">Готово</string>
@@ -460,7 +460,7 @@
 	<string name="local_search_label">Все контакты</string>
 	<string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
 	<string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
-	<string name="make_primary">Запомнить выбор</string>
+	<string name="make_primary">Запомнить</string>
 	<string name="map_custom">Просмотр адреса: %s</string>
 	<string name="map_home">Просмотреть домашний адрес</string>
 	<string name="map_other">Просмотр адреса</string>
@@ -481,7 +481,7 @@
 	<string name="menu_contacts_filter">Фильтр контактов</string>
 	<string name="menu_copy">Копировать</string>
 	<string name="menu_copyContact">Копировать в \"Мои контакты\"</string>
-	<string name="menu_create_contact_shortcut">На рабочий стол</string>
+	<string name="menu_create_contact_shortcut">Ярлык на рабочий стол</string>
 	<string name="menu_deleteContact">Удалить контакт</string>
 	<string name="menu_deleteGroup">Удалить группу</string>
 	<string name="menu_dialpad_text">Клавиатура</string>
@@ -504,7 +504,7 @@
 	<string name="menu_removeStar">Из избранных</string>
 	<string name="menu_search">Поиск</string>
 	<string name="menu_select_all">" Отметить все "</string>
-	<string name="menu_select_none">" Снять все "</string>
+	<string name="menu_select_none">" Снять выбор "</string>
 	<string name="menu_sendSMS">Отправить сообщение</string>
 	<string name="menu_sendTextMessage">Отправить сообщение</string>
 	<string name="menu_set_ring_tone">Мелодия контакта</string>
@@ -532,7 +532,7 @@
 	<string name="name_phonetic_given">Имя (транскрипция)</string>
 	<string name="name_phonetic_middle">Отчество (транскрипция)</string>
 	<string name="name_prefix">Форма обращения</string>
-	<string name="name_suffix">Звание/титул</string>
+	<string name="name_suffix">Звание</string>
 	<string name="next">Далее</string>
 	<string name="next_birthday">Следующий День рождения: %s</string>
 	<string name="nfc_vcard_file_name">Получено по NFC</string>
@@ -626,16 +626,16 @@
 	<string name="postal_region">Регион</string>
 	<string name="postal_street">Улица</string>
 	<string name="pref_key_photo">Фото</string>
-	<string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без фото.</string>
-	<string name="pref_key_photo_word_title">Фото для контакта</string>
-	<string name="pref_key_rebuild_t9_index_message">Обновление индекса контактов для поиска с помощью T9.</string>
+	<string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без фото</string>
+	<string name="pref_key_photo_word_title">Изображение контакта</string>
+	<string name="pref_key_rebuild_t9_index_message">Обновление индексации контактов для поиска с помощью T9</string>
 	<string name="pref_key_rebuild_t9_index_title">Обновить индекс</string>
-	<string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi.</string>
+	<string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
 	<string name="pref_title_account_import">Импорт из аккаунта</string>
 	<string name="pref_title_import_from_account">В аккаунт Xiaomi</string>
 	<string name="preference_auto_ip_summary_disable">Не включено</string>
 	<string name="preference_auto_ip_summary_on">Префикс оператора: %s</string>
-	<string name="preference_auto_ip_title">Автоматический IP</string>
+	<string name="preference_auto_ip_title">Автонабор IP</string>
 	<string name="preference_contacts">Контакты</string>
 	<string name="preference_contacts_display">Отображение</string>
 	<string name="preference_contacts_filter">Фильтр контактов</string>
@@ -643,7 +643,7 @@
 	<string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
 	<string name="preference_dial_pad_touch_tone_human">Голос человека</string>
 	<string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
-	<string name="preference_dial_pad_touch_tone_switch">Звук клавиш</string>
+	<string name="preference_dial_pad_touch_tone_switch">Звук при наборе номера</string>
 	<string name="preference_dial_pad_touch_tone_title">Номеронабиратель</string>
 	<string name="preference_display">Отображение</string>
 	<string name="preference_displayOptions">Варианты отображения</string>
@@ -679,15 +679,15 @@
 	<string name="quickcontact_missing_app">Нет приложения для выполнения этого действия</string>
 	<string name="quit_dialog_confirm_title">Выйти из режима объединения?</string>
 	<string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
-	<string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
+	<string name="readOnlyContactDeleteConfirmationDetail">Контакт \"%s\" содержит информацию в нескольких аккаунтах. \nИнформация, доступная только для чтения, будет скрыта из списка контактов, но не будет удалена.</string>
 	<string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
 	<string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
-	<string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
+	<string name="reading_vcard_failed_title">Ошибка чтения vCard</string>
 	<string name="rebuild_t9_index_dialog_message">Перестроение данных индекса…</string>
 	<string name="recent">Последний</string>
 	<string name="recentCallsIconLabel">Журнал вызовов</string>
-	<string name="recentCalls_addToContact">Добавить в контакты</string>
-	<string name="recentCalls_callNumber">Звонков %s</string>
+	<string name="recentCalls_addToContact">Добавить к контакту</string>
+	<string name="recentCalls_callNumber">Вызовов: %s</string>
 	<string name="recentCalls_deleteAll">Очистить журнал вызовов</string>
 	<string name="recentCalls_editNumberBeforeCall">Изменить номер и вызвать</string>
 	<string name="recentCalls_empty">Список вызовов пуст</string>
@@ -699,7 +699,7 @@
 	<string name="cloud_antispam_mark">Отметить</string>
 	<string name="recent_updates">Недавние обновления</string>
 	<string name="redirect_calls_to_vm_confirm_message">Убедитесь, что ваш оператор поддерживает данную функцию. Возможно, вы не сможете получать вызовы от этого контакта.</string>
-	<string name="redirect_calls_to_vm_confirm_text">Ок</string>
+	<string name="redirect_calls_to_vm_confirm_text">ОК</string>
 	<string name="relationLabelsGroup">Отношения</string>
 	<string name="remind_btn_ignore">Позже</string>
 	<string name="remind_btn_sync_now">Сейчас</string>
@@ -757,7 +757,7 @@
 	<string name="savingDisplayGroups">Варианты отображения сохраняются…</string>
 	<string name="scan">сканировать устройство</string>
 	<string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
-	<string name="scan_merge">Поиск возможных дубликатов контактов. Пожалуйста, подождите…</string>
+	<string name="scan_merge">Поиск возможных дубликатов контактов…</string>
 	<string name="scanning">поиск устройств…</string>
 	<string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
 	<string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
@@ -850,7 +850,7 @@
 	<string name="titleJoinContactDataWith">Объединить контакты</string>
 	<string name="title_other_devices">Другие доступные устройства</string>
 	<string name="title_paired_devices">Сопряжение устройств</string>
-	<string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
+	<string name="toast_call_detail_error">Не удается получить информацию о вызове</string>
 	<string name="toast_displaying_all_contacts">Отображение всех контактов</string>
 	<string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>
 	<string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
@@ -881,7 +881,7 @@
 	<string name="vcard_unknown_filename">контакт</string>
 	<string name="video_chat">Видеочат</string>
 	<string name="viewContactDesription">Просмотреть контакт</string>
-	<string name="viewContactTitle">Сведения о контакте</string>
+	<string name="viewContactTitle">Информация о контакте</string>
 	<string name="view_updates_from_group">Обновления</string>
 	<string name="voicemail">Голосовая почта</string>
 	<string name="voicemail_buffering">Буферизация…</string>
@@ -911,7 +911,7 @@
 	<string name="readingSimContacts">Чтение контактов с SIM-карты…</string>
 	<string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
 	<string name="simContacts_empty">Нет контактов на SIM-карте</string>
-	<string name="sim_contact_dropdown_menu_deselect_all_miui">" Снять все "</string>
+	<string name="sim_contact_dropdown_menu_deselect_all_miui">" Снять выбор "</string>
 	<string name="sim_contact_dropdown_menu_select_all_miui">" Отметить все "</string>
 	<string name="toast_copy_done">Копирование завершено</string>
 	<string name="toast_copying">Копирование…</string>
@@ -934,7 +934,7 @@
     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
     <string name="resource_detail_jump_to_online_title">Онлайн</string>
     <string name="resource_detail_jump_to_same_author_title">От автора</string>
-    <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
+    <string name="resource_detail_recommend_desiner_themes">Темы от %1$s</string>
     <string name="resource_share_title">Отправить</string>
     <string name="resource_share_subject">Отправить тему: %1$s</string>
     <string name="resource_share_text">Я отправил вам тему: %1$s! Скачать можно по ссылке: %2$s</string>
@@ -978,7 +978,7 @@
     <string name="ringtone_volume_mute">Звук выключен</string>
 	<string name="callrecordview_menu_add_call_note">Добавить заметку</string>
     <string name="callrecordview_menu_edit_call_note">Редактировать заметку</string>
-	<string name="pref_key_sim_manage">Управление SIM</string>
+	<string name="pref_key_sim_manage">Контакты SIM-карты</string>
 	<string name="accessibility_calllog_detail">Инфо вызовов</string>
     <string name="select_groups">Выбрать группу</string>
     <string name="sim_capacity">Размер SIM-карты</string>
@@ -987,7 +987,7 @@
     <string name="sim_contact_number_missing">Номер контакта на SIM-карте отсутствует</string>
     <string name="sim_error_generic_failure">Ошибка</string>
     <string name="sim_error_storage_full">SIM-карта заполнена</string>
-    <string name="sim_error_not_ready">Загрузка контактов SIM-карты. Пожалуйста, подождите…</string>
+    <string name="sim_error_not_ready">Загрузка контактов SIM-карты…</string>
     <string name="sim_error_text_too_long">Имя слишком длинное</string>
     <string name="sim_error_number_too_long">Номер слишком длинный</string>
     <string name="sim_error_email_too_long">Адрес электронной почты слишком длинный</string>
@@ -1013,7 +1013,7 @@
     <string name="email_2g_invalid">Невозможно сохранить электронную почту на 2G SIM-карту. Пожалуйста, выберите 3G SIM-карту для сохранения.</string>
     <string name="sim_invalid_fix_number">Невозможно сохранить неверный номер</string>
     <string name="AirPlane_mode_on_edit">Невозможно редактировать контакт, когда включен режим полета.</string>
-    <string name="msg_loading_sim_contacts_toast">Загрузка контактов SIM-карты в фоновом режиме. Пожалуйста, подождите…</string>
+    <string name="msg_loading_sim_contacts_toast">Загрузка контактов SIM-карты в фоновом режиме…</string>
     <string name="fix_number_too_long">Номер слишком длинный</string>
     <string name="name_too_long">Имя слишком длинное</string>
     <string name="storage_full">Память заполнена</string>
@@ -1060,7 +1060,7 @@
     <string name="resource_menu_refresh">Обновить</string>
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_user_know">ОК</string>
-    <string name="resource_hint">Сигнал</string>
+    <string name="resource_hint">Предупреждение</string>
     <string name="resource_ringtone_volume_mute">Звук отключен</string>
 	<string name="t9_search_guide_pinyin">Введите номер телефона или найдите контакт с помощью T9</string>
 	<string name="sim_contact_invalid">Некорректный контакт SIM-карты</string>
@@ -1100,4 +1100,17 @@
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
     <string name="yellowpage_navigation_network_location_enable">Включить</string>
     <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
+	<string name="eventTypeCustom">Пользовательский</string>
+	<string name="pref_key_sim_manage2">Контакты SIM-карты 2</string>
+	<string name="account_sim2">SIM-карта %d</string>
+	<string name="meid_invalid">Неверный MEID</string>
+	<string name="resource_delete">Удалить</string>
+	<string name="expand_collapse_name_fields_description">Показать или скрыть информацию</string>
+    <string name="menu_export_database">Экспорт базы данных</string>
+    <string name="contact_detail_picture_description">Нажмите на фото для изменения</string>
+    <string name="unknown_caller">Неизвестный абонент</string>
+	<string name="resource_allow">ОК</string>
+	<string name="resource_connect_network_message">Разрешить приложению доступ к сети?</string>
+	<string name="resource_connect_network_settings">Запрашивать доступ к сети</string>
+	<string name="resource_remind_another_time">Запомнить</string>
 </resources>

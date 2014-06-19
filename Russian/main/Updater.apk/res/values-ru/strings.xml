@@ -45,8 +45,8 @@
 	<string name="dialog_ok">ОК</string>
 	<string name="dialog_yes">Да</string>
 	<string name="download_current_rom">Загрузить прошивку</string>
-	<string name="download_ota_rom">Обновление (%s)</string>
-	<string name="download_whole_rom">Полный пакет (%s)</string>
+	<string name="download_ota_rom">Загрузить (%s)</string>
+	<string name="download_whole_rom">Загрузить (%s)</string>
 	<string name="downloading_description">Загрузка…</string>
 	<string name="edit_comment">Комментарий</string>
 	<string name="edit_comment_title">Редактирование комментария</string>

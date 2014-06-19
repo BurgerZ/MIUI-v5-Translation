@@ -47,7 +47,7 @@
   <string name="cit_fm_audio_path_headset">Наушники</string>
   <string name="cit_fm_audio_path_speaker">Динамик</string>
   <string name="cit_fm_check_summary">Информация FM</string>
-  <string name="cit_fm_check_title">FM-тест</string>
+  <string name="cit_fm_check_title">Тест радио</string>
   <string name="cit_fm_close">Выключите FM</string>
   <string name="cit_fm_not_supported">Эти модели не поддерживают FM</string>
   <string name="cit_fm_open_1">FM - 88.5</string>
@@ -170,23 +170,6 @@
   <string name="cit_tool_log_toast">Лог был сохранен как %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Генерируется отчет об ошибке (это займет около 10 секунд)</string>
   <string name="cit_tool_wifi">Инструменты WLAN</string>
-  <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
-  <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
-  <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
-  <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
-  <string name="cit_tool_wifi_exit">Выход</string>
-  <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
-  <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
-  <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
-  <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
-  <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
-  <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
-  <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
-  <string name="cit_tool_wifi_rx_1">Rx:1</string>
-  <string name="cit_tool_wifi_rx_13">Rx:13</string>
-  <string name="cit_tool_wifi_rx_7">Rx:7</string>
-  <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">Введите имя AP</string>
   <string name="cit_tool_wifi_rx_ap_not_null">AP имя или тип не может быть пустым</string>
   <string name="cit_tool_wifi_rx_ap_type">Введите тип AP</string>
@@ -217,10 +200,10 @@
   <string name="cit_vibrator_play_touch_pattern">(не нажимать)</string>
   <string name="cit_vibrator_short">Короткая</string>
   <string name="cit_vibrator_show_advanced">Расширенные параметры</string>
-  <string name="cit_wifi_address_check_summary">Информация о Wi-Fi сети</string>
-  <string name="cit_wifi_address_check_title">Wi-Fi сеть</string>
+  <string name="cit_wifi_address_check_summary">Информация о сети Wi-Fi</string>
+  <string name="cit_wifi_address_check_title">Сеть Wi-Fi</string>
   <string name="cit_wifi_address_error">Не удается получить адрес Wi-Fi. Пожалуйста, убедитесь, что вы подключены к точке доступа Wi-Fi.</string>
-  <string name="cit_wifi_ap_scan_check_summary">Wi-Fi информация</string>
+  <string name="cit_wifi_ap_scan_check_summary">Информация о Wi-Fi</string>
   <string name="cit_wifi_ap_scan_check_title">Сканирование Wi-Fi</string>
   <string name="cit_wifi_ap_scan_retry">Сканирование</string>
   <string name="cit_wifi_ap_scanning">Сканирование AP…</string>
@@ -243,4 +226,44 @@
   <string name="cit_calibration_pass">Калибровка выполнена успешно</string>
   <string name="cit_calibration_fail">Не удалось откалибровать</string>
   <string name="cit_tool_log_no_sdcard">Ошибка операции. Пожалуйста, вставьте SD-карту.</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Проверка заднего микрофона</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Проверка основного микрофона</string>
+  <string name="cit_audio_lb_phonecall_title">Имитация вызова</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Проверка верхнего микрофона</string>
+  <string name="cit_tool_bluetooth_dut">Режим теста Bluetooth</string>
+  <string name="cit_tool_bluetooth_le_tx_h">Режим Bluetooth малой мощности рассеивания (2.480GHz)</string>
+  <string name="cit_tool_bluetooth_le_tx_l">Режим Bluetooth малой мощности рассеивания (2.402GHz)</string>
+  <string name="cit_tool_bluetooth_not_on">Bluetooth не включен!</string>
+  <string name="cit_tool_bluetooth_tx_h">Режим проверки Bluetooth на передачу звука （2.480GHz)</string>
+  <string name="cit_tool_bluetooth_tx_l">Режим проверки Bluetooth на передачу звука （2.402GHz）</string>
+  <string name="cit_tool_modem">Инструменты модема</string>
+  <string name="cit_tool_modem_offline_log">Открыть/закрыть офлайн журнал</string>
+  <string name="cit_tool_modem_exit_ftm">Выйти из режима FTM</string>
+  <string name="cit_tool_modem_bugreport">Дамп памяти модема</string>
+  <string name="cit_tool_nfc">Инструменты NFC</string>
+  <string name="cit_tool_nfc_st">Nfc ST:</string>
+  <string name="cit_tool_nfc_st_confreq">Частота:</string>
+  <string name="cit_tool_nfc_st_run">Запуск</string>
+  <string name="cit_tool_nfc_st_stop">Остановить</string>
+  <string name="cit_tool_wifi_band_24">Группа: 2.4G</string>
+  <string name="cit_tool_wifi_band_5">Группа: 5G</string>
+  <string name="cit_tool_wifi_band_change">Далее</string>
+  <string name="cit_touch_calib_title">Калибровка касаний</string>
+  <string name="cit_touch_calib_summary">На следующем этапе будет производиться калибровка касаний, нажмите \"Далее\" и не нажимайте на экарн после этого, ждите подсказки об успешной калибровке.</string>
+  <string name="cit_touch_calib_pass">Нажимайте на точки для калибровки</string>
+  <string name="cit_touch_calib_fail">Ошибка калибровки, повторите попытку.</string>
+  <string name="cit_touch_calib_instruction">Начать калибровку</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Проверка основного микрофона на обратную связь.
+
+Держите телефон около уха, как будто вы совершаете звонок, говорите в основной микрофон и вы должны услышать свой голос из динамика."</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Проверка заднего микрофона на обратную связь.
+
+Говорите в задний микрофон и вы должны услышать свой голос из динамика."</string>
+  <string name="cit_audio_lb_summary_phonecall">"Имитация вызова.
+
+Держите телефон около уха, как будто вы совершаете звонок, говорите в основной микрофон и вы должны услышать свой голос из динамика. Рекомендуется тестировать в тихом месте."</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Проверка верхнего микрофона на обратную связь.
+
+Говорите в верхний микрофон и вы должны услышать свой голос из динамика."</string>
+  <string name="cit_main_camera_sdcard_error">SD-карта заполнена</string>
 </resources>

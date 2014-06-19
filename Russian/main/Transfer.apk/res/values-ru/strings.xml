@@ -3,7 +3,7 @@
 	<string name="about_to_receive">Получить</string>
 	<string name="about_to_send">Отправить</string>
 	<string name="app_name">Трансфер</string>
-	<string name="button_last">Начать сейчас</string>
+	<string name="button_last">Начать</string>
 	<string name="button_next">Далее</string>
 	<string name="button_pre">Назад</string>
 	<string name="cancel">Отмена</string>
@@ -14,7 +14,7 @@
 	<string name="connect_confirm">Запрос подключения от \"%1$s\"</string>
 	<string name="connecting">Соединение</string>
 	<string name="continue_to_send">Продолжить</string>
-	<string name="device_default_name">MIUI Phone</string>
+	<string name="device_default_name">Mi Phone</string>
 	<string name="device_name">Имя устройства</string>
 	<string name="device_name_tip">Имя устройства можно задать в пункте настроек \"О телефоне\".</string>
 	<string name="editmode_menu_delete">Удалить</string>
@@ -24,10 +24,10 @@
 	<string name="error_download">Ошибка загрузки</string>
 	<string name="error_general">Ошибка</string>
 	<string name="error_network">Ошибка сети</string>
-	<string name="error_not_enough_space">Не хватает памяти</string>
+	<string name="error_not_enough_space">Недостаточно памяти</string>
 	<string name="error_peer_disconnected">Пиры отключены</string>
 	<string name="error_not_selected">Файл не выбран</string>
-	<string name="error_select">Ошибка передачи. Файл не выбран.</string>
+	<string name="error_select">Ошибка передачи, файл не выбран.</string>
 	<string name="error_transmit">Ошибка обмена</string>
 	<string name="error_upload">Ошибка загрузки</string>
 	<string name="fail">Ошибка</string>
@@ -52,7 +52,7 @@
 	<string name="noti_sending">%1$s.Отправка файлов: %2$d/%3$d</string>
 	<string name="noti_wait_receive">Ожидание приема…</string>
 	<string name="noti_wait_send">"Ожидание приема. Убедитесь, что отправитель имеет возможность передавать файлы "</string>
-	<string name="ok">Подтвердить</string>
+	<string name="ok">ОК</string>
 	<string name="operation_delete">Удалить</string>
 	<string name="operation_goto_folder">Открыть папку с файлом</string>
 	<string name="operation_info">Сведения</string>
@@ -60,7 +60,7 @@
 	<string name="picker_title">Приложение</string>
 	<string name="receive">Прием</string>
 	<string name="receive_cancel_tip">Остановить передачу?</string>
-	<string name="receive_cancel_tip2">Передача отменена. Получено %1$d из %2$d файлов.</string>
+	<string name="receive_cancel_tip2">Передача отменена. Получено файлов: %1$d из %2$d</string>
 	<string name="receive_canceled">Отменено</string>
 	<string name="receive_cannot_created_file">Ошибка создания файла</string>
 	<string name="receive_files">Прием файлов</string>
@@ -88,10 +88,10 @@
 	<string name="send_nfc">Отправить через NFC</string>
 	<string name="send_sound">Отправить со звуком</string>
 	<string name="send_tip">Пакетная передача фотографий, музыки, контактов и других файлов.</string>
-	<string name="send_to">Отправить на:</string>
+	<string name="send_to">Отправить:</string>
 	<string name="send_uncompleted">Ошибка отправки</string>
 	<string name="sent">Отправлено</string>
-	<string name="settings_auto_pair_sender_summary">Автоматическое сопряжение при передаче файлов.</string>
+	<string name="settings_auto_pair_sender_summary">Автоматическое сопряжение при передаче файлов</string>
 	<string name="settings_auto_pair_sender_title">Автосопряжение</string>
 	<string name="settings_connect">Настройки сети</string>
 	<string name="settings_label">Настройки</string>
@@ -99,7 +99,7 @@
 	<string name="settings_photo_camera">Снять фото</string>
 	<string name="settings_photo_pick">Выбрать из галереи</string>
 	<string name="settings_photo_remove">Удалить аватар</string>
-	<string name="settings_receive_confirm_summary">Требовать подтверждения при приеме файлов.</string>
+	<string name="settings_receive_confirm_summary">Требовать подтверждения при приеме файлов</string>
 	<string name="settings_receive_confirm_title">Подтверждение приема</string>
 	<string name="share">Отправить</string>
 	<string name="share_text">Приложение AnyShare поддерживает передачу файлов без интернет соединения на высокой скорости. Приложение можно скачать по ссылке: %1$s</string>
@@ -107,9 +107,9 @@
 	<string name="summary_step_one">Возможность отправить фотографии, музыку, контакты и другие файлы.</string>
 	<string name="summary_step_two">Поделиться информацией о приложении AnyShare</string>
 	<string name="support_tip">Поддержка: AnyShare</string>
-	<string name="title_step_one">1. Файлы можно передавать без использования сетевого подключения.</string>
-	<string name="title_step_three">3. Неограниченный обмен файлов с друзьями.</string>
-	<string name="title_step_two">2. Пользователи других прошивок могут использовать приложение AnyShare.</string>
+	<string name="title_step_one">1. Файлы можно передавать без использования сетевого подключения</string>
+	<string name="title_step_three">3. Неограниченный обмен файлов с друзьями</string>
+	<string name="title_step_two">2. Пользователи других прошивок могут использовать приложение AnyShare</string>
 	<string name="transfer_history">История</string>
 	<string name="use_start">Начать</string>
 	<string name="voice_assist_match">Быстрые автосоответствия</string>
@@ -148,7 +148,7 @@
     <string name="init_xiaomi_account">Авторизация…</string>
     <string name="send_file_to_friends_by_net">Обмен файлами через KuaiPan</string>
     <string name="select_all">" Выбрать все "</string>
-    <string name="unselect_all">" Снять все "</string>
+    <string name="unselect_all">" Снять выбор "</string>
     <string name="delete">Удалить</string>
     <string name="delete_history_message">Удалить историю?</string>
     <string name="can_not_send_this_file">Ошибка отправки файла</string>
@@ -156,11 +156,11 @@
     <string name="pause">Пауза</string>
     <string name="start">Далее</string>
     <string name="received_share_message">Получено от %1$s</string>
-    <string name="share_message">%1$s обмен файлами</string>
-    <string name="press_to_view">Нажмите, чтобы просмотреть</string>
-    <string name="press_to_view_send_history">Нажмите, чтобы просмотреть</string>
+    <string name="share_message">Файлов отправлено: %1$s</string>
+    <string name="press_to_view">Нажмите для просмотра</string>
+    <string name="press_to_view_send_history">Нажмите для просмотра</string>
     <string name="file_share_upload_complete">Файл загружен</string>
-    <string name="press_to_view_receive_history">Нажмите, чтобы просмотреть</string>
+    <string name="press_to_view_receive_history">Нажмите для просмотра</string>
     <string name="file_share_download_complete">Файл принят</string>
     <string name="please_select_share">Выберите файл</string>
     <string name="only_support_single_share">Можно отправить только 1 файл</string>
@@ -196,8 +196,8 @@
     <string name="open">Открыть</string>
     <string name="notify_after_restore">Уведомление после загрузки</string>
     <string name="notify_after_download">Уведомление после приема</string>
-    <string name="wait_for_upload_to_restore">Уведомлять о завершении обмена файлами.</string>
-    <string name="wait_for_upload_to_download">Уведомлять о завершении приема файлов.</string>
+    <string name="wait_for_upload_to_restore">Уведомлять о завершении обмена файлами</string>
+    <string name="wait_for_upload_to_download">Уведомлять о завершении приема файлов</string>
     <string name="restore_succeed">Передача завершена</string>
     <string name="restart">Повтор</string>
     <string name="loading_file">Файл для загрузки</string>
@@ -217,4 +217,5 @@
     <string name="send_history_deleted">История удалена</string>
     <string name="not_support_this_type">Данный тип файла не поддерживается</string>
 	<string name="mishare_app_name">MiShare</string>
+	<string name="file_not_exist">Файл не существует</string>
 </resources>

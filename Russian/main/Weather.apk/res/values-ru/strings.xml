@@ -47,7 +47,7 @@
     <string name="menu_reload">Обновить</string>
     <string name="menu_reloading">Обновление…</string>
     <string name="menu_share">Поделиться</string>
-    <string name="menu_main">Основной</string>
+    <string name="menu_main">Индекс</string>
     <string name="menu_trend">График</string>
     <string name="menu_chart">Диаграмма</string>
     <string name="menu_settings">Настройки</string>
@@ -83,11 +83,11 @@
     <string name="tip_weather">Уведомления погоды MIUI</string>
     <string name="tip_weather_info_title_1">%1$s ожидаемая разница в температуре %2$d градусов</string>
     <string name="tip_weather_info_content_1">Выходя на улицу, одевайте подходящую одежду.</string>
-    <string name="tip_weather_info_title_2">%1$s температура сегодня примерно %2$s</string>
+    <string name="tip_weather_info_title_2">%1$s: %2$s</string>
     <string name="alert_provider_title">Уведомление о местоположении</string>
-    <string name="alert_provider_message">Необходимо разрешить опредедление местоположения по мобильной сети</string>
-    <string name="button_allow">Согласен</string>
-    <string name="button_not_allow">Не согласен</string>
+    <string name="alert_provider_message">Разрешить опредедление местоположения по мобильной сети?</string>
+    <string name="button_allow">ОК</string>
+    <string name="button_not_allow">Отмена</string>
     <string name="location_allow_err">Невозможно определить местоположение</string>
     <string name="format_date_wmd">d MMMM EEE</string>
     <string name="format_date_md">d MMMM kk:mm</string>
@@ -122,4 +122,16 @@
     <string name="share_choice_titile">Поделиться</string>
 	<string name="weather_unit_middle">" | "</string>
 	<string name="weather_unit_with_c">C</string>
+	<string name="network_unavailable">Ошибка подключения. Сеть недоступна.</string>
+	<string name="weather_data_unreachable">Невозможно получить данные погоды. Пожалуйста, попробуйте позже.</string>
+	<string name="gps_hint">Текущее местоположение</string>
+	<string name="edit_city">Изменить</string>
+	<string name="act_weather_cycle_no_forcast">Неизвестно</string>
+	<string name="button_abandon">Отменить изменения</string>
+	<string name="aqi_quality_index_break">Yikes!</string>
+	<string name="act_weather_find_city_net_no_good">Не удается подключиться к сети</string>
+    <string name="act_weather_find_city_click_retry">Повтор</string>
+	<string name="location_tag">Местоположение</string>
+    <string name="act_weather_find_city_no_result">Нет результатов</string>
+    <string name="act_weather_find_city_added">Город добавлен</string>
 </resources>

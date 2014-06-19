@@ -72,7 +72,7 @@
     <string name="version">Версия:</string>
     <string name="software_update">Обновление ПО</string>
     <string name="unknown_error">Неизвестная ошибка</string>
-    <string name="download_complete">Загрущка завершена</string>
+    <string name="download_complete">Загрузка завершена</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="install_complete">Установка завершена</string>
     <string name="install_failed">Ошибка установки</string>

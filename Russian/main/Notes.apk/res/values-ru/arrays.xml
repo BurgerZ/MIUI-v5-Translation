@@ -4,7 +4,7 @@
         <item>Имя</item>	
         <item>Ник</item>
         <item>Телефон</item>	
-        <item>E-mail</item>	
+        <item>Email</item>	
         <item>Организация</item>
         <item>IM</item>
         <item>Интернет-телефон</item>
@@ -14,9 +14,9 @@
         <item>Заметка</item>
      </string-array>
      <string-array name="font_size_names">
-        <item>Маленький</item>
+        <item>Мелкий</item>
+        <item>Нормальный</item>
         <item>Средний</item>
         <item>Большой</item>
-        <item>Огромный</item>
      </string-array>
 </resources>

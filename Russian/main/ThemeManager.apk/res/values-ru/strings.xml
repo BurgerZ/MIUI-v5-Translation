@@ -21,7 +21,7 @@
 	<string name="component_category_more_title">Дополнительные</string>
 	<string name="component_include_title">Компонентов: %1$s</string>
 	<string name="component_select_title">Выбрано компонентов: %1$s</string>
-	<string name="component_settings_title">Текущая тема</string>
+	<string name="component_settings_title">Настройки темы</string>
 	<string name="deleting">Удаление…</string>
 	<string name="description_author">Автор:</string>
 	<string name="description_designer">Дизайнер:</string>
@@ -98,7 +98,7 @@
 	<string name="resource_price_unit">MiCredits</string>
 	<string name="resource_ringtone_default">Мелодии</string>
 	<string name="resource_see_more">Подробнее</string>
-	<string name="resource_select">Выбрать</string>
+	<string name="resource_select">Применить</string>
 	<string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
 	<string name="resource_switch_account">Переключить</string>
 	<string name="resource_system_title">Системные</string>
@@ -119,7 +119,7 @@
 	<string name="theme_batch_updating_text">Тем обновляется: %1$d</string>
 	<string name="theme_changed_failed_message">Ошибка применения</string>
 	<string name="theme_changed_message">Применено</string>
-	<string name="theme_changing_dialog_title">Применение темы.\nПожалуйста, подождите…</string>
+	<string name="theme_changing_dialog_title">Применение темы…</string>
 	<string name="theme_component_title_alarm">Будильник</string>
 	<string name="theme_component_title_alarmstyle">Будильник</string>
 	<string name="theme_component_title_all">Темы</string>
@@ -132,11 +132,11 @@
 	<string name="theme_component_title_framework">Система</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
-	<string name="theme_component_title_lockstyle">Локскрин</string>
-	<string name="theme_component_title_lockwallpaper">Обои локскрина</string>
+	<string name="theme_component_title_lockstyle">Экран блокировки</string>
+	<string name="theme_component_title_lockwallpaper">Обои блокировки</string>
 	<string name="theme_component_title_miwallpaper">Mi-обои</string>
 	<string name="theme_component_title_mms">Сообщения</string>
-	<string name="theme_component_title_notification">Уведомл.</string>
+	<string name="theme_component_title_notification">Уведомления</string>
 	<string name="theme_component_title_others">Прочее</string>
 	<string name="theme_component_title_photo_frame">Фоторамка</string>
 	<string name="theme_component_title_ringtone">Мелодия</string>
@@ -188,7 +188,7 @@
 	<string name="wallpaper_set_as_destop">Применить на рабочий стол</string>
 	<string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
 	<string name="wallpaper_settings">Настройки обоев</string>
-	<string name="theme_batch_update_dlg_content_single">Обновить сейчас?</string>
+	<string name="theme_batch_update_dlg_content_single">Загрузить обновление?</string>
 	<string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
 	<string name="sdcard_not_mounted_dialog_title">SD-карта отсутствует</string>
     <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту. \n</string>
@@ -211,7 +211,7 @@
     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
     <string name="resource_detail_jump_to_online_title">Онлайн</string>
     <string name="resource_detail_jump_to_same_author_title">От автора</string>
-    <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
+    <string name="resource_detail_recommend_desiner_themes">Темы от %1$s</string>
     <string name="resource_share_title">Отправить</string>
     <string name="resource_share_subject">Отправить тему: %1$s</string>
     <string name="resource_share_text">Я отправил вам тему \"%1$s\". Скачать можно по ссылке: %2$s</string>
@@ -276,7 +276,7 @@
     <string name="resource_menu_refresh">Обновить</string>
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_user_know">ОК</string>
-    <string name="resource_hint">Сигнал</string>
+    <string name="resource_hint">Предупреждение</string>
     <string name="resource_ringtone_volume_mute">Звук отключен</string>
 	<string name="component_lockstyle_personal_title">Настройки</string>
 	<string name="resource_comment_version_name">(версия: %1$s)</string>
@@ -295,4 +295,23 @@
     <string name="resource_trial_end_message">Пробный период %1$s окончен. Если вам понравилось, вы можете приобрести полную версию.</string>
     <string name="resource_trial_end_restore">Отмена</string>
     <string name="resource_trial_end_purchase">Приобрести</string>
+	<string name="resource_delete">Удалить</string>
+	<string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
+    <string name="theme_yes">ОК</string>
+    <string name="theme_no">Отмена</string>
+	<string name="theme_fresh_man_notifaction">Доступны новые темы</string>
+	<string name="resource_allow">ОК</string>
+	<string name="resource_connect_network_message">Разрешить приложению доступ к сети?</string>
+	<string name="resource_connect_network_settings">Запрашивать доступ к сети</string>
+	<string name="resource_remind_another_time">Запомнить</string>
+	<string name="theme_user_agreement_allow">ОК</string>
+	<string name="theme_user_agreement_content1">"Прочтите перед использованием "</string>
+	<string name="theme_user_agreement_content2">Пользовательское соглашение</string>
+	<string name="theme_user_agreement_content3">" и "</string>
+	<string name="theme_user_agreement_content4">Политику безопасности</string>
+    <string name="theme_user_agreement_content5">.</string>
+	<string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
+    <string name="theme_user_agreement_remind_never">Запомнить</string>
+	<string name="theme_user_agreement_remind_summary">Запрос доступа к сети при каждом запуске приложения</string>
+	<string name="theme_user_agreement_title">Разрешить приложению доступ к сети?</string>
 </resources>

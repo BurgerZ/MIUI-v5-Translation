@@ -18,4 +18,8 @@
         <item>Эпизод</item>
         <item>Описание</item>
      </string-array>
+     <string-array name="addon_list_tabs">
+        <item>Все лучшие</item>
+        <item>Мои лучшие</item>
+     </string-array>
 </resources>

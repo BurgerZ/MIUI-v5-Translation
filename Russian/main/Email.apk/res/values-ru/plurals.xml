@@ -5,17 +5,17 @@
         <item quantity="one">Переместить сообщение</item>
     </plurals>
     <plurals name="notification_new_one_account_fmt">
-        <item quantity="other">Непрочитанных: %1$1$d (%2$2$s)</item>
-        <item quantity="one">Непрочитанных: %1$1$d (%2$2$s)</item>
-        <item quantity="few">Непрочитанных: %1$1$d (%2$2$s)</item>
+        <item quantity="other">Непрочитанных: %1$d (%2$s)</item>
+        <item quantity="one">Непрочитанных: %1$d (%2$s)</item>
+        <item quantity="few">Непрочитанных: %1$d (%2$s)</item>
     </plurals>
     <plurals name="notification_new_multi_account_fmt">
         <item quantity="other">в %d аккаунтах</item>
         <item quantity="few">в %d аккаунтах</item>
     </plurals>
     <plurals name="number_of_accounts">
-        <item quantity="other">Число аккаунтов: %1$d</item>
-        <item quantity="one">Число аккаунтов: %1$d</item>
+        <item quantity="other">Аккаунтов: %1$d</item>
+        <item quantity="one">Аккаунтов: %1$d</item>
     </plurals>
     <plurals name="picker_combined_view_account_count">
         <item quantity="other">Аккаунтов: %d</item>
@@ -38,8 +38,8 @@
         <item quantity="one">Сообщение удалено</item>
     </plurals>
     <plurals name="message_moved_toast">
-        <item quantity="other">%1$d сообщ. перемещено в папку %2$s</item>
-        <item quantity="one">Сообщение перемещено в папку %2$s</item>
+        <item quantity="other">Сообщений перемещено в %2$s: %1$d</item>
+        <item quantity="one">Сообщений перемещено в %2$s: %1$d</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d б</item>
@@ -58,7 +58,88 @@
         <item quantity="one">%d Гб</item>
     </plurals>
     <plurals name="gal_completed_fmt">
-        <item quantity="other">Результатов: %1$1$d с %2$2$s</item>
-        <item quantity="one">Результаты с %1$2$s (%2$1$d)</item>
+        <item quantity="other">Результатов: %1$d из %2$s</item>
+        <item quantity="one">Результатов: %1$d из %2$s</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: 1</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Переместить диалогов: %1$d</item>
+        <item quantity="one">Переместить диалог</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Черновики</item>
+        <item quantity="one">Черновик</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить диалоги? (%1$d)</item>
+        <item quantity="one">Удалить выбранный диалог?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Выбранные диалоги имеют общие вложения, удалить их все?</item>
+        <item quantity="one">Диалог имеет общие вложения, удалить их все?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Архивировать диалоги? (%1$d)</item>
+        <item quantity="one">Архивировать диалог?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Удалить черновики из диалогов? (%1$d)</item>
+        <item quantity="one">Удалить черновик из диалога?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Убрать диалоги из избранных? (%1$d)</item>
+        <item quantity="one">Убрать диалог из избранных? (%1$d)</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Диалогов с отключенными уведомлениями: %1$d</item>
+        <item quantity="one">Диалогов с отключенными уведомлениями: %1$d</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Помечены как спам: %1$d</item>
+        <item quantity="one">Помечены как спам: %1$d</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Убрано из спама: %1$d</item>
+        <item quantity="one">Убрано из спама: %1$d</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Помечены как неважные: %1$d</item>
+        <item quantity="one">Помечены как неважные: %1$d</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Помечены как мошенничество: %1$d</item>
+        <item quantity="one">Помечены как мошенничество: %1$d</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Архивировано: %1$d</item>
+        <item quantity="one">Архивировано: %1$d</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Удалено: %1$d</item>
+        <item quantity="one">Удалено: %1$d</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Папки изменены</item>
+        <item quantity="one">Папка изменена</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Новых сообщений: %1$d</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Старых сообщений: %1$d</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Непрочитанных: %1$d</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Сообщений будет удалено: %1$d</item>
+        <item quantity="one">Сообщений будет удалено: %1$d</item>
+    </plurals>
+	<plurals name="contact_num_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: 1</item>
     </plurals>
 </resources>

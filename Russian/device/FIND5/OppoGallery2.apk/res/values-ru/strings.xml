@@ -246,7 +246,7 @@
     <string name="show_on_map">Показать на карте</string>
     <string name="rotate_left">Повернуть налево</string>
     <string name="rotate_right">Повернуть направо</string>
-    <string name="no_such_item">Элемент не найден.</string>
+    <string name="no_such_item">Элемент не найден</string>
     <string name="edit">Редактировать</string>
     <string name="process_caching_requests">Обработка запросов на кэширование</string>
     <string name="caching_label">Кэширование…</string>
@@ -269,7 +269,7 @@
     <string name="appwidget_title">Фотогалерея</string>
     <string name="appwidget_empty_text">Нет фотографий</string>
     <string name="crop_saved">Обрезанное изображение сохранено в папке%s.</string>
-    <string name="no_albums_alert">Нет доступных альбомов.</string>
+    <string name="no_albums_alert">Нет доступных альбомов</string>
     <string name="empty_album">Нет фото/видео</string>
     <string name="picasa_posts">Записи</string>
     <string name="make_available_offline">Оффлайн-доступ</string>
@@ -371,8 +371,8 @@
     <string name="pause_all_tasks">Приостановить все задачи</string>
     <string name="clear_all_tasks">Очистить все задачи</string>
     <string name="continue_all_tasks">Продолжить все задачи</string>
-    <string name="network_not_contected_title">Нет сетевого подключения</string>
-    <string name="network_not_contected_msg">Нет подключения к сети, пожалуйста, подождите</string>
+    <string name="network_not_contected_title">Нет подключения к сети</string>
+    <string name="network_not_contected_msg">Поиск сети</string>
     <string name="network_not_contected_ok">ОК</string>
     <string name="wifi_not_contected_title">Не подключен Wi-Fi</string>
     <string name="wifi_not_contected_msg">Не обнаружено Wi-Fi подключение, возможно потребление большого объема GPRS трафика, продолжить?</string>

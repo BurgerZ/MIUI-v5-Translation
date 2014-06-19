@@ -242,7 +242,7 @@
 	<string name="station_check_favorite">Добавить в избранное</string>
     <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
     <string name="toast_fm_recorder_storage_full">Ошибка записи. Память заполнена.</string>
-    <string name="toast_fm_not_stated">Радио не указано</string>
+    <string name="toast_fm_not_stated">Радио не запущено</string>
 	<string name="record_completed">Запись завершена</string>
 	<string name="alert_title_input_station">Введите название станции</string>
 	<string name="cancel">Отмена</string>
@@ -279,4 +279,7 @@
 	<string name="station_name">Название станции</string>
 	<string name="toast_delete_station_fail">Ошибка удаления станции</string>
 	<string name="toast_edit_save_station_fail">Ошибка сохранения станции</string>
+	<string name="toast_fm_error_startfailed">Ошибка записи. Возможно, запись запущена в другом приложении.</string>
+    <string name="toast_fm_recorder_access_error">Невозможно записывать радио в режиме \"Гость\"</string>
+	<string name="msg_fm_starting">Запуск…</string>
 </resources>
