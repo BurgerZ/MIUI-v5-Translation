@@ -2,7 +2,11 @@
 <resources>
     <plurals name="move_messages">
         <item quantity="other">Переместить сообщения</item>
+		<item quantity="zero">Переместить сообщения</item>
         <item quantity="one">Переместить сообщение</item>
+        <item quantity="two">Переместить сообщения</item>
+        <item quantity="few">Переместить сообщения</item>
+        <item quantity="many">Переместить сообщения</item>
     </plurals>
     <plurals name="notification_new_one_account_fmt">
         <item quantity="other">Непрочитанных: %1$d (%2$s)</item>
@@ -43,19 +47,35 @@
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%d б</item>
+		<item quantity="zero">%d б</item>
         <item quantity="one">%d б</item>
+        <item quantity="two">%d б</item>
+        <item quantity="few">%d б</item>
+        <item quantity="many">%d б</item>
     </plurals>
     <plurals name="message_view_attachment_kilobytes">
         <item quantity="other">%d Кб</item>
+        <item quantity="zero">%d Кб</item>
         <item quantity="one">%d Кб</item>
+        <item quantity="two">%d Кб</item>
+        <item quantity="few">%d Кб</item>
+        <item quantity="many">%d Кб</item>
     </plurals>
     <plurals name="message_view_attachment_megabytes">
         <item quantity="other">%d Мб</item>
+        <item quantity="zero">%d Мб</item>
         <item quantity="one">%d Мб</item>
+        <item quantity="two">%d Мб</item>
+        <item quantity="few">%d Мб</item>
+        <item quantity="many">%d Мб</item>
     </plurals>
     <plurals name="message_view_attachment_gigabytes">
         <item quantity="other">%d Гб</item>
+        <item quantity="zero">%d Гб</item>
         <item quantity="one">%d Гб</item>
+        <item quantity="two">%d Гб</item>
+        <item quantity="few">%d Гб</item>
+        <item quantity="many">%d Гб</item>
     </plurals>
     <plurals name="gal_completed_fmt">
         <item quantity="other">Результатов: %1$d из %2$s</item>
@@ -63,11 +83,19 @@
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">Выбрано: %d</item>
+		<item quantity="zero">Выбрано: %d</item>
         <item quantity="one">Выбрано: 1</item>
+        <item quantity="two">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Переместить диалогов: %1$d</item>
+        <item quantity="other">Переместить диалоги (%1$d)</item>
+		<item quantity="zero">Переместить диалоги (%1$d)</item>
         <item quantity="one">Переместить диалог</item>
+        <item quantity="two">Переместить диалоги (%1$d)</item>
+        <item quantity="few">Переместить диалоги (%1$d)</item>
+        <item quantity="many">Переместить диалоги (%1$d)</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Черновики</item>
@@ -75,15 +103,27 @@
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Удалить диалоги? (%1$d)</item>
-        <item quantity="one">Удалить выбранный диалог?</item>
+		<item quantity="zero">Удалить диалоги? (%1$d)</item>
+		<item quantity="one">Удалить выбранный диалог?</item>
+        <item quantity="two">Удалить диалоги? (%1$d)</item>
+        <item quantity="few">Удалить диалоги? (%1$d)</item>
+        <item quantity="many">Удалить диалоги? (%1$d)</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Выбранные диалоги имеют общие вложения, удалить их все?</item>
-        <item quantity="one">Диалог имеет общие вложения, удалить их все?</item>
+		<item quantity="zero">Выбранные диалоги имеют общие вложения, удалить их все?</item>
+        <item quantity="one">Диалог имеет общие вложения, удалить его?</item>
+        <item quantity="two">Выбранные диалоги имеют общие вложения, удалить их все?</item>
+        <item quantity="few">Выбранные диалоги имеют общие вложения, удалить их все?</item>
+        <item quantity="many">Выбранные диалоги имеют общие вложения, удалить их все?</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Архивировать диалоги? (%1$d)</item>
+		<item quantity="zero">Архивировать диалоги? (%1$d)</item>
         <item quantity="one">Архивировать диалог?</item>
+        <item quantity="two">Архивировать диалоги? (%1$d)</item>
+        <item quantity="few">Архивировать диалоги? (%1$d)</item>
+        <item quantity="many">Архивировать диалоги? (%1$d)</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
         <item quantity="other">Удалить черновики из диалогов? (%1$d)</item>
@@ -127,19 +167,37 @@
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Новых сообщений: %1$d</item>
+		<item quantity="zero">Новых сообщений: %1$d</item>
+        <item quantity="one">Новых сообщений: %1$d</item>
+        <item quantity="two">Новых сообщений: %1$d</item>
+        <item quantity="few">Новых сообщений: %1$d</item>
+        <item quantity="many">Новых сообщений: %1$d</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">Старых сообщений: %1$d</item>
+		<item quantity="zero">Старых сообщений: %1$d</item>
+        <item quantity="one">Старых сообщений: %1$d</item>
+        <item quantity="two">Старых сообщений: %1$d</item>
+        <item quantity="few">Старых сообщений: %1$d</item>
+        <item quantity="many">Старых сообщений: %1$d</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">Непрочитанных: %1$d</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">Сообщений будет удалено: %1$d</item>
+		<item quantity="zero">Сообщений будет удалено: %1$d</item>
         <item quantity="one">Сообщений будет удалено: %1$d</item>
+        <item quantity="two">Сообщений будет удалено: %1$d</item>
+        <item quantity="few">Сообщений будет удалено: %1$d</item>
+        <item quantity="many">Сообщений будет удалено: %1$d</item>
     </plurals>
 	<plurals name="contact_num_selected">
         <item quantity="other">Выбрано: %d</item>
+		<item quantity="zero">Выбрано: %d</item>
         <item quantity="one">Выбрано: 1</item>
+        <item quantity="two">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
     </plurals>
 </resources>

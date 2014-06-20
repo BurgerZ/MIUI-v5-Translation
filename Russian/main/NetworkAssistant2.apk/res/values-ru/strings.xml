@@ -173,45 +173,43 @@
     <string name="network_assistant_upgraded_body">Нажмите для настройки</string>
 	<string name="pref_new_installed_preconfig_title">Настройки для новых приложений</string>
 	<string name="main_alert_message_slot_no_data_connection">Слот SIM-карты не поддерживает доступ в интернет</string>
-	<string name="datausage_purchase_backto_ns">返回网络助手</string>
-     <string name="datausage_purchase_banner_title">"%s超值流量套餐
-小米手机用户专享"</string>
-     <string name="datausage_purchase_buy">立刻购买</string>
-     <string name="datausage_purchase_confirm_tip">您选择购买：</string>
-     <string name="datausage_purchase_get_captcha">获取验证码(%d)</string>
-     <string name="datausage_purchase_get_captcha_again">重新获取验证码</string>
-     <string name="datausage_purchase_get_captcha_failed">获取验证码失败，请检查网络设置后重新获取验证码</string>
-     <string name="datausage_purchase_goto_monthsetting">立即修改套餐设置</string>
-     <string name="datausage_purchase_ordering">正在订购，请稍后...</string>
-     <string name="datausage_purchase_pay_captcha_hint">收到验证码后自动填写</string>
-     <string name="datausage_purchase_pay_captcha_tips">"收到验证码并自动填写后，点击“确认购买”会立即进行购买。
-验证码有效时间为10分钟。"</string>
-     <string name="datausage_purchase_pay_confirm">确认购买</string>
-     <string name="datausage_purchase_pay_hint">退订请拨打%s</string>
-     <string name="datausage_purchase_pkglist_networkerror">网络错误，请检查网络连接</string>
-     <string name="datausage_purchase_pkglist_nodata">"您当前的流量包与可订购流量包冲突，无法继续订购
-具体请咨询当地运营商"</string>
-     <string name="datausage_purchase_pkglist_servererror">服务器内部错误</string>
-     <string name="datausage_purchase_result_failed">"订购失败，请咨询当地运营商
-具体结果请以运营商短信为准"</string>
-     <string name="datausage_purchase_result_ok">"恭喜您成功订购%s
-具体结果请以运营商短信为准"</string>
-     <string name="datausage_purchase_title_confirm">流量包详情</string>
-     <string name="datausage_purchase_title_order">流量购买</string>
-     <string name="datausage_purchase_title_pkglist">流量购买</string>
-     <string name="datausage_purchase_view_detail">查看详情</string>
-	 <string name="traffic_config_alert_body">"向运营商查询得知:%s
-
-是否将您的套餐修改为运营商提供的数据？"</string>
-     <string name="traffic_config_alert_body_leisure">"
-您实际的闲时套餐为%1$s，与您设置的%2$s不符。"</string>
-     <string name="traffic_config_alert_body_leisure_notset">"
-您有%s的闲时套餐流量，目前您尚未开启闲时流量。"</string>
-     <string name="traffic_config_alert_body_normal">"
-您实际的日常套餐为%1$s，与您设置的%2$s不符。"</string>
-     <string name="traffic_config_alert_cancel">取消</string>
-     <string name="traffic_config_alert_nomore">不再提醒</string>
-     <string name="traffic_config_alert_ok">确定</string>
-     <string name="traffic_config_alert_setted">套餐设置成功</string>
-     <string name="traffic_config_alert_title">校正%s套餐信息</string>
+	<string name="spinner_title">%1$s - Мобильный интернет: %2$s</string>
+	<string name="traffic_config_alert_title">Разница: %s </string>
+    <string name="traffic_config_alert_ok">ОК</string>
+    <string name="traffic_config_alert_cancel">Отмена</string>
+    <string name="traffic_config_alert_nomore">Запомнить</string>
+    <string name="traffic_config_alert_body">"Данные мобильного оператора показывают, что трафика осталось: %s.
+Обновить локальные данные трафика?"</string>
+    <string name="traffic_config_alert_body_normal">"
+Данные мобильного оператора показывают, что трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
+    <string name="traffic_config_alert_body_leisure">"
+Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
+    <string name="traffic_config_alert_body_leisure_notset">"
+Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Локальный трафик не установлен."</string>
+    <string name="traffic_config_alert_setted">Ввести трафик</string>
+    <string name="dual_setting_simcard1">SIM 1</string>
+    <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="datausage_purchase_title_pkglist">Купить трафик</string>
+    <string name="datausage_purchase_title_confirm">Сведения о покупке</string>
+    <string name="datausage_purchase_title_order">Купить трафик</string>
+    <string name="datausage_purchase_banner_title">Трафик превышен %s</string>
+    <string name="datausage_purchase_view_detail">Показать сведения</string>
+    <string name="datausage_purchase_buy">Купить</string>
+    <string name="datausage_purchase_pay_confirm">Купить</string>
+    <string name="datausage_purchase_pay_hint">Отменить вызов %s</string>
+    <string name="datausage_purchase_pay_captcha_hint">Введите проверочный код</string>
+    <string name="datausage_purchase_pay_captcha_tips">"После ввода проверочного кода нажмите \"Купить\". Вы получите подтверждение в течение 10 минут."</string>
+    <string name="datausage_purchase_get_captcha">Получить код (%d)</string>
+    <string name="datausage_purchase_get_captcha_again">Повторить отправку</string>
+    <string name="datausage_purchase_get_captcha_failed">Не удается получить проверочный код. Проверьте параметры сети.</string>
+    <string name="datausage_purchase_confirm_tip">Заказ:</string>
+    <string name="datausage_purchase_ordering">Покупка…</string>
+    <string name="datausage_purchase_result_ok">"Вы приобрели %s
+Прочтите полученную SMS для получения подробной информации."</string>
+    <string name="datausage_purchase_result_failed">Не удается завершить покупку</string>
+    <string name="datausage_purchase_backto_ns">Назад</string>
+    <string name="datausage_purchase_goto_monthsetting">Изменить трафик</string>
+    <string name="datausage_purchase_pkglist_nodata">"Обнаружен конфликт вашего тарифного плана и текущего заказа. Обратитесь к мобильному оператору для выяснения информации."</string>
+    <string name="datausage_purchase_pkglist_networkerror">Сеть недоступна</string>
+    <string name="datausage_purchase_pkglist_servererror">Ошибка сервера</string>
 </resources>

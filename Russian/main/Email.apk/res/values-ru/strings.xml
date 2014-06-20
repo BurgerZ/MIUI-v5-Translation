@@ -977,4 +977,7 @@
     <string name="outbox_alert_mailbox_not_found">Адрес почты отсутствует</string>
 	<string name="imap_name">Почта (IMAP)</string>
     <string name="pop3_name">Почта (POP3)</string>
+	<string name="account_setup_incoming_mail_adress_label">Адрес почты</string>
+	<string name="account_setup_incoming_mail_domain_hint">По желанию</string>
+	<string name="account_setup_incoming_mail_domain_label">Домен</string>
 </resources>
