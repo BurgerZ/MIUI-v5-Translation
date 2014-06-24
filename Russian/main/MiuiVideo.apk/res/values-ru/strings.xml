@@ -276,7 +276,6 @@
     <string name="buffering_video_netplay_label_v5">Буферизация видео…</string>
     <string name="to_be_play_label_v5">Воспроизведение</string>
     <string name="episode_prefix" />
-    <string name="episode_suffix" />
     <string name="about_version_label">Версия</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">Xiaomi</string>
