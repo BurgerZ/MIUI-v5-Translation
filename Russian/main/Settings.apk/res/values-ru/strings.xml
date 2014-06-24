@@ -1256,7 +1256,7 @@
     <string name="manage_notification_access">Доступ к уведомлениям</string>
     <string name="manage_notification_access_summary_zero">Приложения не могут читать уведомления</string>
     <string name="no_notification_listeners">Приложения, требующие доступ к уведомлениям, не установлены.</string>
-    <string name="notification_listener_security_warning_title">Включить %1$s?</string>
+    <string name="notification_listener_security_warning_title">Включить \"%1$s\"?</string>
     <string name="notification_listener_security_warning_summary">Приложение \"%1$s\" будет иметь возможность читать и управлять всеми уведомлениями, которые могут содержать личные данные.</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_quick_toggle_summary">Включить Bluetooth</string>
