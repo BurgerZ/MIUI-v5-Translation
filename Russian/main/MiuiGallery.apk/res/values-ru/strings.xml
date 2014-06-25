@@ -83,9 +83,7 @@
 	<string name="confirm_delete">Удалить выбранное? \n\nФайлов: %s</string>
 	<string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы с изображениями? \n\nАльбомов: %s \nИзображений: %s</string>
 	<string name="confirm_delete_cloud_all_item_page" formatted="false">Удалить выбранные альбомы и изображения? \n\nИзображений:%s \nАльбомов: %s</string>
-	<string name="confirm_delete_pictures">Изображений: %s</string>
 	<string name="confirm_delete_system_album">Удалить системный альбом \"%s\"?</string>
-	<string name="confirm_delete_videos">Видео: %s</string>
 	<string name="contact_photo">Фото контакта</string>
 	<string name="context_menu_add_contact">Добавить в контакты</string>
 	<string name="context_menu_copy">Копировать</string>
@@ -492,8 +490,6 @@
     <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
     <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
     <string name="new_device_tips">Доступно новое устройство. Нажмите для просмотра.</string>
-	<string name="confirm_delete_this_picture">Удалить выбранное изображение?</string>
-    <string name="confirm_delete_this_video">Удалить выбранное видео?</string>
 	<string name="loading_members">Загрузка пользователей…</string>
 	<string name="loading_video">Загрузка видео…</string>
     <string name="loading_image">Загрузка фото…</string>
@@ -508,7 +504,6 @@
 	<string name="item_not_sync">Этот файл не был синхронизирован с облачным сервисом и не может быть загружен</string>
 	<string name="error_share_with_creator">Вы уже являетесь участником этого альбома</string>
 	<string name="yellow_page">Сервисы</string>
-	<string name="confirm_delete_home_merge_item">Удалить выбранные фото из памяти телефона и облака?\n\nФото: %s</string>
 	<string name="deselect_all">Снять выбор</string>
 	<string name="device_model">Устройство</string>
 	<string name="taken_time">Время съемки</string>
@@ -546,10 +541,10 @@
 	<string name="confirm_delete_init_title">Предупреждение</string>
 	<string name="skip_hide_special_album">Невозможно скрыть системные альбомы</string>
 	<string name="confirm_delete_home_merge_item">Удалить %s фото из памяти телефона и облака?</string>
-	<string name="confirm_delete_pictures">Удалить %s фото</string>
+	<string name="confirm_delete_pictures">Фото: %s</string>
 	<string name="confirm_delete_this_picture">Удалить выбранное фото?</string>
 	<string name="confirm_delete_this_video">Удалить выбранное видео?</string>
-	<string name="confirm_delete_videos">Удалить %s видео</string>
+	<string name="confirm_delete_videos">Видео: %s</string>
 	<string name="ubifocus_refocus_data_missing">Невозможно выполнить перефокусировку из-за утерянных данных</string>
 	<string name="ubifocus_refocus_download_tip">Загрузите данные перед перефокусировкой</string>
 	<string name="ubifocus_refocus_map_error">Невозможно выполнить перефокусировку из-за недействительных данных</string>
