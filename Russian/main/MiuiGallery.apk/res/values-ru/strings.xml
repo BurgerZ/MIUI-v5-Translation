@@ -532,4 +532,17 @@
 	<string name="item_not_sync_for_origin_video">Видео не было синхронизировано с облачным сервисом и не может быть загружено</string>
 	<string name="item_not_sync_for_refocus_data">Изображение не было синхронизировано с облачным сервисом и перефокусированные данные не могут быть загружены</string>
 	<string name="ubifocus_guide_text">Удерживайте 0.5 секунды для перефокусировки</string>
+	<string name="bigscreen_slide_playing">Слайдшоу воспроизводится на устройстве: %s</string>
+	<string name="confirm_delete_has_cloud_image">Удалить %s фото из облака?</string>
+	<string name="confirm_delete_has_cloud_image_video">Удалить выбранные файлы из облака? \n\nФайлов: %s</string>
+	<string name="confirm_delete_has_cloud_local_image">Удалить %s фото из памяти телефона и облака?</string>
+	<string name="confirm_delete_has_cloud_local_image_video">Удалить выбранные файлы из памяти телефона и облака? \n\nФайлов: %s</string>
+	<string name="confirm_delete_has_cloud_local_video">Удалить %s видео из памяти телефона и облака?</string>
+	<string name="confirm_delete_has_cloud_video">Удалить %s видео из облака?</string>
+	<string name="confirm_delete_has_local_image">Удалить %s фото?</string>
+	<string name="confirm_delete_has_local_image_video">Удалить выбранное? \n\nФайлов: %s</string>
+	<string name="confirm_delete_has_local_video">Удалить %s видео?</string>
+	<string name="confirm_delete_init_message">Файлы будут удалены из памяти телефона и облака. Если вы хотите удалить их только из памяти телефона, то удалите через локальные альбомы.</string>
+	<string name="confirm_delete_init_title">Предупреждение</string>
+	<string name="skip_hide_special_album">Невозможно скрыть системные альбомы</string>
 </resources>

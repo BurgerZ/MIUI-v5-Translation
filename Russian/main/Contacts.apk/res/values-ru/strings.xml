@@ -1113,4 +1113,5 @@
 	<string name="resource_connect_network_message">Разрешить приложению доступ к сети?</string>
 	<string name="resource_connect_network_settings">Запрашивать доступ к сети</string>
 	<string name="resource_remind_another_time">Запомнить</string>
+	<string name="yellowpage_navigation_network_location_enabled">Сервис активен. Отключить его можно в настройках местоположения.</string>
 </resources>

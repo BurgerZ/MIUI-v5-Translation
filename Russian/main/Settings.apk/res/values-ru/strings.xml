@@ -4352,4 +4352,10 @@
 	<string name="title_font">Шрифт</string>
 	<string name="title_font_current">Выбор шрифта</string>
 	<string name="use_network_warning">Сервисы Xiaomi запрашивают доступ к сети</string>
+	<string name="cta_button_text_agree">ОК</string>
+	<string name="cta_button_text_cancel">Отмена</string>
+	<string name="cta_checkbox_title">Запомнить</string>
+	<string name="cta_dialog_msg">Для использования некоторых сервисов приложения \"Безопасность\" требуется доступ к сети.</string>
+	<string name="cta_dialog_title">Разрешить приложению доступ к сети?</string>
+	<string name="cta_settings">Разрешить доступ к сети</string>
 </resources>

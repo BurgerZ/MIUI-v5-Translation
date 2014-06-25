@@ -207,4 +207,8 @@
     <string name="download_failed_file_exists">Файл уже существует</string>
     <string name="download_failed_space">Ошибка загрузки. Недостаточно свободного места.</string>
     <string name="download_failed_blocked">Ошибка загрузки. Невозможно подключиться к сети.</string>
+	<string name="notfiy_connect_title">Запрашивать доступ к сети</string>
+	<string name="notices_and_terms">Условия пользования</string>
+	<string name="notify_connect_summary">Запрос доступа к сети при каждом запуске сервисов</string>
+	<string name="turn_on_yellowpage_service_title">Включить сервисы</string>
 </resources>
