@@ -118,8 +118,8 @@
 	<string name="HIPS_Perm_Network_UnknownAddr">Неизвестный адрес</string>
 	<string name="HIPS_Perm_Network_WIFIEvent">использовать сеть Wi-Fi</string>
 	<string name="HIPS_Perm_PhoneID">Идентификаторы телефона</string>
-	<string name="HIPS_Perm_PhoneID_Desc">Доступ к идентификаторам телефона, включая IMEI, IMSI, и т.д.</string>
-	<string name="HIPS_Perm_PhoneID_Hint">Доступ к идентификаторам вашего телефона.</string>
+	<string name="HIPS_Perm_PhoneID_Desc">Доступ к идентификаторам телефона, включая IMEI и IMSI.</string>
+	<string name="HIPS_Perm_PhoneID_Hint">Доступ к идентификаторам вашего телефона</string>
 	<string name="HIPS_Perm_PhoneID_ICCID">получить доступ к серийному номеру SIM</string>
 	<string name="HIPS_Perm_PhoneID_IMEI">получить доступ к номеру IMEI</string>
 	<string name="HIPS_Perm_PhoneID_IMEISN">получить доступ к номеру IMEI/SN</string>
@@ -226,4 +226,19 @@
 	<string name="HIPS_Perm_DisableKeyguard">Разблокировка экрана</string>
     <string name="HIPS_Perm_DisableKeyguard_Desc">Разблокировка экрана</string>
     <string name="HIPS_Perm_DisableKeyguard_Hint">Доступ к разблокировке экрана</string>
+	<string name="HIPS_Perm_AutoStart">Автозапуск</string>
+	<string name="HIPS_Perm_AutoStart_Desc">Автозапуск</string>
+	<string name="HIPS_Perm_AutoStart_Hint">Разрешение на автоматический запуск</string>
+	<string name="HIPS_Perm_Calendar">Календарь</string>
+	<string name="HIPS_Perm_Calendar_Desc">Доступ к календарю</string>
+	<string name="HIPS_Perm_Calendar_Hint">Доступ к календарю</string>
+	<string name="HIPS_Perm_Notification">Уведомления</string>
+	<string name="HIPS_Perm_Notification_Desc">Доступ к уведомлениям</string>
+	<string name="HIPS_Perm_Notification_Hint">Доступ к уведомлениям в строке состояния</string>
+	<string name="HIPS_Perm_SystemAlert">Всплывающие окна</string>
+	<string name="HIPS_Perm_SystemAlert_Desc">Всплывающие окна</string>
+	<string name="HIPS_Perm_SystemAlert_Hint">Доступ к всплывающим окнам</string>
+	<string name="HIPS_Perm_Wakelock">Пробуждение устройства</string>
+	<string name="HIPS_Perm_Wakelock_Desc">Пробуждение устройства</string>
+	<string name="HIPS_Perm_Wakelock_Hint">Доступ к пробуждению устройства</string>
 </resources>

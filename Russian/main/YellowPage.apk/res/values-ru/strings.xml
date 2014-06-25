@@ -54,7 +54,7 @@
     <string name="turn_on_smart_antispam_title">Определение номеров</string>
     <string name="turn_on_smart_antispam_summary_on">Использовать онлайн базу данных.</string>
     <string name="turn_on_smart_antispam_summary_off">Использовать локальную базу данных.</string>
-    <string name="agree">Подтвердить</string>
+    <string name="agree">ОК</string>
     <string name="user_notice_identify_summary_format">Определение неизвестных номеров работает с помощью онлайн сервиса. \nПрочтите перед использованием: %1$s и %2$s</string>
     <string name="user_notice_yp_detail_summary_format">Принять условия пользования? \n\nИнформация будет загружена с помощью онлайн сервиса Xiaomi. \nПрочтите %1$s и %2$s</string>
     <string name="title_about_yellow_page">О программе</string>
@@ -90,7 +90,7 @@
     <string name="login_before_recharging">Необходимо авторизоваться перед пополнением.</string>
 	<string name="login_before_use">Необходимо авторизоваться перед использованием.</string>
     <string name="express_inquiry">Отслеживание</string>
-    <string name="express_inquiry_button_text">Трек</string>
+    <string name="express_inquiry_button_text">Отследить трек</string>
     <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
     <string name="express_inquiry_no_result">Нет результатов</string>
     <string name="express_inquiry_data_owner">Информация отслеживания предоставляется от %s</string>
@@ -162,8 +162,8 @@
     <string name="sina_share_fail">Ошибка отправки</string>
     <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
     <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
-	<string name="notify_connect_every_time">Спрашивать доступ сети каждый раз</string>
-    <string name="do_not_remind_me">Не напоминать</string>
+	<string name="notify_connect_every_time">Запрашивать доступ к сети</string>
+    <string name="do_not_remind_me">Запомнить</string>
 	<string name="recharge_phone_number_empty">Номер не может быть пустым</string>
 	<string name="downloading">Загрузка…</string>
     <string name="download_completed">Загрузка завершена</string>
@@ -210,5 +210,5 @@
 	<string name="notfiy_connect_title">Запрашивать доступ к сети</string>
 	<string name="notices_and_terms">Условия пользования</string>
 	<string name="notify_connect_summary">Запрос доступа к сети при каждом запуске сервисов</string>
-	<string name="turn_on_yellowpage_service_title">Включить сервисы</string>
+	<string name="turn_on_yellowpage_service_title">Предупреждение</string>
 </resources>

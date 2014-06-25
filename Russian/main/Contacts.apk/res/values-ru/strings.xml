@@ -1114,4 +1114,10 @@
 	<string name="resource_connect_network_settings">Запрашивать доступ к сети</string>
 	<string name="resource_remind_another_time">Запомнить</string>
 	<string name="yellowpage_navigation_network_location_enabled">Сервис активен. Отключить его можно в настройках местоположения.</string>
+	<string name="cta_notice_checkbox">Запомнить</string>
+	<string name="cta_notice_new_contact_message">Для сохранения контакта в аккаунте \"%s\" необходим доступ к сети</string>
+	<string name="cta_notice_ok">ОК</string>
+	<string name="cta_notice_photo_message">Для изменения фото контакта необходим доступ к сети</string>
+	<string name="cta_notice_settings">Запрашивать доступ к сети</string>
+	<string name="cta_notice_title">Разрешить доступ к сети?</string>
 </resources>

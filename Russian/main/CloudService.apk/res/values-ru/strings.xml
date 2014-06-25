@@ -2,7 +2,7 @@
 <resources>
 	<string name="app_name">Сервисы Xiaomi</string>
 	<string name="find_device">Найти устройство</string>
-	<string name="find_device_stop_noise">Нажмите \"ОК\" для выключения звука</string>
+	<string name="find_device_stop_noise">Выключить</string>
 	<string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе возможно чрезмерное потребление трафика.</string>
 	<string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
 	<string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>

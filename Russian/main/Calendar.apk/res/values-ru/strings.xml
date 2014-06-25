@@ -228,4 +228,9 @@
 	<string name="event_date_format">d MMMM</string>
     <string name="event_full_date_format">d MMMM yyyy</string>
 	<string name="pref_error_no_ringtone_select">Не выбрано</string>
+	<string name="cta_notice_checkbox">Запомнить</string>
+	<string name="cta_notice_message">Календарю необходим доступ к контактам для получения данных о днях рождения</string>
+	<string name="cta_notice_ok">ОК</string>
+	<string name="cta_notice_title">Разрешить доступ к контактам?</string>
+	<string name="cta_notify_settings">Запрашивать доступ к контактам</string>
 </resources>

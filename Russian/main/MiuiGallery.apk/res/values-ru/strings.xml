@@ -115,7 +115,7 @@
 	<string name="long_press_to_refocus">Нажмите и удерживайте для перефокусировки</string>
     <string name="ubifocus_data_missing">Часть данных утеряна</string>
     <string name="ubifocus_map_error">Часть данных недействительна</string>
-    <string name="ubifocus_refocus_fail_tip">Невозможно произвести перефокусировку. Часть данных утеряна или недействительна.</string>
+    <string name="ubifocus_refocus_fail_tip">Невозможно выполнить перефокусировку. Часть данных утеряна или недействительна.</string>
 	<string name="picker_tab_photo">Фото</string>
 	<string name="cloudfolder_name_reserved">Название альбома защищено</string>
     <string name="cloudfolder_contain_invalidate_char">Название не должно содержать \"%s\"</string>
@@ -534,15 +534,23 @@
 	<string name="ubifocus_guide_text">Удерживайте 0.5 секунды для перефокусировки</string>
 	<string name="bigscreen_slide_playing">Слайдшоу воспроизводится на устройстве: %s</string>
 	<string name="confirm_delete_has_cloud_image">Удалить %s фото из облака?</string>
-	<string name="confirm_delete_has_cloud_image_video">Удалить выбранные файлы из облака? \n\nФайлов: %s</string>
+	<string name="confirm_delete_has_cloud_image_video">Удалить выбранные файлы из облака? (%s)</string>
 	<string name="confirm_delete_has_cloud_local_image">Удалить %s фото из памяти телефона и облака?</string>
-	<string name="confirm_delete_has_cloud_local_image_video">Удалить выбранные файлы из памяти телефона и облака? \n\nФайлов: %s</string>
+	<string name="confirm_delete_has_cloud_local_image_video">Удалить выбранные файлы из памяти телефона и облака? (%s)</string>
 	<string name="confirm_delete_has_cloud_local_video">Удалить %s видео из памяти телефона и облака?</string>
 	<string name="confirm_delete_has_cloud_video">Удалить %s видео из облака?</string>
 	<string name="confirm_delete_has_local_image">Удалить %s фото?</string>
-	<string name="confirm_delete_has_local_image_video">Удалить выбранное? \n\nФайлов: %s</string>
+	<string name="confirm_delete_has_local_image_video">Удалить выбранные файлы? (%s)</string>
 	<string name="confirm_delete_has_local_video">Удалить %s видео?</string>
 	<string name="confirm_delete_init_message">Файлы будут удалены из памяти телефона и облака. Если вы хотите удалить их только из памяти телефона, то удалите через локальные альбомы.</string>
 	<string name="confirm_delete_init_title">Предупреждение</string>
 	<string name="skip_hide_special_album">Невозможно скрыть системные альбомы</string>
+	<string name="confirm_delete_home_merge_item">Удалить %s фото из памяти телефона и облака?</string>
+	<string name="confirm_delete_pictures">Удалить %s фото</string>
+	<string name="confirm_delete_this_picture">Удалить выбранное фото?</string>
+	<string name="confirm_delete_this_video">Удалить выбранное видео?</string>
+	<string name="confirm_delete_videos">Удалить %s видео</string>
+	<string name="ubifocus_refocus_data_missing">Невозможно выполнить перефокусировку из-за утерянных данных</string>
+	<string name="ubifocus_refocus_download_tip">Загрузите данные перед перефокусировкой</string>
+	<string name="ubifocus_refocus_map_error">Невозможно выполнить перефокусировку из-за недействительных данных</string>
 </resources>

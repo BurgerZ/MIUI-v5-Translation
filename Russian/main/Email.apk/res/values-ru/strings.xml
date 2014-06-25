@@ -845,7 +845,7 @@
     <string name="account_set_up_change_type_note">Для переключения аккаунта между POP3 и IMAP, необходимо удалить аккаунт инастроить его заново.</string>
     <string name="contact_list_title">Список контактов</string>
     <string name="contact_list_search_hint">Поиск контактов</string>
-    <string name="attachment_mgr_name">Вложение</string>
+    <string name="attachment_mgr_name">Вложения</string>
     <string name="download_confirm_title">Подтверждение загрузки</string>
     <string name="download_confirm_message">Чтобы открыть этот файл, необходимо скачать 180 Кб %1$s</string>
     <string name="downlaod_confirm_download">Загрузить</string>

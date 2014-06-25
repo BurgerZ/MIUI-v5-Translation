@@ -315,4 +315,9 @@
     <string name="share_box_receive">Принятые</string>
 	<string name="file_not_exist">Файл не существует</string>
 	<string name="open_file_failed">Не удалось открыть файл</string>
+	<string name="connect_network_setting_des">Запрашивать доступ к сети</string>
+	<string name="network_connect_confirm_des">Для использования облачного хранилища KuaiPan необходим доступ к сети</string>
+	<string name="never_notify_network_connect">Запомнить</string>
+	<string name="operation_agree">ОК</string>
+	<string name="system_alert">Разрешить доступ к сети?</string>
 </resources>
