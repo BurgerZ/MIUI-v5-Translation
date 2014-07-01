@@ -85,7 +85,7 @@
     <string name="tab_sms">Сообщения</string>
     <string name="tab_title">Черный список</string>
     <string name="toast_keyword_blank">Вы не ввели ключевые слова</string>
-    <string name="toast_keyword_exist">Ключевое слово \"%s\" уже существует</string>
+    <string name="toast_keyword_exist">Ключевое слово уже существует</string>
 	<string name="toast_keyword_invalid">Неверное ключевое слово</string>
 	<string name="menu_add_vip_custom">Добавить исключения</string>
 	<string name="quiet_mode">Не беспокоить</string>

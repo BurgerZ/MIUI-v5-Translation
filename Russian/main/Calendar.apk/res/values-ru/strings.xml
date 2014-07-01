@@ -100,7 +100,7 @@
 	<string name="modify_event">Изменить только это мероприятие</string>
 	<string name="month_view">Месяц</string>
 	<string name="monthly">Ежемесячно</string>
-	<string name="monthly_on_day">Ежемесячно (%s числа)</string>
+	<string name="monthly_on_day">Ежемесячно</string>
 	<string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
 	<string name="new_event_dialog_label">Новое мероприятие</string>
 	<string name="new_event_dialog_option">Новое мероприятие</string>

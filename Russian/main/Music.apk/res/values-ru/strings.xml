@@ -106,7 +106,7 @@
 	<string name="id3_edit_failed">Не удалось отредактировать ID3 теги. \nТрек защищен.</string>
 	<string name="id3_modify_confirm_check">Сохранить изменения</string>
 	<string name="id3_modify_confirm_text">Сохранить</string>
-	<string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Принять <a href="http://music.baidu.com/doc/agreement">пользовательское соглашение</a> и разрешить доступ к сети?</string>
+	<string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu. Принять <a href="http://music.baidu.com/doc/agreement">пользовательское соглашение</a> и разрешить доступ к сети?</string>
 	<string name="impunity_declaration_title">Предупреждение</string>
 	<string name="keep_quit_position_settings">Запоминать позицию</string>
 	<string name="keep_quit_position_summary">Автоматически переходить к недавно просмотренному экрану при запуске приложения</string>

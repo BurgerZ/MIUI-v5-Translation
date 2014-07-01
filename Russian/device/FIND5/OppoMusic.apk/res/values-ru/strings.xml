@@ -162,7 +162,7 @@
     <string name="lrc_searching">Поиск текстов песен…</string>
     <string name="lyric_open_other_connect">Загрузить тексты песен, используя мобильную сеть</string>
     <string name="impunity_declaration_title">Заявление</string>
-    <string name="impunity_declaration">Для прослушивания онлайн музыки используется сервис Baidu Online Music. Нажмите \"Подтвердить\", чтобы принять <a href="http://music.baidu.com/doc/agreement">правила использования</a> и продолжить.</string>
+    <string name="impunity_declaration">Для прослушивания онлайн музыки используется сервис Baidu. Нажмите \"Подтвердить\", чтобы принять <a href="http://music.baidu.com/doc/agreement">правила использования</a> и продолжить.</string>
     <string name="music_filter_helper">Чтобы спрятать файлы, которые не являются музыкой, был применен фильтр по размеру 800 Кб. Настройки фильтра могут быть изменены в меню Настройки / Фильтр файлов.</string>
     <string name="music_open_other_connect">Загрузка музыки через мобильную сеть</string>
     <string name="modify_meta">Изменить информацию о треке</string>

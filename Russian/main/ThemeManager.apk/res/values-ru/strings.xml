@@ -188,7 +188,7 @@
 	<string name="wallpaper_set_as_destop">Применить на рабочий стол</string>
 	<string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
 	<string name="wallpaper_settings">Настройки обоев</string>
-	<string name="theme_batch_update_dlg_content_single">Загрузить обновление?</string>
+	<string name="theme_batch_update_dlg_content_single">Обновить \"%1$s\"?</string>
 	<string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
 	<string name="sdcard_not_mounted_dialog_title">SD-карта отсутствует</string>
     <string name="sdcard_not_mounted_dialog_message">Вставьте SD-карту. \n</string>

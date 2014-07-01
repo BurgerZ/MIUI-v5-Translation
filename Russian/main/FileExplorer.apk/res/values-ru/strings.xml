@@ -315,6 +315,14 @@
     <string name="share_box_receive">Принятые</string>
 	<string name="file_not_exist">Файл не существует</string>
 	<string name="open_file_failed">Не удалось открыть файл</string>
+	<string name="byteShort">б</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="petabyteShort">Пб</string>
+    <string name="tab_sys_size">Общая память</string>
+    <string name="menu_list_name">Меню</string>
 	<string name="connect_network_setting_des">Запрашивать доступ к сети</string>
 	<string name="network_connect_confirm_des">Для использования облачного хранилища KuaiPan необходим доступ к сети</string>
 	<string name="never_notify_network_connect">Запомнить</string>

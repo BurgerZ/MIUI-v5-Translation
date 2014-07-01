@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JeejenMms</string>
+    <string name="wap_push_title">"[WAP Push] "</string>
+    <string name="message_queued">В данный момент не удается отправить сообщение. Оно будет отправлено автоматически, когда сервис будет доступен.</string>
+    <string name="download_later">Не удается загрузить. Попробуйте позже.</string>
+    <string name="invalid_destination">Некорректный адрес получателя</string>
+    <string name="service_network_problem">Не удается отправить сообщение. Проверьте параметры сети.</string>
+    <string name="service_message_not_found">Сообщение недействительно</string>
+    <string name="service_not_activated">Сервис не активирован в сети</string>
+    <string name="no_subject">(без темы)</string>
+    <string name="unknown_sender">Неизвестный отправитель</string>
+    <string name="dl_failure_notification">Не удалось загрузить сообщения: %1$s из %2$s</string>
+</resources>

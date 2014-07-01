@@ -349,7 +349,7 @@
 	<string name="emergency_broadcast_enable">Оповещения о чрезвычайных ситуациях включены</string>
 	<string name="emergency_call_area_code_edit_dialog_button_miui">Вызов</string>
 	<string name="emergency_call_area_code_edit_dialog_hint_miui">Введите код региона</string>
-	<string name="emergency_enable_radio_dialog_message">Включение радио…</string>
+	<string name="emergency_enable_radio_dialog_message">Включение мобильной сети…</string>
 	<string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение…</string>
 	<string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
 	<string name="empty_alert">Поле \"%s\" не может быть пустым</string>

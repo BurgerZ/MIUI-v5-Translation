@@ -4358,4 +4358,6 @@
 	<string name="cta_dialog_msg">Для использования некоторых сервисов приложения \"Безопасность\" требуется доступ к сети.</string>
 	<string name="cta_dialog_title">Разрешить приложению доступ к сети?</string>
 	<string name="cta_settings">Разрешить доступ к сети</string>
+	<string name="accessibility_service_no_apps_confirm">ОК</string>
+	<string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения.</string>
 </resources>
