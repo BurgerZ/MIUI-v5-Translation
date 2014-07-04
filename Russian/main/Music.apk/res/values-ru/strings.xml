@@ -351,7 +351,7 @@
 	<string name="download_finished">Загрузка завершена</string>
     <string name="higher_quality_music_summary">Загрузка музыки высокого качества</string>
     <string name="expired">Срок действия истек</string>
-    <string name="enabled">Включено</string>
+    <string name="enabled">ОК</string>
     <string name="valid_period">"Срок действия: "</string>
     <string name="vip_bought">Вы уже приобрели доступ к музыке высокого качества</string>
     <string name="vip_expired">Срок действия доступа к музыке высокого качества истек</string>
@@ -368,7 +368,7 @@
     <string name="collect_fm_success">Добавлено в избранное</string>
     <string name="uncollect_success">Удалено из избранного</string>
 	<string name="sync_alert_title">Синхронизация музыки</string>
-    <string name="sync_alert_message">Синхронизировать музыку с MiCloud</string>
+    <string name="sync_alert_message">Синхронизировать музыку с MiCloud?</string>
     <string name="not_now">Отмена</string>
     <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
     <string name="login_and_enable">Синхронизировать</string>

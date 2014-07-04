@@ -4,4 +4,8 @@
         <item quantity="other">Номеров: %d</item>
         <item quantity="one">Номеров: 1</item>
     </plurals>
+	<plurals name="more_coupons_count">
+        <item quantity="other">Купонов: %d</item>
+        <item quantity="one">Купонов: 1</item>
+	</plurals>
 </resources>

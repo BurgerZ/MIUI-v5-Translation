@@ -4360,4 +4360,5 @@
 	<string name="cta_settings">Разрешить доступ к сети</string>
 	<string name="accessibility_service_no_apps_confirm">ОК</string>
 	<string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения.</string>
+	<string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
 </resources>

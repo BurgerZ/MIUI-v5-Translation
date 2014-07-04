@@ -452,7 +452,7 @@
 	<string name="incall_error_emergency_only">Нет регистрации в сети</string>
 	<string name="incall_error_no_phone_number_supplied">Вызов недоступен. Номер телефона не указан.</string>
 	<string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
-	<string name="incall_error_power_off">Перед тем как звонить, отключите режим полета</string>
+	<string name="incall_error_power_off">Выключите режим полета перед совершением вызова</string>
 	<string name="incall_error_supp_service_conference">Не удается создать конференц-вызов</string>
 	<string name="incall_error_supp_service_hangup">Не удается разъединить абонентов</string>
 	<string name="incall_error_supp_service_reject">Невозможно отклонить вызов</string>

@@ -1128,7 +1128,7 @@
     <string name="shareactionprovider_share_with">Открыть доступ:</string>
     <string name="shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="short_format_month">%b</string>
-    <string name="shutdown_confirm">Телефон будет выключен.</string>
+    <string name="shutdown_confirm">Телефон будет выключен</string>
     <string name="shutdown_confirm_question">Выключить телефон?</string>
     <string name="shutdown_progress">Выключение…</string>
     <string name="restart_confirm">Телефон будет перезагружен</string>

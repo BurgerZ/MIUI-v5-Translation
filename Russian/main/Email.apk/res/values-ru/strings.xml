@@ -850,7 +850,7 @@
     <string name="download_confirm_message">Чтобы открыть этот файл, необходимо скачать 180 Кб %1$s</string>
     <string name="downlaod_confirm_download">Загрузить</string>
     <string name="download_cancel_confirm_title">Отменить загрузку?</string>
-    <string name="downlaod_cancel_confirm_download">Отменить загрузку</string>
+    <string name="downlaod_cancel_confirm_download">ОК</string>
     <string name="downlaod_cancel_continue_download">Отмена</string>
     <string name="menu_att_mgr">Вложения</string>
     <string name="menu_att_mgr_order_default">По умолчанию</string>

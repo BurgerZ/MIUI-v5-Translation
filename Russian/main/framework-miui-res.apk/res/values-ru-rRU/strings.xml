@@ -355,8 +355,8 @@
 	<string name="open_wifi_settings">Открытое подключение к сети</string>
 	<string name="payphone">Телефоный автомат</string>
 	<string name="peace_day">День памяти</string>
-	<string name="device_xiaomi">Телефон Xiaomi</string>
-	<string name="device_hongmi">Телефон Hongmi</string>
+	<string name="device_xiaomi">Mi-Phone</string>
+	<string name="device_hongmi">Hongmi</string>
 	<string name="perm_auto_backup">Автоматическое резервное копирование</string>
 	<string name="perm_data_update_dspt">Разрешить обновления данных</string>
 	<string name="perm_data_update_lab">Обновление данных</string>

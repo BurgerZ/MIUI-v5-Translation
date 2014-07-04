@@ -42,4 +42,14 @@
         <item>Автоматически получить шаблон сообщения</item>
         <item>Задать шаблон сообщения вручную</item>
     </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"по трафику 2G/3G "</item>
+        <item>"по трафику Wi-Fi "</item>
+        <item>"по сжатым данным "</item>
+    </string-array>
 </resources>
