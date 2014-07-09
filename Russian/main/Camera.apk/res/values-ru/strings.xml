@@ -653,6 +653,9 @@
 	<string name="ubifocus_capture_warning_message">Для получения лучшего качества фото используйте 2 объекта для фокусировки: первый расположите на расстоянии менее 1 метра от объектива, второй - вдали.</string>
 	<string name="pref_camera_auto_capture_when_stable_title">Автосъемка при фокусе</string>
 	<string name="ubi_focus_capture_fail">Ошибка съемки</string>
+<<<<<<< HEAD
 	<string name="simple_mode_button_text_4kuhd">Отключить режим 4K</string>
 	<string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
+=======
+>>>>>>> cdcaf73375f20cd630255de8c6d3ef0d0f7d32c0
 </resources>
