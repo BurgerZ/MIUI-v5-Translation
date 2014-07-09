@@ -837,4 +837,5 @@
     <string name="cloud_up_to_loading_tips">Синхронизировать</string>
     <string name="cloud_time_tips">Последняя синхронизация</string>
     <string name="cloud_no_new_data_toast">Нет новых данных</string>
+	<string name="enter_developer_mode">Режим разработчиков</string>
 </resources>

@@ -273,7 +273,7 @@
 	<string name="shake_degree_low">Низкая</string>
 	<string name="shake_settings">Встряхивание</string>
 	<string name="shake_summary">Встряхните устройство во время воспроизведения для перехода к следующему треку</string>
-	<string name="shake_while_screen_on_title">Только при активном экране</string>
+	<string name="shake_while_screen_on_title">Только при включенном экране</string>
 	<string name="shake_while_screen_on_title_summary">Переключение треков встряхиванием будет возможно только при включенном экране</string>
 	<string name="shuffle_all">Перемешать все</string>
 	<string name="sort_by_album">Альбомы</string>
@@ -351,7 +351,7 @@
 	<string name="download_finished">Загрузка завершена</string>
     <string name="higher_quality_music_summary">Загрузка музыки высокого качества</string>
     <string name="expired">Срок действия истек</string>
-    <string name="enabled">Включено</string>
+    <string name="enabled">ОК</string>
     <string name="valid_period">"Срок действия: "</string>
     <string name="vip_bought">Вы уже приобрели доступ к музыке высокого качества</string>
     <string name="vip_expired">Срок действия доступа к музыке высокого качества истек</string>
@@ -368,7 +368,7 @@
     <string name="collect_fm_success">Добавлено в избранное</string>
     <string name="uncollect_success">Удалено из избранного</string>
 	<string name="sync_alert_title">Синхронизация музыки</string>
-    <string name="sync_alert_message">Синхронизировать музыку с MiCloud</string>
+    <string name="sync_alert_message">Синхронизировать музыку с MiCloud?</string>
     <string name="not_now">Отмена</string>
     <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
     <string name="login_and_enable">Синхронизировать</string>
@@ -380,4 +380,6 @@
 	<string name="impunity_declaration_settings">Запрашивать доступ к сети</string>
 	<string name="impunity_declaration_summary">Запрос доступа к сети при каждом запуске проигрывателя</string>
 	<string name="take_effect_afater_restart">Для применения данной функции необходимо перезапустить проигрыватель</string>
+	<string name="priority_storage">Загрузка во внешний накопитель</string>
+	<string name="priority_storage_summary">Загружать музыку во внешний накопитель, когда он подключен.</string>
 </resources>

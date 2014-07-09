@@ -201,7 +201,7 @@
     <string name="pref_camera_denoise_title">Устранение шумов</string>
 	<string name="pref_camera_denoise_entry_off">Выключено</string>
     <string name="pref_camera_denoise_entry_on">Включено</string>
-    <string name="pref_camera_iso_title">Светочувствительность ISO</string>
+    <string name="pref_camera_iso_title">Светочувствительность</string>
     <string name="pref_camera_iso_entry_auto">Авто</string>
     <string name="pref_camera_preview_entry_off">Выключено</string>
     <string name="pref_camera_preview_entry_1000">1 секунда</string>
@@ -647,9 +647,12 @@
 	<string name="pref_video_fast_speed_title_simple_mode">Скорость съемки</string>
 	<string name="simple_mode_button_text_fast_video">Выйти</string>
 	<string name="toast_cannot_preview_image_when_screen_locked">Невозможно просматривать фото или видео, когда экран заблокирован.</string>
-	<string name="pref_video_quality_entry_4kuhd">Ultra HD</string>
+	<string name="pref_video_quality_entry_4kuhd">4K</string>
 	<string name="object_track_enable_toast">Проведите по окну предварительного просмотра, чтобы включить отслеживание объекта.</string>
 	<string name="cannot_move_warning_message">При съемке не двигайте устройство</string>
 	<string name="ubifocus_capture_warning_message">Для получения лучшего качества фото используйте 2 объекта для фокусировки: первый расположите на расстоянии менее 1 метра от объектива, второй - вдали.</string>
 	<string name="pref_camera_auto_capture_when_stable_title">Автосъемка при фокусе</string>
+	<string name="ubi_focus_capture_fail">Ошибка съемки</string>
+	<string name="simple_mode_button_text_4kuhd">Отключить режим 4K</string>
+	<string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
 </resources>

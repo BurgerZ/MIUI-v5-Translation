@@ -28,7 +28,7 @@
 	<string name="checking_account">Проверка аккаунта…</string>
 	<string name="cmcc_data_sync_notice">Используйте аккаунт Xiaomi для синхронизации сообщений, контактов и других данных. Также наслаждайтесь возможностями облачных сервисов.</string>
 	<string name="cmcc_micloud_dspt">Облачные сервисы позволяют синхронизировать данные, следить за местоположением телефона, управлять данными с компьютера в любое время.</string>
-	<string name="completed">Завершено</string>
+	<string name="completed">Готово</string>
 	<string name="confirm">ОК</string>
 	<string name="data_keep_in_phone">Оставить в телефоне</string>
 	<string name="data_sync_notice">Аккаунт Xiaomi позволяет синхронизировать контакты, сообщения, и другие данные с MiCloud.</string>
@@ -77,7 +77,7 @@
 	<string name="micloud_activing_account">Активация аккаунта</string>
 	<string name="micloud_activing_account_delayed">До завершения активации осталось около 30 секунд.</string>
 	<string name="micloud_activing_account_failed">Ошибка активации</string>
-	<string name="micloud_click_email">Нажмите на ссылку в письме активации для активации аккаунта Xiaomi</string>
+	<string name="micloud_click_email">Перейдите по данной ссылке для активации аккаунта Xiaomi</string>
 	<string name="micloud_click_email_to_valid">Нажмите на ссылку активации в почтовом ящике</string>
 	<string name="micloud_delete_account">Удалить аккаунт</string>
 	<string name="micloud_email">Почта</string>
@@ -515,4 +515,5 @@
     <string name="sync_sub_2_intl_sms">Для активации SIM-карт будут отправлены две международные SMS</string>
     <string name="sync_sub_1_sms_1_intl_sms">Для активации SIM-карт будeт отправлена одна международная и одна обычная SMS</string>
 	<string name="error_device_id">Не удается получить IMEI</string>
+	<string name="bank_cards">Банковские карты</string>
 </resources>

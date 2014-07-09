@@ -909,8 +909,8 @@
     <string name="header_category_device">Параметры устройства</string>
     <string name="header_category_personal">Персонализация</string>
     <string name="header_category_system">Параметры системы</string>
-    <string name="turn_on_radio">Включить радио</string>
-    <string name="turn_off_radio">Отключить радио</string>
+    <string name="turn_on_radio">Включить модем</string>
+    <string name="turn_off_radio">Отключить модем</string>
     <string name="sms_over_ims_on">Включить SMS через IMS</string>
     <string name="sms_over_ims_off">Отключить SMS через IMS</string>
     <string name="ims_reg_required_on">Обязательная регистрация IMS включена</string>
@@ -924,7 +924,7 @@
     <string name="radioInfo_service_in">В зоне обслуживания</string>
     <string name="radioInfo_service_out">Вне зоны обслуживания</string>
     <string name="radioInfo_service_emergency">Только экстренные вызовы</string>
-    <string name="radioInfo_service_off">Радио отключено</string>
+    <string name="radioInfo_service_off">Модем отключен</string>
     <string name="radioInfo_roaming_in">Роуминг</string>
     <string name="radioInfo_roaming_not">Отключен</string>
     <string name="radioInfo_phone_idle">Не работает</string>
@@ -4360,4 +4360,5 @@
 	<string name="cta_settings">Разрешить доступ к сети</string>
 	<string name="accessibility_service_no_apps_confirm">ОК</string>
 	<string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения.</string>
+	<string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
 </resources>

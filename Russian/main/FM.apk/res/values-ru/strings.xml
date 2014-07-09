@@ -25,7 +25,6 @@
     <string name="station_name_already_used">Такое имя уже используется. Пожалуйста, выберите другое название станции.</string>
     <string name="stations_list">Список радиостанций</string>
     <string name="stations_list_empty">Список пуст</string>
-    <string name="toast_delete_station">%sМГц удалена</string>
     <string name="toast_edit_station">Изменения сохранены</string>
     <string name="toast_save_station">%sМГц сохранена</string>
 	<string name="menu_edit">Редактировать</string>
@@ -149,7 +148,6 @@
     <string name="toast_added_to_presets">Добавлено в избранное</string>
     <string name="toast_removed_from_presets">Удалено из избранного</string>
     <string name="toast_fm_starting">Радио запускается…</string>
-    <string name="toast_fm_stoping">Радио выключается…</string>
     <string name="toast_fm_seeking">Поиск станции…</string>
 	<string name="favorite_manager">Список станций</string>
     <string name="add_to_favorite">Добавить в избранное</string>
@@ -282,4 +280,6 @@
 	<string name="toast_fm_error_startfailed">Ошибка записи. Возможно, запись запущена в другом приложении.</string>
     <string name="toast_fm_recorder_access_error">Невозможно записывать радио в режиме \"Гость\"</string>
 	<string name="msg_fm_starting">Запуск…</string>
+	<string name="toast_delete_station">Станция %sМГц удалена</string>
+	<string name="toast_fm_stoping">Выключение…</string>
 </resources>
