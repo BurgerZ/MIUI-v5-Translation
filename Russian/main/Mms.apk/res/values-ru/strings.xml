@@ -420,8 +420,8 @@
 	<string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
 	<string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>
 	<string name="too_many_unsent_mms">Не удалось отправить сообщение. Слишком много неотправленных MMS.</string>
-	<string name="try_to_send">Попытаться отправить</string>
-	<string name="type_attachment">Прикрепление</string>
+	<string name="try_to_send">Продолжить отправку</string>
+	<string name="type_attachment">Вложение</string>
 	<string name="type_audio">Аудиозапись</string>
 	<string name="type_picture">Изображение</string>
 	<string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
@@ -483,4 +483,9 @@
     <string name="send_message_notification_tickerText">Запрос разрешения управления устройством</string>
     <string name="send_message_notification_title">Управление устройством</string>
     <string name="send_message_notification_msg">Управление устройством запрашивает разрешение на отправку сообщения</string>
+	<string name="hms_first_use_tips">Для получения сервисных сообщений необходимо подключение к сети Wi-Fi</string>
+	<string name="retrive_hms_tips">Получение…</string>
+	<string name="send_hms_editor_hints">Облачное сообщение</string>
+	<string name="view_hms_details">Информация</string>
+	<string name="xiaomi_service_number">Сервисный номер</string>
 </resources>

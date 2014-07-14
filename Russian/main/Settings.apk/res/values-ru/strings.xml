@@ -1612,8 +1612,8 @@
     <string name="title_font_size">Размер шрифта</string>
     <string name="dialog_title_font_size">Размер шрифта</string>
     <string name="sim_lock_settings">Блокировка SIM-карты</string>
-    <string name="sim_lock_settings_category">Настроить блокировку SIM-карты</string>
-    <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
+    <string name="sim_lock_settings_category">Блокировка SIM-карты</string>
+    <string name="sim_lock_settings_title">Защита SIM-карта</string>
     <string name="sim_pin_toggle">Запрашивать PIN-код</string>
     <string name="sim_lock_on">Для использования телефона необходим PIN-код</string>
     <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN-код</string>
@@ -1621,7 +1621,7 @@
     <string name="sim_enter_pin">PIN-код SIM-карты</string>
     <string name="sim_enable_sim_lock">Блокировка SIM-карты</string>
     <string name="sim_disable_sim_lock">Разблокировать SIM-карту</string>
-    <string name="sim_enter_old">Прежний PIN-код SIM-карты</string>
+    <string name="sim_enter_old">Текущий PIN SIM-карты</string>
     <string name="sim_enter_new">Новый PIN SIM-карты</string>
     <string name="sim_reenter_new">Введите новый PIN повторно</string>
     <string name="sim_change_pin">PIN-код SIM-карты</string>
@@ -2806,7 +2806,7 @@
     <string name="privacy_protect_title">Защита</string>
     <string name="privacy_mode_enable_title">Режим \"Гость\"</string>
     <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую личную информацию.</string>
-    <string name="ac_enable_title">Разрешения</string>
+    <string name="ac_enable_title">Защита</string>
     <string name="ac_set_apps_title">Защита приложений</string>
     <string name="ac_privacy_mode_title">Пароль</string>
     <string name="ac_privacy_mode_sum">Для отключения режима \"Гость\" потребуется ввести пароль</string>
