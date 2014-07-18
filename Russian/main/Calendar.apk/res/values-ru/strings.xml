@@ -233,4 +233,7 @@
 	<string name="cta_notice_ok">ОК</string>
 	<string name="cta_notice_title">Разрешить доступ к контактам?</string>
 	<string name="cta_notify_settings">Запрашивать доступ к контактам</string>
+	<string name="alarm_label">ОК</string>
+	<string name="button_week">Н</string>
+	<string name="week_view_today_toast">Уже выбрана текущая неделя</string>
 </resources>

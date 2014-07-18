@@ -1572,4 +1572,9 @@
     <string name="call_type_title">Тип вызова IMS</string>
     <string name="default_ims_call_type">Голос</string>
 	<string name="phone_info_divider">" | "</string>
+	<string name="ivr_menu_dialing_msg">Переадресация…</string>
+	<string name="ivr_menu_list_title">Голосовое меню</string>
+	<string name="non_ivr_menu_collapse_menu">Свернуть меню</string>
+	<string name="non_ivr_menu_view_menu">Показать меню</string>
+	<string name="ivr_menu_list_sub_menu_count_format">Нажмите %s</string>
 </resources>

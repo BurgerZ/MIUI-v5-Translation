@@ -8,7 +8,6 @@
     <string-array name="power_mode_entries">
         <item>Производительный</item>
         <item>Сбалансированный</item>
-        <item>Энергосберегающий</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Через 1 минуту</item>
@@ -675,4 +674,8 @@
         <item>низкий</item>
         <item>критический</item>
     </string-array>
+	<string-array name="priority_storage_entries">
+		<item>Внутренняя память</item>
+		<item>Внешняя память</item>
+	</string-array>
 </resources>

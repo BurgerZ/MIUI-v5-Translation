@@ -847,4 +847,7 @@
 	<string name="pref_clear_adblock_statistics">Очистить статистику</string>
 	<string name="pref_clear_adblock_statistics_dlg">Очистить статистику блокировки рекламы?</string>
 	<string name="pref_enable_adblock_notification">Уведомления блокировки</string>
+	<string name="close_cloud_tab_tip">Закрыть облачные вкладки на %s?</string>
+	<string name="cloud_sync_closed_toast">Не удается обновить, синхронизация отключена.</string>
+	<string name="cloud_sync_failed_toast">Ошибка обновления</string>
 </resources>

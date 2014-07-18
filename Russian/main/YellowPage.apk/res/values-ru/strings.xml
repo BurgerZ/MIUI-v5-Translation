@@ -166,7 +166,7 @@
     <string name="do_not_remind_me">Запомнить</string>
 	<string name="recharge_phone_number_empty">Номер не может быть пустым</string>
 	<string name="downloading">Загрузка…</string>
-    <string name="download_completed">Загрузка завершена</string>
+    <string name="download_completed">Загрузка завершена (%s)</string>
 	<string name="express_sender">Отправитель</string>
     <string name="express_sender_info">Инфoрмация об отправителе</string>
     <string name="express_addressee">Получатель</string>
@@ -311,4 +311,8 @@
 	<string name="added_to_favorite">Добавлено</string>
 	<string name="remove_from_favorite">Удалить из избранного</string>
 	<string name="removed_from_favorite">Удалено</string>
+	<string name="dont_enable">Отмена</string>
+	<string name="enable_now">Включить</string>
+	<string name="express_inquiry_provider_info">Поддержка:</string>
+	<string name="group_name_more">Прочее</string>
 </resources>

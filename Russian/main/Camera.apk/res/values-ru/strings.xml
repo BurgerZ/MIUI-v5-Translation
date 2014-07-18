@@ -644,8 +644,8 @@
     <string name="not_enable_feature">Отмена</string>
 	<string name="pref_camera_auto_chroma_flash_title">Авто ChromaFlash</string>
 	<string name="pref_touch_down_capture_title">Нажмите для съемки</string>
-	<string name="pref_video_fast_speed_title_simple_mode">Скорость съемки</string>
-	<string name="simple_mode_button_text_fast_video">Выйти</string>
+	<string name="pref_video_fast_speed_title_simple_mode">Скорость</string>
+	<string name="simple_mode_button_text_fast_video">Отключить скоростную съемку</string>
 	<string name="toast_cannot_preview_image_when_screen_locked">Невозможно просматривать фото или видео, когда экран заблокирован.</string>
 	<string name="pref_video_quality_entry_4kuhd">4K</string>
 	<string name="object_track_enable_toast">Проведите по окну предварительного просмотра, чтобы включить отслеживание объекта.</string>
@@ -657,4 +657,6 @@
 	<string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
 	<string name="pref_camera_countdown_title">Таймер</string>
 	<string name="simple_mode_button_text_countdown">Выключить таймер</string>
+	<string name="burst_shoot_exit_button_text">Отключить серийную съемку</string>
+	<string name="pref_burst_shoot_title">Серийная съемка</string>
 </resources>

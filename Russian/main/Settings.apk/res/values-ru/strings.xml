@@ -1932,9 +1932,15 @@
     <string name="show_background_processes">Показать процессы в кэше</string>
     <string name="reset_app_preferences">Сброс настроек приложений</string>
     <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
-    <string name="reset_app_preferences_desc">"Это сбросит все настройки для:
+    <string name="reset_app_preferences_desc">"Будут сброшены следующие настройки:
 
-"</string>
+ "<li>Отключенные приложения</li>"
+ "<li>Уведомления приложений</li>"
+ "<li>Приложения по умолчанию</li>"
+ "<li>Ограничение фоновых приложений</li>"
+ "<li>Некоторые разрешения приложений</li>"
+
+ Данные приложений будут сохранены."</string>
     <string name="reset_app_preferences_button">Сброс настроек</string>
     <string name="manage_space_text">Управление местом</string>
     <string name="filter">Фильтр</string>
@@ -4361,4 +4367,11 @@
 	<string name="accessibility_service_no_apps_confirm">ОК</string>
 	<string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения.</string>
 	<string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
+	<string name="priority_storage_app_settings">Данные будут сохранены во %1$s</string>
+	<string name="priority_storage_settings_summary">Когда SD-карта не подключена, данные будут автоматически сохраняться во внутреннюю память устройства.</string>
+	<string name="priority_storage_summary">Выберите память по умолчанию для сохранения данных</string>
+	<string name="priority_storage_title">Настройки памяти</string>
+	<string name="high_performance_notif_summary">Высокое потребление батареи</string>
+	<string name="high_performance_notif_title">Режим производительности активен</string>
+	<string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса и получения лучшего результата в бенчмарках</string>
 </resources>
