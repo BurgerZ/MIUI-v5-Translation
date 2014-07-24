@@ -1,0 +1,8 @@
+  <?xml version="1.0" encoding="utf-8" ?> 
+- <resources>
+  <string name="app_name">Настройки Samsung</string> 
+  <string name="power_saver">Энергосбережение</string> 
+  <string name="display">Дисплей</string> 
+  <string name="smart_screen">Умный экран</string> 
+  <string name="spen">Перо S Pen</string>
+  </resources>
