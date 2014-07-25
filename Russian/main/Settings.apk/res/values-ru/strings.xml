@@ -624,7 +624,7 @@
     <string name="mms_log_tab_title">Сообщения</string>
     <string name="fw_blacklist">Черный список</string>
     <string name="fw_whitelist">Белый список</string>
-    <string name="enable_firewall">Блокировка нежелательных звонков</string>
+    <string name="enable_firewall">Блокировка нежелательных вызовов</string>
     <string name="fw_action_settings">Настройка фильтров</string>
     <string name="fw_time_settings">Расписание</string>
     <string name="fw_start_time">Начало</string>
@@ -4373,5 +4373,6 @@
 	<string name="priority_storage_title">Настройки памяти</string>
 	<string name="high_performance_notif_summary">Высокое потребление батареи</string>
 	<string name="high_performance_notif_title">Режим производительности активен</string>
-	<string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса и получения лучшего результата в бенчмарках</string>
+	<string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса</string>
+	<string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
 </resources>

@@ -1124,4 +1124,5 @@
 	<string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
 	<string name="yellowpage_navigation_send_to_desktop_failed">Ошибка загрузки. Проверьте параметры сети.</string>
 	<string name="yellowpage_user_profile">Профиль</string>
+	<string name="yellowpage_navigation_search_result_average_price">В среднем %d RMB</string>
 </resources>

@@ -343,7 +343,7 @@
 	<string name="dtmf_tones_title_miui">Тон DTMF</string>
 	<string name="dtmf_tones_title">Тон DTMF</string>
 	<string name="edit_custom_location_title_miui">Настройки местоположения</string>
-	<string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
+	<string name="edit_fdn_contact">Изменить номер фиксированного набора</string>
 	<string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
 	<string name="emergency_broadcast_disable">Оповещения о чрезвычайных ситуациях отключены</string>
 	<string name="emergency_broadcast_enable">Оповещения о чрезвычайных ситуациях включены</string>
@@ -377,8 +377,8 @@
 	<string name="enable_disable_retail_directory">Торговый каталог</string>
 	<string name="enable_disable_stock_quotes">Котировки ценных бумаг</string>
 	<string name="enable_disable_technology_news">Новости технологий</string>
-	<string name="enable_fdn">Включить разрешенные номера</string>
-	<string name="enable_fdn_ok">Отключить разрешенные номера</string>
+	<string name="enable_fdn">Включить фиксированный набор</string>
+	<string name="enable_fdn_ok">Отключить фиксированный набор</string>
 	<string name="enable_in_progress">Подождите…</string>
 	<string name="enable_miui">Включить</string>
 	<string name="enable_pin">Включить/отключить запрос PIN SIM-карты</string>
@@ -406,16 +406,16 @@
 	<string name="fdn_activation">Активация фиксированных номеров</string>
 	<string name="fdn_change_pin_sum_miui">Изменение PIN для доступа к фиксированному набору</string>
 	<string name="fdn_check_failure">Включена функция набора фиксированных номеров. В результате чего, некоторые функции, связанные с вызовом могут не работать.</string>
-	<string name="fdn_contact_added">Номер ограниченного набора добавлен</string>
-	<string name="fdn_contact_deleted">Номер ограниченного набора удален</string>
-	<string name="fdn_contact_updated">Номер ограниченного набора обновлен</string>
+	<string name="fdn_contact_added">Номер фиксированного набора добавлен</string>
+	<string name="fdn_contact_deleted">Номер фиксированного набора удален</string>
+	<string name="fdn_contact_updated">Номер фиксированного набора обновлен</string>
 	<string name="fdn_disabled">Фиксированный набор отключен</string>
 	<string name="fdn_disabled_miui">Фиксированный набор отключен</string>
-	<string name="fdn_enable_puk2_requested">Неверный пароль. Измените код PIN2 и повторите попытку</string>
+	<string name="fdn_enable_puk2_requested">Неверный пароль. Измените код PIN2 и повторите попытку.</string>
 	<string name="fdn_enable_puk2_requested_miui">PIN2 заблокирован</string>
 	<string name="fdn_enabled">Фиксированный набор включен</string>
 	<string name="fdn_enabled_miui">Фиксированный набор включен</string>
-	<string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр</string>
+	<string name="fdn_invalid_number">Номер фиксированного набора не обновлен. Он не должен содержать не менее 20 цифр.</string>
 	<string name="fdn_miui">Фиксированный набор</string>
 	<string name="fdn_summary_miui">Разрешить совершать исходящие вызовы только на номера из списка фиксированного набора</string>
 	<string name="fw_change_failed">Не удалось изменить номер переадресации вызовов.\nЕсли проблема не будет решена, свяжитесь со своим оператором</string>
@@ -516,7 +516,7 @@
 	<string name="maintenance_disable">Поддержка отключена</string>
 	<string name="maintenance_enable">Поддержка включена</string>
 	<string name="manageConferenceLabel">Управление конференц-связью</string>
-	<string name="manage_fdn_list">Разрешенные номера</string>
+	<string name="manage_fdn_list">Фиксированный набор</string>
 	<string name="manage_fdn_list_miui">Список номеров</string>
 	<string name="manage_fdn_list_sum_miui">Управление списком номеров фиксированного набора</string>
 	<string name="menu_add">Добавить контакт</string>
@@ -904,9 +904,9 @@
 	<string name="sum_cw_disabled">Уведомление о входящих вызовах во время разговора</string>
 	<string name="sum_cw_enabled">Уведомление о входящих вызовах во время разговора</string>
 	<string name="sum_default_caller_id">Использовать настройки оператора сети для отображения моего номера в исходящих вызовах</string>
-	<string name="sum_fdn">Управление списком разрешенных номеров</string>
+	<string name="sum_fdn">Управление списком фиксированного набора</string>
 	<string name="sum_fdn_change_pin">Изменить PIN для доступа к списку номеров фиксированного набора</string>
-	<string name="sum_fdn_manage_list">Управление списком разрешенных номеров</string>
+	<string name="sum_fdn_manage_list">Управление списком фиксированного набора</string>
 	<string name="sum_gsm_call_settings">Дополнительные настройки только для вызовов GSM</string>
 	<string name="sum_hide_caller_id">Количество скрытых в исходящих звонках</string>
 	<string name="sum_loading_settings">Загрузка настроек…</string>
@@ -966,7 +966,7 @@
 	<string name="requesting_sp_unlock">Запрашиваю разблокировку сервис-провайдера…</string>
 	<string name="requesting_corporate_unlock">Запрашиваю корпоративную разблокировку…</string>
 	<string name="requesting_sim_unlock">Запрашиваю разблокировку SIM-карты…</string>
-	<string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора…</string>
+	<string name="updating_fdn_contact">Выполняется обновление номера фиксированного набора…</string>
 	<string name="updating_settings">Обновление настроек…</string>
 	<string name="updating_title">Настройки вызовов</string>
 	<string name="username_title">Имя пользователя</string>
@@ -1010,8 +1010,8 @@
     <string name="sub_two">Управление оператором 2</string>
     <string name="prompt">Напоминание</string>
     <string name="prompt_user">Пользовательское напоминание</string>
-	<string name="fdn_unavailable">FDN сервис недоступен</string>
-	<string name="fdn_failed">Активация услуги \"Детский контроль\" не удалась.</string>
+	<string name="fdn_unavailable">Сервис фиксированного набора недоступен</string>
+	<string name="fdn_failed">Ошибка активации фиксированного набора</string>
 	<string name="exportContacts">Экспорт контактов на SIM-карту…</string>
 	<string name="pin2_unblocked">PIN2 разблокирован</string>
 	<string name="puk2_blocked">PUK2 заблокирован</string>
@@ -1112,7 +1112,7 @@
 	<string name="notification_dialing">Вызов…</string>
 	<string name="caller_manage_manage_done_text">Вернуться к вызову</string>
 	<string name="vm_save_number">Сохранить номер голосовой почты</string>
-	<string name="fdn_only_error">Можно совершать вызовы только на разрешенные номера</string>
+	<string name="fdn_only_error">Можно совершать вызовы только на фиксированные номера</string>
 	<string name="ongoing">Текущий вызов</string>
 	<string name="network_setting_all_forbidden_dialog">Нет доступных сетей. Попробуйте переключиться в режим 3G.</string>
 	<string name="preferred_network_mode_scdma_only_summary">Предпочтительная сеть: только TD-SCDMA</string>
@@ -1292,8 +1292,8 @@
     <string name="end_call_because_can_not_hold">"Завершить текущий вызов, так как он не может быть поставлен на удержание."</string>
     <string name="ring_only_once_title">Звонить только один раз</string>
     <string name="ring_only_once_summary">Звонит только один раз при выборе принять видеовызов в режиме голосового вызова</string>
-    <string name="fdn_contact_name_number_invalid">Название и номер не могут быть пустыми.</string>
-    <string name="fdn_contact_number_invalid">Неправильный номер.</string>
+    <string name="fdn_contact_name_number_invalid">Название и номер не могут быть пустыми</string>
+    <string name="fdn_contact_number_invalid">Неверный номер</string>
     <string name="fdn_phone_book_busy">Телефонная книга не отвечает, попробуйте позже.</string>
     <string name="cdma_not_support">CDMA не поддерживает эту функцию</string>
     <string name="cdma_cfu_title">China Telecom</string>
@@ -1572,11 +1572,12 @@
 	<string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором, если вы получаете ошибку кода MMI, обратитесь к вашему оператору для выяснения подробностей.</string>
 	<string name="call_type">Тип вызова</string>
     <string name="call_type_title">Тип вызова IMS</string>
-    <string name="default_ims_call_type">Голос</string>
 	<string name="phone_info_divider">" | "</string>
 	<string name="ivr_menu_dialing_msg">Переадресация…</string>
 	<string name="ivr_menu_list_title">Голосовое меню</string>
 	<string name="non_ivr_menu_collapse_menu">Свернуть меню</string>
 	<string name="non_ivr_menu_view_menu">Показать меню</string>
 	<string name="ivr_menu_list_sub_menu_count_format">Нажмите %s</string>
+	<string name="ivr_menu_dialing_msg_no_mute">Передача выбранных номеров (игнорировать сообщения об ошибках)…</string>
+	<string name="fdn_contacts_empty_miui">Нет контактов</string>
 </resources>

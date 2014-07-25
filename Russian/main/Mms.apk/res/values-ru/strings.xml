@@ -439,7 +439,7 @@
 	<string name="unsupported_media_format">Неподдерживаемый формат (%1$s)</string>
 	<string name="view">Просмотр</string>
 	<string name="view_bookmark">Открыть в диалоге</string>
-	<string name="view_message_details">Подробности</string>
+	<string name="view_message_details">Информация</string>
 	<string name="wap_push_title">"[Push-сообщение] "</string>
 	<string name="yes">ОК</string>
 	<string name="file_share_message_description">Я поделился с вами файлами</string>
@@ -488,4 +488,9 @@
 	<string name="send_hms_editor_hints">Облачное сообщение</string>
 	<string name="view_hms_details">Информация</string>
 	<string name="xiaomi_service_number">Сервисный номер</string>
+	<string name="file_create_time">Время создания:</string>
+	<string name="file_size">Размер:</string>
+	<string name="file_title">Имя:</string>
+	<string name="file_width_height">Размер:</string>
+	<string name="share_img">Отправить</string>
 </resources>

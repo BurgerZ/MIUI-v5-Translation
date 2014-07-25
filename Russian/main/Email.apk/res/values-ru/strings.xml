@@ -981,4 +981,7 @@
 	<string name="account_setup_incoming_mail_domain_hint">По желанию</string>
 	<string name="account_setup_incoming_mail_domain_label">Домен</string>
 	<string name="account_setup_options_mail_check_frequency_imap_push">Автоматически (Push)</string>
+	<string name="outbox_alert_description_auth_error">Ошибка аутентификации во время синхронизации папки \"Исходящие\"</string>
+	<string name="outbox_alert_description_http_error">Ошибка HTTP во время синхронизации папки \"Исходящие\"</string>
+	<string name="outbox_alert_description_provision_error">Ошибка положения во время синхронизации папки \"Исходящие\"</string>
 </resources>

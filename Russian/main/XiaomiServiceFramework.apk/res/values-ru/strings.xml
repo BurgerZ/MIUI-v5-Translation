@@ -15,7 +15,7 @@
 	<string name="activating">Активация…</string>
 	<string name="add_weibo_account">Добавить аккаунт</string>
 	<string name="alert_title_remove_account">Удалить аккаунт</string>
-	<string name="app_name">Аккаунты Xiaomi</string>
+	<string name="app_name">Аккаунт Xiaomi</string>
 	<string name="available_functionality">Доступные функции</string>
 	<string name="bad_authentication">Неверный пароль или имя пользователя</string>
 	<string name="bind_sina_weibo">Привязка к сервису Sina WeiBo</string>
@@ -516,4 +516,6 @@
     <string name="sync_sub_1_sms_1_intl_sms">Для активации SIM-карт будeт отправлена одна международная и одна обычная SMS</string>
 	<string name="error_device_id">Не удается получить IMEI</string>
 	<string name="bank_cards">Банковские карты</string>
+	<string name="error_login">Ошибка авторизации</string>
+	<string name="relogin_notice">Необходимо авторизироваться повторно</string>
 </resources>

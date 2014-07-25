@@ -149,7 +149,7 @@
 	<string name="theme_import_activity_label">Обновление тем</string>
 	<string name="theme_import_data">Импорт информации</string>
 	<string name="theme_import_fail">Ошибка импорта %1$s</string>
-	<string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
+	<string name="theme_import_from_sdcard">Импортировать файл MTZ</string>
 	<string name="theme_import_importing">Обновление тем… (осталось: %1$d)</string>
 	<string name="theme_import_item_delete_request_button">Удалить</string>
 	<string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
