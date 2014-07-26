@@ -910,7 +910,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="dock_sounds_enable_title">Звуки для подставки</string>
     <string name="dock_sounds_enable_summary_on">Воспроизводить звуки при установке в порт и извлечении</string>
     <string name="dock_sounds_enable_summary_off">Не воспроизводить звуки при установке в порт и извлечении</string>
-    <string name="cover">Внешний дисплей</string>
+    <string name="cover">Чехол S View</string>
     <string name="automatic_unlock">Автоматическая разблокировка</string>
     <string name="automatic_unlock_summary">Включите отображение, когда крышка отрывается от экрана</string>
     <string name="account_settings">Учетные записи</string>
@@ -3403,7 +3403,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="wimax_settings">Настройки 4G</string>
     <string name="wimax_settings_summary">Подключение и настройка сети и модема 4G</string>
     <string name="status_wimax_mac_address">МАС-адрес для 4G</string>
-    <string name="airplane_mode_desc">Airplane mode allows you to turn off calling, messaging, and data network features. In addition, it turns off connectivity features such as Wi-Fi and Bluetooth. To use Wi-Fi and Bluetooth, please turn them on in the Settings or Notification panel.</string>
+    <string name="airplane_mode_desc">Airplane mode allows you to turn off calling, messaging, and data network features. In addition, it turns off connectivity features such as Wi-Fi and Bluetooth. To use Wi-Fi and Bluetooth, please turn them on in the Settings or Notification panel.</string>
     <string name="airplane_mode_status">Текущее состояние</string>
     <string name="airplane_mode_on">Airplane mode ON</string>
     <string name="airplane_mode_off">Airplane mode OFF</string>
@@ -3461,28 +3461,30 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="help_smart_scroll_4">Смарт-прокрутка не работает, если используется режим нескольких окон или вы прикасаетесь к экрану</string>
     <string name="scroll_mode_wrist_angle">Наклон устройства</string>
     <string name="scroll_mode_face_tracking">Наклон головы</string>
-    <string name="pen_setings_disable_pen_detection">Отключить определение S Pen</string>
-    <string name="pen_settings_pointer_msg">Вывод указателя при наведении пера S Pen на экран</string>
-    <string name="pen_air_view_help_pointer_msg">Появится указатель с командами, доступными при наведении S Pen на экран</string>
-    <string name="pen_settings_pen_input">Рукописный ввод</string>
-    <string name="pen_settings_pen_input_summary">Выводить панель рукописного ввода в области ввода текста при определении пера S Pen</string>
-    <string name="pen_settings_pen_input_descriptions">Чтобы использовать область рукописного ввода, поднесите S Pen к области ввода текста и нажмите указанную кнопку</string>
-    <string name="pen_settings_pen_input_try_btn">Попробовать</string>
-    <string name="pen_settings_pen_input_more_information">Подробнее</string>
+	<string name="pen_setings_disable_pen_detection">Отключить определение S Pen</string>
+	<string name="pen_settings_pointer_msg">Вывод указателя при наведении пера S Pen на экран</string>
+	<string name="pen_air_view_help_pointer_msg">Появится указатель с командами, доступными при наведении S Pen на экран</string>
+	<string name="pen_settings_pen_input">Рукописный ввод</string>
+	<string name="pen_settings_pen_input_summary">Выводить панель рукописного ввода в области ввода текста при определении пера S Pen</string>
+	<string name="pen_settings_pen_input_descriptions">Чтобы использовать область рукописного ввода, поднесите S Pen к области ввода текста и нажмите указанную кнопку</string>
+	<string name="pen_settings_pen_input_try_btn">Попробовать</string>
+	<string name="pen_settings_pen_input_more_information">Подробнее</string>
     <string name="pen_settings_pen_input_input_languages">Языки ввода</string>
     <string name="pen_settings_pen_input_predictive_text">Текстовое предложение</string>
-    <string name="pen_detachment_category_title">Отключение пера</string>
-    <string name="pen_detachment_option">Действие при извлечении пера</string>
+	<string name="pen_detachment_category_title">Отключение пера</string>
+	<string name="pen_detachment_option">Действие при извлечении пера</string>
     <string name="pen_detachment_option_action_memo">Активная заметка</string>
     <string name="pen_detachment_option_air_command">Контекстные команды</string>
-    <string name="usb_charging_title">Только зарядка устройства</string>
-    <string name="usb_charging_summary">Устройство будет только заряжаться, без режима передачи файлов</string>
-    <string name="usb_mtp_usb3_title">Медиаустройство (USB 3.0)</string>
-    <string name="usb_mtp_usb3_summary">Позволяет передавать медиафайлы в ОС Windows через USB 3.0</string>
-    <string name="usb_mtp_usb3_dialog_ok">Исп. USB 3.0</string>
-    <string name="usb_mtp_usb3_dialog_summary">USB 3.0 ускоряет передачу данных, но может негативно влиять на звонки и использование сети. Если USB 3.0 не используется в течение 10 минут, он автоматически отключается, после чего включается USB 2.0</string>
-    <string name="usb_mtp_usb3_dialog_summary_att">USB 3.0 ускоряет передачу данных, но может негативно влиять на звонки и использование сети. Если USB 3.0 не используется в течение 10 минут, он автоматически отключается, после чего включается USB 2.0</string>
-    <string name="usb_mtp_usb3_dialog_summary_spr">USB 3.0 ускоряет передачу данных, но может негативно влиять на звонки и использование сети. Если USB 3.0 не используется в течение 10 минут, он автоматически отключается, после чего включается USB 2.0</string>
-    <string name="usb_not_support_mtp_usb3_dialog_summary">Не удается подключить устройства через USB 3.0</string>
-    <string name="usb_not_support_mtp_usb3_dialog_title">Уведомление</string>    
+    <string name="sview_color">Цвет окна S View</string>
+    <string name="all_screen_title">Испол. для всех экранов</string>
+    <string name="all_screen_summary">Использование выбранного фона на экранах звонков, музыки, будильника и сообщений</string>
+    <string name="random_background_title">Случайный цвет</string>
+    <string name="random_background_summary">Ежедневный случайный выбор цвета окна S View</string>
+    <string name="select_info_title">Изм. сведения на обложке</string>
+    <string name="screen_mode_auto">Оптимизировать дисплей</string>
+    <string name="screen_mode_auto_summary">В этом режиме происходит автоматическая оптимизация изображения до наилучшего качества</string>
+    <string name="screen_mode_auto_description">"В этом режиме происходит автоматическая оптимизация цветового диапазона, насыщенности и резкости изображения для следующих приложений:
+%s
+
+Оптимизация не распространяется на приложения сторонних производителей"</string>    
 </resources>
