@@ -324,7 +324,7 @@
 	<string name="lockscreen_transport_play_description">Воспроизведение</string>
 	<string name="lockscreen_transport_prev_description">Предыдущий трек</string>
 	<string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту.</string>
-	<string name="login_website_in_case_forget_password">Посетите i.xiaomi.com для смены пароля</string>
+	<string name="login_website_in_case_forget_password">Посетите i.mi.com для смены пароля</string>
 	<string name="memory_clear_nothing_result">Нет памяти для очистки</string>
 	<string name="memory_clear_result">Очищено: %1$s\nДоступно: %2$s</string>
 	<string name="minutes">%d мин.</string>

@@ -36,7 +36,7 @@
     <string name="lockscreen_glogin_instructions">Введите аккаунт Xiaomi для разблокировки</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_checking_password">Проверка…</string>
-    <string name="login_website_in_case_forget_password">Для сброса пароля, перейдите на сайт \"i.xiaomi.com\".</string>
+    <string name="login_website_in_case_forget_password">Для сброса пароля, перейдите на сайт \"i.mi.com\".</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
     <string name="screen_on_proximity_sensor_summary">Использование датчика приближения для предотвращения случайных нажатий на экран заблокированного телефона.</string>
     <string name="screen_on_proximity_sensor_hint">Чтобы отключить эту функцию, зажмите одновременно клавиши \"Назад\" и \"Громкость+\".</string>

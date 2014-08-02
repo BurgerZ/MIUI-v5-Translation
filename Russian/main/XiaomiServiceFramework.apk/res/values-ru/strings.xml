@@ -157,7 +157,7 @@
 	<string name="micloud_intro_02_part_01">Синхронизация данных</string>
 	<string name="micloud_intro_02_part_02">MiCloud синхронизация данных с облачным сервисом.</string>
 	<string name="micloud_intro_03_part_01">Безопасность в использовании</string>
-	<string name="micloud_intro_03_part_02">Управление данными на сайте \"i.xiaomi.com\"</string>
+	<string name="micloud_intro_03_part_02">Управление данными на сайте \"i.mi.com\"</string>
 	<string name="micloud_dspt">MiCloud управление данными в любое время!</string>
 	<string name="start_micloud">Начать</string>
 	<string name="captcha">Код на картинке</string>
@@ -421,7 +421,7 @@
 	<string name="micloud_user_id">ID пользователя</string>
 	<string name="micloud_storage_space">Память</string>
 	<string name="micloud_user_space_usage">Занято памяти</string>
-	<string name="micloud_web_discription_01">Посетите сайт i.xiaomi.com </string>
+	<string name="micloud_web_discription_01">Посетите сайт i.mi.com </string>
 	<string name="micloud_web_discription_02">для просмотра и управления данными</string>
 	<string name="micloud_gallery_image">Изображения</string>
 	<string name="micloud_gallery_video">Видео</string>
@@ -518,4 +518,5 @@
 	<string name="bank_cards">Банковские карты</string>
 	<string name="error_login">Ошибка авторизации</string>
 	<string name="relogin_notice">Необходимо авторизироваться повторно</string>
+	<string name="barcode_add_account_prompt">Чтобы добавить аккаунт, сканируете QR-код снова после авторизации.</string>
 </resources>

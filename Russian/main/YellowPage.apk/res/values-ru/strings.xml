@@ -316,4 +316,5 @@
 	<string name="express_inquiry_provider_info">Поддержка:</string>
 	<string name="group_name_more">Прочее</string>
 	<string name="nearby_average_price">В среднем %d RMB</string>
+	<string name="express_send_notice">О запрещенных предметах</string>
 </resources>

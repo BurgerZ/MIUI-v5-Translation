@@ -850,4 +850,7 @@
 	<string name="close_cloud_tab_tip">Закрыть облачные вкладки на %s?</string>
 	<string name="cloud_sync_closed_toast">Не удается обновить, синхронизация отключена.</string>
 	<string name="cloud_sync_failed_toast">Ошибка обновления</string>
+	<string name="pref_development_uastring">Установить тип браузера</string>
+	<string name="bookmarks_history">Закладки/История</string>
+	<string name="delete_homepage">Удалить домашнюю страницу</string>
 </resources>

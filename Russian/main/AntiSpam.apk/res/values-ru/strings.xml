@@ -281,4 +281,11 @@
 	<string name="ad_block_hint">Заблокировано: %d</string>
 	<string name="ad_permission_hint">Использование блокировщика рекламы может повлиять на производительность приложений и ухудшить их работу</string>
 	<string name="ad_single_block_hint">Заблокировано</string>
+	<string name="create_table_report_sms">Создание таблицы отчета( id TEXT NOT NULL );</string>
+	<string name="create_table_report_sms_pending">Ожидание создания таблицы отчета( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+	<string name="report">Отчет</string>
+	<string name="report_error">Отчет будет автоматически отправлен при подключении к сети Wi-Fi</string>
+	<string name="report_only">Выберите сообщения</string>
+	<string name="report_sms">Отправить отчет</string>
+	<string name="report_success">Отчет отправлен</string>
 </resources>

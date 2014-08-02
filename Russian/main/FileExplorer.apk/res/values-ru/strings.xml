@@ -328,4 +328,5 @@
 	<string name="never_notify_network_connect">Запомнить</string>
 	<string name="operation_agree">ОК</string>
 	<string name="system_alert">Разрешить доступ к сети?</string>
+	<string name="folder_name_illegal">Недопустимое имя папки</string>
 </resources>
