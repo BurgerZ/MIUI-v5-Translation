@@ -72,4 +72,5 @@
     <string name="lockscreen_failed_attempts_now_wiping">Вы ввели пароль неверно %d раз(а). Все данные будут очищены и восстановлены заводские настройки.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
 	<string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth устройство находится слишком далеко, чтобы разблокировать.</string>
+	<string name="empty_password_error_msg">Введите пароль</string>
 </resources>

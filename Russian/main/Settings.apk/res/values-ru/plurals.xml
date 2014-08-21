@@ -57,7 +57,7 @@
         <item quantity="one">После %1$d шага откроется доступ к инженерному меню Cit</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">После %1$d шагов появится возможность отправлять отзывы об ошибках</item>
-        <item quantity="one">После %1$d шага появится возможность отправлять отзывы об ошибках</item>
+        <item quantity="other">После %1$d шагов появится возможность отправлять отчеты об ошибках</item>
+        <item quantity="one">После %1$d шага появится возможность отправлять отчеты об ошибках</item>
     </plurals>
 </resources>

@@ -38,7 +38,7 @@
         },
         {
             "title":"Вконтакте",
-            "url":"http://www.vk.com",
+            "url":"http://vk.com",
             "thumbnail":"vkontakte.png",
             "logobg":"bg14.9.png",
 			"nightModeMask": "night.9.png",
@@ -109,13 +109,13 @@
 	    "position": 8
         },
         {
-            "title":"MIUI Android",
-            "url":"http://miuiandroid.com/",
+            "title":"Xiaomi.eu",
+            "url":"http://xiaomi.eu/community/",
             "thumbnail":"miui_android.png",
-            "logobg":"bg07.9.png",
+            "logobg":"bg04.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-		"displayName": "MIUI Android",
+		"displayName": "Xiaomi.eu",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 9
@@ -175,7 +175,7 @@
         },
         {
             "title":"Вконтакте",
-            "url":"http://www.vk.com",
+            "url":"http://vk.com",
             "thumbnail":"vkontakte.png",
             "logobg":"bg14.9.png",
 			"nightModeMask": "night.9.png",
@@ -228,13 +228,13 @@
 		"displayName": "4PDA"
         },
         {
-            "title":"MIUI Android",
-            "url":"http://miuiandroid.com/",
+            "title":"Xiaomi.eu",
+            "url":"http://xiaomi.eu/community/",
             "thumbnail":"miui_android.png",
-            "logobg":"bg07.9.png",
+            "logobg":"bg04.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-		"displayName": "MIUI Android"
+		"displayName": "Xiaomi.eu"
         },
         {
             "title":"DimonVideo",

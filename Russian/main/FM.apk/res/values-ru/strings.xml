@@ -282,4 +282,5 @@
 	<string name="msg_fm_starting">Запуск…</string>
 	<string name="toast_delete_station">Станция %sМГц удалена</string>
 	<string name="toast_fm_stoping">Выключение…</string>
+	<string name="toast_fm_scaning">Сканирование…</string>
 </resources>

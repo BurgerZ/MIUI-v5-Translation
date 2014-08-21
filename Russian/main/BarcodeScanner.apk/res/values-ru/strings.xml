@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Сканер кодов</string>
+    <string name="app_name">Сканер</string>
     <string name="copy">Копировать</string>
     <string name="name">Имя:</string>
     <string name="nickname">Ник:</string>
     <string name="company">Компания:</string>
-    <string name="title">Название:</string>
+    <string name="title">Должность:</string>
     <string name="phone">Телефон:</string>
     <string name="email">Почта:</string>
     <string name="web">Сайт:</string>
@@ -13,17 +13,17 @@
     <string name="birthday">День рождения:</string>
     <string name="note">Заметка:</string>
     <string name="add_to_contacts">Добавить в контакты</string>
-    <string name="recognize">Распознать</string>
+    <string name="recognize">Сканировать</string>
     <string name="place_barcode_into_rectangle">Наведите камеру на QR-код или штрих-код</string>
     <string name="open_flash_error">Не удается включить вспышку</string>
     <string name="close_flash_error">Не удается выключить вспышку</string>
     <string name="scan_fail">Ошибка сканирования</string>
     <string name="vcard_prompt">Невозможно добавить контакт без имени</string>
-    <string name="copy_succeed">Копирование завершено</string>
-    <string name="fail_generate_barcode">Не удается сгенерировать QR-код или штрих-код</string>
+    <string name="copy_succeed">Скопировано</string>
+    <string name="fail_generate_barcode">Не удается сгенерировать код</string>
     <string name="scan_result">Результат</string>
     <string name="flash_lable">Вспышка</string>
-    <string name="picker_lable">Галерея</string>
+    <string name="picker_lable">Фото</string>
 	<string name="recognize_fail">Не удается сканировать</string>
 	<string name="barcode_into_rectangle">Наведите камеру на QR-код или штрих-код</string>
 	<string name="settings">Настройки</string>

@@ -434,7 +434,7 @@
     <string name="contextmenu_map">Карта</string>
     <string name="contextmenu_sharelink">Отправить ссылку</string>
     <string name="contextmenu_help">Справка</string>
-    <string name="contextmenu_feedback">Отправить отзыв</string>
+    <string name="contextmenu_feedback">Отправить отчет</string>
     <string name="more_string">Еще %1$s…</string>
     <string name="copy_email">Скопировать адрес почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
@@ -629,8 +629,8 @@
     <string name="mark_not_important">Отметить как неважное</string>
     <string name="add_cc_label">Добавить копию</string>
     <string name="add_bcc_label">Добавить скрытую копию</string>
-    <string name="feedback">Отправить отзыв</string>
-    <string name="feedback_body">Отзыв</string>
+    <string name="feedback">Отправить отчет</string>
+    <string name="feedback_body">Отчет</string>
     <string name="help_and_info">Помощь</string>
     <string name="quoted_text">Включить цитируемый текст</string>
     <string name="quoted_text_label">Цитировать текст</string>
@@ -910,7 +910,7 @@
 	<string name="outbox_alert_title_sent_failed">Ошибка отправки сообщения</string>
     <string name="outbox_alert_description_sent_failed">Размер прикрепленного файла слишком большой</string>
     <string name="outbox_alert_button_confirm">Изменить</string>
-    <string name="blank_feedback_toast">Невозможно отправить пустой отзыв</string>
+    <string name="blank_feedback_toast">Невозможно отправить пустой отчет</string>
 	<string name="wait_for_sync_body_txt_array_1">Сервер Exchange ответит в течение</string>
     <string name="wait_for_sync_body_txt_array_2">1–30</string>
     <string name="wait_for_sync_body_txt_array_3">секунд. Пожалуйста, подтвердите параметры безопасности. Обратите внимание на</string>
@@ -927,7 +927,7 @@
 	<string name="downlaod_nonWifi_confirm_message">При загрузке возможно чрезмерное потребление трафика, продолжить загрузку?</string>
 	<string name="account_name_toast">Такое название уже существует</string>
 	<string name="parase_setup_data">Получение данных конфигурации…</string>
-    <string name="allread">Все сообщения прочитаны</string>
+    <string name="allread">Прочитать все</string>
     <string name="eas_template">domain\\user</string>
     <string name="upgrade_network_error">Сеть недоступна</string>
     <string name="checking_message">Проверка обновлений…</string>
@@ -984,4 +984,15 @@
 	<string name="outbox_alert_description_auth_error">Ошибка аутентификации во время синхронизации папки \"Исходящие\"</string>
 	<string name="outbox_alert_description_http_error">Ошибка HTTP во время синхронизации папки \"Исходящие\"</string>
 	<string name="outbox_alert_description_provision_error">Ошибка положения во время синхронизации папки \"Исходящие\"</string>
+	<string name="conversation_list_net_check">Не удается подключиться к сети</string>
+	<string name="mail_body_turncated">Это сообщение слишком большое, будет показана только его часть. Чтобы прочесть полное содержание, откройте сообщение с компьютера.</string>
+	<string name="no_wifi_promot">Нет соединения по сети Wi-Fi. Следите за вашим трафиком.</string>
+	<string name="ser_resp_err_map_certificate_validator_err">"Не удается проверить сертификат сервера
+\u0009 (проверьте, включена ли автосинхронизация)"</string>
+	<string name="ser_resp_err_map_connect_err">Ошибка подключения к сети</string>
+	<string name="ser_resp_err_map_nouser">Такого пользователя нет</string>
+	<string name="ser_resp_err_map_or">Или</string>
+	<string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>
+	<string name="ser_resp_err_map_serclosed">Сервис закрыт</string>
+	<string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
 </resources>

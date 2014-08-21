@@ -66,7 +66,7 @@
 	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
 	<string name="downloading">Загрузка</string>
 	<string name="enable_sd_card">В настоящий момент SD-карта подключена к компьютеру. \nЧтобы видеть ее содержимое, отключите режим USB-накопителя.</string>
-	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
+	<string name="error_info_cant_send_folder">Невозможно отправить папку</string>
 	<string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует.</string>
 	<string name="fail_to_create_folder_unknown">Не удается создать папку. Неизвестная ошибка.</string>
 	<string name="fail_to_rename">Не удалось переименовать файл или папку, имя уже существует.</string>

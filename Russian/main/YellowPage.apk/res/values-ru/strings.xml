@@ -317,4 +317,7 @@
 	<string name="group_name_more">Прочее</string>
 	<string name="nearby_average_price">В среднем %d RMB</string>
 	<string name="express_send_notice">О запрещенных предметах</string>
+	<string name="express_no_tracking_number">Нет номера отслеживания</string>
+	<string name="express_order_info">Информация о заказе</string>
+	<string name="express_tracking_number">Номер отслеживания</string>
 </resources>

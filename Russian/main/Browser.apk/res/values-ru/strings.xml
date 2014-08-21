@@ -234,7 +234,7 @@
 	<string name="location">Адрес</string>
 	<string name="max_tabs_warning">Открыто максимальное количество вкладок</string>
 	<string name="menu_addtodesk">На рабочий стол</string>
-	<string name="menu_disable_night_mode">Выключить ночной режим</string>
+	<string name="menu_disable_night_mode">Отключить ночной режим</string>
 	<string name="menu_enable_night_mode">Включить ночной режим</string>
 	<string name="menu_download_video">Загруженные видео</string>
 	<string name="menu_exit">Выход</string>

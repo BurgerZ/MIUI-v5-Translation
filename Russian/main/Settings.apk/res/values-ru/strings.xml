@@ -2123,7 +2123,7 @@
     <string name="bugreport_in_power">Отчеты об ошибках</string>
     <string name="bugreport_in_power_summary">Показывать отчеты об ошибках.</string>
     <string name="keep_screen_on">Подсветка при зарядке</string>
-    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен.</string>
+    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="adb_warning_title">Разрешить отладку по USB?</string>
@@ -2478,7 +2478,7 @@
     <string name="select_application">Выберите приложения</string>
     <string name="no_application">Ничего</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
-    <string name="wait_for_debugger_summary">Приложение ожидает соединения с отладчиком перед запуском.</string>
+    <string name="wait_for_debugger_summary">Приложение будет ожидать соединения с отладчиком перед запуском</string>
     <string name="debug_input_category">Ввод</string>
     <string name="debug_drawing_category">Отображение</string>
     <string name="debug_hw_drawing_category">Аппаратное ускорение визуализации</string>
@@ -2494,16 +2494,16 @@
     <string name="show_hw_screen_updates">Показывать данные GPU</string>
     <string name="show_hw_screen_updates_summary">Показывать данные в окнах во время прорисовки с GPU</string>
     <string name="show_hw_layers_updates">Обновление слоев</string>
-    <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым цветом при обновлении.</string>
+    <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым цветом при обновлении</string>
     <string name="show_hw_overdraw">Отрисовка GPU</string>
     <string name="show_hw_overdraw_summary">Порядок отрисовки: синий, зеленый, желтый, красный.</string>
     <string name="disable_overlays">Отключить наложения</string>
-    <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана.</string>
+    <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
     <string name="debug_layout">Показывать границы</string>
-    <string name="debug_layout_summary">Показывать границы, поля и т.д.</string>
+    <string name="debug_layout_summary">Показывать границы и поля элементов интерфейса</string>
     <string name="show_cpu_usage">Показывать загрузку ЦП</string>
-    <string name="show_cpu_usage_summary">Отображение текущей загрузки процессора.</string>
+    <string name="show_cpu_usage_summary">Отображение текущей загрузки процессора</string>
     <string name="force_hw_ui">Ускорить работу GPU</string>
     <string name="force_hw_ui_summary">Использовать аппаратное ускорение 2D в приложениях</string>
     <string name="force_msaa">Включить 4x MSAA</string>
@@ -2554,7 +2554,7 @@
     <string name="data_usage_enable_4g">Передача данных 4G</string>
     <string name="data_usage_app_settings">Настройки приложения</string>
     <string name="data_usage_app_restrict_background">Ограничить фоновый режим</string>
-    <string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать Wi-Fi.</string>
+    <string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей, использовать сеть Wi-Fi.</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика</string>
     <string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима</string>
     <string name="data_usage_app_restrict_dialog">"Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.
@@ -2625,10 +2625,10 @@
     <string name="vpn_menu_edit">Изменить сеть</string>
     <string name="vpn_menu_delete">Удалить сеть</string>
     <string name="vpn_menu_lockdown">Всегда активный VPN</string>
-    <string name="vpn_lockdown_summary">Выберите профиль VPN для постоянной активности.</string>
+    <string name="vpn_lockdown_summary">Выберите профиль VPN для постоянной активности</string>
     <string name="vpn_lockdown_none">Пусто</string>
-    <string name="vpn_lockdown_config_error">Для активного VPN необходим IP-адрес и DNS.</string>
-    <string name="vpn_no_network">Нет соединения. Попробуйте позже</string>
+    <string name="vpn_lockdown_config_error">Для активного VPN необходим IP-адрес и DNS</string>
+    <string name="vpn_no_network">Сеть недоступна. Попробуйте позже.</string>
     <string name="vpn_missing_cert">Отсутствует сертификат. Отредактируйте профиль</string>
     <string name="trusted_credentials_system_tab">Система</string>
     <string name="trusted_credentials_user_tab">Пользователь</string>
@@ -2674,7 +2674,7 @@
     <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
     <string name="user_setup_button_setup_now">Установить</string>
     <string name="user_setup_button_setup_later">Позже</string>
-    <string name="user_cannot_manage_message">Только владелец телефона может управлять пользователями.</string>
+    <string name="user_cannot_manage_message">Только владелец телефона может управлять пользователями</string>
     <string name="user_cannot_add_accounts_message">Пользователи с ограниченным доступом не могут добавлять аккаунты</string>
     <string name="user_remove_user_menu">Удалить пользователя</string>
     <string name="user_new_user_name">Надоедливый ребенок</string>
@@ -2682,7 +2682,7 @@
     <string name="user_confirm_remove_self_title">Удалить себя?</string>
     <string name="user_confirm_remove_title">Удалить пользователя?</string>
     <string name="user_profile_confirm_remove_title">Удалить профиль?</string>
-    <string name="user_confirm_remove_self_message">Все ваши данные будут безвозвратно удалены.</string>
+    <string name="user_confirm_remove_self_message">Все ваши данные будут безвозвратно удалены</string>
     <string name="user_confirm_remove_message">Вы уверены, что хотите удалить пользователя и всю его информацию с устройства?</string>
     <string name="user_profile_confirm_remove_message">Сохраненные на телефоне данные этого профиля будут удалены без возможности восстановления.</string>
     <string name="user_adding_new_user">Добавление пользователя…</string>
@@ -2691,7 +2691,7 @@
     <string name="application_restrictions">Разрешить приложения и контент</string>
     <string name="apps_with_restrictions_header">Приложения с ограничениями</string>
     <string name="apps_with_restrictions_settings_button">Развернуть настройки приложений</string>
-    <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства.</string>
+    <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
     <string name="global_locale_change_title">Измените язык</string>
     <string name="global_font_change_title">Измените размер шрифта</string>
     <string name="app_notifications_switch_label">Показывать уведомления</string>
@@ -2722,9 +2722,9 @@
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Разрешить изменение настроек Bluetooth-подключения</string>
     <string name="restriction_nfc_enable_title">NFC</string>
-    <string name="restriction_nfc_enable_summary">Разрешить обмен данными при совмещении телефона с другим устройством.</string>
+    <string name="restriction_nfc_enable_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
     <string name="restriction_location_enable_title">Мое местоположение</string>
-    <string name="restriction_location_enable_summary">Разрешить приложениям использовать данные о вашем местоположении.</string>
+    <string name="restriction_location_enable_summary">Разрешить приложениям использовать данные о вашем местоположении</string>
     <string name="wizard_back">Назад</string>
     <string name="wizard_next">Далее</string>
     <string name="wizard_finish">Готово</string>
@@ -2733,7 +2733,7 @@
     <string name="do_not_disturb_mode">Не беспокоить</string>
     <string name="dndm_notification">Режим \"Не беспокоить\"</string>
     <string name="dndm_open">Не беспокоить</string>
-    <string name="dndm_summary">При включении режима \"Не беспокоить\" все уведомления будут отключены.</string>
+    <string name="dndm_summary">При включении режима \"Не беспокоить\" все уведомления будут отключены</string>
     <string name="dndm_auto_setting_group">Время</string>
     <string name="dndm_auto_button_title">По расписанию</string>
     <string name="dndm_auto_time_setting">Настройки времени</string>
@@ -3046,7 +3046,7 @@
     <string name="dolby_eq_enter_alert_title">Включить режим Dolby</string>
     <string name="dolby_eq_enter_alert_msg">Включить режим эквалайзера Dolby Music?</string>
     <string name="dirac_switch_title">Усилитель звука \"MiSound\"</string>
-    <string name="dirac_switch_summary">Всегда использовать усилитель \"MiSound\" при воспроизведении звука через наушники.</string>
+    <string name="dirac_switch_summary">Всегда использовать усилитель \"MiSound\" при воспроизведении звука через наушники</string>
     <string name="dirac_mode_off">Отключено</string>
     <string name="dirac_mode_in_ear">Вкладыши Xiaomi</string>
     <string name="dirac_mode_earbuds">Наушники Xiaomi</string>
@@ -3132,7 +3132,7 @@
     <string name="drive_mode_calling_auto_sms_reply">Ответ на вызовы</string>
     <string name="drive_mode_sms_auto_sms_reply">Ответ на SMS</string>
     <string name="drive_mode_only_contact_reply">Не отвечать на неизвестные номера</string>
-    <string name="drive_mode_auto_sms_reply_content">Я сейчас за рулем. Перезвоню вам позже.</string>
+    <string name="drive_mode_auto_sms_reply_content">Я сейчас за рулем, перезвоню вам позже.</string>
     <string name="drive_mode_auto_sms_reply_content_title">Быстрый ответ</string>
     <string name="clear_activities_summary">Разрешить этому приложения некоторые действия по умолчанию</string>
     <string name="permission_detail_info">Разрешения</string>
@@ -3351,7 +3351,7 @@
     <string name="accessibility_script_injection_disallowed">Запрещена</string>
     <string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
     <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
-    <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
+    <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите \"ОК\".</string>
     <string name="accessibility_service_disable_warning_title">Отключить %1$s?</string>
     <string name="accessibility_service_security_warning_summary">Служба %1$s может сохранять любой вводимый текст, кроме паролей. В частности, сохраняются личные сведения, например номера кредитных карт. Кроме того, могут собираться данные об использовании телефона</string>
     <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
@@ -3363,7 +3363,7 @@
     <string name="antispam_quiet_mode_title">Не беспокоить</string>
     <string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
     <string name="bluetooth_visibility">Видимость</string>
-    <string name="bluetooth_visibility_timeout_summary">Укажите, в течение какого времени устройство будет видимым</string>
+    <string name="bluetooth_visibility_timeout_summary">Укажите, в течение какого времени устройство будет видимым.</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>
     <string name="eq_classical">Классика</string>
@@ -3449,7 +3449,7 @@
     <string name="sel_sub_summary">Выбрать услуги связи для Оператор-1 и Оператор-2</string>
     <string name="select_subscription">Выбрать услугу связи</string>
     <string name="multi_sim_settings_title">Настройка сим-карт</string>
-    <string name="multi_sim_settings_summary">Выбрать операторов для голосовых вызовов, передачи данных и SMS</string>
+    <string name="multi_sim_settings_summary">Выбрать операторов для голосовых вызовов, передачи данных и SMS.</string>
     <string name="voice_title">Голос/USSD/MMI</string>
     <string name="voice_summary">Выбрать оператора для голосовых вызовов</string>
     <string name="data_title">Данные вызова</string>
@@ -3460,7 +3460,7 @@
     <string name="set_dds_success">Оператора передачи данных успешно установлен</string>
     <string name="set_dds_failed">Ошибка при установке оператора передачи данных. Сбросить все подключения и попробовать снова?</string>
     <string name="set_dds_error">Ошибка при установке оператора передачи данных.</string>
-    <string name="set_sms_error">Ошибка при установке оператора отправки sms. Функция недоступна.</string>
+    <string name="set_sms_error">Ошибка при установке оператора отправки SMS. Функция недоступна.</string>
     <string name="set_voice_error">Ошибка при установке оператора голосовых вызовов. Функция недоступна.</string>
     <string name="subscription_01_title">Оператор 1</string>
     <string name="subscription_01_summary">Выбрать опции настроек сети для Оператор-1</string>
@@ -3562,14 +3562,14 @@
     <string name="agps_enable_confirm_allow">ОК</string>
     <string name="agps_enable_confirm_deny">Отмена</string>
     <string name="epo_enable_title">Помощник GPS EPO</string>
-    <string name="epo_enable_summary">Используйте помощника GPS (EPO) для быстрого поиска местоположения.</string>
+    <string name="epo_enable_summary">Используйте помощника GPS (EPO) для быстрого поиска местоположения</string>
     <string name="agps_settings_enable">A-GPS</string>
     <string name="agps_settings_enable_on">A-GPS может ускорить поиск местоположения. Необходимо подключение к интернету.</string>
-    <string name="agps_settings_enable_off">Используйте A-GPS (EPO) для быстрого поиска местоположения.</string>
+    <string name="agps_settings_enable_off">Используйте A-GPS (EPO) для быстрого поиска местоположения</string>
     <string name="agps_settings_eng_enable">Настройки A-GPS</string>
     <string name="agps_settings_eng_summary">Настройки функции A-GPS</string>
     <string name="agps_disable_on_reboot">Отключить после перезагрузки</string>
-    <string name="agps_disable_on_reboot_summary">Отключение функции A-GPS после перезагрузки телефона.</string>
+    <string name="agps_disable_on_reboot_summary">Отключение функции A-GPS после перезагрузки телефона</string>
     <string name="Network_Initiate">Запрос сети</string>
     <string name="Network_Initiate_Summary_on">Разрешить доступ к поиску местоположения</string>
     <string name="Network_Initiate_Summary_off">Запретить доступ к поиску местоположения</string>
@@ -3587,7 +3587,7 @@
 \u0009 A-GPS ищет местоположение с помощью мобильной сети.
 \u0009 Некоторые операторы могут взимать определенную плату за использование функции, будьте внимательны."</string>
     <string name="epo_auto_download_title">Автозагрузка</string>
-    <string name="epo_auto_download_summary">Автоматическая загрузка данных местоположения.</string>
+    <string name="epo_auto_download_summary">Автоматическая загрузка данных местоположения</string>
     <string name="epo_info_title">Информация файла EPO</string>
     <string name="epo_download_time_title">Время загрузки</string>
     <string name="epo_download_time_summary">Недоступно</string>
@@ -3608,7 +3608,7 @@
     <string name="Network_Roaming_dialog_title">Внимание</string>
     <string name="Network_Roaming_dialog_content">Если вы находитесь в роуминге, за использование A-GPS может взиматься дополнительная плата.</string>
     <string name="epo_download">Загрузка</string>
-    <string name="epo_error_no_activite_network">Пожалуйста, включите интернет перед загрузкой EPO.</string>
+    <string name="epo_error_no_activite_network">Включите интернет перед загрузкой EPO</string>
     <string name="epo_cancel_download">Отмена</string>
     <string name="epo_status_stopping">Отмена…</string>
     <string name="epo_status_starting">Запуск…</string>
@@ -3667,8 +3667,8 @@
     <string name="software_update">Сервис обновления ПО</string>
     <string name="mota_system_update_summary">Проверить обновление</string>
     <string name="software_updates_more_title">Обновление ПО</string>
-    <string name="software_updates_more_summary">Проверить наличие новой версии программного обеспечения.</string>
-    <string name="software_updates_scomo_summary">Проверить новую версию приложения.</string>
+    <string name="software_updates_more_summary">Проверить наличие новой версии программного обеспечения</string>
+    <string name="software_updates_scomo_summary">Проверить новую версию приложения</string>
     <string name="scomo_settings_title">Сервис обновления ПО</string>
     <string name="battery_level">%s%%</string>
     <string name="screen_timeout_CU">Выключение экрана</string>
@@ -3782,7 +3782,7 @@
     <string name="gemini_sim_lock_radio_off_message_sim1">Radio1 выключено</string>
     <string name="gemini_sim_lock_radio_off_message_sim2">Radio2 выключено</string>
     <string name="akp_installer_settings_title">Установщик APK</string>
-    <string name="akp_installer_settings_summary">Установить приложение APK из памяти телефона или SD-карты.</string>
+    <string name="akp_installer_settings_summary">Установить приложение APK из памяти телефона или SD-карты</string>
     <string name="launch_main_label">Запуск приложения</string>
     <string name="launch_main">Запустить приложение</string>
     <string name="launch_activitie">Запуск</string>
@@ -3811,7 +3811,7 @@
     <string name="data_conn_category_title">Передача данных</string>
     <string name="wifi_gprs_selector_title">Переключение сети</string>
     <string name="data_enabler_title">Включить передачу данных</string>
-    <string name="data_enabler_summary">Разрешить доступ к мобильной передаче данных.</string>
+    <string name="data_enabler_summary">Разрешить доступ к мобильной передаче данных</string>
     <string name="data_enabler_waiting_message">Пожалуйста, подождите…</string>
     <string name="wifi_tether_fix_channel_width_text">20 МГц</string>
     <string name="wifi_tether_auto_channel_text">Авто</string>
@@ -3821,7 +3821,7 @@
     <string name="pch_toggle_title">Режим передачи по GPRS</string>
     <string name="pch_data_prefer_summary_off">Передача данных</string>
     <string name="pch_call_prefer_summary_on">Вызовы</string>
-    <string name="pch_warning_message">Скорость передачи данных будет снижаться.</string>
+    <string name="pch_warning_message">Скорость передачи данных будет снижаться</string>
     <string name="schedule_power_on_off_settings_title">Выключение питания</string>
     <string name="usb_bicr_title">Встроенный CD-ROM</string>
     <string name="usb_bicr_summary">Показать виртуальный CD-ROM, содержащий приложения.</string>
@@ -3864,15 +3864,15 @@
     <string name="wifi_ap_client_mac_label">MAC адрес:</string>
     <string name="wifi_ap_client_ip_label">IP адрес:</string>
     <string name="usb_sharing_title">USB-интернет</string>
-    <string name="usb_sharing_summary">Использование интернета с компьютера через USB.</string>
+    <string name="usb_sharing_summary">Использование интернета с компьютера через USB</string>
     <string name="usb_sharing_info_title">Интернет по USB</string>
     <string name="usb_sharing_info_step_1">1. Откройте соединения на вашем компьютере.</string>
     <string name="usb_sharing_info_step_2">2. Щелкните правой кнопкой мыши на подключение, которое вы хотите использовать на телефоне, а затем выберите команду Свойства.</string>
     <string name="usb_sharing_info_step_3">3. Выберите вкладку \"Общий доступ\" и нажмите \"Разрешить другим пользователям сети использовать подключение к Интернету данного компьютера\"</string>
     <string name="wifi_ap_bandwidth_title">Пропускная способность</string>
-    <string name="wifi_ap_bandwidth_enable">Включить регулирование пропускной способности.</string>
+    <string name="wifi_ap_bandwidth_enable">Включить регулирование пропускной способности</string>
     <string name="wifi_ap_bandwidth_chart_title">Скорость сети</string>
-    <string name="wifi_ap_bandwidth_chart_summary">Скорость телефона и оператора может отличаться.</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Скорость телефона и оператора может отличаться</string>
     <string name="wifi_wps_fail_error">Ошибка настройки защиты Wi-Fi. Пожалуйста, повторите попытку.</string>
     <string name="wifi_ap_title">Статистика</string>
     <string name="wifi_ap_time_duration">Время действия:%1$s</string>
@@ -3880,7 +3880,7 @@
     <string name="wifi_ap_bandwidth_megabyteShort">Мб/с</string>
     <string name="wifi_ap_bandwidth_KbyteShort">Кб/с</string>
     <string name="cpu_dtm_title">Режим энергосбережения ЦП</string>
-    <string name="cpu_dtm_summary">Ограничение максимальной производительности процессора для экономии батареи.</string>
+    <string name="cpu_dtm_summary">Ограничение максимальной производительности процессора для экономии батареи</string>
     <string name="wifi_advanced_ipv4_address_title">IPv4 адрес</string>
     <string name="wifi_advanced_ipv6_address_title">IPv6 адрес</string>
     <string name="wifi_ipv4_address">IPv4 адрес</string>
@@ -3903,7 +3903,7 @@
     <string name="music_plus_title">Режим \"BesAudEnh\"</string>
     <string name="music_plus_summary">Улучшение звука для наушников</string>
     <string name="auto_backlight_title">Экономичная подсветка</string>
-    <string name="auto_backlight_summary">Автоматическая адаптация подсветки для экономии энергии.</string>
+    <string name="auto_backlight_summary">Автоматическая адаптация подсветки для экономии энергии</string>
     <string name="beam_mgmt_tab_download_title">Получено</string>
     <string name="beam_mgmt_tab_upload_title">Отправлено</string>
     <string name="beam_share_mgmt_notification_ticker">История передачи Beam</string>
@@ -3938,19 +3938,19 @@
     <string name="alarm_app_name">Будильник</string>
     <string name="camera_app_name">Камера</string>
     <string name="music_app_name">Музыка</string>
-    <string name="incomming_command_summary_format">Вы можете сказать %1$s или %2$s для ответа или отклонения вызова.</string>
-    <string name="alarm_command_summary_format">Вы можете сказать %1$s или %2$s для управления будильником.</string>
-    <string name="camera_command_summary_format">Вы можете сказать %1$s или %2$s для снятия фото.</string>
-    <string name="music_command_summary_format">Вы можете сказать %1$s и %2$s для управления плеером.</string>
+    <string name="incomming_command_summary_format">Вы можете сказать %1$s или %2$s для ответа или отклонения вызова</string>
+    <string name="alarm_command_summary_format">Вы можете сказать %1$s или %2$s для управления будильником</string>
+    <string name="camera_command_summary_format">Вы можете сказать %1$s или %2$s для снятия фото</string>
+    <string name="music_command_summary_format">Вы можете сказать %1$s и %2$s для управления плеером</string>
     <string name="lock_screen_notifications_title">Уведомления локскрина</string>
-    <string name="lock_screen_notifications_summary">Показывать уведомления на экране блокировки.</string>
+    <string name="lock_screen_notifications_summary">Показывать уведомления на экране блокировки</string>
     <string name="lock_screen_style_title">Стиль блокировки</string>
     <string name="current_suffix">(выбрано)</string>
     <string name="lockscreen_style_set">Установить локскрин</string>
     <string name="lockscreen_style_default_desc">Быстрый доступ к приложениям на экране блокировки</string>
     <string name="evdo_signal_strength_info">Evdo</string>
     <string name="security_not_set">Безопасность не установлена</string>
-    <string name="lockdown_vpn_already_connected">Активный VPN включен для подключения.</string>
+    <string name="lockdown_vpn_already_connected">Активный VPN включен для подключения</string>
     <string name="wifi_ap_no_connected">Подключенных пользователей: 0</string>
     <string name="wifi_ap_no_blocked">Блокированных пользователей: 0</string>
     <string name="enable_sim">Включить</string>
@@ -3971,9 +3971,9 @@
 	<string name="free_wifi_summary">Нажмите для подключения к сети %1$s</string>
     <string name="free_wifi_connect_title">Доступна сеть Wi-Fi</string>
     <string name="free_wifi_connect_summary">Нажмите для подключения к сети %1$s</string>
-	<string name="free_wifi_manage_summary">Нажмите для просмотра %1$s.</string>
+	<string name="free_wifi_manage_summary">Нажмите для просмотра %1$s</string>
     <string name="free_wifi_connect_dialog_title">Доступен бесплатный Wi-Fi</string>
-    <string name="free_wifi_connect_dialog_summary">Wi-Fi %1$s предоставляется от %2$s.</string>
+    <string name="free_wifi_connect_dialog_summary">Wi-Fi %1$s предоставляется от %2$s</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">Подключить</string>
     <string name="free_wifi_connecting">Подключение…</string>
@@ -3987,7 +3987,7 @@
     <string name="free_wifi_confirm">Подтвердить</string>
 	<string name="pref_category_title_cleanup_white_list">Белый список</string>
     <string name="pref_title_cleanup_white_list">Белый список очистки</string>
-    <string name="pref_summary_cleanup_white_list">Файлы из белого списка не будут очищаться.</string>
+    <string name="pref_summary_cleanup_white_list">Файлы из белого списка не будут очищаться</string>
 	<string name="tab_title_internal_storage">Внутренняя память</string>
     <string name="tab_title_external_storage">Внешняя память</string>
     <string name="tab_title_sdcard_storage">SD-карта</string>
@@ -4007,9 +4007,9 @@
     <string name="item_title_system_cache">Кэш</string>
     <string name="large_file_sort_type_size">Сортировать по размеру</string>
     <string name="large_file_sort_type_name">Сортировать по имени</string>
-    <string name="msg_system_cache_hints">Очистка кэша не повлияет на ваши данные приложений.</string>
+    <string name="msg_system_cache_hints">Очистка кэша не повлияет на ваши данные приложений</string>
     <string name="dialog_title_cleanup_system_cache">Очистить кэш?</string>
-    <string name="dialog_msg_cleanup_system_cache">Будет очищен кэш у всех приложений.</string>
+    <string name="dialog_msg_cleanup_system_cache">Будет очищен кэш у всех приложений</string>
     <string name="dialog_title_cleanup_apps">Удалить данные приложений?</string>
     <string name="dialog_title_backup_and_cleanup_apps">Создать бэкап и удалить приложение?</string>
     <string name="dialog_msg_cleanup_apps">Все данные приложения будут удалены, включая настройки и аккаунты.</string>
@@ -4108,8 +4108,8 @@
     <string name="location_low_battery_use">Низкое потребление батареи</string>
     <string name="location_mode_screen_title">Режим местоположения</string>
     <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильную сеть для определения местоположения.</string>
-    <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильную сеть для определения местоположения.</string>
-    <string name="location_mode_sensors_only_description">Использовать только GPS для определения местоположения.</string>
+    <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильную сеть для определения местоположения</string>
+    <string name="location_mode_sensors_only_description">Использовать только GPS для определения местоположения</string>
     <string name="location_loading_injected_setting">Получение…</string>
     <string name="location_category_enhanced_location">Точное местоположение</string>
 	<string name="app_ops_settings_summary">Управление разрешениями для приложений</string>
@@ -4120,7 +4120,7 @@
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
     <string name="wifi_display_certification_summary">Параметры для сертификации беспроводного дисплея</string>
 	<string name="enable_quickboot_title">Режим быстрой перезагрузки</string>
-    <string name="enable_quickboot_summary">Включить режим быстрой перезагрузки устройства.</string>
+    <string name="enable_quickboot_summary">Включить режим быстрой перезагрузки устройства</string>
 	<string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_terminal_summary">Включить локальный терминал</string>
 	<string name="battery_history_days_no_seconds">%1$dдн. %2$dч. %3$dмин.</string>
@@ -4155,7 +4155,7 @@
 	<string name="print_settings">Печать</string>
     <string name="print_settings_title">Настройки печати</string>
     <string name="print_service_security_warning_title">Использовать %1$s?</string>
-    <string name="print_service_security_warning_summary">Ваш документ может проходить через один или несколько серверов на пути к принтеру.</string>
+    <string name="print_service_security_warning_summary">Ваш документ может проходить через один или несколько серверов на пути к принтеру</string>
     <string name="print_no_services_installed">Службы не установлены</string>
     <string name="print_no_printers_found">Принтеры не найдены</string>
     <string name="print_menu_item_settings">Настройки</string>
@@ -4214,7 +4214,7 @@
 	<string name="gadget_location">Местоположение</string>
 	<string name="debug_hw_overdraw">Отладка наложения</string>
 	<string name="force_rtl_layout_all_locales">Принудительная раскладка RTL</string>
-    <string name="force_rtl_layout_all_locales_summary">Принудительно отображать раскладку RTL для всех языков.</string>
+    <string name="force_rtl_layout_all_locales_summary">Принудительно отображать раскладку RTL для всех языков</string>
 	<string name="data_usage_tab_slot">SIM</string>
 	<string name="no_sim_info">Нет информации о SIM-карте. Меню недоступно.</string>
     <string name="subs_settings">Статус подписок</string>
@@ -4375,4 +4375,11 @@
 	<string name="high_performance_notif_title">Режим производительности активен</string>
 	<string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса</string>
 	<string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
+	<string name="cache_data_sort_type_item_name">По названию</string>
+	<string name="cache_data_sort_type_item_size">По размеру</string>
+	<string name="deepclean_cache_header_left">Кэш: %d</string>
+	<string name="deepclean_sort_type_title">Сортировка</string>
+	<string name="empty_content_size">Неизвестно</string>
+	<string name="large_file_sort_type_item_name">По названию</string>
+	<string name="large_file_sort_type_item_size">По размеру</string>
 </resources>

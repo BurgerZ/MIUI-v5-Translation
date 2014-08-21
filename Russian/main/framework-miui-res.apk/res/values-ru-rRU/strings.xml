@@ -492,4 +492,6 @@
     <string name="sync_data_notes">заметки</string>
     <string name="sync_data_loading">Получение информации с сервера…</string>
     <string name="sync_data_merge_warning_title">Предупреждение</string>
+	<string name="softap_notifif_title">Точка доступа \"%s\" включена</string>
+    <string name="softap_notifif_summary">Подключено: %d</string>
 </resources>

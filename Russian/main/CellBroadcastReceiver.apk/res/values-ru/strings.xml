@@ -61,7 +61,7 @@
     <string name="cmas_category_infra">Инфраструктура</string>
     <string name="cmas_category_cbrne">Химия/Биология/Ядерная Физика/Взрывотехника</string>
     <string name="cmas_category_other">Другое</string>
-    <string name="cmas_response_heading">Тип отзыва:</string>
+    <string name="cmas_response_heading">Тип отчета:</string>
     <string name="cmas_response_shelter">Укрыться</string>
     <string name="cmas_response_evacuate">Эвакуировать</string>
     <string name="cmas_response_prepare">Приготовиться</string>

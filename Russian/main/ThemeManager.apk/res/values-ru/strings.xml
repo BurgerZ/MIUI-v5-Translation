@@ -287,7 +287,7 @@
 	<string name="purchased_list">Купленные темы</string>
 	<string name="resource_import_failed">Ошибка импортирования</string>
 	<string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
-	<string name="resource_download_trial">Пробная версия</string>
+	<string name="resource_download_trial">Демо</string>
     <string name="resource_apply_trial">Применить</string>
     <string name="resource_on_trial">Применение пробной версии: %1$s</string>
     <string name="resource_trial_time">(пробное время: %1$d мин.)</string>

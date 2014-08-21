@@ -192,7 +192,7 @@
 	<string name="date_year_toggle">Указать год</string>
 	<string name="default_ringtone">Мелодия по умолчанию</string>
 	<string name="deleteConfirmation">Этот контакт будет удален</string>
-	<string name="deleteConfirmationDetail">Контакт \"%s\" будет удален</string>
+	<string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
 	<string name="deleteConfirmation_title">Удаление контакта</string>
 	<string name="delete_call_log_title">Выбрать журналы для удаления?</string>
 	<string name="delete_contact_calllog_title">Записи удалены</string>
@@ -1083,7 +1083,7 @@
     <string name="yellowpage_navigation_menu_order">Мой заказ</string>
 	<string name="resource_import_failed">Ошибка импортирования</string>
 	<string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
-	<string name="resource_download_trial">Пробная версия</string>
+	<string name="resource_download_trial">Демо</string>
     <string name="resource_apply_trial">Применить</string>
     <string name="resource_on_trial">Применение пробной версии: %1$s</string>
     <string name="resource_trial_time">(пробное время: %1$d мин.)</string>

@@ -140,7 +140,7 @@
 	<string name="forward_prefix">"От: "</string>
 	<string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
 	<string name="found_old_messages_title">Загрузка сообщений</string>
-	<string name="found_wild_messages">Загрузить облачные сообщения с других SIM-карт?</string>
+	<string name="found_wild_messages">Сообщения от данных номеров были сохранены в MiCloud. Загрузить их?</string>
 	<string name="found_wild_messages_title">Скачка сообщений</string>
 	<string name="from_label">"От: "</string>
 	<string name="group_message">Групповое сообщение</string>

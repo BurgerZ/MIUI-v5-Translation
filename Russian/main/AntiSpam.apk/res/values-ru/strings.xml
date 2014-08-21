@@ -114,7 +114,7 @@
     <string name="qm_repeated_call_summary_none">Не исключать повторные вызовы</string>
     <string name="qm_repeated_call_summary_3min">Второй вызов от того же номера в течение трех минут не будет отключен</string>
 	<string name="dlg_delete_vip">Удалить из списка исключений?</string>
-	<string name="menu_report_block">Отправить отзыв</string>
+	<string name="menu_report_block">Отправить отчет</string>
     <string name="st_sub_title_customize_mode_name">Название режима</string>
     <string name="st_title_open_antispam">Включить блокировку</string>
     <string name="st_title_antispam_mode">Режим блокировки</string>
@@ -281,8 +281,6 @@
 	<string name="ad_block_hint">Заблокировано: %d</string>
 	<string name="ad_permission_hint">Использование блокировщика рекламы может повлиять на производительность приложений и ухудшить их работу</string>
 	<string name="ad_single_block_hint">Заблокировано</string>
-	<string name="create_table_report_sms">Создание таблицы отчета( id TEXT NOT NULL );</string>
-	<string name="create_table_report_sms_pending">Ожидание создания таблицы отчета( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
 	<string name="report">Отчет</string>
 	<string name="report_error">Отчет будет автоматически отправлен при подключении к сети Wi-Fi</string>
 	<string name="report_only">Выберите сообщения</string>
