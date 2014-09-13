@@ -108,7 +108,6 @@
 	<string name="menu_all_task_pause">Остановить все</string>
 	<string name="menu_all_task_start">Запустить все</string>
 	<string name="mi_money">Mi-Money</string>
-	<string name="mi_money_">mi_money)</string>
 	<string name="one_month">Один месяц</string>
 	<string name="open_xunlei_speed_service">Включить сервис загрузки</string>
 	<string name="original_price">Начальная цена</string>
@@ -120,4 +119,5 @@
 	<string name="add_flow_fail_haveget_msg">Вы уже получили бесплатное ускорение Xunlei в этом месяце</string>
 	<string name="add_flow_fail_vip_msg">Ускорение загрузки Xunlei открыто</string>
 	<string name="add_flow_success_msg">Ускорение на 300Мб успешно получено</string>
+	<string name="display_expire_netiv1">Месячное пользование</string>
 </resources>

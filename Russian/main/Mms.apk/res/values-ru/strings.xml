@@ -493,4 +493,6 @@
 	<string name="file_title">Имя:</string>
 	<string name="file_width_height">Размер:</string>
 	<string name="share_img">Отправить</string>
+	<string name="mx_on_sim_1">Облачные сообщения на SIM %s</string>
+	<string name="mx_on_sim_2">Облачные сообщения на SIM %s</string>
 </resources>

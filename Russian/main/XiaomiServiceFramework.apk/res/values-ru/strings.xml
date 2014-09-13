@@ -519,4 +519,20 @@
 	<string name="error_login">Ошибка авторизации</string>
 	<string name="relogin_notice">Необходимо авторизироваться повторно</string>
 	<string name="barcode_add_account_prompt">Чтобы добавить аккаунт, сканируете QR-код снова после авторизации.</string>
+	<string name="activate">Активировать</string>
+	<string name="all_cloud_service_dspt">Выберите сервисы Mi Cloud, которые хотите использовать.</string>
+	<string name="cloud_message_notice">Облачные сообщения позволяют отправлять сообщения другим пользователям MIUI без оплаты за SMS</string>
+	<string name="cloud_messaging_dspt">Включить облачные сообщения</string>
+	<string name="find_device_additional_alert">При смене SIM-карты будет автоматически отправлена SMS для повторной активации сервиса</string>
+	<string name="find_device_dspt_in_all_setting_1">"Вы можете определить местоположение, очистить данные и заблокировать устройство через ПК на сейте "</string>
+	<string name="find_device_notice_1">"В случае утери вашего устройства посетите сайт "</string>
+	<string name="find_device_notice_3">" для определения местоположения, очистки данных и блокировки устройства"</string>
+	<string name="mx_dspt_in_all_setting">Бесплатно отправляйте SMS другим пользователям MIUI</string>
+	<string name="sms_prompt_cloud_messaging">Облачные сообщения</string>
+	<string name="sms_prompt_cloud_service">Сервисы MiCloud</string>
+	<string name="sms_prompt_find_device">Поиск устройства</string>
+	<string name="sms_prompt_set_all">все сервисы</string>
+	<string name="sms_prompt_set_single">выбранные сервисы</string>
+	<string name="sms_prompt_sync">Синхронизация</string>
+	<string name="sync_dspt_in_all_setting">Синхронизируйте данные между вашими устройствами</string>
 </resources>

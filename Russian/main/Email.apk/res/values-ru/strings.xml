@@ -995,4 +995,15 @@
 	<string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>
 	<string name="ser_resp_err_map_serclosed">Сервис закрыт</string>
 	<string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
+	<string name="chat_type_name">chat</string>
+	<string name="check_setup_data">Проверка параметров сервера…</string>
+	<string name="delete_conversation_hint_message">%1$d %2$s удалены</string>
+	<string name="downloading_message_body">Загрузка сообщений…</string>
+	<string name="feedback_sent">Отчет отправлен</string>
+	<string name="message_body_auto_download_complete">Автоматическая загрузка завершена по сети Wi-Fi</string>
+	<string name="message_body_auto_download_tip">Почта будет автоматически загружаться по сети Wi-Fi</string>
+	<string name="message_body_download_failed">Время ожидания загрузки вышло</string>
+	<string name="message_type_name">message</string>
+	<string name="network_not_available">Сеть недоступна</string>
+	<string name="tryrefreshing">Попытка обновления…</string>
 </resources>
