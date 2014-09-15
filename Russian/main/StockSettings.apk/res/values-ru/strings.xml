@@ -49,5 +49,7 @@
     	<string name="update_description">Изменения</string>
     	<string name="mipop">Mi-Pop</string>
     	<string name="usb3">Подключение к ПК</string>
-    	<string name="dock_settings_title">Аксессуары</string>	
+    	<string name="dock_settings_title">Аксессуары</string>
+    	<string name="air_view_title">Мгновенный просмотр</string>
+    	<string name="animsettings">Анимация отключения экрана</string>    	
 </resources>
