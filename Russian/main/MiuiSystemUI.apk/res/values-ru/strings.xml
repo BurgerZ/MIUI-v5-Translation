@@ -285,9 +285,9 @@
 	<string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
 	<string name="usb_share_net_info">Использовать интернет компьютера</string>
 	<string name="torch_opened">Фонарик запущен</string>
-    <string name="torch_closed">Фонарик закрыт</string>
+    	<string name="torch_closed">Фонарик закрыт</string>
 	<string name="oldman_airplane_mode_text">Режим полета</string>
-    <string name="oldman_incall_text">incall</string>
+    	<string name="oldman_incall_text">incall</string>
 	<string name="status_bar_and_notification_bar">Панель уведомлений</string>
 	<string name="settings_show_screenshot_notification">Уведомление о скриншоте</string>
 	<string name="settings_show_carrier">Имя оператора</string>
@@ -297,5 +297,8 @@
 	<string name="settings_basic_settings">Основные</string>
 	<string name="settings_advanced">Дополнительно</string>
 	<string name="call_status_ringing">Вызов</string>
-    <string name="reject_call">Отклонить</string>
+    	<string name="reject_call">Отклонить</string>
+       	<string name="settings_statusbar_style">Расширенные</string>
+    	<string name="center_clock_title">Часы по центру</string>
+    	<string name="center_clock_summary">После включения, двойной тап в левом верхнем углу гасит экран,а в верхнем правом-возвращает на рабочий стол</string> 	
 </resources>
