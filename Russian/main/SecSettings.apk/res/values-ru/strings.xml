@@ -3486,5 +3486,29 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="screen_mode_auto_description">"В этом режиме происходит автоматическая оптимизация цветового диапазона, насыщенности и резкости изображения для следующих приложений:
 %s
 
-Оптимизация не распространяется на приложения сторонних производителей"</string>    
+Оптимизация не распространяется на приложения сторонних производителей"</string>
+    <string name="air_view_mode">Режим наведения</string>
+    <string name="pen_air_view">Перо</string>
+    <string name="finger_air_view">Палец</string>
+    <string name="auto_air_view">Автопереключение</string>
+    <string name="pen_air_view_option_title">Параметры наведения пера</string>
+    <string name="pen_air_view_setting_guide">Выбор элементов, которые будут показаны при наведении пера на экран</string>
+    <string name="pen_progress_preview_title">Статус задач</string>
+    <string name="pen_progress_preview_summary">Просмотр сцены или истекшего времени при наведении пера на строку выполнения</string>
+    <string name="pen_speed_dial_preview_title">Просмотр номеров быстрого набора</string>
+    <string name="pen_speed_dial_preview_summary">Просмотр контактов, назначенных номерам быстрого набора, при поднесении пера к клавиатуре</string>
+    <string name="finger_air_view_additional_feedback_title">Дополнительный отзыв</string>
+    <string name="finger_air_view_sound_and_haptic_feedback_title">Звуковая и тактильная обратная связь</string>
+    <string name="finger_air_view_sound_and_haptic_feedback_summary">Звук и вибрация при наведении пальца на элементы, поддерживающие эту функцию</string>	
+    <string name="pen_attention">Внимание</string>
+    <string name="air_view_finger_mode_enable_pupup_msg">При включении режима “Палец” для наведения не будут отображаться действия, доступные для управления жестами</string>	
+    <string name="finger_air_view_option_title">Парам. наведения пальца</string>
+    <string name="pen_air_view_additional_feedback_title">Дополнительный отзыв</string>
+    <string name="pen_air_view_sound_and_haptic_feedback_title">Звуковая и тактильная обратная связь</string>
+    <string name="pen_air_view_sound_and_haptic_feedback_summary">Звук и вибрация при наведении пера на элементы, поддерживающие эту функцию</string>
+    <string name="finger_air_view_setting_guide">Выбор элементов, которые будут показываться при наведении пальца над экраном</string>
+    <string name="finger_air_view_progress_bar_preview_title">Статус задач</string>
+    <string name="finger_air_view_progress_bar_preview_summary">Просмотр сцены или истекшего времени при наведении пальца на строку выполнения</string>
+    <string name="finger_air_view_speed_dial_tip_title">Просмотр номеров быстрого набора</string>
+    <string name="finger_air_view_speed_dial_tip_summary">Просмотр имен контактов, назначенных номерам быстрого набора, при наведении пальца над клавиатурой</string>
 </resources>
