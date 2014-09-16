@@ -286,4 +286,27 @@
 	<string name="report_only">Выберите сообщения</string>
 	<string name="report_sms">Отправить отчет</string>
 	<string name="report_success">Отчет отправлен</string>
+	<string name="STRANGER_BLOCK">Неизвестные номера</string>
+	<string name="button_to_setting">Настройки</string>
+	<string name="dlg_antispam_mode_delete_message">Восстановить пользовательские правила блокировки будет невозможно</string>
+	<string name="dlg_antispam_mode_delete_title">Удалить правила блокировки</string>
+	<string name="dlg_antispam_using_mode_delete_message">Удалить текущий профиль и применить профиль по умолчанию?</string>
+	<string name="dlg_antispam_using_mode_international_delete_message">Удалить текущий профиль и применить профиль по умолчанию?</string>
+	<string name="dlg_message_not_open_stranger_identify">Перед отмечанием номеров необходимо включить функцию определения неизвестных номеров в настройках вызовов.</string>
+	<string name="dlg_title_not_open_stranger_identify">Включить определение неизвестных номеров</string>
+	<string name="fw_blocked_join">" и "</string>
+	<string name="info_antispam_current_mode">Используется: %s</string>
+	<string name="mark_agent">Агент по продажам</string>
+	<string name="mark_agent_block">Отмечено как агент</string>
+	<string name="mark_express">Курьер</string>
+	<string name="mark_express_block">Отмечено как курьер</string>
+	<string name="mark_fraud">Мошенник</string>
+	<string name="mark_fraud_block">Отмечено как мошенник</string>
+	<string name="mark_meal">Доставка еды</string>
+	<string name="mark_meal_block">Отмечено как доставка еды</string>
+	<string name="mark_number_info">\nБлокировать только те номера, от которых не хотите получать вызовы.</string>
+	<string name="mark_sell">Маркетолог</string>
+	<string name="mark_sell_block">Отмечено как маркетолог</string>
+	<string name="read_all_sms">Прочитать все</string>
+	<string name="st_title_markednumber_group">Отмеченные номера</string>
 </resources>

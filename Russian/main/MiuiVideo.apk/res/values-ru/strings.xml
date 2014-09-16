@@ -380,4 +380,17 @@
 	<string name="info_title">Информация</string>
     <string name="prex_playcount">Просмотров:</string>
     <string name="post_playcount">" "</string>
+	<string name="vp_cancel">Отмена</string>
+	<string name="vp_client_message">Установить клиент \"%1$s\"?</string>
+	<string name="vp_confirm">ОК</string>
+	<string name="vp_download_connect_fail">Не удается найти URL-адрес. Проверьте параметры сети.</string>
+	<string name="vp_download_file_fail">Не удается загрузить. Проверьте наличие свободной памяти.</string>
+	<string name="vp_install">Установить</string>
+	<string name="vp_install_title">Совет</string>
+	<string name="vp_loading"><CDATA>Загрузка </CDATA></string>
+	<string name="vp_plugin_message">Будет установлен плагин HD для видеоплеера</string>
+	<string name="vp_retry">Повтор</string>
+	<string name="vp_select_video_source">Выбрать источник</string>
+	<string name="vp_support_by">Поддержка: %1$s</string>
+	<string name="vp_unknown_source">Неизвестный источник</string>
 </resources>
