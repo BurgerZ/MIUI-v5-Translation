@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navibar">Показать</string>
+    <string name="app_name">Mi-Pop</string>
+    <string name="full_screen">Navbar</string>
+    <string name="mipop_title">Mi-Pop</string>
+    <string name="mipop_switch_title">Mi-Pop</string>
+    <string name="mipop_switch_summary">После включения, навигационную панель можно перемещать</string>
+    <string name="mipop_fullscreen_title">Спрятать панель</string>
+    <string name="mipop_fullscreen_summary">Доступно больше места на экране</string>
+    <string name="widgetName">Mi-Pop</string>
+    <string name="widgetText">Mi-Pop</string>
+    <string name="fullscreenmode">Полноэкранный режим</string>
+    <string name="fullscreenmodeon">Спрятать Mi-Pop и панель навигации</string>
+    <string name="fullscreenmodeoff">Перезапустить Mi-Pop и панель навигации</string>
+    <string name="Save">Сохранить</string>
+    <string name="Discard">Отменить</string>
+    <string name="Share">Share</string>
+    <string name="SaveTO">Сохранить как</string>
+    <string name="SaveFail">Ошибка сохранения!</string>
+    <string name="runningFaceDetection">Пожалуйста подождите…</string>
+    <string name="power_off">Отключение</string>
+    <string name="reboot">Перезагрузка</string>
+    <string name="lock_screen">Блокировка</string>
+    <string name="screenshots">Скриншот</string>
+    <string name="volume">Громкость</string>
+    <string name="mute">Откл.звук</string>
+    <string name="no_support">Страна не поддерживается!</string>
+    <string name="fullScreem">Полный экран</string>
+    <string name="partScreem">Часть</string>
+    <string name="mipop_first_key_title">Кнопка по-умолчанию</string>
+    <string name="mipop_help_title">Помощь</string>
+    <string name="help">Помощь</string>
+</resources>
