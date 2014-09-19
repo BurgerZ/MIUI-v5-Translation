@@ -4382,4 +4382,15 @@
 	<string name="empty_content_size">Неизвестно</string>
 	<string name="large_file_sort_type_item_name">По названию</string>
 	<string name="large_file_sort_type_item_size">По размеру</string>
+	<string name="header_category_g00h_mods">Утилиты</string>
+    	<string name="manager_WSMApp">WSM Tools</string>
+    	<string name="mitools_WSMApp">MI-Tools</string>
+    	<string name="betterbatterystats_xdaedition">BetterBatteryStats</string>
+    	<string name="about_gen">Основная информация</string>
+    	<string name="rom_info">О прошивке</string>
+    	<string name="rom_name">Название прошивки</string>
+    	<string name="rom_ver">Версия прошивки</string>
+    	<string name="rom_date">Дата выпуска</string>
+    	<string name="rom_developer">Разработчик прошивки</string>
+    	<string name="dev_thanks">Благодарности</string>
 </resources>
