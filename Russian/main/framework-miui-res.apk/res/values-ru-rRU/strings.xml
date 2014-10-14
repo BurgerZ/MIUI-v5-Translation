@@ -379,7 +379,7 @@
 	<string name="reboot_confirm_title">Перезагрузить телефон?</string>
 	<string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов.</string>
 	<string name="reboot_progress">Перезагрузка…</string>
-	<string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
+	<string name="return_to_me_message">Вернуть, если потеряли.</string>
 	<string name="reverse_all">Очистить выделение</string>
 	<string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
 	<string name="screen_button_notification_text">Нажмите для включения</string>
@@ -394,11 +394,11 @@
 	<string name="select">" Выбрать "</string>
 	<string name="select_all">" Выбрать все "</string>
 	<string name="send">Отправить</string>
-	<string name="send_sms_for_sync_notice">Будет отправлено SMS сообщение для активации, продолжить?</string>
+	<string name="send_sms_for_sync_notice">Будет отправлено SMS сообщение для активации. Продолжить?</string>
 	<string name="send_sms_for_sync_title">Отправка SMS для активации синхронизации</string>
 	<string name="share">Отправить</string>
-	<string name="short_pincode_error_msg">Введите 4-8 цифр.</string>
-	<string name="short_pukcode_error_msg">Введите не менее 8 цифр.</string>
+	<string name="short_pincode_error_msg">Введите 4-8 цифр</string>
+	<string name="short_pukcode_error_msg">Введите не менее 8 цифр</string>
 	<string name="shutdown_confirm_title">Выключить телефон?</string>
 	<string name="sim_account_name">SIM</string>
 	<string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходимо отправить SMS для активации облачных сервисов Xiaomi. Активировать сейчас?</string>

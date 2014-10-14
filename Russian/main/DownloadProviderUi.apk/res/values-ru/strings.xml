@@ -120,4 +120,6 @@
 	<string name="add_flow_fail_vip_msg">Ускорение загрузки Xunlei открыто</string>
 	<string name="add_flow_success_msg">Ускорение на 300Мб успешно получено</string>
 	<string name="display_expire_netiv1">Месячное пользование</string>
+	<string name="unbind_xunlei_2_success">Аккаунт Xunlei изменен</string>
+	<string name="unbind_xunlei_success">Аккаунт Xunlei отвязан</string>
 </resources>

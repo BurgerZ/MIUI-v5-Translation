@@ -1125,4 +1125,13 @@
 	<string name="yellowpage_navigation_send_to_desktop_failed">Ошибка загрузки. Проверьте параметры сети.</string>
 	<string name="yellowpage_user_profile">Профиль</string>
 	<string name="yellowpage_navigation_search_result_average_price">В среднем %d RMB</string>
+	<string name="resource_clear_search_history">Очистить историю поиска</string>
+	<string name="resource_clear_search_history_dialog">Очистить историю поиска?</string>
+	<string name="resource_comment_rating_star_tips">Нажмите для оценки:</string>
+	<string name="resource_failed_to_load_list">Ошибка загрузки списка</string>
+	<string name="resource_search_list_empty">Ничего не найдено</string>
+	<string name="resource_trial_fail_cancel">ОК</string>
+	<string name="resource_trial_fail_go_settings">Настройки</string>
+	<string name="resource_trial_fail_message">Убедитесь, что время системы установлено правильно.</string>
+	<string name="resource_trial_fail_title">Не удается установить демо версию</string>
 </resources>

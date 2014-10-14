@@ -535,4 +535,11 @@
 	<string name="sms_prompt_set_single">выбранные сервисы</string>
 	<string name="sms_prompt_sync">Синхронизация</string>
 	<string name="sync_dspt_in_all_setting">Синхронизируйте данные между вашими устройствами</string>
+	<string name="error_data_in_transfer">Синхронизация завершится через %s ч.</string>
+	<string name="error_data_in_transfer_title">Mi Cloud недоступен</string>
+	<string name="error_ssl_hand_shake">Не удается подключиться к серверу. Проверьте время системы.</string>
+	<string name="reg_title">Создать Mi аккаунт с помощью:</string>
+	<string name="user_agreement_p6">"При использовании сервиса вы принимаете "</string>
+	<string name="user_agreement_p7">условия пользования Mi Cloud</string>
+	<string name="user_agreement_p8">", чтобы понять, какую информацию мы собираем и как мы ее используем."</string>
 </resources>

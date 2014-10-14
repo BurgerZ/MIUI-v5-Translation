@@ -853,4 +853,9 @@
 	<string name="pref_development_uastring">Установить тип браузера</string>
 	<string name="bookmarks_history">Закладки/История</string>
 	<string name="delete_homepage">Удалить домашнюю страницу</string>
+	<string name="pref_check_security_url_summary">Отправлять текущий URL на сервер для проверки безопасности</string>
+	<string name="pref_check_security_url_title">Проверка безопасности URL</string>
+	<string name="show_check_security_url_check_tip_dialog_description">Для защиты вашего интернет-соединения текущий URL будет отправлен на сервер для проверки безопасности</string>
+	<string name="show_check_security_url_check_tip_dialog_title">Проверка безопасности</string>
+	<string name="maximum_input_alert">Максимум 2048 символов</string>
 </resources>

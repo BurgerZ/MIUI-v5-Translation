@@ -712,7 +712,7 @@
     <string name="firewall_log">Журнал блокировки</string>
     <string name="fw_on">Режим \"Не беспокоить\" включен</string>
     <string name="fw_blocked">Журнал блокировок</string>
-    <string name="fw_blocked_count" formatted="false">Заблокировано вызовов:%d | Сообщений: %d</string>
+    <string name="fw_blocked_count" formatted="false">"Заблокировано "</string>
     <string name="firewall_settings">Настройки режима \"Не беспокоить\"</string>
     <string name="remove">Удалить</string>
     <string name="emptylist_fwlog_call">Заблокированные вызовы будут храниться в этом журнале</string>
@@ -4303,7 +4303,7 @@
     <string name="status_bar_settings_show_screenshot_notification">Уведомление о скриншоте</string>
     <string name="status_bar_settings_status_bar">Строка состояния</string>
     <string name="status_bar_settings_show_network_speed">Показывать скорость сети</string>
-    <string name="status_bar_settings_expandable_under_keyguard">Включить на экране блокировки</string>
+    <string name="status_bar_settings_expandable_under_keyguard">Доступ на экране блокировки</string>
     <string name="status_bar_settings_basic_settings">Общие</string>
     <string name="status_bar_settings_advanced">Дополнительно</string>
     <string name="status_bar_settings_show_flow_info">Показывать поток</string>
